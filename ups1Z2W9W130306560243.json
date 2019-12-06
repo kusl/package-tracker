@@ -2,7 +2,7 @@
     "statusCode": "200",
     "statusText": "Successful",
     "isLoggedInUser": false,
-    "trackedDateTime": "12/06/2019 10:30 A.M. EST",
+    "trackedDateTime": "12/06/2019 10:35 A.M. EST",
     "isBcdnMultiView": false,
     "trackDetails": [
         {
@@ -121,7 +121,7 @@
                 },
                 {
                     "date": "12/06/2019",
-                    "time": "8:19 A.M.",
+                    "time": "8:33 A.M.",
                     "location": "Aurora, CO, United States",
                     "activityScan": "Destination Scan",
                     "milestone": {
