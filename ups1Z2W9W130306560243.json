@@ -2,7 +2,7 @@
     "statusCode": "200",
     "statusText": "Successful",
     "isLoggedInUser": false,
-    "trackedDateTime": "12/06/2019 9:00 A.M. EST",
+    "trackedDateTime": "12/06/2019 9:05 A.M. EST",
     "isBcdnMultiView": false,
     "trackDetails": [
         {
@@ -11,12 +11,12 @@
             "requestedTrackingNumber": "1Z2W9W130306560243",
             "trackingNumber": "1Z2W9W130306560243",
             "isMobileDevice": false,
-            "packageStatus": "In Transit",
+            "packageStatus": "Preparing for Delivery Today",
             "packageStatusType": "I",
-            "packageStatusCode": "005",
+            "packageStatusCode": "071",
             "progressBarType": "InTransit",
             "progressBarPercentage": "90",
-            "simplifiedText": "",
+            "simplifiedText": "The package has arrived at the destination facility and is being prepared for delivery today.",
             "scheduledDeliveryDayCMSKey": "cms.stapp.fri",
             "scheduledDeliveryDate": "12/06/2019",
             "noEstimatedDeliveryDateLabel": null,
@@ -120,8 +120,8 @@
                     "actCode": null
                 },
                 {
-                    "date": "12/05/2019",
-                    "time": "9:43 A.M.",
+                    "date": "12/06/2019",
+                    "time": "7:02 A.M.",
                     "location": "Aurora, CO, United States",
                     "activityScan": "Destination Scan",
                     "milestone": {
@@ -129,6 +129,18 @@
                         "isCurrent": true,
                         "isCompleted": false
                     },
+                    "isInOverViewTable": false,
+                    "activityAdditionalDescription": null,
+                    "trailer": "",
+                    "isDisplayPodLink": false,
+                    "actCode": "YP"
+                },
+                {
+                    "date": "12/05/2019",
+                    "time": "9:43 A.M.",
+                    "location": "Aurora, CO, United States",
+                    "activityScan": "Destination Scan",
+                    "milestone": null,
                     "isInOverViewTable": false,
                     "activityAdditionalDescription": null,
                     "trailer": "",
