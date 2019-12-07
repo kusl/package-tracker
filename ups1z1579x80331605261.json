@@ -2,7 +2,7 @@
     "statusCode": "200",
     "statusText": "Successful",
     "isLoggedInUser": false,
-    "trackedDateTime": "12/07/2019 12:19 A.M. EST",
+    "trackedDateTime": "12/07/2019 12:25 A.M. EST",
     "isBcdnMultiView": false,
     "trackDetails": [
         {
@@ -11,14 +11,14 @@
             "requestedTrackingNumber": "1Z1579X80331605261",
             "trackingNumber": "1Z1579X80331605261",
             "isMobileDevice": false,
-            "packageStatus": "In Transit",
-            "packageStatusType": "I",
-            "packageStatusCode": "005",
-            "progressBarType": "InTransit",
-            "progressBarPercentage": "90",
+            "packageStatus": "Update",
+            "packageStatusType": "X",
+            "packageStatusCode": "013",
+            "progressBarType": "Exception",
+            "progressBarPercentage": "73",
             "simplifiedText": "",
-            "scheduledDeliveryDayCMSKey": "cms.stapp.fri",
-            "scheduledDeliveryDate": "12/06/2019",
+            "scheduledDeliveryDayCMSKey": "cms.stapp.mon",
+            "scheduledDeliveryDate": "12/09/2019",
             "noEstimatedDeliveryDateLabel": null,
             "scheduledDeliveryTime": "cms.stapp.eod",
             "scheduledDeliveryTimeEODLabel": "cms.stapp.eod",
@@ -121,9 +121,9 @@
                 },
                 {
                     "date": "12/06/2019",
-                    "time": "9:40 A.M.",
+                    "time": "10:20 P.M.",
                     "location": "Aurora, CO, United States",
-                    "activityScan": "Destination Scan",
+                    "activityScan": "Delivery will be delayed by one business day.",
                     "milestone": {
                         "name": "cms.stapp.inTransit",
                         "isCurrent": true,
@@ -133,7 +133,23 @@
                     "activityAdditionalDescription": null,
                     "trailer": "",
                     "isDisplayPodLink": false,
-                    "actCode": "DS"
+                    "actCode": "C6"
+                },
+                {
+                    "date": "12/06/2019",
+                    "time": "9:40 A.M.",
+                    "location": "Aurora, CO, United States",
+                    "activityScan": "Out For Delivery Today",
+                    "milestone": {
+                        "name": "cms.stapp.outForDelivery",
+                        "isCurrent": false,
+                        "isCompleted": true
+                    },
+                    "isInOverViewTable": false,
+                    "activityAdditionalDescription": null,
+                    "trailer": "",
+                    "isDisplayPodLink": false,
+                    "actCode": "OT"
                 },
                 {
                     "date": "12/06/2019",
