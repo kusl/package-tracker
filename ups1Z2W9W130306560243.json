@@ -2,7 +2,7 @@
     "statusCode": "200",
     "statusText": "Successful",
     "isLoggedInUser": false,
-    "trackedDateTime": "12/07/2019 11:25 A.M. EST",
+    "trackedDateTime": "12/07/2019 11:30 A.M. EST",
     "isBcdnMultiView": false,
     "trackDetails": [
         {
@@ -17,8 +17,8 @@
             "progressBarType": "OutForDelivery",
             "progressBarPercentage": null,
             "simplifiedText": "",
-            "scheduledDeliveryDayCMSKey": "cms.stapp.mon",
-            "scheduledDeliveryDate": "12/09/2019",
+            "scheduledDeliveryDayCMSKey": "cms.stapp.sat",
+            "scheduledDeliveryDate": "12/07/2019",
             "noEstimatedDeliveryDateLabel": null,
             "scheduledDeliveryTime": "cms.stapp.eod",
             "scheduledDeliveryTimeEODLabel": "cms.stapp.eod",
@@ -134,18 +134,6 @@
                     "trailer": "",
                     "isDisplayPodLink": false,
                     "actCode": "OT"
-                },
-                {
-                    "date": "12/07/2019",
-                    "time": "7:55 A.M.",
-                    "location": "Aurora, CO, United States",
-                    "activityScan": "Destination Scan",
-                    "milestone": null,
-                    "isInOverViewTable": false,
-                    "activityAdditionalDescription": null,
-                    "trailer": "",
-                    "isDisplayPodLink": false,
-                    "actCode": "DS"
                 },
                 {
                     "date": "12/06/2019",
