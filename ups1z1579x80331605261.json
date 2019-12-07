@@ -2,7 +2,7 @@
     "statusCode": "200",
     "statusText": "Successful",
     "isLoggedInUser": false,
-    "trackedDateTime": "12/07/2019 12:55 A.M. EST",
+    "trackedDateTime": "12/07/2019 12:59 A.M. EST",
     "isBcdnMultiView": false,
     "trackDetails": [
         {
@@ -15,10 +15,10 @@
             "packageStatusType": "X",
             "packageStatusCode": "013",
             "progressBarType": "Exception",
-            "progressBarPercentage": "73",
+            "progressBarPercentage": "90",
             "simplifiedText": "",
-            "scheduledDeliveryDayCMSKey": "cms.stapp.mon",
-            "scheduledDeliveryDate": "12/09/2019",
+            "scheduledDeliveryDayCMSKey": "cms.stapp.sat",
+            "scheduledDeliveryDate": "12/07/2019",
             "noEstimatedDeliveryDateLabel": null,
             "scheduledDeliveryTime": "cms.stapp.eod",
             "scheduledDeliveryTimeEODLabel": "cms.stapp.eod",
