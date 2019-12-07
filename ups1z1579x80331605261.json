@@ -2,7 +2,7 @@
     "statusCode": "200",
     "statusText": "Successful",
     "isLoggedInUser": false,
-    "trackedDateTime": "12/07/2019 6:35 A.M. EST",
+    "trackedDateTime": "12/07/2019 6:40 A.M. EST",
     "isBcdnMultiView": false,
     "trackDetails": [
         {
@@ -15,7 +15,7 @@
             "packageStatusType": "I",
             "packageStatusCode": "005",
             "progressBarType": "InTransit",
-            "progressBarPercentage": "75",
+            "progressBarPercentage": "76",
             "simplifiedText": "",
             "scheduledDeliveryDayCMSKey": "cms.stapp.mon",
             "scheduledDeliveryDate": "12/09/2019",
