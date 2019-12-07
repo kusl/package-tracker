@@ -2,7 +2,7 @@
     "statusCode": "200",
     "statusText": "Successful",
     "isLoggedInUser": false,
-    "trackedDateTime": "12/07/2019 1:45 P.M. EST",
+    "trackedDateTime": "12/07/2019 1:50 P.M. EST",
     "isBcdnMultiView": false,
     "trackDetails": [
         {
@@ -11,25 +11,25 @@
             "requestedTrackingNumber": "1Z1579X80331605261",
             "trackingNumber": "1Z1579X80331605261",
             "isMobileDevice": false,
-            "packageStatus": "Out for Delivery Today",
-            "packageStatusType": "I",
-            "packageStatusCode": "021",
-            "progressBarType": "OutForDelivery",
-            "progressBarPercentage": null,
+            "packageStatus": "Delivered",
+            "packageStatusType": "D",
+            "packageStatusCode": "011",
+            "progressBarType": "Delivered",
+            "progressBarPercentage": "100",
             "simplifiedText": "",
-            "scheduledDeliveryDayCMSKey": "cms.stapp.mon",
-            "scheduledDeliveryDate": "12/09/2019",
+            "scheduledDeliveryDayCMSKey": "",
+            "scheduledDeliveryDate": "",
             "noEstimatedDeliveryDateLabel": null,
-            "scheduledDeliveryTime": "cms.stapp.eod",
-            "scheduledDeliveryTimeEODLabel": "cms.stapp.eod",
+            "scheduledDeliveryTime": null,
+            "scheduledDeliveryTimeEODLabel": null,
             "packageCommitedTime": "",
             "endOfDayResCMSKey": null,
-            "deliveredDayCMSKey": "",
-            "deliveredDate": "",
-            "deliveredTime": "",
+            "deliveredDayCMSKey": "cms.stapp.sat",
+            "deliveredDate": "12/07/2019",
+            "deliveredTime": "11:46 A.M.",
             "receivedBy": "",
             "leaveAt": null,
-            "leftAt": "",
+            "leftAt": "Porch",
             "shipToAddress": {
                 "streetAddress1": "",
                 "streetAddress2": "",
@@ -95,7 +95,7 @@
                 "pickupPreference": null
             },
             "specialInstructions": null,
-            "proofOfDeliveryUrl": null,
+            "proofOfDeliveryUrl": "https://wwwapps.ups.com/WebTracking/processPOD?loc=en_US&amp;tracknum=1Z1579X80331605261",
             "upsAccessPoint": null,
             "additionalPackagesCount": null,
             "attentionNeeded": {
@@ -104,20 +104,20 @@
             },
             "shipmentProgressActivities": [
                 {
-                    "date": "",
-                    "time": "",
-                    "location": "",
-                    "activityScan": null,
+                    "date": "12/07/2019",
+                    "time": "11:46 A.M.",
+                    "location": "AURORA, CO, US",
+                    "activityScan": "DELIVERED ",
                     "milestone": {
-                        "name": "cms.stapp.delivery",
-                        "isCurrent": false,
-                        "isCompleted": false
+                        "name": "cms.stapp.delivered",
+                        "isCurrent": true,
+                        "isCompleted": true
                     },
                     "isInOverViewTable": false,
                     "activityAdditionalDescription": null,
-                    "trailer": null,
-                    "isDisplayPodLink": false,
-                    "actCode": null
+                    "trailer": "",
+                    "isDisplayPodLink": true,
+                    "actCode": "FS"
                 },
                 {
                     "date": "12/07/2019",
@@ -126,8 +126,8 @@
                     "activityScan": "Out For Delivery Today",
                     "milestone": {
                         "name": "cms.stapp.outForDelivery",
-                        "isCurrent": true,
-                        "isCompleted": false
+                        "isCurrent": false,
+                        "isCompleted": true
                     },
                     "isInOverViewTable": false,
                     "activityAdditionalDescription": null,
@@ -330,60 +330,22 @@
             ],
             "trackingNumberType": "1Z",
             "preAuthorizedForReturnData": null,
-            "shipToAddressLblKey": "cms.stapp.shipTo",
+            "shipToAddressLblKey": "cms.stapp.deliveredTo",
             "trackSummaryView": null,
             "senderShipperNumber": "1579X8",
             "internalKey": ",,,",
             "userOptions": {
-                "deliveryOptions": {
-                    "isLoggedInMyChoicePage": false,
-                    "isNotLoggedInMyChoicePage": true,
-                    "isInfoNoticePage": false,
-                    "isLoggedInNoneMyChoicePage": false,
-                    "isContactOnlyPage": false,
-                    "isRedirect": false,
-                    "login": "/lasso/login?loc=en_US&amp;returnto=https%3A%2F%2Fwww.ups.com%2Ftrack%3Floc%3Den_US%26tracknum%3D1Z1579X80331605261%26src%3D%26requester%3D",
-                    "signUp": "/doapp/SignUpMyChoice?loc=en_US&amp;returnto=https%3A%2F%2Fwww.ups.com%2Ftrack%3Floc%3Den_US%26tracknum%3D1Z1579X80331605261%26src%3D%26requester%3D",
-                    "driverInstructions": null,
-                    "sendSecurityCode": null,
-                    "deliveryChanges": null,
-                    "siiEligible": null,
-                    "upgradeToUpsGround": null,
-                    "contactUps": null,
-                    "redirect": null,
-                    "myChoiceTandCUrl": null,
-                    "doappUrl": "/track/api/Session/SetDoappSession?loc=en_US",
-                    "dcrEligible": false,
-                    "notLoggedInMyChoicePage": {
-                        "deliveryChangesOptions": [
-                            "cms.stapp.pickUpAtUPSLoc",
-                            "cms.stapp.delAnotherDay",
-                            "cms.stapp.delAnotherAddrs",
-                            "cms.stapp.leaveWithNeighbor",
-                            "cms.stapp.redeliverToMyAddress",
-                            "cms.stapp.retnToSender"
-                        ],
-                        "isDriverInstructions": true,
-                        "isDeliveryChanges": true,
-                        "isSignUpLogin": true,
-                        "isInfonoticeNote": true
-                    },
-                    "loggedInMyChoicePage": null,
-                    "isIdentityVerification": false,
-                    "text": null,
-                    "name": "cms.stapp.deliveryOptions",
-                    "url": null
-                }
+                "deliveryOptions": null
             },
             "sendUpdatesOptions": {
                 "bridgePageType": "NoneMyChoiceBridgePage",
                 "modalType": "QvnModal",
                 "myChoicePreferencesLink": "/lasso/login?loc=en_US&amp;returnto=https%3A%2F%2Fwww.ups.com%2Ftrack%3Floc%3Den_US%26tracknum%3D1Z1579X80331605261%26trackingaction%3Dalert%26src%3D%26requester%3D",
                 "isDisplayCurrentStatus": true,
-                "isDisplayUnforeseenEventsOrDelays": true,
-                "isDisplayShipmentDelivered": true,
+                "isDisplayUnforeseenEventsOrDelays": false,
+                "isDisplayShipmentDelivered": false,
                 "isDisplayPackageReadyForPickup": false,
-                "isPreCheckedCurrentStatus": false,
+                "isPreCheckedCurrentStatus": true,
                 "isPreCheckedUnforeseenEventsOrDelays": false,
                 "isPreCheckedShipmentDelivered": false,
                 "isPreCheckedPackageReadyForPickup": false,
@@ -1252,7 +1214,7 @@
                 "name": "cms.stapp.sendMeUpdates",
                 "url": null
             },
-            "myChoiceUpSellLink": "/doapp/SignUpMyChoice?loc=en_US&amp;returnto=https%3A%2F%2Fwww.ups.com%2Ftrack%3Floc%3Den_US%2Fredirect",
+            "myChoiceUpSellLink": null,
             "bcdnNumber": null,
             "promo": {
                 "isPackagePromotion": false,
@@ -1264,9 +1226,9 @@
                 "shipperLogoURL": null
             },
             "whatsNextText": null,
-            "packageStatusTimeLbl": "cms.stapp.estimatedTime",
+            "packageStatusTimeLbl": "cms.stapp.deliveryTime",
             "deSepcialTranslation": false,
-            "packageStatusTime": "cms.stapp.eod",
+            "packageStatusTime": "11:46 A.M.",
             "myChoiceToken": null,
             "showMycTerms": false,
             "enrollNum": "",
