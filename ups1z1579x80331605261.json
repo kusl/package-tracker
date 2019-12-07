@@ -2,7 +2,7 @@
     "statusCode": "200",
     "statusText": "Successful",
     "isLoggedInUser": false,
-    "trackedDateTime": "12/07/2019 11:15 A.M. EST",
+    "trackedDateTime": "12/07/2019 11:20 A.M. EST",
     "isBcdnMultiView": false,
     "trackDetails": [
         {
@@ -11,11 +11,11 @@
             "requestedTrackingNumber": "1Z1579X80331605261",
             "trackingNumber": "1Z1579X80331605261",
             "isMobileDevice": false,
-            "packageStatus": "In Transit",
+            "packageStatus": "Out for Delivery Today",
             "packageStatusType": "I",
-            "packageStatusCode": "005",
-            "progressBarType": "InTransit",
-            "progressBarPercentage": "78",
+            "packageStatusCode": "021",
+            "progressBarType": "OutForDelivery",
+            "progressBarPercentage": null,
             "simplifiedText": "",
             "scheduledDeliveryDayCMSKey": "cms.stapp.mon",
             "scheduledDeliveryDate": "12/09/2019",
@@ -121,14 +121,26 @@
                 },
                 {
                     "date": "12/07/2019",
-                    "time": "5:06 A.M.",
+                    "time": "9:18 A.M.",
                     "location": "Aurora, CO, United States",
-                    "activityScan": "Destination Scan",
+                    "activityScan": "Out For Delivery Today",
                     "milestone": {
-                        "name": "cms.stapp.inTransit",
+                        "name": "cms.stapp.outForDelivery",
                         "isCurrent": true,
                         "isCompleted": false
                     },
+                    "isInOverViewTable": false,
+                    "activityAdditionalDescription": null,
+                    "trailer": "",
+                    "isDisplayPodLink": false,
+                    "actCode": "OT"
+                },
+                {
+                    "date": "12/07/2019",
+                    "time": "5:06 A.M.",
+                    "location": "Aurora, CO, United States",
+                    "activityScan": "Destination Scan",
+                    "milestone": null,
                     "isInOverViewTable": false,
                     "activityAdditionalDescription": null,
                     "trailer": "",
@@ -152,11 +164,7 @@
                     "time": "9:40 A.M.",
                     "location": "Aurora, CO, United States",
                     "activityScan": "Out For Delivery Today",
-                    "milestone": {
-                        "name": "cms.stapp.outForDelivery",
-                        "isCurrent": false,
-                        "isCompleted": true
-                    },
+                    "milestone": null,
                     "isInOverViewTable": false,
                     "activityAdditionalDescription": null,
                     "trailer": "",
