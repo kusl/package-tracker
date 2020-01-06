@@ -3630,45 +3630,6 @@ furniture
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="6894012852">
-
-        <a href="https://denver.craigslist.org/fuo/d/westminster-need-to-sell/6894012852.html" class="result-image gallery" data-ids="1:00p0p_28739asYMTn">
-                <span class="result-price">$2150</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-06-07 13:59" title="Fri 07 Jun 01:59:33 PM">Jun  7</time>
-
-
-        <a href="https://denver.craigslist.org/fuo/d/westminster-need-to-sell/6894012852.html" data-id="6894012852" class="result-title hdrlnk">Need to sell</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$2150</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7045303508">
 
         <a href="https://denver.craigslist.org/fud/d/van-nuys-108l-live-edge-acacia-wood/7045303508.html" class="result-image gallery" data-ids="1:00x0x_QXCTjgRp1F,1:01414_csITeLkuZOI,1:01010_hxEBxK0oI3Z,1:00J0J_hxDCppKcPjs,1:00x0x_5LxDQ9iRqgu,1:01414_1Niucle6VD,1:01313_8ogv8HIteC2">
@@ -5641,6 +5602,46 @@ furniture
 
 
                 <span class="result-hood"> (Commerce City)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044293610">
+
+        <a href="https://denver.craigslist.org/fuo/d/englewood-lazy-boy-recliners/7044293610.html" class="result-image gallery" data-ids="1:00c0c_4PRf1DGUBqe,1:00p0p_7ve59mglHYt,1:00808_5zJZiLN8FFK,1:00o0o_icm2k1oqX0p,1:00i0i_eIBi654Y6Om">
+                <span class="result-price">$1900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-25 13:13" title="Wed 25 Dec 01:13:41 PM">Dec 25</time>
+
+
+        <a href="https://denver.craigslist.org/fuo/d/englewood-lazy-boy-recliners/7044293610.html" data-id="7044293610" class="result-title hdrlnk">Lazy Boy Recliners</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1900</span>
+
+
+                <span class="result-hood"> (Centennial)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

@@ -831,7 +831,7 @@ free stuff
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1376</span>
+            <span class="totalcount">1374</span>
         </span>
 
         <a href="/search/zip?s=240&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -867,7 +867,47 @@ free stuff
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7050421791">
+                             <li class="result-row" data-pid="7050426865">
+
+        <a href="https://denver.craigslist.org/zip/d/wheat-ridge-garage-clean-out/7050426865.html" class="result-image gallery" data-ids="1:01111_fMsnRcvwREc">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 14:20" title="Sun 05 Jan 02:20:21 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/zip/d/wheat-ridge-garage-clean-out/7050426865.html" data-id="7050426865" class="result-title hdrlnk">Garage clean out</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="result-hood"> (Wheat Ridge)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050421791">
 
         <a href="https://denver.craigslist.org/zip/d/denver-lamp/7050421791.html" class="result-image gallery" data-ids="1:01111_9ch3ccxqbU8">
                 <span class="result-price">$0</span>
@@ -5537,46 +5577,6 @@ free stuff
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7049794281">
-
-        <a href="https://denver.craigslist.org/zip/d/denver-toyota-truck-bench-seat/7049794281.html" class="result-image gallery" data-ids="1:00o0o_5U5Sj50Yi5p,1:00W0W_cUZkE8wWkTU,1:00j0j_2qbrj8hLdOy">
-                <span class="result-price">$0</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 12:19" title="Sat 04 Jan 12:19:31 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/zip/d/denver-toyota-truck-bench-seat/7049794281.html" data-id="7049794281" class="result-title hdrlnk">Toyota Truck Bench Seat</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (SW Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5609,7 +5609,7 @@ free stuff
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1376</span>
+            <span class="totalcount">1374</span>
         </span>
 
         <a href="/search/zip?s=240&amp;sort=date" class="button next" title="next page">next &gt; </a>
