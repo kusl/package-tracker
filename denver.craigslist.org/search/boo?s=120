@@ -904,7 +904,7 @@ boats
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">348</span>
+            <span class="totalcount">347</span>
         </span>
 
         <a href="/search/boo?s=240" class="button next" title="next page">next &gt; </a>
@@ -5112,46 +5112,6 @@ boats
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7039148490">
-
-        <a href="https://denver.craigslist.org/boa/d/denver-speedboat/7039148490.html" class="result-image gallery" data-ids="1:00G0G_gv68f1KOqXD,1:00404_ieZUjctG6yD,1:00909_73sKNH6NPvb,1:00V0V_i0Zz7XUgE5H">
-                <span class="result-price">$100</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-15 17:12" title="Sun 15 Dec 05:12:00 PM">Dec 15</time>
-
-
-        <a href="https://denver.craigslist.org/boa/d/denver-speedboat/7039148490.html" data-id="7039148490" class="result-title hdrlnk">Speedboat</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$100</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7026516032">
 
         <a href="https://denver.craigslist.org/boa/d/weldona-1999-stingray-240-ls/7026516032.html" class="result-image gallery" data-ids="1:00V0V_43EgizVdzlu,1:00M0M_6Xq3TOPLPUZ,1:00707_MCIcpxUlFZ,1:00W0W_lN2QcXDHLOo,1:00101_aE79jMyIikh">
@@ -5706,6 +5666,46 @@ boats
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7025338082">
+
+        <a href="https://denver.craigslist.org/boa/d/westminster-pontoon-boat-with-electric/7025338082.html" class="result-image gallery" data-ids="1:00Z0Z_48oG8U0ygGz,1:01515_dC7pPlQM3Br">
+                <span class="result-price">$575</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 18:49" title="Thu 12 Dec 06:49:45 PM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/westminster-pontoon-boat-with-electric/7025338082.html" data-id="7025338082" class="result-title hdrlnk">Pontoon Boat With Electric Motor</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$575</span>
+
+
+                <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5738,7 +5738,7 @@ boats
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">348</span>
+            <span class="totalcount">347</span>
         </span>
 
         <a href="/search/boo?s=240" class="button next" title="next page">next &gt; </a>

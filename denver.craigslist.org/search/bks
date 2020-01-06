@@ -852,7 +852,7 @@ books &amp; magazines - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1051</span>
+            <span class="totalcount">1044</span>
         </span>
 
         <a href="/search/bks?s=120" class="button next" title="next page">next &gt; </a>
@@ -888,7 +888,47 @@ books &amp; magazines - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7049335921">
+                             <li class="result-row" data-pid="7044254699">
+
+        <a href="https://denver.craigslist.org/bks/d/denver-the-oxford-complete-word-finder/7044254699.html" class="result-image gallery" data-ids="1:00V0V_6J6HMGLSUQ6,1:00H0H_4nUrbOTWEOa">
+                <span class="result-price">$20</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:24" title="Mon 06 Jan 02:24:41 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bks/d/denver-the-oxford-complete-word-finder/7044254699.html" data-id="7044254699" class="result-title hdrlnk">THE OXFORD COMPLETE WORD FINDER (1828 pages)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049335921">
 
         <a href="https://denver.craigslist.org/bks/d/denver-beano-comics/7049335921.html" class="result-image gallery" data-ids="1:00c0c_hpGSupMZ0rG">
                 <span class="result-price">$10</span>
@@ -5619,46 +5659,6 @@ books &amp; magazines - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7042400329" data-repost-of="7022668958">
-
-        <a href="https://denver.craigslist.org/bks/d/westminster-fall-fun-books-great-for/7042400329.html" class="result-image gallery" data-ids="1:01313_fDtGZRUJC12">
-                <span class="result-price">$0</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 15:02" title="Sun 05 Jan 03:02:30 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/bks/d/westminster-fall-fun-books-great-for/7042400329.html" data-id="7042400329" class="result-title hdrlnk">Fall Fun Books Great for Toddler !!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5691,7 +5691,7 @@ books &amp; magazines - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1051</span>
+            <span class="totalcount">1044</span>
         </span>
 
         <a href="/search/bks?s=120" class="button next" title="next page">next &gt; </a>

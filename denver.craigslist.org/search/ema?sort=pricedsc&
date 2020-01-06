@@ -919,7 +919,7 @@ cds / dvds / vhs
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">502</span>
+            <span class="totalcount">505</span>
         </span>
 
         <a href="/search/ema?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -3221,6 +3221,46 @@ cds / dvds / vhs
 
 
                 <span class="result-hood"> (Thornton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051078960">
+
+        <a href="https://denver.craigslist.org/emd/d/denver-amazing-condition-lg-lcd-tv/7051078960.html" class="result-image gallery" data-ids="1:00U0U_8M4VrUkwDwZ,1:00t0t_jYbEngY7e25,1:01111_8oD5HwtBFWx">
+                <span class="result-price">$80</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:03 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/emd/d/denver-amazing-condition-lg-lcd-tv/7051078960.html" data-id="7051078960" class="result-title hdrlnk">Amazing condition lg lcd tv</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$80</span>
+
+
+                <span class="result-hood"> (Five points)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5655,46 +5695,6 @@ cds / dvds / vhs
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7018770246">
-
-        <a href="https://denver.craigslist.org/emd/d/denver-albums-the-4-seasons-folk-nanny/7018770246.html" class="result-image gallery" data-ids="1:00202_hWvOD402jtY,1:00K0K_idUJr512oNN,1:00z0z_1LTqzJYwnQw,1:00I0I_bF92VBnFwxY">
-                <span class="result-price">$40</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-11 13:36" title="Wed 11 Dec 01:36:54 PM">Dec 11</time>
-
-
-        <a href="https://denver.craigslist.org/emd/d/denver-albums-the-4-seasons-folk-nanny/7018770246.html" data-id="7018770246" class="result-title hdrlnk">ALBUMS-THE 4 SEASONS FOLK-NANNY</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$40</span>
-
-
-                <span class="result-hood"> (LAKEWOOD)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5727,7 +5727,7 @@ cds / dvds / vhs
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">502</span>
+            <span class="totalcount">505</span>
         </span>
 
         <a href="/search/ema?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
