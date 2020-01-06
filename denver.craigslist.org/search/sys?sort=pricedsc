@@ -862,7 +862,7 @@ computers - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1750</span>
+            <span class="totalcount">1757</span>
         </span>
 
         <a href="/search/sys?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -2421,46 +2421,6 @@ computers - by owner
                 <span class="result-price">$2250</span>
 
 
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="6885500559">
-
-        <a href="https://denver.craigslist.org/sys/d/aurora-nvidia-mining-rig/6885500559.html" class="result-image gallery" data-ids="1:00G0G_f66namdaKp7,1:00L0L_jgWro59iKlH">
-                <span class="result-price">$2200</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-06-07 13:40" title="Fri 07 Jun 01:40:54 PM">Jun  7</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/aurora-nvidia-mining-rig/6885500559.html" data-id="6885500559" class="result-title hdrlnk">NVIDIA Mining Rig</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$2200</span>
-
-
-                <span class="result-hood"> (Aurora)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5650,6 +5610,46 @@ computers - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7022857540">
+
+        <a href="https://denver.craigslist.org/sys/d/denver-apple-mac-pro-32gb/7022857540.html" class="result-image gallery" data-ids="1:00X0X_7mFvkqtbIjs,1:00p0p_9GU0uZafvLx,1:00n0n_22Hhs5FXGYN,1:00a0a_gPn5CPuYjjS,1:00b0b_iXEcEn1EBn2,1:00E0E_1ABLk9t3iLO,1:00P0P_27xLF58DBOb">
+                <span class="result-price">$1200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-16 18:37" title="Mon 16 Dec 06:37:42 PM">Dec 16</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/denver-apple-mac-pro-32gb/7022857540.html" data-id="7022857540" class="result-title hdrlnk">Apple Mac Pro 32GB</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1200</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5682,7 +5682,7 @@ computers - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1750</span>
+            <span class="totalcount">1757</span>
         </span>
 
         <a href="/search/sys?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

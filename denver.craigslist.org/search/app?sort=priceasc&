@@ -2359,45 +2359,6 @@ appliances - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7026225381">
-
-        <a href="https://denver.craigslist.org/app/d/denver-standing-floor-lamp/7026225381.html" class="result-image gallery" data-ids="1:01212_dN7RjuR5hPF,1:00s0s_bKsfKNh017c">
-                <span class="result-price">$5</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-24 08:45" title="Sun 24 Nov 08:45:03 AM">Nov 24</time>
-
-
-        <a href="https://denver.craigslist.org/app/d/denver-standing-floor-lamp/7026225381.html" data-id="7026225381" class="result-title hdrlnk">Standing floor lamp</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$5</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7028702823">
 
         <a href="https://denver.craigslist.org/app/d/littleton-brita-water-filtration/7028702823.html" class="result-image gallery" data-ids="1:00h0h_dx2ShOr4PHp">
@@ -3044,7 +3005,7 @@ appliances - by owner
             <span class="screen-reader-text">favorite this post</span>
         </span>
 
-            <time class="result-date" datetime="2019-12-31 15:53" title="Tue 31 Dec 03:53:11 PM">Dec 31</time>
+            <time class="result-date" datetime="2020-01-06 15:17" title="Mon 06 Jan 03:17:00 PM">Jan  6</time>
 
 
         <a href="https://denver.craigslist.org/app/d/bennett-dryer-3-wire-power-cord/7047625687.html" data-id="7047625687" class="result-title hdrlnk">dryer 3 wire power cord</a>
@@ -5267,7 +5228,7 @@ appliances - by owner
             <span class="screen-reader-text">favorite this post</span>
         </span>
 
-            <time class="result-date" datetime="2019-12-31 15:53" title="Tue 31 Dec 03:53:42 PM">Dec 31</time>
+            <time class="result-date" datetime="2020-01-06 15:17" title="Mon 06 Jan 03:17:24 PM">Jan  6</time>
 
 
         <a href="https://denver.craigslist.org/app/d/bennett-2-bbq-grills-both-for-10/7047625897.html" data-id="7047625897" class="result-title hdrlnk">(2) BBQ grills... both for $10</a>
@@ -5637,6 +5598,46 @@ appliances - by owner
 
 
                 <span class="result-hood"> (Evergreen)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7019287505">
+
+        <a href="https://denver.craigslist.org/app/d/denver-lasko-20-fan-brand-new/7019287505.html" class="result-image gallery" data-ids="1:00t0t_4y7UUPGX2rL,1:00m0m_b2yTd62L9NU">
+                <span class="result-price">$15</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-11 09:53" title="Wed 11 Dec 09:53:26 AM">Dec 11</time>
+
+
+        <a href="https://denver.craigslist.org/app/d/denver-lasko-20-fan-brand-new/7019287505.html" data-id="7019287505" class="result-title hdrlnk">Lasko 20&quot; Fan Brand New</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$15</span>
+
+
+                <span class="result-hood"> (Lakewood, CO)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

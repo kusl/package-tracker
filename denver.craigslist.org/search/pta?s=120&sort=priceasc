@@ -899,44 +899,7 @@ auto parts
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7027776757" data-repost-of="6376788145">
-
-        <a href="https://denver.craigslist.org/pts/d/brighton-wrx-sti-fender-flares/7027776757.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-25 13:00" title="Wed 25 Dec 01:00:29 PM">Dec 25</time>
-
-
-        <a href="https://denver.craigslist.org/pts/d/brighton-wrx-sti-fender-flares/7027776757.html" data-id="7027776757" class="result-title hdrlnk">Wrx Sti fender flares</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (brighton)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7027928338" data-repost-of="6035883325">
+                             <li class="result-row" data-pid="7027928338" data-repost-of="6035883325">
 
         <a href="https://denver.craigslist.org/pts/d/2007-to-2016-jeep-wrangler/7027928338.html" class="result-image gallery empty"></a>
 
@@ -5571,6 +5534,46 @@ auto parts
                 <span class="result-price">$1</span>
 
 
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7034748606" data-repost-of="5661366534">
+
+        <a href="https://denver.craigslist.org/pts/d/sprite-mg-midget-spridget-parts/7034748606.html" class="result-image gallery" data-ids="1:00y0y_kQKcThn5LOV,1:00W0W_cZN6TdeUKoo">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-08 14:16" title="Sun 08 Dec 02:16:45 PM">Dec  8</time>
+
+
+        <a href="https://denver.craigslist.org/pts/d/sprite-mg-midget-spridget-parts/7034748606.html" data-id="7034748606" class="result-title hdrlnk">Sprite MG Midget Spridget parts</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Colorado Springs)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

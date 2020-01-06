@@ -863,7 +863,7 @@ computers
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1785</span>
+            <span class="totalcount">1790</span>
         </span>
 
         <a href="/search/sya?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -899,47 +899,7 @@ computers
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7022219649">
-
-        <a href="https://denver.craigslist.org/sys/d/arvada-macbook-pro-13-inch-with-extras/7022219649.html" class="result-image gallery" data-ids="1:01717_l59cxZVkcdo">
-                <span class="result-price">$1200</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-15 23:58" title="Sun 15 Dec 11:58:46 PM">Dec 15</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/arvada-macbook-pro-13-inch-with-extras/7022219649.html" data-id="7022219649" class="result-title hdrlnk">Macbook Pro 13-inch With Extras Hdrive SSD</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1200</span>
-
-
-                <span class="result-hood"> (Arvada)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7022857540">
+                             <li class="result-row" data-pid="7022857540">
 
         <a href="https://denver.craigslist.org/sys/d/denver-apple-mac-pro-32gb/7022857540.html" class="result-image gallery" data-ids="1:00X0X_7mFvkqtbIjs,1:00p0p_9GU0uZafvLx,1:00n0n_22Hhs5FXGYN,1:00a0a_gPn5CPuYjjS,1:00b0b_iXEcEn1EBn2,1:00E0E_1ABLk9t3iLO,1:00P0P_27xLF58DBOb">
                 <span class="result-price">$1200</span>
@@ -5665,6 +5625,46 @@ Notebook</a>
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7050922702" data-repost-of="6940520346">
+
+        <a href="https://denver.craigslist.org/sys/d/denver-new-high-end-water-cooled-intel/7050922702.html" class="result-image gallery" data-ids="1:00Y0Y_2MGmk0KYSrN,1:00u0u_3BZkW0BHbEH,1:00R0R_8V4q9SfPM80,1:00V0V_c5rokTdY0Sp,1:00I0I_henEHPgfrfA,1:00909_34PZpOwIvQl">
+                <span class="result-price">$895</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 11:29" title="Mon 06 Jan 11:29:11 AM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/denver-new-high-end-water-cooled-intel/7050922702.html" data-id="7050922702" class="result-title hdrlnk">New High End Water Cooled Intel i7 Gaming PC 1TB M.2 16gb Ram</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$895</span>
+
+
+                <span class="result-hood"> (Denver / Conifer)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5697,7 +5697,7 @@ Notebook</a>
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1785</span>
+            <span class="totalcount">1790</span>
         </span>
 
         <a href="/search/sya?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
