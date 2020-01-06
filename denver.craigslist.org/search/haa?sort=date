@@ -862,7 +862,7 @@ health and beauty
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1289</span>
+            <span class="totalcount">1287</span>
         </span>
 
         <a href="/search/haa?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -898,7 +898,47 @@ health and beauty
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051076289">
+                             <li class="result-row" data-pid="7044851850" data-repost-of="7023302012">
+
+        <a href="https://denver.craigslist.org/hab/d/aurora-invacare-oxygen-refill-tanks-for/7044851850.html" class="result-image gallery" data-ids="1:00B0B_cD56i6doD92,1:00V0V_i2Utinz9N0y">
+                <span class="result-price">$150</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:49" title="Mon 06 Jan 02:49:07 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/hab/d/aurora-invacare-oxygen-refill-tanks-for/7044851850.html" data-id="7044851850" class="result-title hdrlnk">Invacare Oxygen Refill Tanks-For Homsfill Oxygen System</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$150</span>
+
+
+                <span class="result-hood"> (aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051076289">
 
         <a href="https://denver.craigslist.org/hab/d/broomfield-shower-bench/7051076289.html" class="result-image gallery" data-ids="1:00q0q_41Bqv22zOsI">
                 <span class="result-price">$15</span>
@@ -5610,46 +5650,6 @@ health and beauty
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7042747282" data-repost-of="6926746758">
-
-        <a href="https://denver.craigslist.org/hab/d/denver-crutches-underarmmedicalaluminum/7042747282.html" class="result-image gallery" data-ids="1:01717_4xsUjeRA8WT,1:00e0e_jnZ3EeVOV17">
-                <span class="result-price">$10</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 17:17" title="Sun 05 Jan 05:17:25 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/hab/d/denver-crutches-underarmmedicalaluminum/7042747282.html" data-id="7042747282" class="result-title hdrlnk">CRUTCHES. Underarm,medical,aluminum.</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5682,7 +5682,7 @@ health and beauty
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1289</span>
+            <span class="totalcount">1287</span>
         </span>
 
         <a href="/search/haa?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>

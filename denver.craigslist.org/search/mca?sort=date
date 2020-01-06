@@ -1232,7 +1232,7 @@ motorcycles/scooters
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1083</span>
+            <span class="totalcount">1095</span>
         </span>
 
         <a href="/search/mca?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -1268,7 +1268,47 @@ motorcycles/scooters
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051075279">
+                             <li class="result-row" data-pid="7051089654">
+
+        <a href="https://denver.craigslist.org/mcd/d/denver-2016-ktm-500-exc/7051089654.html" class="result-image gallery" data-ids="1:01313_kzZeV8HE2el,1:00U0U_lBE8vsoAk0e">
+                <span class="result-price">$6995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:38" title="Mon 06 Jan 02:38:11 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mcd/d/denver-2016-ktm-500-exc/7051089654.html" data-id="7051089654" class="result-title hdrlnk">2016 KTM 500 EXC</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6995</span>
+
+
+                <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051075279">
 
         <a href="https://denver.craigslist.org/mcy/d/berthoud-ktm-superduke-990-mint-10k/7051075279.html" class="result-image gallery" data-ids="1:00u0u_ibFZaPDC0Fw,1:01313_ggWuylrSbMB,1:00L0L_c9jADo5ZGoO,1:00y0y_aBXOLdDpT6g,1:00000_4q4TAXliZP4,1:00W0W_lB9RJLxTYuD,1:00O0O_lLmFlyf8gGR,1:01515_3EkbQ4yzlsy,1:00f0f_6OPgWaMhQCc,1:00303_dSeWTlCy2dX,1:01616_kiMrdlWI5PO,1:00h0h_bqtV4iSpCoz,1:01616_4RIE40OU5sc">
                 <span class="result-price">$4995</span>
@@ -6014,46 +6054,6 @@ motorcycles/scooters
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7049696801">
-
-        <a href="https://denver.craigslist.org/mcd/d/timnath-2019-yamaha-yz250f/7049696801.html" class="result-image gallery" data-ids="1:00r0r_lN6ZOBR0maA,1:00l0l_gi891CgkKHd,1:01111_brtei6EFhhj,1:00K0K_bBeLptl2jGh,1:00707_KxO8bWB6s6,1:00u0u_ePInpMi91SV,1:00d0d_7Z6fS8vuMxC,1:00h0h_8tVosXSqslw,1:00r0r_5tCiEq02UV6,1:00S0S_fZI2ghZmglA">
-                <span class="result-price">$0</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 10:21" title="Sat 04 Jan 10:21:59 AM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/mcd/d/timnath-2019-yamaha-yz250f/7049696801.html" data-id="7049696801" class="result-title hdrlnk">2019 Yamaha YZ250F (004464)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (Fort Collins)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6086,7 +6086,7 @@ motorcycles/scooters
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1083</span>
+            <span class="totalcount">1095</span>
         </span>
 
         <a href="/search/mca?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>

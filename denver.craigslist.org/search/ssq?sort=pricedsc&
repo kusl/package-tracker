@@ -285,7 +285,7 @@ for sale by dealer
                value="146" class="catcheck multi_checkbox"
                data-abb="ctd" id="cat_ctd"
                checked="checked">
-        <a href="/search/ctd?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">26117</span>
+        <a href="/search/ctd?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">26132</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -299,7 +299,7 @@ for sale by dealer
                value="142" class="catcheck multi_checkbox"
                data-abb="fud" id="cat_fud"
                checked="checked">
-        <a href="/search/fud?sort=pricedsc" class="category">furniture</a> <span class="count">1641</span>
+        <a href="/search/fud?sort=pricedsc" class="category">furniture</a> <span class="count">1640</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -321,7 +321,7 @@ for sale by dealer
             <span class="linklike closed"><span class="plusminus">+</span>show 37 more</span>
             <span class="linklike open"><span class="plusminus">&ndash;</span>hide 37 more</span>
 
-            <span class="count">4359</span>
+            <span class="count">4363</span>
     </li>
 </ul>
 
@@ -331,21 +331,21 @@ for sale by dealer
                value="194" class="catcheck multi_checkbox"
                data-abb="hvd" id="cat_hvd"
                checked="checked">
-        <a href="/search/hvd?sort=pricedsc" class="category">heavy equipment</a> <span class="count">572</span>
+        <a href="/search/hvd?sort=pricedsc" class="category">heavy equipment</a> <span class="count">573</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="160" class="catcheck multi_checkbox"
                data-abb="mcd" id="cat_mcd"
                checked="checked">
-        <a href="/search/mcd?sort=pricedsc" class="category">motorcycles/scooters</a> <span class="count">502</span>
+        <a href="/search/mcd?sort=pricedsc" class="category">motorcycles/scooters</a> <span class="count">503</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="179" class="catcheck multi_checkbox"
                data-abb="fod" id="cat_fod"
                checked="checked">
-        <a href="/search/fod?sort=pricedsc" class="category">general for sale</a> <span class="count">439</span>
+        <a href="/search/fod?sort=pricedsc" class="category">general for sale</a> <span class="count">440</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -443,7 +443,7 @@ for sale by dealer
                value="181" class="catcheck multi_checkbox"
                data-abb="hsd" id="cat_hsd"
                checked="checked">
-        <a href="/search/hsd?sort=pricedsc" class="category">household items</a> <span class="count">52</span>
+        <a href="/search/hsd?sort=pricedsc" class="category">household items</a> <span class="count">53</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"

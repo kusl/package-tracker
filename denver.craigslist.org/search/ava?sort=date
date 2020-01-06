@@ -804,10 +804,10 @@ aviation
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">114</span>
+                <span class="rangeTo">113</span>
             </span>
             /
-            <span class="totalcount">114</span>
+            <span class="totalcount">113</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -2987,43 +2987,6 @@ aviation
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7042093285">
-
-        <a href="https://denver.craigslist.org/avo/d/commerce-city-62-cessna-skylane/7042093285.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-20 14:33" title="Fri 20 Dec 02:33:33 PM">Dec 20</time>
-
-
-        <a href="https://denver.craigslist.org/avo/d/commerce-city-62-cessna-skylane/7042093285.html" data-id="7042093285" class="result-title hdrlnk">62 Cessna Skylane Aircraft for Sale</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$65000</span>
-
-
-                <span class="result-hood"> (Commerce City)</span>
-
-                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -5541,6 +5504,46 @@ aviation
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7049953744">
+
+        <a href="https://rockies.craigslist.org/avo/d/montrose-mx-300-nav-com/7049953744.html" class="result-image gallery" data-ids="1:01717_7GZTGYhBUlm,1:00t0t_9fAH3PbhyL1">
+                <span class="result-price">$1500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 15:58" title="Sat 04 Jan 03:58:17 PM">Jan  4</time>
+
+
+        <a href="https://rockies.craigslist.org/avo/d/montrose-mx-300-nav-com/7049953744.html" data-id="7049953744" class="result-title hdrlnk">MX 300 Nav/Com</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1500</span>
+
+
+                <span class="nearby" title="high rockies">(rck &gt; Montrose)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7043961113" data-repost-of="6989006786">
 
         <a href="https://eastco.craigslist.org/avo/d/log-lane-village-1972-fly-baby/7043961113.html" class="result-image gallery" data-ids="1:00V0V_e5EB2jVaDaU,1:00k0k_fKxL63VIoJZ,1:00e0e_6UFwjT0PkYg,1:00V0V_bEQ1IBFZDLg,1:00o0o_iggCT3NnAIt,1:00v0v_dHKeb5GMfOn,1:00j0j_6HEOLgyppFn,1:00s0s_2BfWwTkmJNB,1:01414_8rwgAAifjQg,1:00j0j_aUApP67IqwG,1:00j0j_7E2wxQaSKeR,1:00c0c_8Ii80iQ5eN4,1:00c0c_SYq4zp1of4,1:00G0G_aOVIoYDMDjV,1:00101_jFi7EbH3AAI,1:00n0n_36fURZbTcss,1:01717_9uziD3FOg1N,1:00C0C_380gl649oRg,1:00X0X_k9dgJraOiqC">
@@ -5608,10 +5611,10 @@ aviation
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">114</span>
+                <span class="rangeTo">113</span>
             </span>
             /
-            <span class="totalcount">114</span>
+            <span class="totalcount">113</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
