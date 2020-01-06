@@ -1457,7 +1457,7 @@ bicycles
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2424</span>
+            <span class="totalcount">2422</span>
         </span>
 
         <a href="/search/bia?s=360&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -1493,7 +1493,47 @@ bicycles
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7045708874">
+                             <li class="result-row" data-pid="7050563111">
+
+        <a href="https://denver.craigslist.org/bik/d/littleton-for-sale-or-trade-dj-bicycle/7050563111.html" class="result-image gallery" data-ids="1:00k0k_iss250eHzKS,1:00x0x_2mXMFMOYqJb,1:00K0K_1EbiyxrDiSp,1:00W0W_9SJN8T26lDT,1:00z0z_lafhmoMtDlP">
+                <span class="result-price">$800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 18:34" title="Sun 05 Jan 06:34:55 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/bik/d/littleton-for-sale-or-trade-dj-bicycle/7050563111.html" data-id="7050563111" class="result-title hdrlnk">For sale or Trade dj bicycle</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$800</span>
+
+
+                <span class="result-hood"> (Englewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045708874">
 
         <a href="https://denver.craigslist.org/bik/d/tabernash-gary-fisher-roscoe-iii/7045708874.html" class="result-image gallery" data-ids="1:00q0q_akTjj8I5yBu">
                 <span class="result-price">$900</span>
@@ -2311,46 +2351,6 @@ bicycles
 
 
                 <span class="result-hood"> (Stapleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050512117">
-
-        <a href="https://denver.craigslist.org/bik/d/littleton-borealis-fat-bike-yampa/7050512117.html" class="result-image gallery" data-ids="1:00R0R_aSd2i3GbXVQ,1:00K0K_gpuRXvxxRak,1:00N0N_QqndMLZY97,1:00j0j_1zdlNVN1ghB,1:00u0u_adrEVEeMimz">
-                <span class="result-price">$1000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 16:48" title="Sun 05 Jan 04:48:13 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/bik/d/littleton-borealis-fat-bike-yampa/7050512117.html" data-id="7050512117" class="result-title hdrlnk">Borealis Fat Bike - Yampa</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1000</span>
-
-
-                <span class="result-hood"> (Centennial)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -6283,7 +6283,7 @@ bicycles
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2424</span>
+            <span class="totalcount">2422</span>
         </span>
 
         <a href="/search/bia?s=360&amp;sort=date" class="button next" title="next page">next &gt; </a>

@@ -920,7 +920,7 @@ cds / dvds / vhs
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">538</span>
+            <span class="totalcount">539</span>
         </span>
 
         <a href="/search/ema?s=360&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -956,7 +956,47 @@ cds / dvds / vhs
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7039349509">
+                             <li class="result-row" data-pid="7039344121" data-repost-of="6998387466">
+
+        <a href="https://denver.craigslist.org/emd/d/denver-misc-family-faith-dvds/7039344121.html" class="result-image gallery" data-ids="1:00M0M_5hl2iipq6qx">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-28 07:36" title="Sat 28 Dec 07:36:16 AM">Dec 28</time>
+
+
+        <a href="https://denver.craigslist.org/emd/d/denver-misc-family-faith-dvds/7039344121.html" data-id="7039344121" class="result-title hdrlnk">Misc family faith DVDs</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039349509">
 
         <a href="https://denver.craigslist.org/emd/d/denver-lot-of-disney-vhs-tapes/7039349509.html" class="result-image gallery" data-ids="1:00D0D_dQ6dxrq6E0v,1:01515_lkZskUqv95,1:00h0h_8bCG8zCz1KD">
                 <span class="result-price">$150</span>
@@ -5684,46 +5724,6 @@ cds / dvds / vhs
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7036222998">
-
-        <a href="https://denver.craigslist.org/emd/d/littleton-aquaman-3d-blu-ray-dvd/7036222998.html" class="result-image gallery" data-ids="1:00p0p_98uJN5N0LyT">
-                <span class="result-price">$15</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-19 03:14" title="Thu 19 Dec 03:14:10 AM">Dec 19</time>
-
-
-        <a href="https://denver.craigslist.org/emd/d/littleton-aquaman-3d-blu-ray-dvd/7036222998.html" data-id="7036222998" class="result-title hdrlnk">Aquaman 3D Blu-Ray DVD</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$15</span>
-
-
-                <span class="result-hood"> (Englewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5756,7 +5756,7 @@ cds / dvds / vhs
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">538</span>
+            <span class="totalcount">539</span>
         </span>
 
         <a href="/search/ema?s=360&amp;sort=date" class="button next" title="next page">next &gt; </a>

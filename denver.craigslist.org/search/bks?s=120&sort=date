@@ -891,7 +891,46 @@ books &amp; magazines - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7048103444">
+                             <li class="result-row" data-pid="7042254293">
+
+        <a href="https://denver.craigslist.org/bks/d/westminster-microbiology-an-introduction/7042254293.html" class="result-image gallery" data-ids="1:00j0j_3FMLP0uH0Re,1:00505_kEes73s5vI1,1:00M0M_e4cssxv8qFY">
+                <span class="result-price">$30</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 19:55" title="Sun 05 Jan 07:55:20 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/bks/d/westminster-microbiology-an-introduction/7042254293.html" data-id="7042254293" class="result-title hdrlnk">Microbiology: An Introduction</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$30</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048103444">
 
         <a href="https://denver.craigslist.org/bks/d/aurora-the-unquotable-trump-comic/7048103444.html" class="result-image gallery" data-ids="1:00p0p_gg6pkBPjne3,1:00k0k_4gdVJUJcqEU">
                 <span class="result-price">$15</span>
@@ -5617,46 +5656,6 @@ books &amp; magazines - by owner
 
 
                 <span class="result-hood"> (West Arvada)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7046320328">
-
-        <a href="https://denver.craigslist.org/bks/d/louisville-family-memories-keepsakes/7046320328.html" class="result-image gallery" data-ids="1:00f0f_fAp5lMkAfY5,1:01111_dYhlDrqwpkn,1:00C0C_87A1vC4kfF5,1:00b0b_7XxdFl4z2ox">
-                <span class="result-price">$0</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 18:37" title="Sat 04 Jan 06:37:14 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/bks/d/louisville-family-memories-keepsakes/7046320328.html" data-id="7046320328" class="result-title hdrlnk">FAMILY MEMORIES &amp; KEEPSAKES NEW 1999 MICHEL PUBLISHING LTD</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (Boulder)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

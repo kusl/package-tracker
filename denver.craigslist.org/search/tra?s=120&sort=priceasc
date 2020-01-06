@@ -968,7 +968,7 @@ trailers
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1608</span>
+            <span class="totalcount">1613</span>
         </span>
 
         <a href="/search/tra?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -3821,6 +3821,46 @@ trailers
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7010695096">
+
+        <a href="https://denver.craigslist.org/tro/d/aurora-beautiful-2016-diamond-custom/7010695096.html" class="result-image gallery" data-ids="1:00Z0Z_QNx4yjPdwZ,1:00Z0Z_QNx4yjPdwZ,1:00Z0Z_QNx4yjPdwZ,1:00Z0Z_QNx4yjPdwZ">
+                <span class="result-price">$1000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-10-31 09:26" title="Thu 31 Oct 09:26:44 AM">Oct 31</time>
+
+
+        <a href="https://denver.craigslist.org/tro/d/aurora-beautiful-2016-diamond-custom/7010695096.html" data-id="7010695096" class="result-title hdrlnk">Beautiful 2016 Diamond Custom Black Enclosed Trailer 7×14 V-Nose</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1000</span>
+
+
+                <span class="result-hood"> (Region:Colorado-City:Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7018348948" data-repost-of="6202843784">
 
         <a href="https://denver.craigslist.org/tro/d/trailer/7018348948.html" class="result-image gallery" data-ids="1:00m0m_cRDwFBiTTt4,1:00303_10uvLHoNhUM">
@@ -5727,46 +5767,6 @@ trailers
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7043112657">
-
-        <a href="https://denver.craigslist.org/tro/d/parker-brand-new-flatbed-deck-for-truck/7043112657.html" class="result-image gallery" data-ids="1:01414_ltLSIHgxhL2,1:00X0X_i37yxHWJvZk,1:00f0f_j8IGyrdeHaU,1:01717_ghmRHnGvFKQ">
-                <span class="result-price">$1300</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 10:26" title="Sun 05 Jan 10:26:00 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/tro/d/parker-brand-new-flatbed-deck-for-truck/7043112657.html" data-id="7043112657" class="result-title hdrlnk">Brand new 12’ x 8.5’ Flatbed/deck for truck/semi/pickup/medium duty.</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1300</span>
-
-
-                <span class="result-hood"> (Parker)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5799,7 +5799,7 @@ trailers
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1608</span>
+            <span class="totalcount">1613</span>
         </span>
 
         <a href="/search/tra?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

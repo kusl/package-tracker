@@ -920,7 +920,7 @@ cds / dvds / vhs
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">506</span>
+            <span class="totalcount">507</span>
         </span>
 
         <a href="/search/ema?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -956,7 +956,44 @@ cds / dvds / vhs
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7016487539" data-repost-of="6933081624">
+                             <li class="result-row" data-pid="7046284103" data-repost-of="6762339733">
+
+        <a href="https://denver.craigslist.org/emd/d/aurora-kbcovol31-new-sealed/7046284103.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-03 18:14" title="Fri 03 Jan 06:14:34 PM">Jan  3</time>
+
+
+        <a href="https://denver.craigslist.org/emd/d/aurora-kbcovol31-new-sealed/7046284103.html" data-id="7046284103" class="result-title hdrlnk">KBCO*^*^Vol.31         New sealed</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$17</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7016487539" data-repost-of="6933081624">
 
         <a href="https://denver.craigslist.org/emd/d/littleton-the-best-of-friends-1-4/7016487539.html" class="result-image gallery" data-ids="1:00202_gg2jYcI6Owe">
                 <span class="result-price">$15</span>
@@ -5690,46 +5727,6 @@ cds / dvds / vhs
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7024749908" data-repost-of="6972020369">
-
-        <a href="https://denver.craigslist.org/emd/d/castle-rock-star-wars-original-vhs/7024749908.html" class="result-image gallery" data-ids="1:00g0g_lMlsctsaMqT">
-                <span class="result-price">$8</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-14 11:46" title="Sat 14 Dec 11:46:35 AM">Dec 14</time>
-
-
-        <a href="https://denver.craigslist.org/emd/d/castle-rock-star-wars-original-vhs/7024749908.html" data-id="7024749908" class="result-title hdrlnk">Star Wars Original VHS</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$8</span>
-
-
-                <span class="result-hood"> (Castle Rock)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5762,7 +5759,7 @@ cds / dvds / vhs
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">506</span>
+            <span class="totalcount">507</span>
         </span>
 
         <a href="/search/ema?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
