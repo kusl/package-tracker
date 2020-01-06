@@ -1233,7 +1233,7 @@ motorcycles/scooters - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">548</span>
+            <span class="totalcount">547</span>
         </span>
 
         <a href="/search/mcy?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -1269,47 +1269,7 @@ motorcycles/scooters - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7038392280">
-
-        <a href="https://denver.craigslist.org/mcy/d/pueblo-2016-ktm-65/7038392280.html" class="result-image gallery" data-ids="1:01515_dBBrrPn8m3s">
-                <span class="result-price">$2200</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-14 10:35" title="Sat 14 Dec 10:35:57 AM">Dec 14</time>
-
-
-        <a href="https://denver.craigslist.org/mcy/d/pueblo-2016-ktm-65/7038392280.html" data-id="7038392280" class="result-title hdrlnk">2016 ktm 65</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$2200</span>
-
-
-                <span class="result-hood"> (PUEBLO)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7044790879">
+                             <li class="result-row" data-pid="7044790879">
 
         <a href="https://denver.craigslist.org/mcy/d/denver-2014-yamaha-star-250cc-xvs250er/7044790879.html" class="result-image gallery" data-ids="1:00E0E_fQKQAwSQlmA,1:00q0q_8Ns5NPItINW,1:00R0R_h7zcU7G6Y6F">
                 <span class="result-price">$2200</span>
@@ -6023,6 +5983,46 @@ motorcycles/scooters - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7043422265" data-repost-of="7023852750">
+
+        <a href="https://denver.craigslist.org/mcy/d/littleton-2001-custom-harley/7043422265.html" class="result-image gallery" data-ids="1:00a0a_kKoiWF4uiA,1:00b0b_d2deNTqYwLc,1:00V0V_eKuhqCXihmA,1:00u0u_bjBl3l0ASUH">
+                <span class="result-price">$4000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-23 09:41" title="Mon 23 Dec 09:41:17 AM">Dec 23</time>
+
+
+        <a href="https://denver.craigslist.org/mcy/d/littleton-2001-custom-harley/7043422265.html" data-id="7043422265" class="result-title hdrlnk">2001 Custom Harley</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4000</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -6055,7 +6055,7 @@ motorcycles/scooters - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">548</span>
+            <span class="totalcount">547</span>
         </span>
 
         <a href="/search/mcy?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

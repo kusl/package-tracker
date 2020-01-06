@@ -863,7 +863,7 @@ motorcycle parts - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1315</span>
+            <span class="totalcount">1310</span>
         </span>
 
         <a href="/search/mpo?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -3193,46 +3193,6 @@ motorcycle parts - by owner
 
 
                 <span class="result-hood"> (Golden Heritage Rd &amp; Hwy 6)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="6885537583">
-
-        <a href="https://denver.craigslist.org/mpo/d/aurora-shoei-helmet-black-20-xl/6885537583.html" class="result-image gallery" data-ids="1:00T0T_6vyy36qCyeM,1:00r0r_8HbmYtgGsSi,1:00c0c_jCA6LJHSQD5">
-                <span class="result-price">$20</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-06-07 21:37" title="Fri 07 Jun 09:37:48 PM">Jun  7</time>
-
-
-        <a href="https://denver.craigslist.org/mpo/d/aurora-shoei-helmet-black-20-xl/6885537583.html" data-id="6885537583" class="result-title hdrlnk">SHOEI Helmet Black $20 XL</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$20</span>
-
-
-                <span class="result-hood"> (Aurora)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5676,6 +5636,46 @@ motorcycle parts - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7050256540" data-repost-of="7002094588">
+
+        <a href="https://denver.craigslist.org/mpo/d/castle-rock-pants-motor-cross/7050256540.html" class="result-image gallery" data-ids="1:00h0h_8vVs1sWNAwK,1:00G0G_6wkBYPilBO0,1:00W0W_6oRjlmBdnzO">
+                <span class="result-price">$20</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 10:01" title="Sun 05 Jan 10:01:14 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/mpo/d/castle-rock-pants-motor-cross/7050256540.html" data-id="7050256540" class="result-title hdrlnk">pants motor cross</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (parker)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5708,7 +5708,7 @@ motorcycle parts - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1315</span>
+            <span class="totalcount">1310</span>
         </span>
 
         <a href="/search/mpo?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

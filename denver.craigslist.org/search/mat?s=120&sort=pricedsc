@@ -855,7 +855,7 @@ materials - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1477</span>
+            <span class="totalcount">1480</span>
         </span>
 
         <a href="/search/mat?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -1708,6 +1708,46 @@ materials - by owner
 
 
                 <span class="result-hood"> (AURORA)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051161716">
+
+        <a href="https://denver.craigslist.org/mat/d/castle-rock-tamko-moisture-guard-ice/7051161716.html" class="result-image gallery" data-ids="1:00Q0Q_cX2auo4RkxR">
+                <span class="result-price">$600</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:24" title="Mon 06 Jan 04:24:29 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mat/d/castle-rock-tamko-moisture-guard-ice/7051161716.html" data-id="7051161716" class="result-title hdrlnk">TAMKO Moisture Guard Ice and Water Roof Underlayment</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$600</span>
+
+
+                <span class="result-hood"> (Castle Rock)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5608,46 +5648,6 @@ materials - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7046966423">
-
-        <a href="https://denver.craigslist.org/mat/d/aurora-drywall-mud/7046966423.html" class="result-image gallery" data-ids="1:00p0p_fRZHRL1a2Uj">
-                <span class="result-price">$300</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-30 12:52" title="Mon 30 Dec 12:52:28 PM">Dec 30</time>
-
-
-        <a href="https://denver.craigslist.org/mat/d/aurora-drywall-mud/7046966423.html" data-id="7046966423" class="result-title hdrlnk">Drywall mud</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$300</span>
-
-
-                <span class="result-hood"> (Centennial)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5680,7 +5680,7 @@ materials - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1477</span>
+            <span class="totalcount">1480</span>
         </span>
 
         <a href="/search/mat?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

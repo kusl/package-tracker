@@ -863,7 +863,7 @@ computers
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1796</span>
+            <span class="totalcount">1789</span>
         </span>
 
         <a href="/search/sya?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -1496,7 +1496,7 @@ computers
             <span class="screen-reader-text">favorite this post</span>
         </span>
 
-            <time class="result-date" datetime="2020-01-02 09:29" title="Thu 02 Jan 09:29:20 AM">Jan  2</time>
+            <time class="result-date" datetime="2020-01-06 16:41" title="Mon 06 Jan 04:41:01 PM">Jan  6</time>
 
 
         <a href="https://denver.craigslist.org/sys/d/denver-dell-precision-workstation-530/7048343083.html" data-id="7048343083" class="result-title hdrlnk">Dell Precision Workstation 530 WHL Server Tower</a>
@@ -3450,6 +3450,46 @@ computers
 
 
         <a href="https://denver.craigslist.org/sys/d/denver-hp-monitor/7050975328.html" data-id="7050975328" class="result-title hdrlnk">Hp monitor</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$50</span>
+
+
+                <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051123585">
+
+        <a href="https://denver.craigslist.org/sys/d/denver-compaq-tower-cg5210f-pc/7051123585.html" class="result-image gallery" data-ids="1:00101_5lkBvKzSGOk,1:00000_3urNhdGgB40,1:00K0K_7HUCaZVcOw6,1:01414_3KcaWGYiCa1">
+                <span class="result-price">$50</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:27" title="Mon 06 Jan 03:27:54 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/denver-compaq-tower-cg5210f-pc/7051123585.html" data-id="7051123585" class="result-title hdrlnk">Compaq Tower CG5210F PC</a>
 
 
         <span class="result-meta">
@@ -5630,46 +5670,6 @@ computers
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7036110348">
-
-        <a href="https://denver.craigslist.org/sys/d/littleton-lg-tv-24-flatron-with-lg-dvd/7036110348.html" class="result-image gallery" data-ids="1:00J0J_kYGTRrMizuD">
-                <span class="result-price">$70</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-10 15:39" title="Tue 10 Dec 03:39:52 PM">Dec 10</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/littleton-lg-tv-24-flatron-with-lg-dvd/7036110348.html" data-id="7036110348" class="result-title hdrlnk">LG TV 24&quot; FLATRON with LG DVD Player</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$70</span>
-
-
-                <span class="result-hood"> (Littleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5702,7 +5702,7 @@ computers
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1796</span>
+            <span class="totalcount">1789</span>
         </span>
 
         <a href="/search/sya?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

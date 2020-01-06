@@ -863,7 +863,7 @@ motorcycle parts - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1308</span>
+            <span class="totalcount">1317</span>
         </span>
 
         <a href="/search/mpo?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -1196,6 +1196,46 @@ motorcycle parts - by owner
 
 
                 <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051170979">
+
+        <a href="https://denver.craigslist.org/mpo/d/johnstown-harley-4-spd-transmission/7051170979.html" class="result-image gallery" data-ids="1:00n0n_4SbzUtpeJGB,1:00N0N_1ZA7ttvOoIf,1:00k0k_gVW5JkChURC,1:00808_ay2tWNpIVat,1:01010_c9A2PqoQRdI,1:00j0j_eN6ZXVy611N,1:00101_2TAiQTWz4K6">
+                <span class="result-price">$900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:39" title="Mon 06 Jan 04:39:34 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mpo/d/johnstown-harley-4-spd-transmission/7051170979.html" data-id="7051170979" class="result-title hdrlnk">Harley 4 spd transmission</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$900</span>
+
+
+                <span class="result-hood"> (Johnstown)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5609,43 +5649,6 @@ motorcycle parts - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7025368023">
-
-        <a href="https://denver.craigslist.org/mpo/d/westminster-yamaha-roadstar-1600/7025368023.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-21 20:58" title="Sat 21 Dec 08:58:07 PM">Dec 21</time>
-
-
-        <a href="https://denver.craigslist.org/mpo/d/westminster-yamaha-roadstar-1600/7025368023.html" data-id="7025368023" class="result-title hdrlnk">YAMAHA ROADSTAR 1600 EXHAUST SASH CUT XV 1600 EXHAUST MUFFLER SYSTEM</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$300</span>
-
-
-                <span class="result-hood"> (westminster)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5678,7 +5681,7 @@ motorcycle parts - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1308</span>
+            <span class="totalcount">1317</span>
         </span>
 
         <a href="/search/mpo?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
