@@ -835,7 +835,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2097</span>
+            <span class="totalcount">2098</span>
         </span>
 
         <a href="/search/tix?s=120" class="button next" title="next page">next &gt; </a>
@@ -878,7 +878,47 @@ tickets - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7044761157">
+                             <li class="result-row" data-pid="7051089701">
+
+        <a href="https://denver.craigslist.org/tix/d/houston-loveland-ski-area-lift-ticket/7051089701.html" class="result-image gallery" data-ids="1:00202_7ebKMUucsfw">
+                <span class="result-price">$65</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:42" title="Mon 06 Jan 02:42:15 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/houston-loveland-ski-area-lift-ticket/7051089701.html" data-id="7051089701" class="result-title hdrlnk">Loveland Ski Area Lift Ticket. 19-20 Season, NO blackout dates</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$65</span>
+
+
+                <span class="result-hood"> (Houston)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044761157">
 
         <a href="https://denver.craigslist.org/tix/d/littleton-oprahs-2020-vision-your-life/7044761157.html" class="result-image gallery empty"></a>
 
@@ -5418,45 +5458,6 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050088990">
-
-        <a href="https://denver.craigslist.org/tix/d/littleton-echo-mountain-night-season/7050088990.html" class="result-image gallery" data-ids="1:00u0u_a4YUc6zYgVK">
-                <span class="result-price">$100</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 21:28" title="Sat 04 Jan 09:28:35 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/littleton-echo-mountain-night-season/7050088990.html" data-id="7050088990" class="result-title hdrlnk">Echo Mountain Night Season Pass</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$100</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5489,7 +5490,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2097</span>
+            <span class="totalcount">2098</span>
         </span>
 
         <a href="/search/tix?s=120" class="button next" title="next page">next &gt; </a>

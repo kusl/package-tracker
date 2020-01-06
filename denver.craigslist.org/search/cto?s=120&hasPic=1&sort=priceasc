@@ -1396,47 +1396,7 @@ cars &amp; trucks - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7036528086">
-
-        <a href="https://denver.craigslist.org/cto/d/denver-1997-pathfinder/7036528086.html" class="result-image gallery" data-ids="1:00p0p_z3pq6hLEtU,1:00P0P_34xNcVz97SJ,1:00p0p_28PQJnEHMNY,1:00404_39mDpnjQr3g,1:01616_bKUpAGRldut">
-                <span class="result-price">$900</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-11 10:41" title="Wed 11 Dec 10:41:36 AM">Dec 11</time>
-
-
-        <a href="https://denver.craigslist.org/cto/d/denver-1997-pathfinder/7036528086.html" data-id="7036528086" class="result-title hdrlnk">1997 Pathfinder</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$900</span>
-
-
-                <span class="result-hood"> (Morrison)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7038405995">
+                             <li class="result-row" data-pid="7038405995">
 
         <a href="https://denver.craigslist.org/cto/d/laramie-2000-honda-accord/7038405995.html" class="result-image gallery" data-ids="1:00F0F_8vLo6SPIMlo,1:00Q0Q_3Y6HLmKVTRI,1:00V0V_cXyItmp5JyF,1:01515_bShixQVGgMa,1:00R0R_lq1bqE7ciJp,1:00V0V_5kXZnXJ3GO4,1:00g0g_5CwuhioGm2u,1:00U0U_jrVSnvaZnwE,1:00F0F_fPg2u5ExR75,1:00h0h_4yh0yVLZqF7,1:00Z0Z_9mRXP5vm04Y,1:00e0e_tcUeOLp2Wi,1:00j0j_5H6e7eLF7TQ,1:00D0D_1Ym3yZzMdTg">
                 <span class="result-price">$900</span>
@@ -6159,6 +6119,45 @@ cars &amp; trucks - by owner
 
 
                 <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040546006">
+
+        <a href="https://denver.craigslist.org/cto/d/castle-rock-94-jimmy/7040546006.html" class="result-image gallery" data-ids="1:00N0N_64D18rORa0Y,1:00d0d_7bHsIVaeNsw">
+                <span class="result-price">$1200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-18 00:27" title="Wed 18 Dec 12:27:59 AM">Dec 18</time>
+
+
+        <a href="https://denver.craigslist.org/cto/d/castle-rock-94-jimmy/7040546006.html" data-id="7040546006" class="result-title hdrlnk">94 Jimmy</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1200</span>
+
+
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

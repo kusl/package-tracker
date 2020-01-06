@@ -1230,7 +1230,7 @@ motorcycles/scooters - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">532</span>
+            <span class="totalcount">533</span>
         </span>
 
         <a href="/search/mcd?s=120" class="button next" title="next page">next &gt; </a>
@@ -1266,7 +1266,47 @@ motorcycles/scooters - by dealer
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051036075">
+                             <li class="result-row" data-pid="7051089654">
+
+        <a href="https://denver.craigslist.org/mcd/d/denver-2016-ktm-500-exc/7051089654.html" class="result-image gallery" data-ids="1:01313_kzZeV8HE2el,1:00U0U_lBE8vsoAk0e">
+                <span class="result-price">$6995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:38" title="Mon 06 Jan 02:38:11 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mcd/d/denver-2016-ktm-500-exc/7051089654.html" data-id="7051089654" class="result-title hdrlnk">2016 KTM 500 EXC</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6995</span>
+
+
+                <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051036075">
 
         <a href="https://denver.craigslist.org/mcd/d/fort-meade-2016-beta-evo-300-factory-4t/7051036075.html" class="result-image gallery" data-ids="1:00t0t_1zl2YQl2u9d,1:00e0e_5xCXLBufbTO,1:00808_jJcZCMscJ1M,1:00l0l_5mVR6MzoPjk,1:00P0P_ovrIwo4F7Y,1:00909_i20vXHg3yET,1:00707_hULdqQgyuX1">
                 <span class="result-price">$4899</span>
@@ -6024,46 +6064,6 @@ motorcycles/scooters - by dealer
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7046787973">
-
-        <a href="https://denver.craigslist.org/mcd/d/golden-2019-honda-cmx500a-rebel-abs/7046787973.html" class="result-image gallery" data-ids="1:00U0U_diRhz3k8IkI,1:00J0J_cxmKZvsbkR1,1:00r0r_dezsScs4id,1:01313_hsEcujwzxRL,1:00t0t_40mkz5FrWKP,1:00Q0Q_5FrrPnQ2Q82,1:00H0H_kkEI8pUh1xo,1:00U0U_9eFsnmHfROE,1:00f0f_57iVhiRMM0I,1:00A0A_aWrV5dxlpr4,1:01010_cXjoAsZm2Ry,1:00O0O_4PFmskLhgsH,1:00q0q_h3IWHRL0eCT,1:01212_7LQtaKGrlQy,1:00909_jUn0CfZ2ikR">
-                <span class="result-price">$5898</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-30 09:02" title="Mon 30 Dec 09:02:20 AM">Dec 30</time>
-
-
-        <a href="https://denver.craigslist.org/mcd/d/golden-2019-honda-cmx500a-rebel-abs/7046787973.html" data-id="7046787973" class="result-title hdrlnk">2019 HONDA CMX500A REBEL (ABS)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$5898</span>
-
-
-                <span class="result-hood"> (Golden, CO)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6096,7 +6096,7 @@ motorcycles/scooters - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">532</span>
+            <span class="totalcount">533</span>
         </span>
 
         <a href="/search/mcd?s=120" class="button next" title="next page">next &gt; </a>
