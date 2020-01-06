@@ -905,7 +905,7 @@ boats
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">346</span>
+            <span class="totalcount">350</span>
         </span>
 
         <a href="/search/boo?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -941,7 +941,47 @@ boats
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7039915975" data-repost-of="6685450206">
+                             <li class="result-row" data-pid="7043588657">
+
+        <a href="https://denver.craigslist.org/boa/d/denver-sea-doo-1500-gti-3-seaters/7043588657.html" class="result-image gallery" data-ids="1:01313_dHfNcgbGXwL,1:00P0P_c89ffUTTtHk,1:00K0K_bN8niNNsXoR,1:00o0o_cXrCMA0dJDR">
+                <span class="result-price">$4500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:03" title="Mon 06 Jan 03:03:51 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/denver-sea-doo-1500-gti-3-seaters/7043588657.html" data-id="7043588657" class="result-title hdrlnk">2 - 2016 SEA-DOO 1500 GTI 3-SEATERS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4500</span>
+
+
+                <span class="result-hood"> (LAKEWOOD)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039915975" data-repost-of="6685450206">
 
         <a href="https://denver.craigslist.org/boa/d/aurora-2018-yamaha-242x-jet-boat-with/7039915975.html" class="result-image gallery" data-ids="1:00S0S_bQXz945n7lY,1:01414_dlrbpYreh3N,1:00505_8QR7QhJajV0,1:00m0m_e1xMAYJRkCm,1:01010_6tAbbUoewK7,1:00P0P_gePAuMUcMit,1:01010_kooYrKP92cb,1:00N0N_1rZrP8X1SAd,1:01717_lvhWx9bbpbM,1:00F0F_3r8AGJX6Xvt">
                 <span class="result-price">$68000</span>
@@ -5650,46 +5690,6 @@ boats
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7030467455" data-repost-of="6964427800">
-
-        <a href="https://denver.craigslist.org/boa/d/grand-lake-vintage-classic-14-aluminum/7030467455.html" class="result-image gallery" data-ids="1:01616_bIJeQikK0wq,1:00g0g_bs9APzGwaqB,1:00e0e_jTJrG6P52Cv,1:00L0L_ecVzZwflbBb,1:00S0S_keQzYalbtSv">
-                <span class="result-price">$599</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-25 11:19" title="Wed 25 Dec 11:19:53 AM">Dec 25</time>
-
-
-        <a href="https://denver.craigslist.org/boa/d/grand-lake-vintage-classic-14-aluminum/7030467455.html" data-id="7030467455" class="result-title hdrlnk">Vintage Classic 14&#39; Aluminum Fishing Boat &amp; 9.9-Horsepower Outboard !</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$599</span>
-
-
-                <span class="result-hood"> (Grand Lake)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5722,7 +5722,7 @@ boats
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">346</span>
+            <span class="totalcount">350</span>
         </span>
 
         <a href="/search/boo?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>

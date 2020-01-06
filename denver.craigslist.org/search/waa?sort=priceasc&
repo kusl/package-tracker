@@ -890,7 +890,47 @@ wanted
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7005267878">
+                             <li class="result-row" data-pid="6886064532">
+
+        <a href="https://denver.craigslist.org/wan/d/elizabeth-looking-for-1970-air-grabber/6886064532.html" class="result-image gallery" data-ids="1:00b0b_kc35WSyGHI1,1:00b0b_kc35WSyGHI1">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 06:51" title="Fri 07 Jun 06:51:45 AM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/elizabeth-looking-for-1970-air-grabber/6886064532.html" data-id="6886064532" class="result-title hdrlnk">Looking For 1970 Air Grabber Hood</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Elizabeth)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7005267878">
 
         <a href="https://denver.craigslist.org/wan/d/broomfield-iso-rockford-fosgate-t2-12s/7005267878.html" class="result-image gallery" data-ids="1:00A0A_5UL4rHyt2KT">
                 <span class="result-price">$1</span>
@@ -5397,46 +5437,6 @@ wanted
 
 
                 <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7047105370">
-
-        <a href="https://denver.craigslist.org/wan/d/littleton-wanted-cb-radio-antenna-other/7047105370.html" class="result-image gallery" data-ids="1:00y0y_imxaDY8JPbB">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-30 16:17" title="Mon 30 Dec 04:17:59 PM">Dec 30</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/littleton-wanted-cb-radio-antenna-other/7047105370.html" data-id="7047105370" class="result-title hdrlnk">WANTED: CB radio, antenna, other gear</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Littleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">

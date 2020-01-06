@@ -853,7 +853,7 @@ wanted
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1222</span>
+            <span class="totalcount">1220</span>
         </span>
 
         <a href="/search/waa?s=240" class="button next" title="next page">next &gt; </a>
@@ -1880,46 +1880,6 @@ wanted
                 <span class="result-hood"> (Colo spgs co)</span>
 
                 <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7047689344">
-
-        <a href="https://denver.craigslist.org/wan/d/evergreen-trade-rolex-trailer/7047689344.html" class="result-image gallery" data-ids="1:00f0f_cesRXw41dOx,1:00E0E_8KJUpN1aWyM">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 12:31" title="Sat 04 Jan 12:31:22 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/evergreen-trade-rolex-trailer/7047689344.html" data-id="7047689344" class="result-title hdrlnk">Trade Rolex - trailer</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Evergreen)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -5458,6 +5418,43 @@ wanted
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7048540011">
+
+        <a href="https://denver.craigslist.org/wan/d/littleton-yarn/7048540011.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 13:22" title="Thu 02 Jan 01:22:17 PM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/littleton-yarn/7048540011.html" data-id="7048540011" class="result-title hdrlnk">Yarn</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5490,7 +5487,7 @@ wanted
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1222</span>
+            <span class="totalcount">1220</span>
         </span>
 
         <a href="/search/waa?s=240" class="button next" title="next page">next &gt; </a>

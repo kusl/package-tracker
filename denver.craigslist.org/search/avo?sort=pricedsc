@@ -804,10 +804,10 @@ aviation - by owner
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">107</span>
+                <span class="rangeTo">106</span>
             </span>
             /
-            <span class="totalcount">107</span>
+            <span class="totalcount">106</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -1068,43 +1068,6 @@ aviation - by owner
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7042093285">
-
-        <a href="https://denver.craigslist.org/avo/d/commerce-city-62-cessna-skylane/7042093285.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-20 14:33" title="Fri 20 Dec 02:33:33 PM">Dec 20</time>
-
-
-        <a href="https://denver.craigslist.org/avo/d/commerce-city-62-cessna-skylane/7042093285.html" data-id="7042093285" class="result-title hdrlnk">62 Cessna Skylane Aircraft for Sale</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$65000</span>
-
-
-                <span class="result-hood"> (Commerce City)</span>
-
-                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -3964,7 +3927,9 @@ aviation - by owner
 </li>
          <li class="result-row" data-pid="7050401921">
 
-        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h20-10-aviation/7050401921.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h20-10-aviation/7050401921.html" class="result-image gallery" data-ids="1:00L0L_i0pJmL2Og8N,1:00H0H_cFGn6SycCvQ">
+                <span class="result-price">$150</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -3983,6 +3948,7 @@ aviation - by owner
 
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -4000,7 +3966,9 @@ aviation - by owner
 </li>
          <li class="result-row" data-pid="7050405151">
 
-        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h10-134/7050405151.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h10-134/7050405151.html" class="result-image gallery" data-ids="1:00L0L_i0pJmL2Og8N,1:00A0A_4txRXbqYONa,1:00r0r_eEzCc5K0jFC">
+                <span class="result-price">$150</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -4019,6 +3987,7 @@ aviation - by owner
 
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -5111,46 +5080,6 @@ aviation - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7030859588">
-
-        <a href="https://boulder.craigslist.org/avo/d/louisville-wills-wing-sport-2-170/7030859588.html" class="result-image gallery" data-ids="1:00N0N_gORMIlsWIR2,1:01111_xTDLEqcFU4,1:00v0v_9tUkaxQh27P,1:00505_coyncdwtGPQ,1:00e0e_eAlLtgmM4E6,1:00m0m_byeot0lYBPs,1:01313_1WObpmJkSLx,1:01010_2QJ8YBSTr4T,1:00K0K_k6xyrejsaFu,1:00A0A_lDMVoszMLqK,1:00w0w_e00dBse8uvL,1:00303_eCaGmC5vatu">
-                <span class="result-price">$4000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-02 12:31" title="Mon 02 Dec 12:31:12 PM">Dec  2</time>
-
-
-        <a href="https://boulder.craigslist.org/avo/d/louisville-wills-wing-sport-2-170/7030859588.html" data-id="7030859588" class="result-title hdrlnk">Wills Wing Sport 2 170</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$4000</span>
-
-
-                <span class="nearby" title="boulder, CO">(bou &gt; Bolder)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7036808941">
 
         <a href="https://fortcollins.craigslist.org/avo/d/fort-collins-agricultural-aircraft-and/7036808941.html" class="result-image gallery" data-ids="1:00p0p_2oyTsexZyNl,1:01111_2myBAN8Pp9N,1:00i0i_gWM7DxTNmYf,1:00K0K_cXPEhtSebtm,1:00A0A_5iHQMCHJOlP,1:00l0l_jSX8PwaNpoY,1:00c0c_arAR8LZetkL,1:00D0D_g5Qbd1QWeHz,1:00707_ifUL19dpJGm,1:00S0S_8veZtiZIeEw,1:00W0W_en7vJXKQ5vI,1:00707_7iCLE3PQjlW,1:00V0V_h4at9SoV0lw,1:00N0N_6bOxYdTyBSo,1:00T0T_kgushs9nP6m,1:00L0L_aUuL0TEKu7K,1:00k0k_bpcmXtumDI">
@@ -5253,6 +5182,46 @@ aviation - by owner
 
 
                 <span class="nearby" title="fort collins / north CO">(ftc &gt; Hutchinson)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6895628438">
+
+        <a href="https://fortcollins.craigslist.org/avo/d/cedaredge-1965-baby-ace/6895628438.html" class="result-image gallery" data-ids="1:00z0z_imnGVT4ZWwh,1:00n0n_6BcoAJ0Iq48,1:00T0T_1UigDAkyb8T,1:00909_c5aafEgsSSW,1:00k0k_2ZuV2v0r33k,1:00Y0Y_4UwOPgvrw79,1:00W0W_i3ogZTHIAch,1:00d0d_5DfeShFeJr3,1:00w0w_9bvekh1R7ag,1:00T0T_7JYrpQzd7qt,1:00L0L_4x88KWQO4GP">
+                <span class="result-price">$7400</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 09:51" title="Fri 07 Jun 09:51:02 AM">Jun  7</time>
+
+
+        <a href="https://fortcollins.craigslist.org/avo/d/cedaredge-1965-baby-ace/6895628438.html" data-id="6895628438" class="result-title hdrlnk">1965 Baby Ace D</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$7400</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Cedaredge)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5388,6 +5357,46 @@ aviation - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="6895622656">
+
+        <a href="https://cosprings.craigslist.org/avo/d/cedaredge-1965-baby-ace/6895622656.html" class="result-image gallery" data-ids="1:00z0z_imnGVT4ZWwh,1:00n0n_6BcoAJ0Iq48,1:00Y0Y_4UwOPgvrw79,1:00k0k_2ZuV2v0r33k,1:00909_c5aafEgsSSW,1:00T0T_1UigDAkyb8T,1:00W0W_i3ogZTHIAch,1:00d0d_5DfeShFeJr3,1:00w0w_9bvekh1R7ag,1:00T0T_7JYrpQzd7qt,1:00L0L_4x88KWQO4GP">
+                <span class="result-price">$7400</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 09:50" title="Fri 07 Jun 09:50:56 AM">Jun  7</time>
+
+
+        <a href="https://cosprings.craigslist.org/avo/d/cedaredge-1965-baby-ace/6895622656.html" data-id="6895622656" class="result-title hdrlnk">1965 Baby Ace D</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$7400</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; Cedaredge)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7035141108" data-repost-of="6968557953">
 
         <a href="https://cosprings.craigslist.org/avo/d/castle-rock-hot-air-balloon-in-like-new/7035141108.html" class="result-image gallery" data-ids="1:00Q0Q_l5MWpBqYOMk,1:00202_4ymyZZ04f19,1:00m0m_258yemeov01,1:00S0S_bJn72eRw4gz,1:00B0B_fyFDy9l5naz,1:00W0W_719YjsMdY2c,1:00n0n_bZhUpyh3EVc,1:00x0x_klyVBQDzptF">
@@ -5410,46 +5419,6 @@ aviation - by owner
 
 
                 <span class="nearby" title="colorado springs">(cos &gt; CASTLE ROCK)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7048169664" data-repost-of="6797183969">
-
-        <a href="https://cosprings.craigslist.org/avo/d/colorado-springs-zenith-601xlb-kit-20/7048169664.html" class="result-image gallery" data-ids="1:00t0t_7b8hmzAyULk,1:00H0H_3RHhgI8TpVG,1:00W0W_dVrkt4OsXQ1,1:00u0u_cDobSt6rhI3,1:00f0f_aZvEwoyCeEP,1:00X0X_dZ0K7fr1YTY,1:00303_gZmV6CwVSq7,1:00C0C_3rqSR1rPfiV,1:01515_2wO7vhBKmVw,1:00Y0Y_7sqOoGuXBEp,1:00D0D_9rDWOMu2wZc,1:00707_40QVaBWmkO0">
-                <span class="result-price">$4500</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-01 22:21" title="Wed 01 Jan 10:21:06 PM">Jan  1</time>
-
-
-        <a href="https://cosprings.craigslist.org/avo/d/colorado-springs-zenith-601xlb-kit-20/7048169664.html" data-id="7048169664" class="result-title hdrlnk">Zenith 601XLb kit 20% built airplane</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$4500</span>
-
-
-                <span class="nearby" title="colorado springs">(cos)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5545,6 +5514,46 @@ aviation - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="6895618221">
+
+        <a href="https://rockies.craigslist.org/avo/d/cedaredge-baby-ace/6895618221.html" class="result-image gallery" data-ids="1:00z0z_imnGVT4ZWwh,1:00n0n_6BcoAJ0Iq48,1:00T0T_1UigDAkyb8T,1:00Y0Y_4UwOPgvrw79,1:00k0k_2ZuV2v0r33k,1:00909_c5aafEgsSSW,1:00W0W_i3ogZTHIAch,1:00d0d_5DfeShFeJr3,1:00w0w_9bvekh1R7ag,1:00T0T_7JYrpQzd7qt,1:00L0L_4x88KWQO4GP">
+                <span class="result-price">$7400</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 09:50" title="Fri 07 Jun 09:50:53 AM">Jun  7</time>
+
+
+        <a href="https://rockies.craigslist.org/avo/d/cedaredge-baby-ace/6895618221.html" data-id="6895618221" class="result-title hdrlnk">Baby Ace D</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$7400</span>
+
+
+                <span class="nearby" title="high rockies">(rck &gt; Cedaredge)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7043961113" data-repost-of="6989006786">
 
         <a href="https://eastco.craigslist.org/avo/d/log-lane-village-1972-fly-baby/7043961113.html" class="result-image gallery" data-ids="1:00V0V_e5EB2jVaDaU,1:00k0k_fKxL63VIoJZ,1:00e0e_6UFwjT0PkYg,1:00V0V_bEQ1IBFZDLg,1:00o0o_iggCT3NnAIt,1:00v0v_dHKeb5GMfOn,1:00j0j_6HEOLgyppFn,1:00s0s_2BfWwTkmJNB,1:01414_8rwgAAifjQg,1:00j0j_aUApP67IqwG,1:00j0j_7E2wxQaSKeR,1:00c0c_8Ii80iQ5eN4,1:00c0c_SYq4zp1of4,1:00G0G_aOVIoYDMDjV,1:00101_jFi7EbH3AAI,1:00n0n_36fURZbTcss,1:01717_9uziD3FOg1N,1:00C0C_380gl649oRg,1:00X0X_k9dgJraOiqC">
@@ -5612,10 +5621,10 @@ aviation - by owner
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">107</span>
+                <span class="rangeTo">106</span>
             </span>
             /
-            <span class="totalcount">107</span>
+            <span class="totalcount">106</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>

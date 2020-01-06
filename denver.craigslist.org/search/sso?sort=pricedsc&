@@ -285,35 +285,35 @@ for sale by owner
                value="141" class="catcheck multi_checkbox"
                data-abb="fuo" id="cat_fuo"
                checked="checked">
-        <a href="/search/fuo?sort=pricedsc" class="category">furniture</a> <span class="count">12885</span>
+        <a href="/search/fuo?sort=pricedsc" class="category">furniture</a> <span class="count">12859</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="5" class="catcheck multi_checkbox"
                data-abb="for" id="cat_for"
                checked="checked">
-        <a href="/search/for?sort=pricedsc" class="category">general for sale</a> <span class="count">10767</span>
+        <a href="/search/for?sort=pricedsc" class="category">general for sale</a> <span class="count">10722</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="122" class="catcheck multi_checkbox"
                data-abb="pts" id="cat_pts"
                checked="checked">
-        <a href="/search/pts?sort=pricedsc" class="category">auto parts</a> <span class="count">9308</span>
+        <a href="/search/pts?sort=pricedsc" class="category">auto parts</a> <span class="count">9256</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="93" class="catcheck multi_checkbox"
                data-abb="spo" id="cat_spo"
                checked="checked">
-        <a href="/search/spo?sort=pricedsc" class="category">sporting goods</a> <span class="count">9207</span>
+        <a href="/search/spo?sort=pricedsc" class="category">sporting goods</a> <span class="count">9183</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="97" class="catcheck multi_checkbox"
                data-abb="hsh" id="cat_hsh"
                checked="checked">
-        <a href="/search/hsh?sort=pricedsc" class="category">household items</a> <span class="count">6599</span>
+        <a href="/search/hsh?sort=pricedsc" class="category">household items</a> <span class="count">6569</span>
     </li>
 
         <li class="morecats js-only closed">
@@ -321,24 +321,24 @@ for sale by owner
             <span class="linklike closed"><span class="plusminus">+</span>show 40 more</span>
             <span class="linklike open"><span class="plusminus">&ndash;</span>hide 40 more</span>
 
-            <span class="count">77199</span>
+            <span class="count">76891</span>
     </li>
 </ul>
 
     <ul class="othercats closed">
     <li>
            <input type="checkbox" name="cat_id"
-               value="96" class="catcheck multi_checkbox"
-               data-abb="ele" id="cat_ele"
-               checked="checked">
-        <a href="/search/ele?sort=pricedsc" class="category">electronics</a> <span class="count">6384</span>
-    </li>
-    <li>
-           <input type="checkbox" name="cat_id"
                value="94" class="catcheck multi_checkbox"
                data-abb="clo" id="cat_clo"
                checked="checked">
-        <a href="/search/clo?sort=pricedsc" class="category">clothing &amp; accessories</a> <span class="count">6377</span>
+        <a href="/search/clo?sort=pricedsc" class="category">clothing &amp; accessories</a> <span class="count">6358</span>
+    </li>
+    <li>
+           <input type="checkbox" name="cat_id"
+               value="96" class="catcheck multi_checkbox"
+               data-abb="ele" id="cat_ele"
+               checked="checked">
+        <a href="/search/ele?sort=pricedsc" class="category">electronics</a> <span class="count">6350</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -352,231 +352,231 @@ for sale by owner
                value="145" class="catcheck multi_checkbox"
                data-abb="cto" id="cat_cto"
                checked="checked">
-        <a href="/search/cto?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">5079</span>
+        <a href="/search/cto?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">5088</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="95" class="catcheck multi_checkbox"
                data-abb="clt" id="cat_clt"
                checked="checked">
-        <a href="/search/clt?sort=pricedsc" class="category">collectibles</a> <span class="count">4993</span>
+        <a href="/search/clt?sort=pricedsc" class="category">collectibles</a> <span class="count">4976</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="118" class="catcheck multi_checkbox"
                data-abb="tls" id="cat_tls"
                checked="checked">
-        <a href="/search/tls?sort=pricedsc" class="category">tools</a> <span class="count">4423</span>
+        <a href="/search/tls?sort=pricedsc" class="category">tools</a> <span class="count">4403</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="107" class="catcheck multi_checkbox"
                data-abb="bab" id="cat_bab"
                checked="checked">
-        <a href="/search/bab?sort=pricedsc" class="category">baby &amp; kid stuff</a> <span class="count">3968</span>
+        <a href="/search/bab?sort=pricedsc" class="category">baby &amp; kid stuff</a> <span class="count">3959</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="150" class="catcheck multi_checkbox"
                data-abb="atq" id="cat_atq"
                checked="checked">
-        <a href="/search/atq?sort=pricedsc" class="category">antiques</a> <span class="count">3405</span>
+        <a href="/search/atq?sort=pricedsc" class="category">antiques</a> <span class="count">3369</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="98" class="catcheck multi_checkbox"
                data-abb="msg" id="cat_msg"
                checked="checked">
-        <a href="/search/msg?sort=pricedsc" class="category">musical instruments</a> <span class="count">3345</span>
+        <a href="/search/msg?sort=pricedsc" class="category">musical instruments</a> <span class="count">3336</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="149" class="catcheck multi_checkbox"
                data-abb="app" id="cat_app"
                checked="checked">
-        <a href="/search/app?sort=pricedsc" class="category">appliances</a> <span class="count">3152</span>
+        <a href="/search/app?sort=pricedsc" class="category">appliances</a> <span class="count">3116</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="133" class="catcheck multi_checkbox"
                data-abb="grd" id="cat_grd"
                checked="checked">
-        <a href="/search/grd?sort=pricedsc" class="category">farm &amp; garden</a> <span class="count">2695</span>
+        <a href="/search/grd?sort=pricedsc" class="category">farm &amp; garden</a> <span class="count">2670</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="132" class="catcheck multi_checkbox"
                data-abb="tag" id="cat_tag"
                checked="checked">
-        <a href="/search/tag?sort=pricedsc" class="category">toys &amp; games</a> <span class="count">2638</span>
+        <a href="/search/tag?sort=pricedsc" class="category">toys &amp; games</a> <span class="count">2636</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="68" class="catcheck multi_checkbox"
                data-abb="bik" id="cat_bik"
                checked="checked">
-        <a href="/search/bik?sort=pricedsc" class="category">bicycles</a> <span class="count">2184</span>
+        <a href="/search/bik?sort=pricedsc" class="category">bicycles</a> <span class="count">2169</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="44" class="catcheck multi_checkbox"
                data-abb="tix" id="cat_tix"
                checked="checked">
-        <a href="/search/tix?sort=pricedsc" class="category">tickets</a> <span class="count">2070</span>
+        <a href="/search/tix?sort=pricedsc" class="category">tickets</a> <span class="count">2069</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="7" class="catcheck multi_checkbox"
                data-abb="sys" id="cat_sys"
                checked="checked">
-        <a href="/search/sys?sort=pricedsc" class="category">computers</a> <span class="count">1756</span>
+        <a href="/search/sys?sort=pricedsc" class="category">computers</a> <span class="count">1747</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="135" class="catcheck multi_checkbox"
                data-abb="art" id="cat_art"
                checked="checked">
-        <a href="/search/art?sort=pricedsc" class="category">arts &amp; crafts</a> <span class="count">1689</span>
+        <a href="/search/art?sort=pricedsc" class="category">arts &amp; crafts</a> <span class="count">1686</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="136" class="catcheck multi_checkbox"
                data-abb="mat" id="cat_mat"
                checked="checked">
-        <a href="/search/mat?sort=pricedsc" class="category">materials</a> <span class="count">1488</span>
+        <a href="/search/mat?sort=pricedsc" class="category">materials</a> <span class="count">1477</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="120" class="catcheck multi_checkbox"
                data-abb="jwl" id="cat_jwl"
                checked="checked">
-        <a href="/search/jwl?sort=pricedsc" class="category">jewelry</a> <span class="count">1463</span>
-    </li>
-    <li>
-           <input type="checkbox" name="cat_id"
-               value="195" class="catcheck multi_checkbox"
-               data-abb="mpo" id="cat_mpo"
-               checked="checked">
-        <a href="/search/mpo?sort=pricedsc" class="category">motorcycle parts &amp; accessories</a> <span class="count">1318</span>
+        <a href="/search/jwl?sort=pricedsc" class="category">jewelry</a> <span class="count">1470</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="134" class="catcheck multi_checkbox"
                data-abb="bfs" id="cat_bfs"
                checked="checked">
-        <a href="/search/bfs?sort=pricedsc" class="category">business</a> <span class="count">1309</span>
+        <a href="/search/bfs?sort=pricedsc" class="category">business</a> <span class="count">1307</span>
+    </li>
+    <li>
+           <input type="checkbox" name="cat_id"
+               value="195" class="catcheck multi_checkbox"
+               data-abb="mpo" id="cat_mpo"
+               checked="checked">
+        <a href="/search/mpo?sort=pricedsc" class="category">motorcycle parts &amp; accessories</a> <span class="count">1303</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="152" class="catcheck multi_checkbox"
                data-abb="hab" id="cat_hab"
                checked="checked">
-        <a href="/search/hab?sort=pricedsc" class="category">health and beauty</a> <span class="count">1178</span>
+        <a href="/search/hab?sort=pricedsc" class="category">health and beauty</a> <span class="count">1174</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="197" class="catcheck multi_checkbox"
                data-abb="bop" id="cat_bop"
                checked="checked">
-        <a href="/search/bop?sort=pricedsc" class="category">bicycle parts</a> <span class="count">1132</span>
+        <a href="/search/bop?sort=pricedsc" class="category">bicycle parts</a> <span class="count">1126</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="153" class="catcheck multi_checkbox"
                data-abb="mob" id="cat_mob"
                checked="checked">
-        <a href="/search/mob?sort=pricedsc" class="category">cell phones</a> <span class="count">1078</span>
+        <a href="/search/mob?sort=pricedsc" class="category">cell phones</a> <span class="count">1069</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="137" class="catcheck multi_checkbox"
                data-abb="pho" id="cat_pho"
                checked="checked">
-        <a href="/search/pho?sort=pricedsc" class="category">photo/video</a> <span class="count">1058</span>
+        <a href="/search/pho?sort=pricedsc" class="category">photo/video</a> <span class="count">1061</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="193" class="catcheck multi_checkbox"
                data-abb="hvo" id="cat_hvo"
                checked="checked">
-        <a href="/search/hvo?sort=pricedsc" class="category">heavy equipment</a> <span class="count">1051</span>
+        <a href="/search/hvo?sort=pricedsc" class="category">heavy equipment</a> <span class="count">1047</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="92" class="catcheck multi_checkbox"
                data-abb="bks" id="cat_bks"
                checked="checked">
-        <a href="/search/bks?sort=pricedsc" class="category">books &amp; magazines</a> <span class="count">935</span>
+        <a href="/search/bks?sort=pricedsc" class="category">books &amp; magazines</a> <span class="count">932</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="199" class="catcheck multi_checkbox"
                data-abb="sop" id="cat_sop"
                checked="checked">
-        <a href="/search/sop?sort=pricedsc" class="category">computer parts</a> <span class="count">919</span>
+        <a href="/search/sop?sort=pricedsc" class="category">computer parts</a> <span class="count">921</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="191" class="catcheck multi_checkbox"
                data-abb="snw" id="cat_snw"
                checked="checked">
-        <a href="/search/snw?sort=pricedsc" class="category">atvs, utvs, snowmobiles</a> <span class="count">909</span>
+        <a href="/search/snw?sort=pricedsc" class="category">atvs, utvs, snowmobiles</a> <span class="count">899</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="151" class="catcheck multi_checkbox"
                data-abb="vgm" id="cat_vgm"
                checked="checked">
-        <a href="/search/vgm?sort=pricedsc" class="category">video gaming</a> <span class="count">780</span>
+        <a href="/search/vgm?sort=pricedsc" class="category">video gaming</a> <span class="count">779</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="205" class="catcheck multi_checkbox"
                data-abb="tro" id="cat_tro"
                checked="checked">
-        <a href="/search/tro?sort=pricedsc" class="category">trailers</a> <span class="count">651</span>
+        <a href="/search/tro?sort=pricedsc" class="category">trailers</a> <span class="count">648</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="69" class="catcheck multi_checkbox"
                data-abb="mcy" id="cat_mcy"
                checked="checked">
-        <a href="/search/mcy?sort=pricedsc" class="category">motorcycles/scooters</a> <span class="count">560</span>
+        <a href="/search/mcy?sort=pricedsc" class="category">motorcycles/scooters</a> <span class="count">550</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="20" class="catcheck multi_checkbox"
                data-abb="wan" id="cat_wan"
                checked="checked">
-        <a href="/search/wan?sort=pricedsc" class="category">wanted</a> <span class="count">538</span>
+        <a href="/search/wan?sort=pricedsc" class="category">wanted</a> <span class="count">536</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="117" class="catcheck multi_checkbox"
                data-abb="emd" id="cat_emd"
                checked="checked">
-        <a href="/search/emd?sort=pricedsc" class="category">cds / dvds / vhs</a> <span class="count">509</span>
+        <a href="/search/emd?sort=pricedsc" class="category">cds / dvds / vhs</a> <span class="count">505</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="124" class="catcheck multi_checkbox"
                data-abb="rvs" id="cat_rvs"
                checked="checked">
-        <a href="/search/rvs?sort=pricedsc" class="category">recreational vehicles</a> <span class="count">285</span>
+        <a href="/search/rvs?sort=pricedsc" class="category">recreational vehicles</a> <span class="count">280</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="119" class="catcheck multi_checkbox"
                data-abb="boa" id="cat_boa"
                checked="checked">
-        <a href="/search/boa?sort=pricedsc" class="category">boats</a> <span class="count">261</span>
+        <a href="/search/boa?sort=pricedsc" class="category">boats</a> <span class="count">258</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="208" class="catcheck multi_checkbox"
                data-abb="avo" id="cat_avo"
                checked="checked">
-        <a href="/search/avo?sort=pricedsc" class="category">aviation</a> <span class="count">108</span>
+        <a href="/search/avo?sort=pricedsc" class="category">aviation</a> <span class="count">106</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"

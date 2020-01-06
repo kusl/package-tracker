@@ -804,10 +804,10 @@ aviation - by owner
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">107</span>
+                <span class="rangeTo">106</span>
             </span>
             /
-            <span class="totalcount">107</span>
+            <span class="totalcount">106</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -2038,7 +2038,9 @@ aviation - by owner
 </li>
          <li class="result-row" data-pid="7050401921">
 
-        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h20-10-aviation/7050401921.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h20-10-aviation/7050401921.html" class="result-image gallery" data-ids="1:00L0L_i0pJmL2Og8N,1:00H0H_cFGn6SycCvQ">
+                <span class="result-price">$150</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -2057,6 +2059,7 @@ aviation - by owner
 
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -2074,7 +2077,9 @@ aviation - by owner
 </li>
          <li class="result-row" data-pid="7050405151">
 
-        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h10-134/7050405151.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h10-134/7050405151.html" class="result-image gallery" data-ids="1:00L0L_i0pJmL2Og8N,1:00A0A_4txRXbqYONa,1:00r0r_eEzCc5K0jFC">
+                <span class="result-price">$150</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -2093,6 +2098,7 @@ aviation - by owner
 
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -4791,43 +4797,6 @@ aviation - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7042093285">
-
-        <a href="https://denver.craigslist.org/avo/d/commerce-city-62-cessna-skylane/7042093285.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-20 14:33" title="Fri 20 Dec 02:33:33 PM">Dec 20</time>
-
-
-        <a href="https://denver.craigslist.org/avo/d/commerce-city-62-cessna-skylane/7042093285.html" data-id="7042093285" class="result-title hdrlnk">62 Cessna Skylane Aircraft for Sale</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$65000</span>
-
-
-                <span class="result-hood"> (Commerce City)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7047248050">
 
         <a href="https://denver.craigslist.org/avo/d/breckenridge-iar-823/7047248050.html" class="result-image gallery" data-ids="1:00v0v_4uNtLG6TABh,1:00505_cpUpoOMrMte,1:00m0m_nVz8VhE7St,1:00j0j_9YpdxDIyiOU">
@@ -5391,6 +5360,46 @@ aviation - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7027288444">
+
+        <a href="https://fortcollins.craigslist.org/avo/d/greeley-turnigy-9x-transmitter-and/7027288444.html" class="result-image gallery" data-ids="1:00i0i_iCXopSN1yQ5">
+                <span class="result-price">$50</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-23 00:11" title="Mon 23 Dec 12:11:36 AM">Dec 23</time>
+
+
+        <a href="https://fortcollins.craigslist.org/avo/d/greeley-turnigy-9x-transmitter-and/7027288444.html" data-id="7027288444" class="result-title hdrlnk">Turnigy 9x Transmitter and Reciever</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$50</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Greeley)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7007494062" data-repost-of="6974521210">
 
         <a href="https://cosprings.craigslist.org/avo/d/elbert-boeing-767-access-panel/7007494062.html" class="result-image gallery" data-ids="1:00v0v_ld1mxjkzFUI">
@@ -5618,10 +5627,10 @@ aviation - by owner
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">107</span>
+                <span class="rangeTo">106</span>
             </span>
             /
-            <span class="totalcount">107</span>
+            <span class="totalcount">106</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
