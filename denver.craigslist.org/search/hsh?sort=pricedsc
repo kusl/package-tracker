@@ -3083,46 +3083,6 @@ household items - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050432020">
-
-        <a href="https://denver.craigslist.org/hsh/d/denver-ecovent-system/7050432020.html" class="result-image gallery" data-ids="1:00c0c_kVht7QQdZcN,1:00C0C_2Zvmw1sy6Jg,1:00H0H_k7WGmF0b5RP,1:00505_7LVFt7fVRlp,1:00606_kxOt26Ea0ca">
-                <span class="result-price">$1500</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 14:39" title="Sun 05 Jan 02:39:04 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/hsh/d/denver-ecovent-system/7050432020.html" data-id="7050432020" class="result-title hdrlnk">ECOVENT SYSTEM</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1500</span>
-
-
-                <span class="result-hood"> (SW DENVER)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7050279131">
 
         <a href="https://denver.craigslist.org/hsh/d/denver-acorn-stairlift-like-new/7050279131.html" class="result-image gallery" data-ids="1:00404_1DlZ5HUTvR">
@@ -4100,6 +4060,46 @@ household items - by owner
 
 
                 <span class="result-hood"> (Thornton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050432020">
+
+        <a href="https://denver.craigslist.org/hsh/d/denver-ecovent-system/7050432020.html" class="result-image gallery" data-ids="1:00c0c_kVht7QQdZcN,1:00C0C_2Zvmw1sy6Jg,1:00H0H_k7WGmF0b5RP,1:00505_7LVFt7fVRlp,1:00606_kxOt26Ea0ca">
+                <span class="result-price">$1200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 14:39" title="Sun 05 Jan 02:39:04 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/hsh/d/denver-ecovent-system/7050432020.html" data-id="7050432020" class="result-title hdrlnk">ECOVENT SYSTEM</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1200</span>
+
+
+                <span class="result-hood"> (SW DENVER)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

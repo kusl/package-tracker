@@ -862,7 +862,7 @@ heavy equipment - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1113</span>
+            <span class="totalcount">1112</span>
         </span>
 
         <a href="/search/hvo?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -898,7 +898,43 @@ heavy equipment - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7039706975" data-repost-of="6855300940">
+                             <li class="result-row" data-pid="7051104007">
+
+        <a href="https://denver.craigslist.org/hvo/d/aurora-2003-ford-f150/7051104007.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:55" title="Mon 06 Jan 03:55:24 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/hvo/d/aurora-2003-ford-f150/7051104007.html" data-id="7051104007" class="result-title hdrlnk">2003 ford f150</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1800</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039706975" data-repost-of="6855300940">
 
         <a href="https://denver.craigslist.org/hvo/d/bennett-bobcat-skidsteer-operation/7039706975.html" class="result-image gallery" data-ids="1:00505_7keHc5EjAgp,1:01212_4HUZVj2D7Js">
                 <span class="result-price">$10</span>
@@ -4231,45 +4267,6 @@ heavy equipment - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050753950">
-
-        <a href="https://denver.craigslist.org/hvo/d/albuquerque-custom-yamaha-gas-golf-cart/7050753950.html" class="result-image gallery" data-ids="1:00303_1irWb6MMDVU">
-                <span class="result-price">$1500</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 07:59" title="Mon 06 Jan 07:59:53 AM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/hvo/d/albuquerque-custom-yamaha-gas-golf-cart/7050753950.html" data-id="7050753950" class="result-title hdrlnk">Custom YAMAHA gas Golf Cart 21</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1500</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7050750283" data-repost-of="6934337705">
 
         <a href="https://denver.craigslist.org/hvo/d/denver-33-bucket-for-john-deere-225/7050750283.html" class="result-image gallery" data-ids="1:00e0e_iGn1A1QBe6m,1:00U0U_gK3Fp6IUm0W,1:00000_2vHo0IWUAxV,1:00E0E_9511PX4SNS8">
@@ -5684,7 +5681,7 @@ heavy equipment - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1113</span>
+            <span class="totalcount">1112</span>
         </span>
 
         <a href="/search/hvo?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>

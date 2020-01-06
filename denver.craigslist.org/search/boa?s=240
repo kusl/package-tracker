@@ -1,0 +1,2262 @@
+﻿<!DOCTYPE html>
+<html class="no-js"><head>
+    <title>denver boats - by owner  - craigslist</title>
+
+    <meta name="description" content="denver boats - by owner  - craigslist">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="canonical" href="https://denver.craigslist.org/search/boa?s=240">
+    <link rel="alternate" type="application/rss+xml" href="https://denver.craigslist.org/search/boa?format=rss&amp;s=240" title="RSS feed for craigslist | denver boats - by owner  - craigslist">
+        <link rel="prev" href="https://denver.craigslist.org/search/boa?s=120">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=f45c4074e9853c0ceb280398a8131359">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=bc035cbbc3978b0ec9df93944cdf349b">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=33e3dd14c7deed955c83b6927c5e1f07">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=9bea97021e746649c6837e95dd9723e8">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=d8743547c59d5ad31d4d7294c7e2f7f2">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+
+    
+        <script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "13";
+var areaRegion = "CO";
+var catAbb = "boa";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "&#x0024;";
+var defaultView = "grid";
+var expiredFavIDs = null;
+var imageConfig = {"1":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]},"0":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450"]},"2":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]}};
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+var maxResults = 3000;
+var noImageText = "no image";
+var pID = null;
+var postalLat = null;
+var postalLon = null;
+var purveyorCategories = {"owner":"boa","dealer":"bod","all":"boo"};
+var searchDistance = null;
+var sectionAbb = "sso";
+var sectionBase = "sss";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var showingBanished = 0;
+var showingFavorites = 0;
+var starHint = "save this post in your favorites list";
+var subarea = null;
+var zoomToPosting = null;
+--></script>
+    
+</head>
+<body class="search has-map">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <section class="page-container" id="page-top">
+        <div class="bglogo"></div>
+        <div class="tryapp">
+    try the craigslist app &raquo;
+    <a class="appstorebtn"
+    href="https://play.google.com/store/apps/details?id=org.craigslist.CraigslistMobile">
+        Android
+    </a>
+    <a class="appstorebtn"
+    href="https://apps.apple.com/us/app/craigslist/id1336642410">
+        iOS
+    </a>
+</div>
+<header class="global-header wide">
+   <a class="header-logo" name="logoLink" href="/">CL</a>
+
+    <nav class="breadcrumbs-container">
+<form id="breadcrumbform" class="breadcrumbs-form" method="get" action="/search/boa" data-action="/search/###/boa">
+    
+    <ul class="breadcrumbs ">
+        <li class="crumb area">
+            
+            <span class="no-js">
+                <a href="/">denver</a>
+            </span>
+                <select name="areaAbb" id="areaAbb" class="js-only">
+                    <option value="denver">denver</option>
+                        <option value="boulder">boulder</option>
+                        <option value="cosprings">colo springs</option>
+                        <option value="eastco">eastern CO</option>
+                        <option value="fortcollins">fort collins</option>
+                        <option value="rockies">high rockies</option>
+                        <option value="pueblo">pueblo</option>
+                        <option value="scottsbluff">scottsbluff</option>
+                        <option value="westslope">western slope</option>
+                </select>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb section">
+                    <select name="catAbb" id="catAbb">
+                        <option value="ccc">community</option>
+                        <option value="eee">events</option>
+                        <option value="sss" selected>for sale</option>
+                        <option value="ggg">gigs</option>
+                        <option value="hhh">housing</option>
+                        <option value="jjj">jobs</option>
+                        <option value="rrr">resumes</option>
+                        <option value="bbb">services</option>
+                    </select>
+                <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb category">
+            <select id="subcatAbb" class="js-only">
+                <option value="sso">all</option>
+                    <option value="atq">antiques</option>
+                    <option value="app">appliances</option>
+                    <option value="art">arts+crafts</option>
+                    <option value="snw">atvs/utvs/snow</option>
+                    <option value="pts">auto parts</option>
+                    <option value="wto">auto wheels &amp; tires</option>
+                    <option value="avo">aviation</option>
+                    <option value="bab">baby+kids</option>
+                    <option value="bar">barter</option>
+                    <option value="bop">bike parts</option>
+                    <option value="bik">bikes</option>
+                    <option value="bpo">boat parts</option>
+                    <option value="boa" selected>boats</option>
+                    <option value="bks">books</option>
+                    <option value="bfs">business</option>
+                    <option value="cto">cars+trucks</option>
+                    <option value="emd">cds/dvd/vhs</option>
+                    <option value="mob">cell phones</option>
+                    <option value="clo">clothes+acc</option>
+                    <option value="clt">collectibles</option>
+                    <option value="sop">computer parts</option>
+                    <option value="sys">computers</option>
+                    <option value="ele">electronics</option>
+                    <option value="grd">farm+garden</option>
+                    <option value="zip">free stuff</option>
+                    <option value="fuo">furniture</option>
+                    <option value="gms">garage sales</option>
+                    <option value="for">general</option>
+                    <option value="hab">beauty+hlth</option>
+                    <option value="hvo">heavy equipment</option>
+                    <option value="hsh">household</option>
+                    <option value="jwl">jewelry</option>
+                    <option value="mat">materials</option>
+                    <option value="mpo">motorcycle parts</option>
+                    <option value="mcy">motorcycles</option>
+                    <option value="msg">music instr</option>
+                    <option value="pho">photo+video</option>
+                    <option value="rvs">RVs</option>
+                    <option value="spo">sporting</option>
+                    <option value="tix">tickets</option>
+                    <option value="tls">tools</option>
+                    <option value="tag">toys+games</option>
+                    <option value="tro">trailers</option>
+                    <option value="vgm">video gaming</option>
+                    <option value="wan">wanted</option>
+            </select><span class="no-js">boats - by owner</span>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb no-js">
+            <input type="submit" value="go">
+        </li>
+    </ul>
+</form>
+    </nav>
+
+<div class="userlinks">
+    <ul class="user-actions">
+        <li class="user post">
+            <a href="https://post.craigslist.org/c/den">post</a>
+        </li>
+        <li class="user account">
+            <a href="https://accounts.craigslist.org/login/home">account</a>
+        </li>
+    </ul>
+    <ul class="user-favs-discards">
+        <li class="user">
+            <div class="favorites">
+                <a href="#" class="favlink"><span class="icon icon-star fav" aria-hidden="true"></span><span class="fav-number">0</span><span class="fav-label"> favorites</span></a>
+            </div>
+        </li>
+        <li class="user discards">
+          <form class="unfavform js-only" method="POST" action="/favorites">
+            <div class="to-banish-page">
+              <input type="hidden" class="lastLink" name="lastLink" value="//denver.craigslist.org/search/boa?s=240">
+              <input type="hidden" class="lastTitle" name="lastTitle" value="denver boats - by owner  - craigslist">
+              <input type="hidden" class="unfaves" name="fl">
+              <input type="hidden" name="uf" value="1">
+              <a href="#" class="to-banish-page-link">
+                <span class="icon icon-trash red" aria-hidden="true"></span>
+                <span class="banished_count">0</span>
+                <span class="discards-label"> hidden</span>
+              </a>
+            </div>
+          </form>
+        </li>
+    </ul>
+</div>
+
+</header>
+<header class="global-header narrow">
+   <a class="header-logo" href="/">CL</a>
+    <nav class="breadcrumbs-container">
+
+<ul class="breadcrumbs">
+
+
+denver            &gt;
+
+boats - by owner
+
+</ul>
+
+
+    </nav>
+    <span class="linklike show-wide-header">...</span>
+</header>
+
+
+        <form id="searchform" class="search-form" action="/search/boa">
+            <div class="querybox">
+                
+                <div class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></div>
+                <input type="text" placeholder="search boats - by owner" name="query"
+                    id="query" value="" autocorrect="off" class="flatinput ui-autocomplete-input"
+                    autocapitalize="off" autocomplete="off" data-autocomplete="search">
+
+                <button type="submit" class="searchbtn">
+                    <span class="icon icon-search" aria-hidden="true"></span>
+                    <span class="screen-reader-text">press to search craigslist</span>
+                </button>
+                    <div class="savealert">
+                        <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fdenver%252Ecraigslist%252Eorg%252Fsearch%252Fboa"  title="save this search" >save search</a>
+                    </div>
+            </div>
+
+            <div class="search-options-container">
+    <h2 class="search-options-header linklike">
+        <div class="icon icon-toggle-gear" aria-hidden="true"></div>
+        options<span class="options-close">close</span>
+    </h2>
+    <input id="excats" type="hidden" name="excats">
+    <div class="search-options">
+        <div class="searchgroup categories">
+            <div class="cattitle">
+                  <a href="/search/boa" title="clear all search parameters" class="reset">boats - by owner</a>
+            </div>
+
+        </div>
+        <input type="hidden" name="userid" value="" />
+
+                <ul class="searchgroup buttongroup purveyor">
+                    <li class="button ">
+                        <a href="/search/boo" data-val="all">all</a>
+                    </li><li class="button sel">
+                        <a href="/search/boa" data-val="owner"> owner</a>
+                    </li><li class="button ">
+                        <a href="/search/bod" data-val="dealer">dealer</a>
+                    </li>
+                </ul>
+
+
+
+
+        <div class="searchgroup">
+            <ul>
+    <li>
+       <label class="srchType">
+           <input type="checkbox" name="srchType" class="" value="T" >
+           search titles only
+       </label>
+    </li>
+    <li>
+       <label class="hasPic">
+           <input type="checkbox" name="hasPic" class="autosubmit" value="1" >
+           has image
+       </label>
+    </li>
+    <li>
+       <label class="postedToday">
+           <input type="checkbox" name="postedToday" class="autosubmit" value="1" >
+           posted today
+       </label>
+    </li>
+    <li>
+       <label class="bundleDuplicates">
+           <input type="checkbox" name="bundleDuplicates" class="autosubmit" value="1" >
+           bundle duplicates
+       </label>
+    </li>
+    <li>
+       <label class="searchNearby">
+           <input type="checkbox" name="searchNearby" class="autosubmit" value="1" >
+           include nearby areas
+       </label>
+    </li>
+</ul>
+
+                <ul class="js-only nearbyAreas ">
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_0"
+                            value="319"
+                            disabled="disabled"
+                            />
+                            boulder, CO <small>(bou)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_2"
+                            value="210"
+                            disabled="disabled"
+                            />
+                            colorado springs <small>(cos)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_5"
+                            value="713"
+                            disabled="disabled"
+                            />
+                            eastern CO <small>(eco)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_10"
+                            value="568"
+                            disabled="disabled"
+                            />
+                            farmington, NM <small>(fnm)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_1"
+                            value="287"
+                            disabled="disabled"
+                            />
+                            fort collins / north CO <small>(ftc)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_4"
+                            value="288"
+                            disabled="disabled"
+                            />
+                            high rockies <small>(rck)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_8"
+                            value="668"
+                            disabled="disabled"
+                            />
+                            north platte, NE <small>(lbf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_9"
+                            value="688"
+                            disabled="disabled"
+                            />
+                            northwest KS <small>(nwk)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_3"
+                            value="315"
+                            disabled="disabled"
+                            />
+                            pueblo, CO <small>(pub)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_12"
+                            value="218"
+                            disabled="disabled"
+                            />
+                            santa fe / taos <small>(saf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_6"
+                            value="669"
+                            disabled="disabled"
+                            />
+                            scottsbluff / panhandle <small>(bff)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_13"
+                            value="687"
+                            disabled="disabled"
+                            />
+                            southwest KS <small>(swk)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_7"
+                            value="320"
+                            disabled="disabled"
+                            />
+                            western slope <small>(gjt)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_11"
+                            value="197"
+                            disabled="disabled"
+                            />
+                            wyoming <small>(wyo)</small>
+                        </label>
+                        </li>
+
+                        <li>
+                        <span class="nextNearbyZone linklike" data-zone="1">
+                            + show <span id="nearbyNumber">14</span> more...
+                        </span>
+                        </li>
+                </ul>
+        </div>
+
+            <div class="searchgroup">
+                <span class="searchfieldlabel">miles from zip</span>
+                <input size="5" maxlength="5" inputmode="numeric"
+                    class="flatinput searchInput search_distance" placeholder="miles"
+                    name="search_distance"
+                    value=""
+                />
+                <input type="text" class="flatinput searchInput postal" placeholder="from zip"
+                    size="7" name="postal" value="">
+                <span class="icon icon-locate"></span>
+            </div>
+
+
+    <div class="searchgroup minmax price">
+<span class="searchfieldlabel">price</span>
+    <input type="tel" name="min_price" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="">
+    <input type="tel" name="max_price" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+
+
+
+        <div class="searchgroup"><span class="searchfieldlabel">make and model</span>
+    <input
+        type="text"
+        class="flatinput auto_make_model"
+        placeholder="make / model"
+        name="auto_make_model"
+        value=""
+        data-autocomplete="makemodel" />
+</div><div class="searchgroup">    <div class="minmax boat_length_overall">
+<span class="searchfieldlabel">length overall (LOA)</span>
+    <input type="tel" name="min_boat_length_overall" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="">
+    <input type="tel" name="max_boat_length_overall" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+    <div class="minmax year_manufactured">
+<span class="searchfieldlabel">year manufactured</span>
+    <input type="tel" name="min_year_manufactured" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="">
+    <input type="tel" name="max_year_manufactured" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+</div><div class="searchgroup"><label class="crypto_currency_ok">
+        <input type="checkbox" name="crypto_currency_ok" value="1" class="autosubmit" />
+    cryptocurrency ok
+</label><br>
+<label class="delivery_available">
+        <input type="checkbox" name="delivery_available" value="1" class="autosubmit" />
+    delivery available
+</label><br>
+</div><div class="searchgroup"><div class="search-attribute hide-list" data-attr="language">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> language of posting
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="language_1" name="language" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    af
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_2" name="language" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    ca
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_3" name="language" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    da
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_4" name="language" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    de
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_5" name="language" class="multi_checkbox" value="5" type="checkbox"
+                     />
+                    en
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_6" name="language" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    es
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_7" name="language" class="multi_checkbox" value="7" type="checkbox"
+                     />
+                    fi
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_8" name="language" class="multi_checkbox" value="8" type="checkbox"
+                     />
+                    fr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_9" name="language" class="multi_checkbox" value="9" type="checkbox"
+                     />
+                    it
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_10" name="language" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    nl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_11" name="language" class="multi_checkbox" value="11" type="checkbox"
+                     />
+                    no
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_12" name="language" class="multi_checkbox" value="12" type="checkbox"
+                     />
+                    pt
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_13" name="language" class="multi_checkbox" value="13" type="checkbox"
+                     />
+                    sv
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_14" name="language" class="multi_checkbox" value="14" type="checkbox"
+                     />
+                    tl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_15" name="language" class="multi_checkbox" value="15" type="checkbox"
+                     />
+                    tr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_16" name="language" class="multi_checkbox" value="16" type="checkbox"
+                     />
+                    zh
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_17" name="language" class="multi_checkbox" value="17" type="checkbox"
+                     />
+                    ar
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_18" name="language" class="multi_checkbox" value="18" type="checkbox"
+                     />
+                    ja
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_19" name="language" class="multi_checkbox" value="19" type="checkbox"
+                     />
+                    ko
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_20" name="language" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    ru
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_21" name="language" class="multi_checkbox" value="21" type="checkbox"
+                     />
+                    vi
+                </label>
+            </li>
+
+            <li class="selectall js-only ">
+                <span class="all">select all</span>
+                <span class="none">deselect all</span>
+            </li>
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="condition">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> condition
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_10" name="condition" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    new
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_20" name="condition" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    like new
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_30" name="condition" class="multi_checkbox" value="30" type="checkbox"
+                     />
+                    excellent
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_40" name="condition" class="multi_checkbox" value="40" type="checkbox"
+                     />
+                    good
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_50" name="condition" class="multi_checkbox" value="50" type="checkbox"
+                     />
+                    fair
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_60" name="condition" class="multi_checkbox" value="60" type="checkbox"
+                     />
+                    salvage
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+<div class="search-attribute " data-attr="boat_propulsion_type">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> propulsion type
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="boat_propulsion_type_1" name="boat_propulsion_type" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    sail
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="boat_propulsion_type_2" name="boat_propulsion_type" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    power
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="boat_propulsion_type_3" name="boat_propulsion_type" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    human
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+</div>
+
+        <div class="searchgroup resetsearch">
+            <a href="/search/boa" title="clear all search parameters" class="reset linklike">reset</a>
+            <button type="submit" class="searchlink linklike">update search</button>
+        </div>
+
+<aside class="tsb">
+    <ul>
+        <li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+    </div>
+</div>
+
+
+            <div class="search-legend">
+<div class="search-view js-only">
+    <div class="dropdown dropdown-icons dropdown-arrows dropdown-view" role="toolbar" aria-label="view options" aria-expanded="false">
+        <ul class="dropdown-list">
+            <li class="dropdown-item mode sel">
+                <button title="show results in a list" data-selection="list" id="listview">
+                    <span class="view-list icon"></span>list
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results in a list with thumbnail pictures"  data-selection="pic"  id="picview" >
+                    <span class="view-thumb icon"></span>thumb
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results side-by-side with larger pictures" data-selection="grid" id="gridview">
+                    <span class="view-gallery icon"></span>gallery
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+                <li class="dropdown-item mode">
+                    <button title="show results on a map"  data-selection="map"  id="mapview" >
+                        <span class="view-map icon"></span>map
+                    </button>
+                    <span class="toggle-arrow"></span>
+                </li>
+        </ul>
+    </div>
+</div>
+                <div class="search-sort" >
+    <div class="dropdown dropdown-sort dropdown-arrows" data-default-sort="date" role="toolbar" aria-label="sort options" aria-expanded="false">
+        <ul class="dropdown-list">
+
+            <li class="dropdown-item mode sel" aria-selected="true">
+                <a data-selection="date" title="show newest matches first" href="/search/boa?sort=date&amp;">newest <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="priceasc" title="sort by price, lowest to highest" href="/search/boa?sort=priceasc&amp;">price &uarr; <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="pricedsc" title="sort by price, highest to lowest" href="/search/boa?sort=pricedsc&amp;">price &darr; <span class="toggle-arrow"></span></a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+                <div class="paginator buttongroup lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <a href="/search/boa" class="button first" title="first page">&lt;&lt;</a>
+        <span class="button first" title="first page">&lt;&lt;</span>
+        <a href="/search/boa?s=120" class="button prev" title="previous page">&lt; prev</a>
+        <span class="button prev" title="previous page">&lt; prev</span>
+
+        <span class="button pagenum">
+            <span class="range">
+                <span class="rangeFrom">241</span>
+                -
+                <span class="rangeTo">268</span>
+            </span>
+            /
+            <span class="totalcount">268</span>
+        </span>
+
+        <a href="" class="button next" title="next page">next &gt; </a>
+        <span class="button next" title="next page"> next &gt; </span>
+    </span>
+</div>
+
+                
+            </div>
+            <div class="content" id="sortable-results" >
+                <section class="favlistsection">
+                    <section class="favlistinfo">
+                    </section>
+                    <section class="banishlistinfo">
+                    </section>
+                </section>
+
+                    
+
+
+<div class="open-map-view-button">
+    <span>see in map view</span>
+</div>
+<div id="mapcontainer" data-arealat="39.739201" data-arealon="-104.984001">
+    <div id="noresult-overlay"></div>
+    <div id="noresult-text">
+        <span class="message">No mappable items found</span>
+    </div>
+    <div id="map" class="loading">
+        <div class="close-full-screen-map-mode-button">close fullscreen</div>
+        <div class="close-map-view-button">close map</div>
+    </div>
+</div>
+
+                <ul class="rows">
+                             <li class="result-row" data-pid="7012253122">
+
+        <a href="https://denver.craigslist.org/boa/d/arvada-2019-malibu-wakesetter-23-lsv/7012253122.html" class="result-image gallery" data-ids="1:00Y0Y_gLjfdJczf3q,1:00p0p_cBOXYm5PWiw,1:00i0i_7qDQ5GncPEo,1:00A0A_iXB2Ey9BFCl,1:00o0o_jnYj2IJYzOQ,1:00U0U_iP8BCcJiGcO,1:00a0a_4aVvIPcRD1w,1:01616_gvO9mUW5ecu,1:01414_5yKWG9kfqj7,1:00F0F_i1HRJXEEbG,1:01616_9Ggb9QqlOse,1:00C0C_hCXOPjepyvj">
+                <span class="result-price">$114995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-29 15:38" title="Fri 29 Nov 03:38:26 PM">Nov 29</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/arvada-2019-malibu-wakesetter-23-lsv/7012253122.html" data-id="7012253122" class="result-title hdrlnk">2019 Malibu Wakesetter 23 LSV</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$114995</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7029094248">
+
+        <a href="https://denver.craigslist.org/boa/d/bennett-bayliner/7029094248.html" class="result-image gallery" data-ids="1:01515_dLSAi4nLJtX,1:00o0o_k1eijsbvoMA,1:00Q0Q_h23gT7hGlfZ,1:01313_hohPmBmWz7t,1:00a0a_81rc0Ijr2nY,1:00909_9wUSWBvKrdw,1:00H0H_6hjxa6KkQPn">
+                <span class="result-price">$7000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-29 12:31" title="Fri 29 Nov 12:31:43 PM">Nov 29</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/bennett-bayliner/7029094248.html" data-id="7029094248" class="result-title hdrlnk">Bayliner</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$7000</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7028716634">
+
+        <a href="https://denver.craigslist.org/boa/d/englewood-wetsounds-rev-485-tower/7028716634.html" class="result-image gallery" data-ids="1:00U0U_4pqq57Rn3aa,1:00s0s_9lZGdnI6FDT">
+                <span class="result-price">$150</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-28 15:49" title="Thu 28 Nov 03:49:24 PM">Nov 28</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/englewood-wetsounds-rev-485-tower/7028716634.html" data-id="7028716634" class="result-title hdrlnk">Wetsounds Rev 485 Tower Speakers</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$150</span>
+
+
+                <span class="result-hood"> (Englewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7028672564">
+
+        <a href="https://denver.craigslist.org/boa/d/skeeter-sho-ft-single-console/7028672564.html" class="result-image gallery" data-ids="1:00R0R_jOPuX61hhdT,1:00303_8h8ppdghBlq,1:01717_9Ef2cQfwd0Z,1:00O0O_89qAN9lvfqX,1:00r0r_iuepNFbWZ5C">
+                <span class="result-price">$27000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-28 13:25" title="Thu 28 Nov 01:25:04 PM">Nov 28</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/skeeter-sho-ft-single-console/7028672564.html" data-id="7028672564" class="result-title hdrlnk">SKEETER SHO 200 19 FT SINGLE CONSOLE /[</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$27000</span>
+
+
+                <span class="result-hood"> (SUNNYSIDE)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7028590544" data-repost-of="6834590899">
+
+        <a href="https://denver.craigslist.org/boa/d/aurora-s2-69/7028590544.html" class="result-image gallery" data-ids="1:01717_4evEfZTUOKk,1:00P0P_3gFrAd4dFMK,1:01313_epa6HbteMRT,1:00h0h_gAQtz1rdZya,1:01414_jySPe8rLCET,1:00C0C_bsvI2TG9Rou,1:00p0p_9GYaD6vCW58,1:00V0V_hBcWicESBNg,1:00909_6nSQeXwYABY,1:00404_efJlCeIsuI,1:00G0G_TVeKT4wk8G,1:00u0u_lH2s9SVJIxM,1:00I0I_3INgVjImpkW,1:00f0f_il8vcoCc6nY,1:00d0d_hhstiJJOlZo,1:00X0X_1asjxQBlgEW,1:00E0E_6chu3ZqLLSJ,1:00o0o_gmBXzxTpbxt,1:00t0t_7A8j57iSUh4">
+                <span class="result-price">$9900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-28 10:15" title="Thu 28 Nov 10:15:36 AM">Nov 28</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/aurora-s2-69/7028590544.html" data-id="7028590544" class="result-title hdrlnk">S2 6.9</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$9900</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7028374165" data-repost-of="6996920162">
+
+        <a href="https://denver.craigslist.org/boa/d/denver-1959-lone-star-boat-catalog/7028374165.html" class="result-image gallery" data-ids="1:00202_ensKrmQp1J0,1:00R0R_bQo1NsIwSDN,1:00808_ikv8XKka9I5,1:00t0t_66IsxfhC0S8,1:00w0w_kHJRENwMzan,1:01313_da3B45w3UIj,1:00v0v_f0C4TK7q2HA,1:00606_558FJwdpV4T">
+                <span class="result-price">$15</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-27 17:35" title="Wed 27 Nov 05:35:21 PM">Nov 27</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/denver-1959-lone-star-boat-catalog/7028374165.html" data-id="7028374165" class="result-title hdrlnk">1959 Lone Star Boat Catalog</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$15</span>
+
+
+                <span class="result-hood"> (Thornton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7028357451">
+
+        <a href="https://denver.craigslist.org/boa/d/masonville-sea-ray-310-sundancer/7028357451.html" class="result-image gallery" data-ids="1:00k0k_8tUT4UEcvKW,1:00G0G_39Nu9zFUoZO,1:00H0H_i9cc1CsP7GY,1:00g0g_7kSb0e7caPN,1:00202_7GzKjm8y9KL,1:00H0H_eBHcNHwhI5s,1:00t0t_b1LOBMe9kw9,1:00G0G_7DAEBQiL8rb,1:00606_2LO5WU1mB7,1:00j0j_gqFfkl9aWrm,1:00d0d_5rddcT2tNB5,1:00j0j_jLPIiPfxqpA,1:00C0C_8TCQUcUcLY3,1:00Q0Q_iX7Pji2UOa6,1:01313_eM4fWnM2cDA,1:00000_e0w7jx0vpeS,1:00Z0Z_67CoRoiXvfT,1:00K0K_79ZvthtMaeN,1:00404_hk9rembouzS,1:00T0T_gmuVrxrNDJu,1:01717_dkV0XMrZwhS,1:00e0e_5HRmLac4OvZ,1:00d0d_LayEtPl4sm,1:00000_1AKLflh4YeN">
+                <span class="result-price">$52000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-27 17:09" title="Wed 27 Nov 05:09:05 PM">Nov 27</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/masonville-sea-ray-310-sundancer/7028357451.html" data-id="7028357451" class="result-title hdrlnk">Sea Ray 310 Sundancer</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$52000</span>
+
+
+                <span class="result-hood"> (Loveland)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7028346063">
+
+        <a href="https://denver.craigslist.org/boa/d/pueblo-1998-bayliner-capri-boat/7028346063.html" class="result-image gallery" data-ids="1:00x0x_6LPhmzg651B,1:00o0o_iXOpEyS57Nq,1:00B0B_a0ZDqxHZRLG,1:00Y0Y_lxK8F9XudF3,1:00q0q_2WV8yyQ3ZwA,1:00m0m_6TKmPr4460s,1:00G0G_k761QuK3RoH,1:00N0N_4xx1fx64Ak1,1:00505_i3XLWOjRgaV,1:00l0l_83dJ2ASFpZT,1:00r0r_2b9xjXjMfyT,1:00303_b3VvSjVcgXx">
+                <span class="result-price">$2500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-27 16:30" title="Wed 27 Nov 04:30:46 PM">Nov 27</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/pueblo-1998-bayliner-capri-boat/7028346063.html" data-id="7028346063" class="result-title hdrlnk">1998 Bayliner capri Boat</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2500</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7026404708">
+
+        <a href="https://denver.craigslist.org/boa/d/denver-2002-mastercraft-star/7026404708.html" class="result-image gallery" data-ids="1:00202_8gYSj21Lh3O,1:00M0M_73QTaoDA51U">
+                <span class="result-price">$25000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-27 15:55" title="Wed 27 Nov 03:55:15 PM">Nov 27</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/denver-2002-mastercraft-star/7026404708.html" data-id="7026404708" class="result-title hdrlnk">2002 Mastercraft X-Star</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25000</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7025672489">
+
+        <a href="https://denver.craigslist.org/boa/d/castle-rock-party-barge-25-regency/7025672489.html" class="result-image gallery" data-ids="1:00D0D_e5d1R0x2Qqa,1:00B0B_7mL80BIRvsc,1:00303_imaSx6HTBEN">
+                <span class="result-price">$13000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-27 13:02" title="Wed 27 Nov 01:02:44 PM">Nov 27</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/castle-rock-party-barge-25-regency/7025672489.html" data-id="7025672489" class="result-title hdrlnk">Party Barge 25 Regency Edition</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$13000</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7021698122" data-repost-of="5077867297">
+
+        <a href="https://denver.craigslist.org/boa/d/zodiac-mk3-futura-fr/7021698122.html" class="result-image gallery" data-ids="1:00101_1sNCltUsaTn,1:01717_lhJPv1mxygj,1:00M0M_a7eH5nCzP33,1:00r0r_cyM5HpP07Xv,1:00L0L_a3RX9zHqp7n,1:00i0i_7CoKSj2FaBH,1:00z0z_3OaYu3xHhTI">
+                <span class="result-price">$1450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-26 16:47" title="Tue 26 Nov 04:47:37 PM">Nov 26</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/zodiac-mk3-futura-fr/7021698122.html" data-id="7021698122" class="result-title hdrlnk">Zodiac MK3 Futura FR</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1450</span>
+
+
+                <span class="result-hood"> (Carbondale, CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7010692983">
+
+        <a href="https://denver.craigslist.org/boa/d/carbondale-shaboomee-18-foot-huge-super/7010692983.html" class="result-image gallery" data-ids="1:00K0K_9lH1VnauaF,1:00J0J_gIPGae53R9x,1:00s0s_85iXwswXYmr,1:00o0o_jz9dLqtqITU,1:00o0o_boUdvpfoUW3,1:00q0q_a2IMfeDSqu2,1:00i0i_6cwzxLgfkCU,1:00H0H_cI2MH6aIXyp,1:01515_aUOCG6T0D1s,1:00k0k_jhHzJviiItF,1:00n0n_dIxNPKjcxzo,1:00G0G_7ForP5KSlha,1:00K0K_aJsz9SpBKYO,1:00O0O_16dQAdJOXiA,1:00t0t_3pYs5iEX259,1:00k0k_jhHzJviiItF">
+                <span class="result-price">$889</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-26 16:47" title="Tue 26 Nov 04:47:14 PM">Nov 26</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/carbondale-shaboomee-18-foot-huge-super/7010692983.html" data-id="7010692983" class="result-title hdrlnk">Shaboomee 18 FOOT HUGE SUPER SUP</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$889</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7027764734">
+
+        <a href="https://denver.craigslist.org/boa/d/dupont-baja/7027764734.html" class="result-image gallery" data-ids="1:01616_iriezkzViIy,1:00a0a_jo9Tg2bIORK,1:00101_1WpBCztdDIj,1:00808_fjoRMJx6nG5,1:00E0E_ftuNfSvWCRd,1:00M0M_dJjI0D9mtMT">
+                <span class="result-price">$8500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-26 16:23" title="Tue 26 Nov 04:23:42 PM">Nov 26</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/dupont-baja/7027764734.html" data-id="7027764734" class="result-title hdrlnk">BAJA</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$8500</span>
+
+
+                <span class="result-hood"> (Thornton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7027164078">
+
+        <a href="https://denver.craigslist.org/boa/d/castle-rock-2012-super-air-nautique-210/7027164078.html" class="result-image gallery" data-ids="1:00g0g_hBGnMgIVQk4,1:00b0b_gIV6iSSFJMG,1:00t0t_ir5XOxcrBDl,1:00F0F_58voN6M8yL7">
+                <span class="result-price">$58000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-25 17:26" title="Mon 25 Nov 05:26:37 PM">Nov 25</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/castle-rock-2012-super-air-nautique-210/7027164078.html" data-id="7027164078" class="result-title hdrlnk">2012 Super Air Nautique 210 Team Edition</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$58000</span>
+
+
+                <span class="result-hood"> (Castle Rock, CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7026760423">
+
+        <a href="https://denver.craigslist.org/boa/d/salida-christmas-rafting-package-14/7026760423.html" class="result-image gallery" data-ids="1:01212_1R9AcneVodI,1:00s0s_3VV6Ij2gqVU,1:00505_fHD0wV8UqRh">
+                <span class="result-price">$2900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-25 08:06" title="Mon 25 Nov 08:06:04 AM">Nov 25</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/salida-christmas-rafting-package-14/7026760423.html" data-id="7026760423" class="result-title hdrlnk">Christmas Rafting Package - 14&#39; Hyside raft, frame, oars, dry boxes</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2900</span>
+
+
+                <span class="result-hood"> (Salida)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7026660576">
+
+        <a href="https://denver.craigslist.org/boa/d/commerce-city-classic-accessories/7026660576.html" class="result-image gallery" data-ids="1:00707_cBDyJ2BeY6N,1:00j0j_7WaJRPsQel2,1:00T0T_biyNL053Q7B">
+                <span class="result-price">$220</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-25 01:22" title="Mon 25 Nov 01:22:29 AM">Nov 25</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/commerce-city-classic-accessories/7026660576.html" data-id="7026660576" class="result-title hdrlnk">Classic Accessories pontoon</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$220</span>
+
+
+                <span class="result-hood"> (Commerce City)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7026609300">
+
+        <a href="https://denver.craigslist.org/boa/d/colorado-springs-christmas-boat/7026609300.html" class="result-image gallery" data-ids="1:00Z0Z_xTxhyMou9a,1:00f0f_3L27yOeIhKm,1:00E0E_9ROV5z4j1Ed,1:01313_kz7uyJuh7m8,1:00b0b_1LXpjao2L8B,1:00t0t_cZbXm7kyyw7,1:00404_emeBlkyZCcr,1:00V0V_lNi2fxUC4YV">
+                <span class="result-price">$7200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-24 20:33" title="Sun 24 Nov 08:33:47 PM">Nov 24</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/colorado-springs-christmas-boat/7026609300.html" data-id="7026609300" class="result-title hdrlnk">Christmas boat!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$7200</span>
+
+
+                <span class="result-hood"> (Colorado Springs)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7026515021">
+
+        <a href="https://denver.craigslist.org/boa/d/littleton-26-mariah-shabah-price-reduced/7026515021.html" class="result-image gallery" data-ids="1:00h0h_4XLLScnZVWg,1:00S0S_25VxxL8F8XP,1:00h0h_cmEGDwYZxwf,1:00D0D_mo6kGSBwV7,1:00202_cpjn9RfkMBn,1:00x0x_gughch0kKo6">
+                <span class="result-price">$9500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-24 16:43" title="Sun 24 Nov 04:43:55 PM">Nov 24</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/littleton-26-mariah-shabah-price-reduced/7026515021.html" data-id="7026515021" class="result-title hdrlnk">26&#39; Mariah Shabah-price reduced!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$9500</span>
+
+
+                <span class="result-hood"> (Lone Tree/Highlands Ranch)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7026504299">
+
+        <a href="https://denver.craigslist.org/boa/d/lone-tree-kawasaki-jet-skis/7026504299.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-24 16:22" title="Sun 24 Nov 04:22:31 PM">Nov 24</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/lone-tree-kawasaki-jet-skis/7026504299.html" data-id="7026504299" class="result-title hdrlnk">Kawasaki Jet Skis</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$12000</span>
+
+
+                <span class="result-hood"> (Lone Tree/Highlands Ranch)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7012916013" data-repost-of="6913501029">
+
+        <a href="https://denver.craigslist.org/boa/d/eastlake-crownline-225br/7012916013.html" class="result-image gallery" data-ids="1:00w0w_1CM8KRqYLzF,1:00G0G_wAvON8OByM,1:00909_lgABrKtwNGg,1:00t0t_5oOBnP1gQoA,1:00808_cXAHVx1vCf1,1:00D0D_2tmD8Ekr4Ma,1:00P0P_igthucKIOwI,1:00505_5FbpUd9wWxx">
+                <span class="result-price">$6500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-24 14:59" title="Sun 24 Nov 02:59:14 PM">Nov 24</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/eastlake-crownline-225br/7012916013.html" data-id="7012916013" class="result-title hdrlnk">CROWNLINE 225BR</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6500</span>
+
+
+                <span class="result-hood"> (Thornton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7026387825">
+
+        <a href="https://denver.craigslist.org/boa/d/milliken-1981-wellcraft-bowrider/7026387825.html" class="result-image gallery" data-ids="1:00e0e_cPABRfpYFz1,1:00q0q_8zXstELlrKn,1:00c0c_fk5ef30Py4g,1:00C0C_1zitcI6t1gs,1:00N0N_jk4db9WIOJO">
+                <span class="result-price">$1500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-24 13:04" title="Sun 24 Nov 01:04:31 PM">Nov 24</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/milliken-1981-wellcraft-bowrider/7026387825.html" data-id="7026387825" class="result-title hdrlnk">1981 wellcraft bowrider</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1500</span>
+
+
+                <span class="result-hood"> (Milliken)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7009571506">
+
+        <a href="https://denver.craigslist.org/boa/d/denver-1974-chrysler-20ft/7009571506.html" class="result-image gallery" data-ids="1:01616_1DT1TIli8LN,1:00g0g_13zLWY3LmtB,1:00U0U_8581pHF13XO,1:00p0p_ba2VyJ5ft2k,1:00c0c_kfFfiaJWQI8,1:00S0S_kBO0CgV5l8g,1:00I0I_jkVJaOA0qBZ,1:00C0C_9BdqphK2itH,1:00J0J_ixKhFnPU9aK,1:00G0G_gFQRWYHNFHa,1:00L0L_a783gy0T4BR,1:00S0S_6SinmDvupON,1:00m0m_kPQIcSGRsIB,1:00c0c_kS1MMAnaG5P,1:00r0r_4XhFTjsok3C,1:00q0q_kqT2L8EyWTX,1:01212_fKa1rm6pYgb,1:01010_33pZhVatl5o,1:00U0U_3EcQz6t8ECf,1:00k0k_vMqhLLlnpg,1:00P0P_1byaytgNCY6,1:00a0a_6gf1JfsCQyq,1:00v0v_nIXX9l657B">
+                <span class="result-price">$3700</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-23 17:06" title="Sat 23 Nov 05:06:43 PM">Nov 23</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/denver-1974-chrysler-20ft/7009571506.html" data-id="7009571506" class="result-title hdrlnk">1974 Chrysler 20ft.</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3700</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7025867233">
+
+        <a href="https://denver.craigslist.org/boa/d/evergreen-celebrity-21-ft/7025867233.html" class="result-image gallery" data-ids="1:00303_1DanktLF7mm,1:00e0e_fmpb30IpMRe,1:01515_h0qpKpBsssW,1:00c0c_cJyezN9xJXw">
+                <span class="result-price">$5000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-23 13:22" title="Sat 23 Nov 01:22:22 PM">Nov 23</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/evergreen-celebrity-21-ft/7025867233.html" data-id="7025867233" class="result-title hdrlnk">Celebrity 21 ft</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5000</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7014350701">
+
+        <a href="https://denver.craigslist.org/boa/d/broomfield-seadoo-speedster-with-twin/7014350701.html" class="result-image gallery" data-ids="1:00000_jNqbyVJecZR,1:00P0P_ix7l2nQKExq,1:00U0U_bUXOWy3fxRs,1:00202_2m2Gq186Iko,1:01212_4BqmUFsTOCh,1:00n0n_kNnsypcUOLW,1:00p0p_lK1lOwqqH0A,1:00j0j_jrgjYpluWtg,1:00M0M_l97wIdMeqhh,1:00m0m_lRBFzDdoB6p">
+                <span class="result-price">$4500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-22 16:56" title="Fri 22 Nov 04:56:57 PM">Nov 22</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/broomfield-seadoo-speedster-with-twin/7014350701.html" data-id="7014350701" class="result-title hdrlnk">SEADOO SPEEDSTER with Twin Engines</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4500</span>
+
+
+                <span class="result-hood"> (WESTMINSTER)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7025330717">
+
+        <a href="https://denver.craigslist.org/boa/d/castle-rock-boat-for-sale/7025330717.html" class="result-image gallery" data-ids="1:01717_7L2Dt2cX4Lx,1:00000_dgX88DbX9Aw,1:01717_1YcT7Eg2BkD">
+                <span class="result-price">$15000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-22 15:45" title="Fri 22 Nov 03:45:27 PM">Nov 22</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/castle-rock-boat-for-sale/7025330717.html" data-id="7025330717" class="result-title hdrlnk">Boat for sale</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$15000</span>
+
+
+                <span class="result-hood"> (Castle Rock)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7007786451">
+
+        <a href="https://denver.craigslist.org/boa/d/aurora-1995-bayliner-brunswick/7007786451.html" class="result-image gallery" data-ids="1:00505_9QUvqwbY7q2,1:00j0j_6LTRWi0crVY,1:00U0U_cxKNUXuobVR,1:00X0X_WaPz2gxGCh,1:00303_4BQvc8sG3Pb,1:00M0M_fcbAOnettBT,1:00g0g_48bw1uYFecT,1:00k0k_iHcagueu596,1:00K0K_40zRqXTSGRy">
+                <span class="result-price">$5500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-22 14:43" title="Fri 22 Nov 02:43:27 PM">Nov 22</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/aurora-1995-bayliner-brunswick/7007786451.html" data-id="7007786451" class="result-title hdrlnk">1995 Bayliner Brunswick Anniversary Edition</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5500</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7025064072" data-repost-of="7021576597">
+
+        <a href="https://denver.craigslist.org/boa/d/watkins-sailboat-for-trade-or-sale/7025064072.html" class="result-image gallery" data-ids="1:00606_4J4uEDCGRjo,1:00707_e4BSLMEH1nO,1:00m0m_hxhr2YVnrCy,1:00W0W_4m0R588jqGx">
+                <span class="result-price">$1500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-22 10:30" title="Fri 22 Nov 10:30:36 AM">Nov 22</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/watkins-sailboat-for-trade-or-sale/7025064072.html" data-id="7025064072" class="result-title hdrlnk">Sailboat for trade or sale</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1500</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6999294796">
+
+        <a href="https://denver.craigslist.org/boa/d/aurora-2004-lund-wc14-honda-15hp-4/6999294796.html" class="result-image gallery" data-ids="1:00000_eiXJllk6gGj,1:00Q0Q_hOCyK6LSQ2v,1:00o0o_cfJAokM5tBw,1:00c0c_8eX31Jzl1Vf,1:00202_8B9UluFmFri,1:00R0R_kElu6C7678Q,1:00v0v_dnq8S0PDUqS,1:00U0U_auhN4gQaYtb,1:00P0P_lRrsXN04RGs,1:00P0P_9wtjV4tskCF,1:00C0C_bfhNEzm6Z0x,1:00Q0Q_hOCyK6LSQ2v">
+                <span class="result-price">$5300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-09 22:32" title="Sat 09 Nov 10:32:52 PM">Nov  9</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/aurora-2004-lund-wc14-honda-15hp-4/6999294796.html" data-id="6999294796" class="result-title hdrlnk">2004 Lund WC14 w/Honda 15Hp 4 Stroke</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5300</span>
+
+
+                <span class="result-hood"> (AURORA)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                    
+                    
+                </ul>
+            </div>
+
+            <div class="search-legend bottom">
+                <div class="search-view">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="search-sort">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="paginator buttongroup lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <a href="/search/boa" class="button first" title="first page">&lt;&lt;</a>
+        <span class="button first" title="first page">&lt;&lt;</span>
+        <a href="/search/boa?s=120" class="button prev" title="previous page">&lt; prev</a>
+        <span class="button prev" title="previous page">&lt; prev</span>
+
+        <span class="button pagenum">
+            <span class="range">
+                <span class="rangeFrom">241</span>
+                -
+                <span class="rangeTo">268</span>
+            </span>
+            /
+            <span class="totalcount">268</span>
+        </span>
+
+        <a href="" class="button next" title="next page">next &gt; </a>
+        <span class="button next" title="next page"> next &gt; </span>
+    </span>
+</div>
+
+            </div>
+
+            <section class="blurbs">
+                
+            </section>
+
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+        </form>
+
+<aside class="tsb">
+    <ul>
+        <li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+
+<div class="slidemessage">
+    <span class="fave">
+        <span class="star"></span>
+        favorited
+    </span>
+    <span class="unfave">
+        <span class="star"></span>
+        no longer favorited
+    </span>
+    <span class="hide">
+        <span class="trash"></span>
+        hidden
+    </span>
+    <span class="unhide">
+        <span class="trash"></span>
+        no longer hidden
+    </span>
+</div>
+
+<footer>
+        <span class="rss">
+            <a class="l" href="https://denver.craigslist.org/search/boa?format=rss&amp;s=240">RSS</a>
+            <a href="https://www.craigslist.org/about/rss">(?)</a><br>
+        </span>
+    <ul class="clfooter">
+        <li>&copy;  <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="https://www.craigslist.org/about/help/">help</a></li>
+        <li><a href="https://www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use.en-us">terms</a><sup class="neu">new</sup></li>
+        <li><a href="https://www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+    </ul>
+</footer>
+    </section>
+
+    <template id="gallerycarousel">
+        <div class="slider-info"></div><div class="slider-back arrow">&lt;</div><div class="slider-forward arrow">&gt;</div>
+    </template>
+
+    
+                <script>
+                try {
+                    if (
+                        !/\/\/.+\.craigslist\.org\/about\//.test(window.location.href)
+                        &&
+                        (!window.addEventListener || JSON.parse(JSON.stringify('x')) !== 'x')
+                    ) {
+                        throw "unsupported browser";
+                    }
+                } catch (e) {
+                    function cleanup() {
+                        document.body.innerHTML = '<div id="cl-unsupported-browser" style="margin:1em;font-size:150%;text-align:center;">We have detected you are using a browser that is missing critical features.<br><br>Please visit craigslist from a modern browser.</div>';
+                        document.body.style = "display:block";
+                    }
+
+                    try {
+                        document.body.style = "display:none";
+                    } catch (e) {
+                    }
+                    window.onload = cleanup;
+                    window.clUnsupportedBrowser = true;
+                }
+                </script>
+            <script src="//www.craigslist.org/js/general-concat.min.js?v=e9ae037676b2885c7a77adfdf33f8501" type="text/javascript" ></script>
+
+<script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish">
+                    <span class="icon icon-trash" role="button"></span>
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+                <span class="unbanish">
+                    <span class="icon icon-trash red" role="button"></span>
+                    unhide
+                </span>
+            </span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="icon icon-star" data-pid="{PostingID}" role="button">
+                <span class="screen-reader-text">favorite this post</span>
+            </span>
+            <span class="postingtitle">
+                <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                    <span class="banish">
+                        <span class="icon icon-trash" role="button"></span>
+                        <span class="screen-reader-text">hide this posting</span>
+                    </span>
+                    <span class="unbanish">
+                        <span class="icon icon-trash red" role="button"></span>
+                        <span class="screen-reader-text">unhide</span>
+                        unhide
+                    </span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer gallery">
+            <span class="slider-back arrow">&lt;</span><span class="slider-info"></span><span class="slider-forward arrow">&gt;</span>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <div class="timecontainer"></div>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=34556d4d2e18087b28df012cc48ea196" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/search-concat.min.js?v=30665e23846bcb69ae24b2b76bc99ad1" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/postings-concat.min.js?v=5da8d5d0efb2e814fc9b7cf2a309d6d1" type="text/javascript" ></script>
+
+</body>
+</html>

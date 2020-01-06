@@ -854,7 +854,7 @@ wanted - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">536</span>
+            <span class="totalcount">538</span>
         </span>
 
         <a href="/search/wan?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -1835,6 +1835,46 @@ wanted - by owner
 
 
                 <span class="result-hood"> (BROOMFIELD)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051139210">
+
+        <a href="https://denver.craigslist.org/wan/d/golden-cozy-2-bedroom-manufactured-home/7051139210.html" class="result-image gallery" data-ids="1:00l0l_9exZIgShwhz,1:00W0W_9lhiwlcxjIo,1:01212_fyYIKqEAVS7,1:00Q0Q_aBSkbi3ai5b,1:01313_4FhmFeMoYEb,1:00T0T_3lke7WxrkVO,1:00N0N_gu9gL4eGei3,1:00q0q_77y3VjnDurU,1:00c0c_kwm8ti5LkT0,1:00Y0Y_i6P0ruJMTBs,1:01313_gjOzuTBEHYz,1:00202_bjNPLtoUtQt,1:00p0p_lDg0JqYgZGu,1:00l0l_bQTATQ72in3,1:00z0z_cjAGeTbFJiB">
+                <span class="result-price">$54773</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:55" title="Mon 06 Jan 03:55:42 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/golden-cozy-2-bedroom-manufactured-home/7051139210.html" data-id="7051139210" class="result-title hdrlnk">Cozy 2 Bedroom Manufactured Home</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$54773</span>
+
+
+                <span class="result-hood"> (Golden)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5457,42 +5497,6 @@ wanted - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7040091281">
-
-        <a href="https://denver.craigslist.org/wan/d/denver-needing-car/7040091281.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-17 09:42" title="Tue 17 Dec 09:42:49 AM">Dec 17</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/denver-needing-car/7040091281.html" data-id="7040091281" class="result-title hdrlnk">Needing a car</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$800</span>
-
-
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5525,7 +5529,7 @@ wanted - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">536</span>
+            <span class="totalcount">538</span>
         </span>
 
         <a href="/search/wan?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

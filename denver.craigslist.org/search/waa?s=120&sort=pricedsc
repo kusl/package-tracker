@@ -855,7 +855,7 @@ wanted
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">565</span>
+            <span class="totalcount">567</span>
         </span>
 
         <a href="/search/waa?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -891,7 +891,44 @@ wanted
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7046054508">
+                             <li class="result-row" data-pid="7045588070">
+
+        <a href="https://denver.craigslist.org/wan/d/denver-trades-for-1999-ford-tarus/7045588070.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 21:50" title="Fri 27 Dec 09:50:08 PM">Dec 27</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/denver-trades-for-1999-ford-tarus/7045588070.html" data-id="7045588070" class="result-title hdrlnk">Trades for a 1999 Ford Tarus</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1000</span>
+
+
+                <span class="result-hood"> (Denver County)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046054508">
 
         <a href="https://denver.craigslist.org/wan/d/broomfield-wanted-volvo-wagon-project/7046054508.html" class="result-image gallery" data-ids="1:01414_bkmdvABmYnx,1:00O0O_b8sZjrppXQw,1:00909_7qQp3gLxmyv,1:00l0l_20lvyd1IDGh">
                 <span class="result-price">$1000</span>
@@ -5451,43 +5488,6 @@ wanted
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7030226340" data-repost-of="6281633327">
-
-        <a href="https://denver.craigslist.org/wan/d/broncos-chargers-3-tix-needed/7030226340.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-01 12:55" title="Sun 01 Dec 12:55:46 PM">Dec  1</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/broncos-chargers-3-tix-needed/7030226340.html" data-id="7030226340" class="result-title hdrlnk">Broncos Chargers 3 tix needed</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$100</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5520,7 +5520,7 @@ wanted
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">565</span>
+            <span class="totalcount">567</span>
         </span>
 
         <a href="/search/waa?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

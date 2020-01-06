@@ -967,7 +967,7 @@ trailers - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">676</span>
+            <span class="totalcount">674</span>
         </span>
 
         <a href="/search/tro?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -1022,43 +1022,6 @@ trailers - by owner
                 <span class="result-price">$1800</span>
 
 
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051123266" data-repost-of="7003020069">
-
-        <a href="https://denver.craigslist.org/tro/d/westminster-4x8-utility-trailer-with-24/7051123266.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 15:27" title="Mon 06 Jan 03:27:30 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/tro/d/westminster-4x8-utility-trailer-with-24/7051123266.html" data-id="7051123266" class="result-title hdrlnk">4x8&#39; Utility Trailer with 24&quot; sides</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1000</span>
-
-
-                <span class="result-hood"> (Westminster)</span>
 
                 <span class="result-tags">
                 </span>
@@ -5755,6 +5718,46 @@ trailers - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7049841849">
+
+        <a href="https://denver.craigslist.org/tro/d/castle-rock-sway-bars-and-control/7049841849.html" class="result-image gallery" data-ids="1:00Y0Y_bSJtJFOtuCU,1:00T0T_1tySXTMfHuF,1:00G0G_j6XRtkyQnrx,1:00T0T_ebljivu8ikT,1:00Q0Q_hMnWZWw6Typ">
+                <span class="result-price">$199</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 13:17" title="Sat 04 Jan 01:17:18 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/tro/d/castle-rock-sway-bars-and-control/7049841849.html" data-id="7049841849" class="result-title hdrlnk">Sway bars and control</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$199</span>
+
+
+                <span class="result-hood"> (Castle Rock)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5787,7 +5790,7 @@ trailers - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">676</span>
+            <span class="totalcount">674</span>
         </span>
 
         <a href="/search/tro?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
