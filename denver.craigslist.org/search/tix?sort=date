@@ -837,7 +837,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2098</span>
+            <span class="totalcount">2099</span>
         </span>
 
         <a href="/search/tix?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -880,7 +880,127 @@ tickets - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051126727">
+                             <li class="result-row" data-pid="7045155481" data-repost-of="4994539316">
+
+        <a href="https://denver.craigslist.org/tix/d/2-avalanche-vs-dallas-stars-1-14/7045155481.html" class="result-image gallery" data-ids="1:00303_18JdnuXJ5H5">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:49" title="Mon 06 Jan 03:49:40 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/2-avalanche-vs-dallas-stars-1-14/7045155481.html" data-id="7045155481" class="result-title hdrlnk">2 Avalanche vs. Dallas Stars (1/14)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (section 130, row 8, aisle seats)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045157950" data-repost-of="4994539316">
+
+        <a href="https://denver.craigslist.org/tix/d/4-denver-nuggets-vs-charlotte-hornets-1/7045157950.html" class="result-image gallery" data-ids="1:00f0f_kHQiHlghZt3">
+                <span class="result-price">$60</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:49" title="Mon 06 Jan 03:49:01 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/4-denver-nuggets-vs-charlotte-hornets-1/7045157950.html" data-id="7045157950" class="result-title hdrlnk">4 Denver Nuggets vs. Charlotte Hornets (1/15)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60</span>
+
+
+                <span class="result-hood"> (section 110, row HH, aisle seats)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051127216">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish-pit-tickets/7051127216.html" class="result-image gallery" data-ids="1:01111_ctR08XfrMfg">
+                <span class="result-price">$450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:33" title="Mon 06 Jan 03:33:08 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish-pit-tickets/7051127216.html" data-id="7051127216" class="result-title hdrlnk">Billie Eilish PIT tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$450</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051126727">
 
         <a href="https://denver.craigslist.org/tix/d/westminster-thom-yorke/7051126727.html" class="result-image gallery empty"></a>
 
@@ -4547,7 +4667,7 @@ tickets - by owner
 </li>
          <li class="result-row" data-pid="7041824672" data-repost-of="4994539316">
 
-        <a href="https://denver.craigslist.org/tix/d/4-nuggets-vs-cavaliers/7041824672.html" class="result-image gallery" data-ids="1:00808_amtI96GrSET">
+        <a href="https://denver.craigslist.org/tix/d/2-nuggets-vs-cavaliers/7041824672.html" class="result-image gallery" data-ids="1:00808_amtI96GrSET">
                 <span class="result-price">$1</span>
         </a>
 
@@ -4559,7 +4679,7 @@ tickets - by owner
             <time class="result-date" datetime="2020-01-05 11:53" title="Sun 05 Jan 11:53:39 AM">Jan  5</time>
 
 
-        <a href="https://denver.craigslist.org/tix/d/4-nuggets-vs-cavaliers/7041824672.html" data-id="7041824672" class="result-title hdrlnk">4 Nuggets vs Cavaliers</a>
+        <a href="https://denver.craigslist.org/tix/d/2-nuggets-vs-cavaliers/7041824672.html" data-id="7041824672" class="result-title hdrlnk">2 Nuggets vs Cavaliers</a>
 
 
         <span class="result-meta">
@@ -5339,126 +5459,6 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050211228">
-
-        <a href="https://denver.craigslist.org/tix/d/englewood-2-tix-for-sam-bush/7050211228.html" class="result-image gallery" data-ids="1:00202_g59jC1sSsIx">
-                <span class="result-price">$77</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 08:37" title="Sun 05 Jan 08:37:23 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/englewood-2-tix-for-sam-bush/7050211228.html" data-id="7050211228" class="result-title hdrlnk">2 tix for Sam Bush 2/29/20</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$77</span>
-
-
-                <span class="result-hood"> (Englewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7044066613">
-
-        <a href="https://denver.craigslist.org/tix/d/denver-music-of-queen-with-colorado/7044066613.html" class="result-image gallery" data-ids="1:00b0b_1srMKs59JfP">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 08:06" title="Sun 05 Jan 08:06:10 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/denver-music-of-queen-with-colorado/7044066613.html" data-id="7044066613" class="result-title hdrlnk">Music of Queen with Colorado Symphony</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Boettcher Concert Hall)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7043198914">
-
-        <a href="https://denver.craigslist.org/tix/d/denver-two-subscriber-tickets-to-the/7043198914.html" class="result-image gallery" data-ids="1:00R0R_aPxhlCzommk">
-                <span class="result-price">$120</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 08:00" title="Sun 05 Jan 08:00:25 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/denver-two-subscriber-tickets-to-the/7043198914.html" data-id="7043198914" class="result-title hdrlnk">Two subscriber tickets to The Sponge Bob Musical</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$120</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5491,7 +5491,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2098</span>
+            <span class="totalcount">2099</span>
         </span>
 
         <a href="/search/tix?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>

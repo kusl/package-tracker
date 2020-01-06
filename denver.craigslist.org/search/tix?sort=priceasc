@@ -837,7 +837,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2068</span>
+            <span class="totalcount">2072</span>
         </span>
 
         <a href="/search/tix?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -5150,7 +5150,7 @@ tickets - by owner
 </li>
          <li class="result-row" data-pid="7041824672" data-repost-of="4994539316">
 
-        <a href="https://denver.craigslist.org/tix/d/4-nuggets-vs-cavaliers/7041824672.html" class="result-image gallery" data-ids="1:00808_amtI96GrSET">
+        <a href="https://denver.craigslist.org/tix/d/2-nuggets-vs-cavaliers/7041824672.html" class="result-image gallery" data-ids="1:00808_amtI96GrSET">
                 <span class="result-price">$1</span>
         </a>
 
@@ -5162,7 +5162,7 @@ tickets - by owner
             <time class="result-date" datetime="2020-01-05 11:53" title="Sun 05 Jan 11:53:39 AM">Jan  5</time>
 
 
-        <a href="https://denver.craigslist.org/tix/d/4-nuggets-vs-cavaliers/7041824672.html" data-id="7041824672" class="result-title hdrlnk">4 Nuggets vs Cavaliers</a>
+        <a href="https://denver.craigslist.org/tix/d/2-nuggets-vs-cavaliers/7041824672.html" data-id="7041824672" class="result-title hdrlnk">2 Nuggets vs Cavaliers</a>
 
 
         <span class="result-meta">
@@ -5454,7 +5454,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2068</span>
+            <span class="totalcount">2072</span>
         </span>
 
         <a href="/search/tix?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

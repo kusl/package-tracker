@@ -837,7 +837,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2067</span>
+            <span class="totalcount">2070</span>
         </span>
 
         <a href="/search/tix?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -3679,6 +3679,46 @@ tickets - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7051127216">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish-pit-tickets/7051127216.html" class="result-image gallery" data-ids="1:01111_ctR08XfrMfg">
+                <span class="result-price">$450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:33" title="Mon 06 Jan 03:33:08 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish-pit-tickets/7051127216.html" data-id="7051127216" class="result-title hdrlnk">Billie Eilish PIT tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$450</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7038049981">
 
         <a href="https://denver.craigslist.org/tix/d/aurora-cirque-holidaze-ice-rudolph/7038049981.html" class="result-image gallery" data-ids="1:00j0j_bF7SRum0xwH">
@@ -5448,46 +5488,6 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7040360538">
-
-        <a href="https://denver.craigslist.org/tix/d/salt-lake-city-ticket-pair-tomorrow/7040360538.html" class="result-image gallery" data-ids="1:00x0x_hlYfwlnRuy,1:00Y0Y_6fSISI20AzM,1:00w0w_3qlBcY25aIi">
-                <span class="result-price">$350</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-17 16:38" title="Tue 17 Dec 04:38:31 PM">Dec 17</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/salt-lake-city-ticket-pair-tomorrow/7040360538.html" data-id="7040360538" class="result-title hdrlnk">Ticket Pair! TOMORROW! Broncos v Raiders</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$350</span>
-
-
-                <span class="result-hood"> (Salt Lake City)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5520,7 +5520,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2067</span>
+            <span class="totalcount">2070</span>
         </span>
 
         <a href="/search/tix?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

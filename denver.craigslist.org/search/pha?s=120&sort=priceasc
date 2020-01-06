@@ -863,7 +863,7 @@ photo/video
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1055</span>
+            <span class="totalcount">1059</span>
         </span>
 
         <a href="/search/pha?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -899,47 +899,7 @@ photo/video
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7039435739" data-repost-of="4812976160">
-
-        <a href="https://denver.craigslist.org/pho/d/lowe-pro-fanny-pack/7039435739.html" class="result-image gallery" data-ids="1:00O0O_6DwDhLvhDeq,1:00w0w_lAbFr8ZRcR1,1:00p0p_hHlkx1RbH9Q">
-                <span class="result-price">$20</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-16 09:25" title="Mon 16 Dec 09:25:22 AM">Dec 16</time>
-
-
-        <a href="https://denver.craigslist.org/pho/d/lowe-pro-fanny-pack/7039435739.html" data-id="7039435739" class="result-title hdrlnk">Lowe Pro Fanny Pack</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$20</span>
-
-
-                <span class="result-hood"> (Centennial)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7039606805" data-repost-of="6815821561">
+                             <li class="result-row" data-pid="7039606805" data-repost-of="6815821561">
 
         <a href="https://denver.craigslist.org/pho/d/golden-targus-camera-sling/7039606805.html" class="result-image gallery" data-ids="1:00v0v_d9HehhBYIvI,1:00N0N_6jayovlRqDQ,1:00p0p_6fheKPD5yZb">
                 <span class="result-price">$20</span>
@@ -5673,6 +5633,46 @@ photo/video
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7042056029">
+
+        <a href="https://denver.craigslist.org/pho/d/aurora-neewer-nw865s-flash-for-sony/7042056029.html" class="result-image gallery" data-ids="1:00N0N_gT7Qb8m6sn4,1:00707_iduEkWVErZp">
+                <span class="result-price">$40</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-20 13:35" title="Fri 20 Dec 01:35:05 PM">Dec 20</time>
+
+
+        <a href="https://denver.craigslist.org/pho/d/aurora-neewer-nw865s-flash-for-sony/7042056029.html" data-id="7042056029" class="result-title hdrlnk">Neewer NW865S flash for Sony cameras</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5705,7 +5705,7 @@ photo/video
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1055</span>
+            <span class="totalcount">1059</span>
         </span>
 
         <a href="/search/pha?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

@@ -834,10 +834,10 @@ tickets
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">75</span>
+                <span class="rangeTo">77</span>
             </span>
             /
-            <span class="totalcount">75</span>
+            <span class="totalcount">77</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -889,7 +889,84 @@ tickets
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051117548">
+                             <li class="result-row" data-pid="7051127216">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish-pit-tickets/7051127216.html" class="result-image gallery" data-ids="1:01111_ctR08XfrMfg">
+                <span class="result-price">$450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:33" title="Mon 06 Jan 03:33:08 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish-pit-tickets/7051127216.html" data-id="7051127216" class="result-title hdrlnk">Billie Eilish PIT tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$450</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051126727">
+
+        <a href="https://denver.craigslist.org/tix/d/westminster-thom-yorke/7051126727.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:32" title="Mon 06 Jan 03:32:23 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/westminster-thom-yorke/7051126727.html" data-id="7051126727" class="result-title hdrlnk">Thom Yorke</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$110</span>
+
+
+                <span class="result-hood"> (Westminister)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051117548">
 
         <a href="https://denver.craigslist.org/tix/d/denver-oysterhead/7051117548.html" class="result-image gallery empty"></a>
 
@@ -3908,7 +3985,48 @@ tickets
 
                     <h4 class="ban nearby"><span class="bantext">Few local results found for 2020-01-06. Here are some from nearby areas. Checking &#39;include nearby areas&#39; will expand your search.</span></h4>
 
-                             <li class="result-row" data-pid="7051097724">
+                             <li class="result-row" data-pid="7051130166">
+
+        <a href="https://boulder.craigslist.org/tid/d/lafayette-zero-ticket-fees-concerts/7051130166.html" class="result-image gallery" data-ids="1:00e0e_bAxFnEzjmKr">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:33" title="Mon 06 Jan 03:33:06 PM">Jan  6</time>
+
+
+        <a href="https://boulder.craigslist.org/tid/d/lafayette-zero-ticket-fees-concerts/7051130166.html" data-id="7051130166" class="result-title hdrlnk">ZERO TICKET FEES 💲 Concerts - Sports - Theater 💲 ALL TICKETS NO FEES</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou &gt; Cheap Tickets - Upfront Pricings - Secure Checkout)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                    <span class="pictag">img</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051097724">
 
         <a href="https://boulder.craigslist.org/tix/d/boulder-cu-basketball-vs-utah-1-10/7051097724.html" class="result-image gallery empty"></a>
 
@@ -4554,10 +4672,10 @@ tickets
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">75</span>
+                <span class="rangeTo">77</span>
             </span>
             /
-            <span class="totalcount">75</span>
+            <span class="totalcount">77</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
