@@ -286,14 +286,14 @@ for sale by dealer
                value="146" class="catcheck multi_checkbox"
                data-abb="ctd" id="cat_ctd"
                checked="checked">
-        <a href="/search/ctd?sort=priceasc" class="category">cars &amp; trucks</a> <span class="count">26190</span>
+        <a href="/search/ctd?sort=priceasc" class="category">cars &amp; trucks</a> <span class="count">26246</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="168" class="catcheck multi_checkbox"
                data-abb="rvd" id="cat_rvd"
                checked="checked">
-        <a href="/search/rvd?sort=priceasc" class="category">recreational vehicles</a> <span class="count">2139</span>
+        <a href="/search/rvd?sort=priceasc" class="category">recreational vehicles</a> <span class="count">2140</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -307,7 +307,7 @@ for sale by dealer
                value="162" class="catcheck multi_checkbox"
                data-abb="ppd" id="cat_ppd"
                checked="checked">
-        <a href="/search/ppd?sort=priceasc" class="category">appliances</a> <span class="count">1416</span>
+        <a href="/search/ppd?sort=priceasc" class="category">appliances</a> <span class="count">1415</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -322,7 +322,7 @@ for sale by dealer
             <span class="linklike closed"><span class="plusminus">+</span>show 37 more</span>
             <span class="linklike open"><span class="plusminus">&ndash;</span>hide 37 more</span>
 
-            <span class="count">4374</span>
+            <span class="count">4375</span>
     </li>
 </ul>
 
@@ -332,7 +332,7 @@ for sale by dealer
                value="194" class="catcheck multi_checkbox"
                data-abb="hvd" id="cat_hvd"
                checked="checked">
-        <a href="/search/hvd?sort=priceasc" class="category">heavy equipment</a> <span class="count">572</span>
+        <a href="/search/hvd?sort=priceasc" class="category">heavy equipment</a> <span class="count">573</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"

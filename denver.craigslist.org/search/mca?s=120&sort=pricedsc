@@ -4507,7 +4507,9 @@ motorcycles/scooters
 </li>
          <li class="result-row" data-pid="7051130036" data-repost-of="6975789299">
 
-        <a href="https://denver.craigslist.org/mcy/d/littleton-2014-ducati-multistrada-1200/7051130036.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/mcy/d/littleton-2014-ducati-multistrada-1200/7051130036.html" class="result-image gallery" data-ids="1:00Z0Z_6BU5LXZLzwP,1:00h0h_qmCQNrCXza,1:00N0N_c317fdxEh9p">
+                <span class="result-price">$11999</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -4527,6 +4529,7 @@ motorcycles/scooters
                 <span class="result-hood"> (Littleton)</span>
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">

@@ -863,7 +863,7 @@ motorcycle parts &amp; accessories
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1316</span>
+            <span class="totalcount">1324</span>
         </span>
 
         <a href="/search/mpa?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -1915,6 +1915,45 @@ motorcycle parts &amp; accessories
 
 
                 <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7038753912">
+
+        <a href="https://denver.craigslist.org/mpo/d/denver-harley-chopper-frame/7038753912.html" class="result-image gallery" data-ids="1:00A0A_kcVZHX7tWAr,1:01313_exflutrV39D,1:01616_frS2toNmGpg,1:00T0T_aLE6aOENTlL,1:00k0k_afjlgG81a1C,1:01616_caf49pTJewC">
+                <span class="result-price">$700</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:49" title="Mon 06 Jan 03:49:50 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mpo/d/denver-harley-chopper-frame/7038753912.html" data-id="7038753912" class="result-title hdrlnk">Harley Chopper Frame</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$700</span>
+
+
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5607,46 +5646,6 @@ motorcycle parts &amp; accessories
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7026400034">
-
-        <a href="https://denver.craigslist.org/mpo/d/parker-shoei-helmet/7026400034.html" class="result-image gallery" data-ids="1:00f0f_Mp351iz99p,1:00s0s_iLGx8l7MwP5,1:00h0h_7oi057BXiDQ">
-                <span class="result-price">$300</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-19 21:47" title="Thu 19 Dec 09:47:50 PM">Dec 19</time>
-
-
-        <a href="https://denver.craigslist.org/mpo/d/parker-shoei-helmet/7026400034.html" data-id="7026400034" class="result-title hdrlnk">Shoei Helmet</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$300</span>
-
-
-                <span class="result-hood"> (Parker)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5679,7 +5678,7 @@ motorcycle parts &amp; accessories
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1316</span>
+            <span class="totalcount">1324</span>
         </span>
 
         <a href="/search/mpa?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
