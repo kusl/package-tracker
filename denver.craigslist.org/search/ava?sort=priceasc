@@ -2038,7 +2038,9 @@ aviation
 </li>
          <li class="result-row" data-pid="7050401921">
 
-        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h20-10-aviation/7050401921.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h20-10-aviation/7050401921.html" class="result-image gallery" data-ids="1:00L0L_i0pJmL2Og8N,1:00H0H_cFGn6SycCvQ">
+                <span class="result-price">$150</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -2057,6 +2059,7 @@ aviation
 
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -2074,7 +2077,9 @@ aviation
 </li>
          <li class="result-row" data-pid="7050405151">
 
-        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h10-134/7050405151.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/avo/d/denver-david-clark-h10-134/7050405151.html" class="result-image gallery" data-ids="1:00L0L_i0pJmL2Og8N,1:00A0A_4txRXbqYONa,1:00r0r_eEzCc5K0jFC">
+                <span class="result-price">$150</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -2093,6 +2098,7 @@ aviation
 
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">

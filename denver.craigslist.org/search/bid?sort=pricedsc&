@@ -1456,7 +1456,7 @@ bicycles - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">164</span>
+            <span class="totalcount">165</span>
         </span>
 
         <a href="/search/bid?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -3432,6 +3432,46 @@ bicycles - by dealer
 
 
                 <span class="result-hood"> (Denver Area)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6995959010" data-repost-of="6937054989">
+
+        <a href="https://denver.craigslist.org/bid/d/wheat-ridge-in-stock-surly-ecr-bike-29/6995959010.html" class="result-image gallery" data-ids="1:00z0z_2RYKrxYZF2Q,1:00O0O_c490Z3XXc2m,1:00h0h_9Ni3snmsP2G,1:01010_LYPu2IFWiM,1:00t0t_dypy3h5yEC7,1:00101_f7vYe0nUVrX,1:00r0r_dO3XRNQXDtJ">
+                <span class="result-price">$1900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-10-09 10:34" title="Wed 09 Oct 10:34:04 AM">Oct  9</time>
+
+
+        <a href="https://denver.craigslist.org/bid/d/wheat-ridge-in-stock-surly-ecr-bike-29/6995959010.html" data-id="6995959010" class="result-title hdrlnk">IN STOCK! Surly ECR Bike - 29&quot;, Steel, Norwegian Cheese Brown</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1900</span>
+
+
+                <span class="result-hood"> (The Bike Broker - Denver)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -6248,46 +6288,6 @@ bicycles - by dealer
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050284880" data-repost-of="6970622511">
-
-        <a href="https://denver.craigslist.org/bid/d/wheat-ridge-kuat-nv-20-2-bike-hitch/7050284880.html" class="result-image gallery" data-ids="1:01717_afBLqrrQL8,1:00707_7oCXJJEbMQS,1:00e0e_kvmhnIUUrhV,1:01111_iqXDswN6PSw,1:00F0F_ah4eheY7Sz0">
-                <span class="result-price">$689</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 10:43" title="Sun 05 Jan 10:43:00 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/bid/d/wheat-ridge-kuat-nv-20-2-bike-hitch/7050284880.html" data-id="7050284880" class="result-title hdrlnk">Kuat NV 2.0 2 Bike Hitch Rack 2&quot; WE Take Trades</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$689</span>
-
-
-                <span class="result-hood"> (The Bike Broker- Wheat Ridge CO)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6320,7 +6320,7 @@ bicycles - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">164</span>
+            <span class="totalcount">165</span>
         </span>
 
         <a href="/search/bid?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

@@ -862,7 +862,7 @@ health and beauty
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1185</span>
+            <span class="totalcount">1188</span>
         </span>
 
         <a href="/search/haa?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -2873,6 +2873,46 @@ health and beauty
 
 
                 <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051067286">
+
+        <a href="https://denver.craigslist.org/hab/d/dupont-gently-used-acorn-chairlift/7051067286.html" class="result-image gallery" data-ids="1:00202_8f3NvXdaitL,1:01313_huaohrmYiGR,1:00P0P_42toTyqzl0R,1:00U0U_bafCxZWM3Tz,1:00S0S_cdmnlHE3BM5,1:00l0l_1WxyDqFTLs6,1:01313_k3HEv1lFBPY">
+                <span class="result-price">$1750</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:12" title="Mon 06 Jan 03:12:23 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/hab/d/dupont-gently-used-acorn-chairlift/7051067286.html" data-id="7051067286" class="result-title hdrlnk">Gently Used Acorn Chairlift</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1750</span>
+
+
+                <span class="result-hood"> (Thornton)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5613,46 +5653,6 @@ health and beauty
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7041005665">
-
-        <a href="https://denver.craigslist.org/hab/d/denver-res-med-s9-hpap-adapt-asv/7041005665.html" class="result-image gallery" data-ids="1:00T0T_gygdNAU7hY1">
-                <span class="result-price">$750</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-18 16:44" title="Wed 18 Dec 04:44:53 PM">Dec 18</time>
-
-
-        <a href="https://denver.craigslist.org/hab/d/denver-res-med-s9-hpap-adapt-asv/7041005665.html" data-id="7041005665" class="result-title hdrlnk">res med s9 hpap adapt asv</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$750</span>
-
-
-                <span class="result-hood"> (Lakewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5685,7 +5685,7 @@ health and beauty
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1185</span>
+            <span class="totalcount">1188</span>
         </span>
 
         <a href="/search/haa?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

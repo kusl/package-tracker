@@ -967,7 +967,7 @@ trailers
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1607</span>
+            <span class="totalcount">1606</span>
         </span>
 
         <a href="/search/tra?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -1225,46 +1225,6 @@ trailers
 
 
                 <span class="result-hood"> (Westminster)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7048398102">
-
-        <a href="https://denver.craigslist.org/tro/d/evergreen-trade-18k-rolex-for-trailer/7048398102.html" class="result-image gallery" data-ids="1:00U0U_4BDvp8IL7GQ,1:00E0E_gxP91DOz4Se">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 12:31" title="Sat 04 Jan 12:31:10 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/tro/d/evergreen-trade-18k-rolex-for-trailer/7048398102.html" data-id="7048398102" class="result-title hdrlnk">Trade 18K Rolex for Trailer</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Evergreen)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5765,6 +5725,46 @@ trailers
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7049767870">
+
+        <a href="https://denver.craigslist.org/tro/d/aurora-box-trailer/7049767870.html" class="result-image gallery" data-ids="1:00G0G_6nDPkAebg2,1:00h0h_aTUTQAzu9rw">
+                <span class="result-price">$450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 11:48" title="Sat 04 Jan 11:48:12 AM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/tro/d/aurora-box-trailer/7049767870.html" data-id="7049767870" class="result-title hdrlnk">Box trailer</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$450</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5797,7 +5797,7 @@ trailers
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1607</span>
+            <span class="totalcount">1606</span>
         </span>
 
         <a href="/search/tra?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

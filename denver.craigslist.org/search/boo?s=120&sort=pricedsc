@@ -906,7 +906,7 @@ boats
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">332</span>
+            <span class="totalcount">333</span>
         </span>
 
         <a href="/search/boo?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -4072,6 +4072,46 @@ boats
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7043588657">
+
+        <a href="https://denver.craigslist.org/boa/d/denver-sea-doo-1500-gti-3-seaters/7043588657.html" class="result-image gallery" data-ids="1:01313_dHfNcgbGXwL,1:00P0P_c89ffUTTtHk,1:00K0K_bN8niNNsXoR,1:00o0o_cXrCMA0dJDR">
+                <span class="result-price">$4500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:03" title="Mon 06 Jan 03:03:51 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/denver-sea-doo-1500-gti-3-seaters/7043588657.html" data-id="7043588657" class="result-title hdrlnk">2 - 2016 SEA-DOO 1500 GTI 3-SEATERS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4500</span>
+
+
+                <span class="result-hood"> (LAKEWOOD)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7047207895" data-repost-of="6839839092">
 
         <a href="https://denver.craigslist.org/boa/d/denver-canoe-and-camper-setup/7047207895.html" class="result-image gallery" data-ids="1:01515_4HgO8zh05K4,1:00909_9UAQvE8a2uT,1:00M0M_hDURIJpWvyF,1:00r0r_ePltohPAZEp,1:00f0f_kOnC4XYxCnt">
@@ -5662,46 +5702,6 @@ boats
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7049798001">
-
-        <a href="https://denver.craigslist.org/boa/d/arvada-fishing-boat/7049798001.html" class="result-image gallery" data-ids="1:01313_gxr8FN1JKbb,1:01010_841z98qeh9s,1:00101_kwu4tAgbYMm,1:00q0q_kQj5EeQnMlm,1:00c0c_bhUEmC6U5vj,1:00303_iR2Xmvp3DrZ,1:00o0o_eB31O0UrvjP,1:00R0R_5CED5Cae5jH,1:00V0V_GPtbIxEbN,1:00e0e_jtKWou3GmVy,1:00404_Fe2ecYJRxK,1:00E0E_aNRrwp7iDSs,1:01414_l4bu4jSGYru,1:01010_3g1OT9F1mhM">
-                <span class="result-price">$1700</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 12:23" title="Sat 04 Jan 12:23:55 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/boa/d/arvada-fishing-boat/7049798001.html" data-id="7049798001" class="result-title hdrlnk">Fishing Boat</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1700</span>
-
-
-                <span class="result-hood"> (Arvada)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5734,7 +5734,7 @@ boats
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">332</span>
+            <span class="totalcount">333</span>
         </span>
 
         <a href="/search/boo?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

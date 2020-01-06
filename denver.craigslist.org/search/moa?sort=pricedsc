@@ -909,7 +909,7 @@ cell phones
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1298</span>
+            <span class="totalcount">1292</span>
         </span>
 
         <a href="/search/moa?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -3873,46 +3873,6 @@ cell phones
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7048980503">
-
-        <a href="https://denver.craigslist.org/mob/d/arvada-samsung-galaxy-note-gb/7048980503.html" class="result-image gallery" data-ids="1:00606_ld2GVrgywaO,1:00505_dFu0ZhfsvJc,1:00a0a_i5GNuIC5ZOH">
-                <span class="result-price">$750</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-03 09:02" title="Fri 03 Jan 09:02:51 AM">Jan  3</time>
-
-
-        <a href="https://denver.craigslist.org/mob/d/arvada-samsung-galaxy-note-gb/7048980503.html" data-id="7048980503" class="result-title hdrlnk">Samsung Galaxy Note 10+ 256GB</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$750</span>
-
-
-                <span class="result-hood"> (Arvada)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7042579469">
 
         <a href="https://denver.craigslist.org/mob/d/aurora-iphone-xs-max-256gb-unlock/7042579469.html" class="result-image gallery" data-ids="1:00v0v_bJCs5E8Uue3,1:00f0f_2KGcPgERTlF,1:00P0P_aUrHeTklZDu">
@@ -5677,6 +5637,42 @@ cell phones
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7047702216">
+
+        <a href="https://denver.craigslist.org/mob/d/denver-iphone-11att/7047702216.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 20:25" title="Tue 31 Dec 08:25:20 PM">Dec 31</time>
+
+
+        <a href="https://denver.craigslist.org/mob/d/denver-iphone-11att/7047702216.html" data-id="7047702216" class="result-title hdrlnk">IPhone 11at&amp;t</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$700</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5709,7 +5705,7 @@ cell phones
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1298</span>
+            <span class="totalcount">1292</span>
         </span>
 
         <a href="/search/moa?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

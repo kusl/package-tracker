@@ -1457,7 +1457,7 @@ bicycles
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2334</span>
+            <span class="totalcount">2335</span>
         </span>
 
         <a href="/search/bia?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -2781,6 +2781,46 @@ bicycles
                 <span class="result-price">$3000</span>
 
 
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051093509">
+
+        <a href="https://denver.craigslist.org/bik/d/denver-2019-niner-jet-9-rdo-mountain/7051093509.html" class="result-image gallery" data-ids="1:00Y0Y_9M1yaJ2AgPU,1:00606_g0xAtjCEpnj,1:00I0I_8qWICRmys3m,1:00x0x_eSX9c89SUcs,1:00f0f_7P13fQ2GJF4,1:00K0K_30PEXT2mZR8,1:00d0d_7wXctRYg4Xg,1:00D0D_hkC6GAHiz0F,1:00202_6tI3kebMnZt,1:01717_fkJkuyEbIJC,1:00Q0Q_igZdkpEYjYS,1:00T0T_hoWhwliEoWq,1:00M0M_9xxwHUQXyU5,1:00E0E_89IcIbmmflN">
+                <span class="result-price">$3000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:12" title="Mon 06 Jan 03:12:19 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bik/d/denver-2019-niner-jet-9-rdo-mountain/7051093509.html" data-id="7051093509" class="result-title hdrlnk">2019 Niner Jet 9 RDO mountain bike-  size XL</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3000</span>
+
+
+                <span class="result-hood"> (Downtown Denver)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -6205,46 +6245,6 @@ bicycles
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7037680243" data-repost-of="6989699875">
-
-        <a href="https://denver.craigslist.org/bid/d/wheat-ridge-27lb-full-carbon-fiber/7037680243.html" class="result-image gallery" data-ids="1:00J0J_10jMytTEUgF,1:00e0e_5UTTnmGbaUk">
-                <span class="result-price">$2374</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-13 08:44" title="Fri 13 Dec 08:44:08 AM">Dec 13</time>
-
-
-        <a href="https://denver.craigslist.org/bid/d/wheat-ridge-27lb-full-carbon-fiber/7037680243.html" data-id="7037680243" class="result-title hdrlnk">27lb Full Carbon Fiber Borealis Fat Bike &quot;Crestone&quot;</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$2374</span>
-
-
-                <span class="result-hood"> (The Bike Broker- Wheat Ridge CO)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6277,7 +6277,7 @@ bicycles
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2334</span>
+            <span class="totalcount">2335</span>
         </span>
 
         <a href="/search/bia?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

@@ -854,7 +854,7 @@ books &amp; magazines
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">936</span>
+            <span class="totalcount">933</span>
         </span>
 
         <a href="/search/bka?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -4757,6 +4757,46 @@ books &amp; magazines
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7006021581">
+
+        <a href="https://denver.craigslist.org/bks/d/aurora-the-ways-of-the-world-4th-ed/7006021581.html" class="result-image gallery" data-ids="1:01010_lubNViVMtC7,1:00M0M_hfilyfXTork,1:00J0J_h8QRvsbf8Gs">
+                <span class="result-price">$80</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-10-30 19:24" title="Wed 30 Oct 07:24:51 PM">Oct 30</time>
+
+
+        <a href="https://denver.craigslist.org/bks/d/aurora-the-ways-of-the-world-4th-ed/7006021581.html" data-id="7006021581" class="result-title hdrlnk">The Ways of the World 4th Ed.</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$80</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7018419264" data-repost-of="4881487722">
 
         <a href="https://denver.craigslist.org/bks/d/the-story-of-civilization-books/7018419264.html" class="result-image gallery" data-ids="1:00000_ayJ1HRVYNSx">
@@ -5592,46 +5632,6 @@ books &amp; magazines
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7043080046">
-
-        <a href="https://denver.craigslist.org/bks/d/denver-unique-christmas-gift/7043080046.html" class="result-image gallery" data-ids="1:00303_8yBHc8ZAGfI,1:00O0O_lpTuJh4OvIo">
-                <span class="result-price">$75</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-22 14:03" title="Sun 22 Dec 02:03:34 PM">Dec 22</time>
-
-
-        <a href="https://denver.craigslist.org/bks/d/denver-unique-christmas-gift/7043080046.html" data-id="7043080046" class="result-title hdrlnk">A Unique Christmas Gift</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$75</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5664,7 +5664,7 @@ books &amp; magazines
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">936</span>
+            <span class="totalcount">933</span>
         </span>
 
         <a href="/search/bka?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

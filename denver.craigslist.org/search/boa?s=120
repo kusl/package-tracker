@@ -904,7 +904,7 @@ boats - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">267</span>
+            <span class="totalcount">268</span>
         </span>
 
         <a href="/search/boa?s=240" class="button next" title="next page">next &gt; </a>
@@ -940,7 +940,43 @@ boats - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7042965843">
+                             <li class="result-row" data-pid="7043000572">
+
+        <a href="https://denver.craigslist.org/boa/d/denver-two-kayaks-spray-skirt-paddles/7043000572.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-22 11:34" title="Sun 22 Dec 11:34:33 AM">Dec 22</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/denver-two-kayaks-spray-skirt-paddles/7043000572.html" data-id="7043000572" class="result-title hdrlnk">Two Kayaks, Spray Skirt, Paddles</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$350</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042965843">
 
         <a href="https://denver.craigslist.org/boa/d/denver-two-kayaks-and-rooftop-carrier/7042965843.html" class="result-image gallery" data-ids="1:01515_aBXAgnHnsXM,1:00707_cFMTJPtzcvL,1:00q0q_b3ZyqHP7zCi,1:00E0E_1i6rijLEuSW,1:00U0U_5rU8W16v1i3,1:00o0o_3dspG4hnj81,1:00R0R_dxZz9v6bblk,1:00Y0Y_dfmqMmfbkDM,1:00a0a_dKNcVSVrozb,1:01212_5sImYlwOTPb,1:00u0u_lhzmwrHpIrq,1:00101_8pxCoPv94sl,1:00404_2bm73DBI0x2,1:00C0C_kaoFTLyHx2m,1:00o0o_1KpiKqGwu4k">
                 <span class="result-price">$1100</span>
@@ -5629,45 +5665,6 @@ boats - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7012253122">
-
-        <a href="https://denver.craigslist.org/boa/d/arvada-2019-malibu-wakesetter-23-lsv/7012253122.html" class="result-image gallery" data-ids="1:00Y0Y_gLjfdJczf3q,1:00p0p_cBOXYm5PWiw,1:00i0i_7qDQ5GncPEo,1:00A0A_iXB2Ey9BFCl,1:00o0o_jnYj2IJYzOQ,1:00U0U_iP8BCcJiGcO,1:00a0a_4aVvIPcRD1w,1:01616_gvO9mUW5ecu,1:01414_5yKWG9kfqj7,1:00F0F_i1HRJXEEbG,1:01616_9Ggb9QqlOse,1:00C0C_hCXOPjepyvj">
-                <span class="result-price">$114995</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-29 15:38" title="Fri 29 Nov 03:38:26 PM">Nov 29</time>
-
-
-        <a href="https://denver.craigslist.org/boa/d/arvada-2019-malibu-wakesetter-23-lsv/7012253122.html" data-id="7012253122" class="result-title hdrlnk">2019 Malibu Wakesetter 23 LSV</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$114995</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5700,7 +5697,7 @@ boats - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">267</span>
+            <span class="totalcount">268</span>
         </span>
 
         <a href="/search/boa?s=240" class="button next" title="next page">next &gt; </a>
