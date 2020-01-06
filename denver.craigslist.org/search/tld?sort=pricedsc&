@@ -1,0 +1,3702 @@
+﻿<!DOCTYPE html>
+<html class="no-js"><head>
+    <title>denver tools - by dealer  - craigslist</title>
+
+    <meta name="description" content="denver tools - by dealer  - craigslist">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="canonical" href="https://denver.craigslist.org/search/tld">
+    <link rel="alternate" type="application/rss+xml" href="https://denver.craigslist.org/search/tld?format=rss&amp;sort=pricedsc" title="RSS feed for craigslist | denver tools - by dealer  - craigslist">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=f45c4074e9853c0ceb280398a8131359">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=bc035cbbc3978b0ec9df93944cdf349b">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=33e3dd14c7deed955c83b6927c5e1f07">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=9bea97021e746649c6837e95dd9723e8">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=d8743547c59d5ad31d4d7294c7e2f7f2">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+
+    
+        <script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "13";
+var areaRegion = "CO";
+var catAbb = "tld";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "&#x0024;";
+var defaultView = "grid";
+var expiredFavIDs = null;
+var imageConfig = {"1":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]},"0":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450"]},"2":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]}};
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+var maxResults = 3000;
+var noImageText = "no image";
+var pID = null;
+var postalLat = null;
+var postalLon = null;
+var purveyorCategories = {"owner":"tls","dealer":"tld","all":"tla"};
+var searchDistance = null;
+var sectionAbb = "ssq";
+var sectionBase = "sss";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var showingBanished = 0;
+var showingFavorites = 0;
+var starHint = "save this post in your favorites list";
+var subarea = null;
+var zoomToPosting = null;
+--></script>
+    
+</head>
+<body class="search has-map">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <section class="page-container" id="page-top">
+        <div class="bglogo"></div>
+        <div class="tryapp">
+    try the craigslist app &raquo;
+    <a class="appstorebtn"
+    href="https://play.google.com/store/apps/details?id=org.craigslist.CraigslistMobile">
+        Android
+    </a>
+    <a class="appstorebtn"
+    href="https://apps.apple.com/us/app/craigslist/id1336642410">
+        iOS
+    </a>
+</div>
+<header class="global-header wide">
+   <a class="header-logo" name="logoLink" href="/">CL</a>
+
+    <nav class="breadcrumbs-container">
+<form id="breadcrumbform" class="breadcrumbs-form" method="get" action="/search/tld" data-action="/search/###/tld">
+    <input type="hidden" name="sort" value="pricedsc">
+
+    <ul class="breadcrumbs ">
+        <li class="crumb area">
+            
+            <span class="no-js">
+                <a href="/">denver</a>
+            </span>
+                <select name="areaAbb" id="areaAbb" class="js-only">
+                    <option value="denver">denver</option>
+                        <option value="boulder">boulder</option>
+                        <option value="cosprings">colo springs</option>
+                        <option value="eastco">eastern CO</option>
+                        <option value="fortcollins">fort collins</option>
+                        <option value="rockies">high rockies</option>
+                        <option value="pueblo">pueblo</option>
+                        <option value="scottsbluff">scottsbluff</option>
+                        <option value="westslope">western slope</option>
+                </select>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb section">
+                    <select name="catAbb" id="catAbb">
+                        <option value="ccc">community</option>
+                        <option value="eee">events</option>
+                        <option value="sss" selected>for sale</option>
+                        <option value="ggg">gigs</option>
+                        <option value="hhh">housing</option>
+                        <option value="jjj">jobs</option>
+                        <option value="rrr">resumes</option>
+                        <option value="bbb">services</option>
+                    </select>
+                <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb category">
+            <select id="subcatAbb" class="js-only">
+                <option value="ssq">all</option>
+                    <option value="atd">antiques</option>
+                    <option value="ppd">appliances</option>
+                    <option value="ard">arts+crafts</option>
+                    <option value="snd">atvs/utvs/snow</option>
+                    <option value="ptd">auto parts</option>
+                    <option value="wtd">auto wheels &amp; tires</option>
+                    <option value="avd">aviation</option>
+                    <option value="bad">baby+kids</option>
+                    <option value="bar">barter</option>
+                    <option value="bdp">bike parts</option>
+                    <option value="bid">bikes</option>
+                    <option value="bpd">boat parts</option>
+                    <option value="bod">boats</option>
+                    <option value="bkd">books</option>
+                    <option value="bfd">business</option>
+                    <option value="ctd">cars+trucks</option>
+                    <option value="emq">cds/dvd/vhs</option>
+                    <option value="mod">cell phones</option>
+                    <option value="cld">clothes+acc</option>
+                    <option value="cbd">collectibles</option>
+                    <option value="sdp">computer parts</option>
+                    <option value="syd">computers</option>
+                    <option value="eld">electronics</option>
+                    <option value="grq">farm+garden</option>
+                    <option value="zip">free stuff</option>
+                    <option value="fud">furniture</option>
+                    <option value="gms">garage sales</option>
+                    <option value="fod">general</option>
+                    <option value="had">beauty+hlth</option>
+                    <option value="hvd">heavy equipment</option>
+                    <option value="hsd">household</option>
+                    <option value="jwd">jewelry</option>
+                    <option value="mad">materials</option>
+                    <option value="mpd">motorcycle parts</option>
+                    <option value="mcd">motorcycles</option>
+                    <option value="msd">music instr</option>
+                    <option value="phd">photo+video</option>
+                    <option value="rvd">RVs</option>
+                    <option value="sgd">sporting</option>
+                    <option value="tid">tickets</option>
+                    <option value="tld" selected>tools</option>
+                    <option value="tad">toys+games</option>
+                    <option value="trb">trailers</option>
+                    <option value="vgd">video gaming</option>
+                    <option value="wad">wanted</option>
+            </select><span class="no-js">tools - by dealer</span>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb no-js">
+            <input type="submit" value="go">
+        </li>
+    </ul>
+</form>
+    </nav>
+
+<div class="userlinks">
+    <ul class="user-actions">
+        <li class="user post">
+            <a href="https://post.craigslist.org/c/den">post</a>
+        </li>
+        <li class="user account">
+            <a href="https://accounts.craigslist.org/login/home">account</a>
+        </li>
+    </ul>
+    <ul class="user-favs-discards">
+        <li class="user">
+            <div class="favorites">
+                <a href="#" class="favlink"><span class="icon icon-star fav" aria-hidden="true"></span><span class="fav-number">0</span><span class="fav-label"> favorites</span></a>
+            </div>
+        </li>
+        <li class="user discards">
+          <form class="unfavform js-only" method="POST" action="/favorites">
+            <div class="to-banish-page">
+              <input type="hidden" class="lastLink" name="lastLink" value="//denver.craigslist.org/search/tld?sort=pricedsc">
+              <input type="hidden" class="lastTitle" name="lastTitle" value="denver tools - by dealer  - craigslist">
+              <input type="hidden" class="unfaves" name="fl">
+              <input type="hidden" name="uf" value="1">
+              <a href="#" class="to-banish-page-link">
+                <span class="icon icon-trash red" aria-hidden="true"></span>
+                <span class="banished_count">0</span>
+                <span class="discards-label"> hidden</span>
+              </a>
+            </div>
+          </form>
+        </li>
+    </ul>
+</div>
+
+</header>
+<header class="global-header narrow">
+   <a class="header-logo" href="/">CL</a>
+    <nav class="breadcrumbs-container">
+
+<ul class="breadcrumbs">
+
+
+denver            &gt;
+
+tools - by dealer
+
+</ul>
+
+
+    </nav>
+    <span class="linklike show-wide-header">...</span>
+</header>
+
+
+        <form id="searchform" class="search-form" action="/search/tld">
+            <div class="querybox">
+                
+                <div class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></div>
+                <input type="text" placeholder="search tools - by dealer" name="query"
+                    id="query" value="" autocorrect="off" class="flatinput ui-autocomplete-input"
+                    autocapitalize="off" autocomplete="off" data-autocomplete="search">
+
+                <button type="submit" class="searchbtn">
+                    <span class="icon icon-search" aria-hidden="true"></span>
+                    <span class="screen-reader-text">press to search craigslist</span>
+                </button>
+                    <div class="savealert">
+                        <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fdenver%252Ecraigslist%252Eorg%252Fsearch%252Ftld%253Fsort%253Dpricedsc"  title="save this search" >save search</a>
+                    </div>
+            </div>
+
+            <div class="search-options-container">
+    <h2 class="search-options-header linklike">
+        <div class="icon icon-toggle-gear" aria-hidden="true"></div>
+        options<span class="options-close">close</span>
+    </h2>
+    <input id="excats" type="hidden" name="excats">
+        <input type="hidden" name="sort" value="pricedsc">
+    <div class="search-options">
+        <div class="searchgroup categories">
+            <div class="cattitle">
+                  <a href="/search/tld" title="clear all search parameters" class="reset">tools - by dealer</a>
+            </div>
+
+        </div>
+        <input type="hidden" name="userid" value="" />
+
+                <ul class="searchgroup buttongroup purveyor">
+                    <li class="button ">
+                        <a href="/search/tla?sort=pricedsc" data-val="all">all</a>
+                    </li><li class="button ">
+                        <a href="/search/tls?sort=pricedsc" data-val="owner"> owner</a>
+                    </li><li class="button sel">
+                        <a href="/search/tld?sort=pricedsc" data-val="dealer">dealer</a>
+                    </li>
+                </ul>
+
+
+
+
+        <div class="searchgroup">
+            <ul>
+    <li>
+       <label class="srchType">
+           <input type="checkbox" name="srchType" class="" value="T" >
+           search titles only
+       </label>
+    </li>
+    <li>
+       <label class="hasPic">
+           <input type="checkbox" name="hasPic" class="autosubmit" value="1" >
+           has image
+       </label>
+    </li>
+    <li>
+       <label class="postedToday">
+           <input type="checkbox" name="postedToday" class="autosubmit" value="1" >
+           posted today
+       </label>
+    </li>
+    <li>
+       <label class="bundleDuplicates">
+           <input type="checkbox" name="bundleDuplicates" class="autosubmit" value="1" >
+           bundle duplicates
+       </label>
+    </li>
+    <li>
+       <label class="searchNearby">
+           <input type="checkbox" name="searchNearby" class="autosubmit" value="1" >
+           include nearby areas
+       </label>
+    </li>
+</ul>
+
+                <ul class="js-only nearbyAreas ">
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_0"
+                            value="319"
+                            disabled="disabled"
+                            />
+                            boulder, CO <small>(bou)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_2"
+                            value="210"
+                            disabled="disabled"
+                            />
+                            colorado springs <small>(cos)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_5"
+                            value="713"
+                            disabled="disabled"
+                            />
+                            eastern CO <small>(eco)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_10"
+                            value="568"
+                            disabled="disabled"
+                            />
+                            farmington, NM <small>(fnm)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_1"
+                            value="287"
+                            disabled="disabled"
+                            />
+                            fort collins / north CO <small>(ftc)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_4"
+                            value="288"
+                            disabled="disabled"
+                            />
+                            high rockies <small>(rck)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_8"
+                            value="668"
+                            disabled="disabled"
+                            />
+                            north platte, NE <small>(lbf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_9"
+                            value="688"
+                            disabled="disabled"
+                            />
+                            northwest KS <small>(nwk)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_3"
+                            value="315"
+                            disabled="disabled"
+                            />
+                            pueblo, CO <small>(pub)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_12"
+                            value="218"
+                            disabled="disabled"
+                            />
+                            santa fe / taos <small>(saf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_6"
+                            value="669"
+                            disabled="disabled"
+                            />
+                            scottsbluff / panhandle <small>(bff)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_13"
+                            value="687"
+                            disabled="disabled"
+                            />
+                            southwest KS <small>(swk)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_7"
+                            value="320"
+                            disabled="disabled"
+                            />
+                            western slope <small>(gjt)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_11"
+                            value="197"
+                            disabled="disabled"
+                            />
+                            wyoming <small>(wyo)</small>
+                        </label>
+                        </li>
+
+                        <li>
+                        <span class="nextNearbyZone linklike" data-zone="1">
+                            + show <span id="nearbyNumber">14</span> more...
+                        </span>
+                        </li>
+                </ul>
+        </div>
+
+            <div class="searchgroup">
+                <span class="searchfieldlabel">miles from zip</span>
+                <input size="5" maxlength="5" inputmode="numeric"
+                    class="flatinput searchInput search_distance" placeholder="miles"
+                    name="search_distance"
+                    value=""
+                />
+                <input type="text" class="flatinput searchInput postal" placeholder="from zip"
+                    size="7" name="postal" value="">
+                <span class="icon icon-locate"></span>
+            </div>
+
+
+    <div class="searchgroup minmax price">
+<span class="searchfieldlabel">price</span>
+    <input type="tel" name="min_price" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="">
+    <input type="tel" name="max_price" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+
+
+
+        <div class="searchgroup"><span class="searchfieldlabel">make and model</span>
+    <input
+        type="text"
+        class="flatinput auto_make_model"
+        placeholder="make / model"
+        name="auto_make_model"
+        value=""
+        data-autocomplete="makemodel" />
+</div><div class="searchgroup"><label class="crypto_currency_ok">
+        <input type="checkbox" name="crypto_currency_ok" value="1" class="autosubmit" />
+    cryptocurrency ok
+</label><br>
+<label class="delivery_available">
+        <input type="checkbox" name="delivery_available" value="1" class="autosubmit" />
+    delivery available
+</label><br>
+</div><div class="searchgroup"><div class="search-attribute hide-list" data-attr="language">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> language of posting
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="language_1" name="language" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    af
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_2" name="language" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    ca
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_3" name="language" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    da
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_4" name="language" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    de
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_5" name="language" class="multi_checkbox" value="5" type="checkbox"
+                     />
+                    en
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_6" name="language" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    es
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_7" name="language" class="multi_checkbox" value="7" type="checkbox"
+                     />
+                    fi
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_8" name="language" class="multi_checkbox" value="8" type="checkbox"
+                     />
+                    fr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_9" name="language" class="multi_checkbox" value="9" type="checkbox"
+                     />
+                    it
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_10" name="language" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    nl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_11" name="language" class="multi_checkbox" value="11" type="checkbox"
+                     />
+                    no
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_12" name="language" class="multi_checkbox" value="12" type="checkbox"
+                     />
+                    pt
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_13" name="language" class="multi_checkbox" value="13" type="checkbox"
+                     />
+                    sv
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_14" name="language" class="multi_checkbox" value="14" type="checkbox"
+                     />
+                    tl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_15" name="language" class="multi_checkbox" value="15" type="checkbox"
+                     />
+                    tr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_16" name="language" class="multi_checkbox" value="16" type="checkbox"
+                     />
+                    zh
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_17" name="language" class="multi_checkbox" value="17" type="checkbox"
+                     />
+                    ar
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_18" name="language" class="multi_checkbox" value="18" type="checkbox"
+                     />
+                    ja
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_19" name="language" class="multi_checkbox" value="19" type="checkbox"
+                     />
+                    ko
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_20" name="language" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    ru
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_21" name="language" class="multi_checkbox" value="21" type="checkbox"
+                     />
+                    vi
+                </label>
+            </li>
+
+            <li class="selectall js-only ">
+                <span class="all">select all</span>
+                <span class="none">deselect all</span>
+            </li>
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="condition">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> condition
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_10" name="condition" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    new
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_20" name="condition" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    like new
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_30" name="condition" class="multi_checkbox" value="30" type="checkbox"
+                     />
+                    excellent
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_40" name="condition" class="multi_checkbox" value="40" type="checkbox"
+                     />
+                    good
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_50" name="condition" class="multi_checkbox" value="50" type="checkbox"
+                     />
+                    fair
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_60" name="condition" class="multi_checkbox" value="60" type="checkbox"
+                     />
+                    salvage
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+</div>
+
+        <div class="searchgroup resetsearch">
+            <a href="/search/tld" title="clear all search parameters" class="reset linklike">reset</a>
+            <button type="submit" class="searchlink linklike">update search</button>
+        </div>
+
+<aside class="tsb">
+    <ul>
+        <li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+    </div>
+</div>
+
+
+            <div class="search-legend">
+<div class="search-view js-only">
+    <div class="dropdown dropdown-icons dropdown-arrows dropdown-view" role="toolbar" aria-label="view options" aria-expanded="false">
+        <ul class="dropdown-list">
+            <li class="dropdown-item mode sel">
+                <button title="show results in a list" data-selection="list" id="listview">
+                    <span class="view-list icon"></span>list
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results in a list with thumbnail pictures"  data-selection="pic"  id="picview" >
+                    <span class="view-thumb icon"></span>thumb
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results side-by-side with larger pictures" data-selection="grid" id="gridview">
+                    <span class="view-gallery icon"></span>gallery
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+                <li class="dropdown-item mode">
+                    <button title="show results on a map"  data-selection="map"  id="mapview" >
+                        <span class="view-map icon"></span>map
+                    </button>
+                    <span class="toggle-arrow"></span>
+                </li>
+        </ul>
+    </div>
+</div>
+                <div class="search-sort" >
+    <div class="dropdown dropdown-sort dropdown-arrows" data-default-sort="pricedsc" role="toolbar" aria-label="sort options" aria-expanded="false">
+        <ul class="dropdown-list">
+
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="date" title="show newest matches first" href="/search/tld?sort=date&amp;">newest <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="priceasc" title="sort by price, lowest to highest" href="/search/tld?sort=priceasc&amp;">price &uarr; <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode sel" aria-selected="true">
+                <a data-selection="pricedsc" title="sort by price, highest to lowest" href="/search/tld?sort=pricedsc&amp;">price &darr; <span class="toggle-arrow"></span></a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+                <div class="paginator buttongroup firstpage lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <a href="/search/tld?sort=pricedsc" class="button first" title="first page">&lt;&lt;</a>
+        <span class="button first" title="first page">&lt;&lt;</span>
+        <a href="/search/tld?sort=pricedsc" class="button prev" title="previous page">&lt; prev</a>
+        <span class="button prev" title="previous page">&lt; prev</span>
+
+        <span class="button pagenum">
+            <span class="range">
+                <span class="rangeFrom">1</span>
+                -
+                <span class="rangeTo">32</span>
+            </span>
+            /
+            <span class="totalcount">32</span>
+        </span>
+
+        <a href="" class="button next" title="next page">next &gt; </a>
+        <span class="button next" title="next page"> next &gt; </span>
+    </span>
+</div>
+
+                
+            </div>
+            <div class="content" id="sortable-results" >
+                <section class="favlistsection">
+                    <section class="favlistinfo">
+                    </section>
+                    <section class="banishlistinfo">
+                    </section>
+                </section>
+
+                    
+
+
+<div class="open-map-view-button">
+    <span>see in map view</span>
+</div>
+<div id="mapcontainer" data-arealat="39.739201" data-arealon="-104.984001">
+    <div id="noresult-overlay"></div>
+    <div id="noresult-text">
+        <span class="message">No mappable items found</span>
+    </div>
+    <div id="map" class="loading">
+        <div class="close-full-screen-map-mode-button">close fullscreen</div>
+        <div class="close-map-view-button">close map</div>
+    </div>
+</div>
+
+                <ul class="rows">
+                             <li class="result-row" data-pid="7041293880" data-repost-of="7009353671">
+
+        <a href="https://denver.craigslist.org/tld/d/rowlett-non-stop-scaffolding-rent-or-buy/7041293880.html" class="result-image gallery" data-ids="1:00808_gI20oy7zgCD,1:00M0M_jlZSL7a3Djh,1:00000_itgoubQTaZ7">
+                <span class="result-price">$14999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 09:25" title="Thu 19 Dec 09:25:15 AM">Dec 19</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/rowlett-non-stop-scaffolding-rent-or-buy/7041293880.html" data-id="7041293880" class="result-title hdrlnk">Non-Stop Scaffolding Rent or Buy</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$14999</span>
+
+
+                <span class="result-hood"> (Rowlett)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043340234">
+
+        <a href="https://denver.craigslist.org/tld/d/naples-hunter-alignment-machine-auto34/7043340234.html" class="result-image gallery" data-ids="1:00W0W_3LZkDvxXHAg,1:00F0F_6fhvl4bWQgh,1:00O0O_c2OW53thK8Z,1:00f0f_icdjibUrn54,1:00o0o_bpEoupXGTlM,1:00x0x_fNlQbNBve7K,1:01010_2oDros7RKjd,1:00U0U_1jVTFMjuxVI,1:00W0W_bmIr5hmlC60,1:00t0t_7IKfPesgHrJ,1:00p0p_86tBQrT8wLW,1:00U0U_itWuoMsGhTh,1:00Q0Q_1i6pV2sjx0o,1:00909_bkoM4KKXlgT,1:00404_aGJu5mVoqfQ,1:00g0g_991CjGZ4EMN,1:00q0q_7g8RoSCgmn7,1:00h0h_eKuUypyEOzK,1:00i0i_luNlBX6pRLz,1:01414_hxwVj0dNU3G,1:00T0T_4KX8bDGADy5,1:00c0c_kQlfDLVMnYd,1:01414_wBJcdephgE,1:00v0v_kEklFAaACFJ">
+                <span class="result-price">$4700</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-23 07:27" title="Mon 23 Dec 07:27:53 AM">Dec 23</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/naples-hunter-alignment-machine-auto34/7043340234.html" data-id="7043340234" class="result-title hdrlnk">HUNTER Alignment Machine Auto34 Tire Changer Wheel Balancer Rotary Lif</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4700</span>
+
+
+                <span class="result-hood"> (Naples)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037419015" data-repost-of="6385868979">
+
+        <a href="https://denver.craigslist.org/tld/d/strasburg-10x12-lofted-barn-shed/7037419015.html" class="result-image gallery" data-ids="1:00909_lLpKVkhprtL,1:01212_hCgybKtwpbc,1:00x0x_CwcEwT3Yzz,1:00j0j_23PqPBxPRGm,1:00L0L_3JQo06uDbbO,1:00G0G_9RZR3zH4csE,1:00Y0Y_iKawxMJnUi2,1:00t0t_gHLYDTEoHcO,1:00l0l_hUsnYPoVs47,1:00k0k_1es2RQkYM5r,1:00h0h_iTGx3kpckT4,1:01111_2QWPS0kPuke,1:00D0D_7lAEFlO5pGZ,1:00E0E_bXerHRYJ99U">
+                <span class="result-price">$3515</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 17:03" title="Thu 12 Dec 05:03:02 PM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/strasburg-10x12-lofted-barn-shed/7037419015.html" data-id="7037419015" class="result-title hdrlnk">10x12 Lofted Barn Shed</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3515</span>
+
+
+                <span class="result-hood"> (Strasburg)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037419923" data-repost-of="6385868979">
+
+        <a href="https://denver.craigslist.org/tld/d/strasburg-10x12-lofted-barn-shed/7037419923.html" class="result-image gallery" data-ids="1:00909_lLpKVkhprtL,1:01212_hCgybKtwpbc,1:00x0x_CwcEwT3Yzz,1:00j0j_23PqPBxPRGm,1:00L0L_3JQo06uDbbO,1:00G0G_9RZR3zH4csE,1:00Y0Y_iKawxMJnUi2,1:00t0t_gHLYDTEoHcO,1:00l0l_hUsnYPoVs47,1:00k0k_1es2RQkYM5r,1:00h0h_iTGx3kpckT4,1:01111_2QWPS0kPuke,1:00D0D_7lAEFlO5pGZ,1:00E0E_bXerHRYJ99U">
+                <span class="result-price">$3515</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 17:04" title="Thu 12 Dec 05:04:52 PM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/strasburg-10x12-lofted-barn-shed/7037419923.html" data-id="7037419923" class="result-title hdrlnk">10x12 Lofted Barn Shed</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3515</span>
+
+
+                <span class="result-hood"> (Strasburg)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037144858" data-repost-of="6931866284">
+
+        <a href="https://denver.craigslist.org/tld/d/denver-olympic-8000-lb-4-post-car/7037144858.html" class="result-image gallery" data-ids="1:00k0k_fEEy9LVcCUv,1:00303_iyiBNDvvdz,1:01313_7259DveeqPm,1:00h0h_5GWOTRVPPdJ,1:01515_1oimSnNzqfX,1:00L0L_lnNc95vCpKy,1:00z0z_laF27Iaq5A7,1:00Z0Z_fvkSykqlXpm">
+                <span class="result-price">$2762</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 10:30" title="Thu 12 Dec 10:30:24 AM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/denver-olympic-8000-lb-4-post-car/7037144858.html" data-id="7037144858" class="result-title hdrlnk">Olympic® 8,000 LB 4-Post Car Storage Lift - 12 Mo. 0% Finance Offer!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2762</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043873700" data-repost-of="6965426320">
+
+        <a href="https://denver.craigslist.org/tld/d/montebello-triumph-nss8-4-post-auto/7043873700.html" class="result-image gallery" data-ids="1:00H0H_7VxbeeK8Bs0,1:00707_4ZY4GLAa0w8,1:00404_6VAFWjYfnw7,1:00q0q_4z1RgumkUes,1:00C0C_96K4SByAjC1,1:01414_dDpnSIuX5PT,1:00J0J_hHhctiHy66C">
+                <span class="result-price">$2429</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-24 08:01" title="Tue 24 Dec 08:01:12 AM">Dec 24</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/montebello-triumph-nss8-4-post-auto/7043873700.html" data-id="7043873700" class="result-title hdrlnk">Triumph NSS8, 4 Post Auto Lift 8K ** FREE SHIPPING</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2429</span>
+
+
+                <span class="result-hood"> (Call Now * 844-536-6505 * Financing Available *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047849868" data-repost-of="6988457345">
+
+        <a href="https://denver.craigslist.org/tld/d/aurora-triumph-overhead-2-post-car-lift/7047849868.html" class="result-image gallery" data-ids="1:00909_6MxCT3Lvp2V,1:00W0W_dc93SZedcXW,1:00T0T_lXljbVOS8p6,1:00X0X_eW96fBPH0bw,1:00H0H_gUPAokXsZ2d,1:00y0y_96L1HnGOAFQ,1:00Q0Q_7GHTeyi1Fos,1:00101_eyGij8WdalJ,1:00202_bDOFWWuHsMK,1:00l0l_hX6O7qAHPlU,1:00l0l_hX6O7qAHPlU,1:00l0l_hX6O7qAHPlU,1:00l0l_hX6O7qAHPlU,1:00f0f_1LFFa1TscG5,1:00b0b_c1wRSTiMM6y,1:00303_3BKRxDk7pOT,1:00W0W_kq4dkndUJD5,1:00X0X_1CKbVtH92O3,1:00v0v_6GA7DEommaI">
+                <span class="result-price">$2094</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-01 10:18" title="Wed 01 Jan 10:18:14 AM">Jan  1</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/aurora-triumph-overhead-2-post-car-lift/7047849868.html" data-id="7047849868" class="result-title hdrlnk">Triumph Overhead 2 Post Car Lift 9K ** Free Shipping **</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2094</span>
+
+
+                <span class="result-hood"> (Call * 844-536-6505 * Consumer Financing Available *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041224777" data-repost-of="6596379726">
+
+        <a href="https://denver.craigslist.org/tld/d/denver-hp-vfd-vsd-screw-air-compressors/7041224777.html" class="result-image gallery" data-ids="1:00D0D_8obqOS3Y7tj,1:01313_7mHRhySlt0o,1:00w0w_g70xfmaTSfG,1:00l0l_3nXP4B4aL30,1:00505_iiO0YMx2PP8,1:00K0K_1NGUICqMqW5,1:00E0E_bRW8neD3ZnP,1:00606_a2CNu0vgNV0,1:00K0K_1gPmDXmUUw7,1:00p0p_1pLfIbH4IFI,1:00Q0Q_e1PRZRw6vc2">
+                <span class="result-price">$1999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 07:39" title="Thu 19 Dec 07:39:33 AM">Dec 19</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/denver-hp-vfd-vsd-screw-air-compressors/7041224777.html" data-id="7041224777" class="result-title hdrlnk">10 15 20 25 50 75 100 150 hp VFD VSD Screw Air Compressors Atlas Copco</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1999</span>
+
+
+                <span class="result-hood"> (Ingersoll Rand Gardner Denver kaeser Boge Schulz Joy)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045094711" data-repost-of="6960803456">
+
+        <a href="https://denver.craigslist.org/tld/d/aurora-9000-lb-2-post-auto-lift-car/7045094711.html" class="result-image gallery" data-ids="1:01616_6YCoBALpKGX,1:00G0G_4QhaINTuRYI,1:00l0l_4UsQNC9W0Xa,1:00i0i_k9mVx5mqou,1:00N0N_ehuB3FLAhOJ,1:00P0P_ipp0E8HccO7,1:00808_4ntWF8PybM,1:00707_fKG1lIvZZCC,1:00n0n_bSN1JhhFiTt,1:00G0G_4FzcJ5peYvX,1:01515_bXVeMsYMcCO,1:00w0w_eed0AAOM5G0,1:00r0r_hLgAlmtb8FY,1:00Q0Q_zcf4QjrkOP,1:00S0S_113GGuzuzwY,1:00r0r_6PkF9XGXqKa,1:00P0P_6Jq5scP484O,1:00G0G_d2Cr0r4wuV4,1:00r0r_akYagtRMLjK,1:00N0N_67512KBThst,1:01515_acKrkSl7jDp,1:00Q0Q_8tkShZK8IU1,1:00b0b_iNegbOec8UW,1:00M0M_abg944C2j87">
+                <span class="result-price">$1999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 07:59" title="Fri 27 Dec 07:59:37 AM">Dec 27</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/aurora-9000-lb-2-post-auto-lift-car/7045094711.html" data-id="7045094711" class="result-title hdrlnk">9,000 lb. 2 Post Auto Lift Car Hoist FREE truck adapters - New!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1999</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048635111" data-repost-of="6596379726">
+
+        <a href="https://denver.craigslist.org/tld/d/denver-hp-vfd-vsd-price-rotary-screw/7048635111.html" class="result-image gallery" data-ids="1:00D0D_8obqOS3Y7tj,1:01313_7mHRhySlt0o,1:00505_iiO0YMx2PP8,1:00Q0Q_e1PRZRw6vc2,1:00l0l_3nXP4B4aL30,1:00E0E_bRW8neD3ZnP,1:00606_a2CNu0vgNV0,1:00K0K_1gPmDXmUUw7,1:00p0p_1pLfIbH4IFI">
+                <span class="result-price">$1999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 15:24" title="Thu 02 Jan 03:24:11 PM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/denver-hp-vfd-vsd-price-rotary-screw/7048635111.html" data-id="7048635111" class="result-title hdrlnk">25 50 75 hp VFD VSD ½ Price Rotary Screw Air Compressor Ingersoll Rand</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1999</span>
+
+
+                <span class="result-hood"> (vs Atlas Copco Gardner Denver Quincy Sullair Devair Curtis S)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7038615711" data-repost-of="6931964564">
+
+        <a href="https://denver.craigslist.org/tld/d/denver-olympic-9000-lb-car-lift-12/7038615711.html" class="result-image gallery" data-ids="1:00l0l_276SSaoyskt,1:00T0T_jvHkLdxgb5Y,1:00w0w_9wTrA47jNAw,1:01515_1oimSnNzqfX,1:00u0u_axe7dhSJbW2,1:00M0M_bpl4vBiJomz,1:00L0L_lnNc95vCpKy,1:00z0z_laF27Iaq5A7,1:00Z0Z_fvkSykqlXpm">
+                <span class="result-price">$1867</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-14 15:49" title="Sat 14 Dec 03:49:20 PM">Dec 14</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/denver-olympic-9000-lb-car-lift-12/7038615711.html" data-id="7038615711" class="result-title hdrlnk">Olympic 9,000 LB Car Lift - 12 Month 0% Finance Offer!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1867</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7034922950" data-repost-of="6986898099">
+
+        <a href="https://denver.craigslist.org/tld/d/denver-husqvarna-concrete-grinder/7034922950.html" class="result-image gallery" data-ids="1:00I0I_kEWRLuHZ08v,1:00H0H_3k6WdeIpIvP">
+                <span class="result-price">$1800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-08 20:24" title="Sun 08 Dec 08:24:19 PM">Dec  8</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/denver-husqvarna-concrete-grinder/7034922950.html" data-id="7034922950" class="result-title hdrlnk">HUSQVARNA Concrete Grinder</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1800</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040290305" data-repost-of="6997572523">
+
+        <a href="https://denver.craigslist.org/tld/d/denver-liberty-triumph-2-4-post-auto/7040290305.html" class="result-image gallery" data-ids="1:00I0I_5CO4sCDR8QD,1:00t0t_88VgoHILu0K,1:00707_cgFx3xKtxde,1:00v0v_kHT74rt8915,1:00w0w_91T6L9pSASA,1:00P0P_8ZdxeFKhNYh,1:00707_iARBgzwupYu,1:00f0f_a0dxzJPrEc0,1:00c0c_66cAMQZNU0F,1:00t0t_ahCaSTWIgNm,1:00000_lnO3AjQyRR0,1:01717_dRpkX2tbrGc,1:00o0o_7cK1CFPqovp,1:00y0y_3xMuflH7m3X,1:00l0l_2qprMn3yRPf,1:00m0m_hZzRy6cOSY6">
+                <span class="result-price">$1495</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-17 13:51" title="Tue 17 Dec 01:51:15 PM">Dec 17</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/denver-liberty-triumph-2-4-post-auto/7040290305.html" data-id="7040290305" class="result-title hdrlnk">** Liberty &amp; Triumph 2 &amp; 4 Post Auto Lifts &amp; Wheel Service Equipment**</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1495</span>
+
+
+                <span class="result-hood"> (***Best Finance Rates Available(Price Beat Guarantee)***)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048934881" data-repost-of="6670637144">
+
+        <a href="https://denver.craigslist.org/tld/d/knoxville-qual-craft-aluminum-pump-jack/7048934881.html" class="result-image gallery" data-ids="1:01212_aCtp2804bun,1:00i0i_iWojvdMKwKe,1:00z0z_lA73RxsFBOo,1:00C0C_fCK0IpPlsGG,1:01616_1ddiAW6MyAf">
+                <span class="result-price">$1205</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-03 07:53" title="Fri 03 Jan 07:53:06 AM">Jan  3</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/knoxville-qual-craft-aluminum-pump-jack/7048934881.html" data-id="7048934881" class="result-title hdrlnk">Qual-Craft Aluminum Pump Jack/ Pump Jacks/ Scaffolding</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1205</span>
+
+
+                <span class="result-hood"> (Knoxville)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049824634" data-repost-of="6275338173">
+
+        <a href="https://denver.craigslist.org/tld/d/hydraulic-tubing-bender-180-degree-die/7049824634.html" class="result-image gallery" data-ids="1:00J0J_ek4JVk1hg1P,1:00C0C_1B2KWxXOiLJ,1:00V0V_3vneh2pYFxO,1:00909_9CP0bcAqAWy,1:00N0N_LvqMmHoJGb,1:00V0V_7tBrxrrFGJt,1:01414_1UM1UqjKmjY,1:00D0D_jhWaY7Z3zNT,1:00k0k_6t9nGkppMWN,1:00k0k_cjJV9lEmf5g,1:00y0y_fHVoVUkYqHa,1:00707_lcvOTklocd0,1:00u0u_jOudh31VWzg,1:00O0O_3HSy7M4xdDG,1:00s0s_d3gYUx1AyNA,1:01616_bsItISNZZDe,1:00t0t_i5UB9LfTvf1">
+                <span class="result-price">$725</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 12:52" title="Sat 04 Jan 12:52:02 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/hydraulic-tubing-bender-180-degree-die/7049824634.html" data-id="7049824634" class="result-title hdrlnk">Hydraulic tubing bender w/ 180 degree die</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$725</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042171661" data-repost-of="6391258062">
+
+        <a href="https://denver.craigslist.org/tld/d/denver-dewalt-sale-dewalt-d24000s-tile/7042171661.html" class="result-image gallery" data-ids="1:00T0T_iNTvLlrguJe">
+                <span class="result-price">$689</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-20 16:45" title="Fri 20 Dec 04:45:42 PM">Dec 20</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/denver-dewalt-sale-dewalt-d24000s-tile/7042171661.html" data-id="7042171661" class="result-title hdrlnk">DeWalt Sale - DeWalt D24000S Tile Saw w/Stand Package</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$689</span>
+
+
+                <span class="result-hood"> (Tool Zone in Thornton, CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035795705">
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-stihl-ms-461/7035795705.html" class="result-image gallery" data-ids="1:00000_5jyDF6iBjZB,1:00y0y_b0h7naXsmBz,1:00909_irWkIC0DmwC,1:00x0x_dhmLXPcTZi6">
+                <span class="result-price">$650</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-10 08:57" title="Tue 10 Dec 08:57:32 AM">Dec 10</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-stihl-ms-461/7035795705.html" data-id="7035795705" class="result-title hdrlnk">Stihl MS 461</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$650</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044081877">
+
+        <a href="https://denver.craigslist.org/tld/d/denver-new-2020-model-200a-mig-welder/7044081877.html" class="result-image gallery" data-ids="1:00u0u_i8741VuMnBn,1:00T0T_lnxAfmiUJRi,1:00l0l_6ZPXPocj5bG,1:00P0P_bJboUzCYPg0">
+                <span class="result-price">$600</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-24 15:37" title="Tue 24 Dec 03:37:01 PM">Dec 24</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/denver-new-2020-model-200a-mig-welder/7044081877.html" data-id="7044081877" class="result-title hdrlnk">NEW 2020 model -200a Mig Welder, IGBT,5 year Warranty!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$600</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050194260">
+
+        <a href="https://denver.craigslist.org/tld/d/wentworth-plasma-cutter-50-amp/7050194260.html" class="result-image gallery" data-ids="1:00S0S_5puVqFYf47W">
+                <span class="result-price">$300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 07:53" title="Sun 05 Jan 07:53:19 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/wentworth-plasma-cutter-50-amp/7050194260.html" data-id="7050194260" class="result-title hdrlnk">Plasma Cutter 50 Amp</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$300</span>
+
+
+                <span class="result-hood"> (NationWide)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044783175">
+
+        <a href="https://denver.craigslist.org/tld/d/aurora-machinery-works-co/7044783175.html" class="result-image gallery" data-ids="1:00l0l_vQKn43SrcM,1:00q0q_he3xfUGWY9E,1:00Z0Z_2ATzwdamli1,1:01717_9FE1taCWsxj,1:00r0r_lhXk5i6EGbl">
+                <span class="result-price">$200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-26 14:16" title="Thu 26 Dec 02:16:30 PM">Dec 26</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/aurora-machinery-works-co/7044783175.html" data-id="7044783175" class="result-title hdrlnk">Machinery Works Co</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$200</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041302758">
+
+        <a href="https://denver.craigslist.org/tld/d/rowlett-scaffolding-boards-accessories/7041302758.html" class="result-image gallery" data-ids="1:00n0n_3FUNFqPH8GA,1:00l0l_3Myvw1NmG4M,1:00707_9GhSD2BB1LE,1:00x0x_9laJgI7bdhU,1:00W0W_iP1ZJyaZiXr,1:00A0A_3AgA1N3k96Y,1:01111_7Z5KvXfgfqE,1:00404_lxXLzQdbEEm,1:00000_gdteTFq270s,1:00L0L_6laTX7uWI4H">
+                <span class="result-price">$99</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 09:36" title="Thu 19 Dec 09:36:56 AM">Dec 19</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/rowlett-scaffolding-boards-accessories/7041302758.html" data-id="7041302758" class="result-title hdrlnk">Scaffolding | Boards | Accessories</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$99</span>
+
+
+                <span class="result-hood"> (Rowlett)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047933738" data-repost-of="6970872950">
+
+        <a href="https://denver.craigslist.org/tld/d/denver-olympic-car-lifts-offering-12/7047933738.html" class="result-image gallery" data-ids="1:00Z0Z_fvkSykqlXpm,1:00w0w_9wTrA47jNAw,1:01515_1oimSnNzqfX,1:00l0l_276SSaoyskt,1:00B0B_1EKDOMeMgQH,1:00k0k_fEEy9LVcCUv,1:00z0z_laF27Iaq5A7">
+                <span class="result-price">$59</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-01 12:48" title="Wed 01 Jan 12:48:07 PM">Jan  1</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/denver-olympic-car-lifts-offering-12/7047933738.html" data-id="7047933738" class="result-title hdrlnk">Olympic® Car Lifts Offering 12 Month 0% Financing SAVE 20% NOW !</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7034140892">
+
+        <a href="https://denver.craigslist.org/tld/d/los-angeles-welder-carpenters-square/7034140892.html" class="result-image gallery" data-ids="1:00n0n_6T8Xq5Lnunt,1:00202_a8vZ6SPX4wr,1:00r0r_4JlhR49yMCb,1:00e0e_fFUiHNgmewt,1:01313_2zTB2kPkEXg,1:00P0P_6scuxeqM9eN,1:00s0s_jdqdsN87UY1,1:00202_lLtKw0RvVjb,1:00J0J_h4c0VpkwG9I">
+                <span class="result-price">$25</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-07 12:17" title="Sat 07 Dec 12:17:53 PM">Dec  7</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/los-angeles-welder-carpenters-square/7034140892.html" data-id="7034140892" class="result-title hdrlnk">WELDER / CARPENTERS SQUARE YOU’VE NEVER SEEN</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041320298">
+
+        <a href="https://denver.craigslist.org/tld/d/rowlett-osha-scaffold-boards/7041320298.html" class="result-image gallery" data-ids="1:00h0h_9m6ZroDhKlm">
+                <span class="result-price">$18</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 10:00" title="Thu 19 Dec 10:00:45 AM">Dec 19</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/rowlett-osha-scaffold-boards/7041320298.html" data-id="7041320298" class="result-title hdrlnk">OSHA Scaffold Boards</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$18</span>
+
+
+                <span class="result-hood"> (We Deliver Nationwide)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7036643611">
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-ohaus-scale-precision-balance/7036643611.html" class="result-image gallery" data-ids="1:00101_cx3UiU8uqnh,1:00I0I_l0bFY6mjNYp,1:00101_6D8LLwHVXZW,1:00V0V_jsln2d4DUcF,1:00l0l_lqJitMQNl6y,1:00x0x_kQ7QPmEKCxk,1:00j0j_94rEjQ7PJaT,1:00y0y_hL5h7chrHzg,1:00505_l5hWBs8w4aR,1:00X0X_95Wpo5RESSU,1:00e0e_fquXXlwPk4t,1:00m0m_5xW8TQL0Tc7,1:01414_5naKConaooG,1:00s0s_lmL1lKtuPLJ,1:00H0H_ejkISxId828,1:00s0s_bTUE0pP3gEP,1:00H0H_aHyVGjj4N7k,1:00S0S_glGcTk9Jfen,1:00K0K_8AbMnoYsyoA,1:00D0D_9QRNeGeh7Mm,1:00T0T_hPHloyVLS99,1:00e0e_5uss7ZiB94d,1:00j0j_7UJQkQ8fro6,1:00s0s_4jH90eGeSpL">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-11 13:05" title="Wed 11 Dec 01:05:31 PM">Dec 11</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-ohaus-scale-precision-balance/7036643611.html" data-id="7036643611" class="result-title hdrlnk">Ohaus scale precision balance laboratory equipment                              </a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037178329" data-repost-of="7014165992">
+
+        <a href="https://denver.craigslist.org/tld/d/englewood-15-off-all-dr-power-in-stock/7037178329.html" class="result-image gallery" data-ids="1:00E0E_bI1EaiZOq7l,1:00x0x_gJx5gm01Xk1,1:00R0R_1CBAzO0BKhB,1:00s0s_byq8bcEOgGu">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 11:11" title="Thu 12 Dec 11:11:18 AM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/englewood-15-off-all-dr-power-in-stock/7037178329.html" data-id="7037178329" class="result-title hdrlnk">15% Off All DR POWER In Stock Power Washers and Generators!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Parker)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7038160328">
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-new-industrial-bench-floor/7038160328.html" class="result-image gallery" data-ids="1:01515_cxm8KTqGDQm,1:00J0J_ev7i3WceSoe">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-13 22:01" title="Fri 13 Dec 10:01:36 PM">Dec 13</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-new-industrial-bench-floor/7038160328.html" data-id="7038160328" class="result-title hdrlnk">*** NEW Industrial Bench, Floor, Axle, Truck Scale digital scale! *** Denver ***</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040872246">
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-ohaus-scale-precision-balance/7040872246.html" class="result-image gallery" data-ids="1:00101_cx3UiU8uqnh,1:00I0I_l0bFY6mjNYp,1:00101_6D8LLwHVXZW,1:00V0V_jsln2d4DUcF,1:00l0l_lqJitMQNl6y,1:00x0x_kQ7QPmEKCxk,1:00j0j_94rEjQ7PJaT,1:00y0y_hL5h7chrHzg,1:00505_l5hWBs8w4aR,1:00X0X_95Wpo5RESSU,1:00e0e_fquXXlwPk4t,1:00m0m_5xW8TQL0Tc7,1:01414_5naKConaooG,1:00s0s_lmL1lKtuPLJ,1:00H0H_ejkISxId828,1:00s0s_bTUE0pP3gEP,1:00H0H_aHyVGjj4N7k,1:00S0S_glGcTk9Jfen,1:00K0K_8AbMnoYsyoA,1:00D0D_9QRNeGeh7Mm,1:00T0T_hPHloyVLS99,1:00e0e_5uss7ZiB94d,1:00j0j_7UJQkQ8fro6,1:00s0s_4jH90eGeSpL">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-18 13:10" title="Wed 18 Dec 01:10:23 PM">Dec 18</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-ohaus-scale-precision-balance/7040872246.html" data-id="7040872246" class="result-title hdrlnk">Ohaus scale precision balance laboratory equipment                              </a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044292425">
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-ohaus-scale-precision-balance/7044292425.html" class="result-image gallery" data-ids="1:00101_cx3UiU8uqnh,1:00I0I_l0bFY6mjNYp,1:00101_6D8LLwHVXZW,1:00V0V_jsln2d4DUcF,1:00l0l_lqJitMQNl6y,1:00x0x_kQ7QPmEKCxk,1:00j0j_94rEjQ7PJaT,1:00y0y_hL5h7chrHzg,1:00505_l5hWBs8w4aR,1:00X0X_95Wpo5RESSU,1:00e0e_fquXXlwPk4t,1:00m0m_5xW8TQL0Tc7,1:01414_5naKConaooG,1:00s0s_lmL1lKtuPLJ,1:00H0H_ejkISxId828,1:00s0s_bTUE0pP3gEP,1:00H0H_aHyVGjj4N7k,1:00S0S_glGcTk9Jfen,1:00K0K_8AbMnoYsyoA,1:00D0D_9QRNeGeh7Mm,1:00T0T_hPHloyVLS99,1:00e0e_5uss7ZiB94d,1:00j0j_7UJQkQ8fro6,1:00s0s_4jH90eGeSpL">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-25 13:05" title="Wed 25 Dec 01:05:24 PM">Dec 25</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-ohaus-scale-precision-balance/7044292425.html" data-id="7044292425" class="result-title hdrlnk">Ohaus scale precision balance laboratory equipment                              </a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045591552">
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-new-industrial-bench-floor/7045591552.html" class="result-image gallery" data-ids="1:01515_cxm8KTqGDQm,1:00J0J_ev7i3WceSoe">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 22:01" title="Fri 27 Dec 10:01:36 PM">Dec 27</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-new-industrial-bench-floor/7045591552.html" data-id="7045591552" class="result-title hdrlnk">*** NEW Industrial Bench, Floor, Axle, Truck Scale digital scale! *** Denver ***</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047943645">
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-ohaus-scale-precision-balance/7047943645.html" class="result-image gallery" data-ids="1:00101_cx3UiU8uqnh,1:00I0I_l0bFY6mjNYp,1:00101_6D8LLwHVXZW,1:00V0V_jsln2d4DUcF,1:00l0l_lqJitMQNl6y,1:00x0x_kQ7QPmEKCxk,1:00j0j_94rEjQ7PJaT,1:00y0y_hL5h7chrHzg,1:00505_l5hWBs8w4aR,1:00X0X_95Wpo5RESSU,1:00e0e_fquXXlwPk4t,1:00m0m_5xW8TQL0Tc7,1:01414_5naKConaooG,1:00s0s_lmL1lKtuPLJ,1:00H0H_ejkISxId828,1:00s0s_bTUE0pP3gEP,1:00H0H_aHyVGjj4N7k,1:00S0S_glGcTk9Jfen,1:00K0K_8AbMnoYsyoA,1:00D0D_9QRNeGeh7Mm,1:00T0T_hPHloyVLS99,1:00e0e_5uss7ZiB94d,1:00j0j_7UJQkQ8fro6,1:00s0s_4jH90eGeSpL">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-01 13:05" title="Wed 01 Jan 01:05:23 PM">Jan  1</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-ohaus-scale-precision-balance/7047943645.html" data-id="7047943645" class="result-title hdrlnk">Ohaus scale precision balance laboratory equipment                              </a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049479395">
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-new-industrial-bench-floor/7049479395.html" class="result-image gallery" data-ids="1:01515_cxm8KTqGDQm,1:00J0J_ev7i3WceSoe">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-03 22:01" title="Fri 03 Jan 10:01:35 PM">Jan  3</time>
+
+
+        <a href="https://denver.craigslist.org/tld/d/littleton-new-industrial-bench-floor/7049479395.html" data-id="7049479395" class="result-title hdrlnk">*** NEW Industrial Bench, Floor, Axle, Truck Scale digital scale! *** Denver ***</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                    <h4 class="ban nearby"><span class="bantext">Few local results found. Here are some from nearby areas. Checking &#39;include nearby areas&#39; will expand your search.</span></h4>
+
+                             <li class="result-row" data-pid="7037003684">
+
+        <a href="https://boulder.craigslist.org/tld/d/covina-new-4-post-auto-lift-stdga/7037003684.html" class="result-image gallery" data-ids="1:00u0u_kyHCLHpyKzX,1:00f0f_c84cmpMvymb,1:00T0T_4tizwKBWK64,1:00606_YBSXYkfuw9,1:00i0i_6BeGRlSM6w5,1:00R0R_bJHUcRENTr1,1:00B0B_lVS8ySKmjEV,1:00X0X_eeSyfAxgNeW,1:00D0D_8gJKRdBFNbb,1:01313_5whl1YI9ren,1:00T0T_h8lDq4ZRjQX">
+                <span class="result-price">$5300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 07:08" title="Thu 12 Dec 07:08:13 AM">Dec 12</time>
+
+
+        <a href="https://boulder.craigslist.org/tld/d/covina-new-4-post-auto-lift-stdga/7037003684.html" data-id="7037003684" class="result-title hdrlnk">New 4 Post Auto Lift STDGA-9000XLT</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5300</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044123035" data-repost-of="6853378040">
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-hp-air-compressor/7044123035.html" class="result-image gallery" data-ids="1:00X0X_k1UO4Q27bwx">
+                <span class="result-price">$2999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-24 18:45" title="Tue 24 Dec 06:45:39 PM">Dec 24</time>
+
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-hp-air-compressor/7044123035.html" data-id="7044123035" class="result-title hdrlnk">10, 15, 20, 25, 30, 50 HP Air Compressor</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2999</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou &gt; Boulder)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040058625">
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-triumph-11k-low-ceiling-two/7040058625.html" class="result-image gallery" data-ids="1:00D0D_h4aG5JrACaO,1:00E0E_dMV7AQcFHb7,1:00C0C_k7hoxRfkCrD,1:00t0t_kAZVmcRwXyt,1:00D0D_2lIDsorklCY,1:00e0e_5WQ1pcruYxP,1:01515_6f5qu7DAI76,1:00808_4rlUxDgLkqj,1:00K0K_2Bhy0TICjcb,1:01313_9uVpdnx8qjy,1:00e0e_eFhSxIvV5mm,1:00w0w_2y43TNblwTE,1:00303_kxFbjwn1JWo,1:00T0T_cWBZEMPuBo8,1:00S0S_6B06lnMksbK,1:01111_d2IswQVSV0f,1:01414_eOBOfpRIJe1,1:00J0J_doYs790lWaT,1:00A0A_lGkYLIgQHai,1:00A0A_fNzo1kP2kD4,1:00M0M_4RkTdqxUR8b,1:00J0J_dRle7qF2oMg,1:00Y0Y_j79fRT7wEQY,1:00Y0Y_19sBQXSloKX">
+                <span class="result-price">$2450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-17 08:56" title="Tue 17 Dec 08:56:16 AM">Dec 17</time>
+
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-triumph-11k-low-ceiling-two/7040058625.html" data-id="7040058625" class="result-title hdrlnk">Triumph 11K Low Ceiling Two Post Auto Lift * Free Shipping *</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2450</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou &gt; Call * 844-536-6505 * Best Financing-Same Day Processing * *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046727799" data-repost-of="6966862949">
+
+        <a href="https://boulder.craigslist.org/tld/d/henderson-triumph-tire-changer-wheel/7046727799.html" class="result-image gallery" data-ids="1:00t0t_2b66Qt6baat,1:00y0y_hmjdfoy8LvO,1:01717_zcnToVxuES,1:00V0V_cq3Cq4uzReT,1:00202_l9FH2l9DjQp,1:00t0t_lmsgEGcgO5S,1:00404_9yGEjApejvz,1:00F0F_2XvJ0rXSZTP,1:00s0s_f5xhOwqjLKU,1:00S0S_lpERn1FAGmA,1:00202_am2MJbeRmcV,1:00o0o_1L9pCtXKd9R,1:01414_8PlRG5WVrfN,1:00Z0Z_kFYiLPt3gIL,1:00u0u_8MITdd6x8Nu,1:00X0X_38kYNlNaLS9,1:00a0a_frzM7Yz3zov,1:00c0c_2wQ2DIl8nA6,1:00S0S_jB0WT6IA1EA">
+                <span class="result-price">$2399</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 07:25" title="Mon 30 Dec 07:25:41 AM">Dec 30</time>
+
+
+        <a href="https://boulder.craigslist.org/tld/d/henderson-triumph-tire-changer-wheel/7046727799.html" data-id="7046727799" class="result-title hdrlnk">Triumph Tire Changer-Wheel Balancer Combo * Great Financing Terms *</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2399</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou &gt; Call Now * 844-536-6505 * FREE SHIPPING *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035801854">
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-ohaus-scale-precision-balance/7035801854.html" class="result-image gallery" data-ids="1:00101_cx3UiU8uqnh,1:00I0I_l0bFY6mjNYp,1:00101_6D8LLwHVXZW,1:00V0V_jsln2d4DUcF,1:00l0l_lqJitMQNl6y,1:00x0x_kQ7QPmEKCxk,1:00j0j_94rEjQ7PJaT,1:00y0y_hL5h7chrHzg,1:00505_l5hWBs8w4aR,1:00X0X_95Wpo5RESSU,1:00e0e_fquXXlwPk4t,1:00m0m_5xW8TQL0Tc7,1:01414_5naKConaooG,1:00s0s_lmL1lKtuPLJ,1:00H0H_ejkISxId828,1:00s0s_bTUE0pP3gEP,1:00H0H_aHyVGjj4N7k,1:00S0S_glGcTk9Jfen,1:00K0K_8AbMnoYsyoA,1:00D0D_9QRNeGeh7Mm,1:00T0T_hPHloyVLS99,1:00e0e_5uss7ZiB94d,1:00j0j_7UJQkQ8fro6,1:00s0s_4jH90eGeSpL">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-10 09:05" title="Tue 10 Dec 09:05:22 AM">Dec 10</time>
+
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-ohaus-scale-precision-balance/7035801854.html" data-id="7035801854" class="result-title hdrlnk">Ohaus scale precision balance laboratory equipment                              </a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043903674">
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-ohaus-scale-precision-balance/7043903674.html" class="result-image gallery" data-ids="1:00101_cx3UiU8uqnh,1:00I0I_l0bFY6mjNYp,1:00101_6D8LLwHVXZW,1:00V0V_jsln2d4DUcF,1:00l0l_lqJitMQNl6y,1:00x0x_kQ7QPmEKCxk,1:00j0j_94rEjQ7PJaT,1:00y0y_hL5h7chrHzg,1:00505_l5hWBs8w4aR,1:00X0X_95Wpo5RESSU,1:00e0e_fquXXlwPk4t,1:00m0m_5xW8TQL0Tc7,1:01414_5naKConaooG,1:00s0s_lmL1lKtuPLJ,1:00H0H_ejkISxId828,1:00s0s_bTUE0pP3gEP,1:00H0H_aHyVGjj4N7k,1:00S0S_glGcTk9Jfen,1:00K0K_8AbMnoYsyoA,1:00D0D_9QRNeGeh7Mm,1:00T0T_hPHloyVLS99,1:00e0e_5uss7ZiB94d,1:00j0j_7UJQkQ8fro6,1:00s0s_4jH90eGeSpL">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-24 09:05" title="Tue 24 Dec 09:05:23 AM">Dec 24</time>
+
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-ohaus-scale-precision-balance/7043903674.html" data-id="7043903674" class="result-title hdrlnk">Ohaus scale precision balance laboratory equipment                              </a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047380722">
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-ohaus-scale-precision-balance/7047380722.html" class="result-image gallery" data-ids="1:00101_cx3UiU8uqnh,1:00I0I_l0bFY6mjNYp,1:00101_6D8LLwHVXZW,1:00V0V_jsln2d4DUcF,1:00l0l_lqJitMQNl6y,1:00x0x_kQ7QPmEKCxk,1:00j0j_94rEjQ7PJaT,1:00y0y_hL5h7chrHzg,1:00505_l5hWBs8w4aR,1:00X0X_95Wpo5RESSU,1:00e0e_fquXXlwPk4t,1:00m0m_5xW8TQL0Tc7,1:01414_5naKConaooG,1:00s0s_lmL1lKtuPLJ,1:00H0H_ejkISxId828,1:00s0s_bTUE0pP3gEP,1:00H0H_aHyVGjj4N7k,1:00S0S_glGcTk9Jfen,1:00K0K_8AbMnoYsyoA,1:00D0D_9QRNeGeh7Mm,1:00T0T_hPHloyVLS99,1:00e0e_5uss7ZiB94d,1:00j0j_7UJQkQ8fro6,1:00s0s_4jH90eGeSpL">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 09:05" title="Tue 31 Dec 09:05:25 AM">Dec 31</time>
+
+
+        <a href="https://boulder.craigslist.org/tld/d/boulder-ohaus-scale-precision-balance/7047380722.html" data-id="7047380722" class="result-title hdrlnk">Ohaus scale precision balance laboratory equipment                              </a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045545911" data-repost-of="6856199906">
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-hp-air-compressor/7045545911.html" class="result-image gallery" data-ids="1:01717_9Rx7bUdH5Pj">
+                <span class="result-price">$2999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 19:23" title="Fri 27 Dec 07:23:12 PM">Dec 27</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-hp-air-compressor/7045545911.html" data-id="7045545911" class="result-title hdrlnk">10, 15, 20, 25, 30, 50 HP Air Compressor</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2999</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Fort Collins)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046819746" data-repost-of="7006406199">
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-triumph-nss8-4-post-auto/7046819746.html" class="result-image gallery" data-ids="1:00I0I_5CO4sCDR8QD,1:00v0v_kHT74rt8915,1:00t0t_88VgoHILu0K,1:00707_cgFx3xKtxde,1:00E0E_wUNRykM2jf,1:00X0X_bImr7ArSfaP,1:00h0h_i6qwkoWNDb6">
+                <span class="result-price">$2429</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 09:44" title="Mon 30 Dec 09:44:42 AM">Dec 30</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-triumph-nss8-4-post-auto/7046819746.html" data-id="7046819746" class="result-title hdrlnk">Triumph NSS8, 4 Post Auto Lift 8K ** FREE SHIPPING</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2429</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Call * 844-536-6505 * Consumer Financing Available *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035043641" data-repost-of="6994321341">
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-triumph-tire-changer-wheel/7035043641.html" class="result-image gallery" data-ids="1:00Z0Z_1Wu8yBbiMQ,1:01212_8GXESV6njwu,1:01212_eF5yVz5pimQ,1:00O0O_cFAbODPP07p,1:00J0J_12C6HCTt6zv,1:00m0m_47zo3aZpX0l,1:00c0c_kbP1uJvzd8D,1:00L0L_32p1rukLLEc,1:00W0W_dc93SZedcXW,1:00909_6MxCT3Lvp2V,1:00X0X_eW96fBPH0bw,1:00000_9lixWnP8cqM,1:00C0C_dwzgWwhzFZ8,1:00D0D_cT5nVyIZwRM,1:00202_2NztGta2bqj,1:00g0g_5Z0YPeqtLHY,1:00b0b_6NJpIzyYjFI,1:00D0D_aKEBXZQM4EC,1:00G0G_9hmvxxebLCJ,1:00R0R_IMCZJUbGXg,1:00f0f_jb8RQ0zJsU0">
+                <span class="result-price">$2399</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-09 06:58" title="Mon 09 Dec 06:58:55 AM">Dec  9</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-triumph-tire-changer-wheel/7035043641.html" data-id="7035043641" class="result-title hdrlnk">Triumph Tire Changer-Wheel Balancer Combo ** Free Shipping  **</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2399</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Call * 844-536-6505 * Financing-Same Day Processing * *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041493669" data-repost-of="7002323514">
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-liberty-triumph-2-4-post/7041493669.html" class="result-image gallery" data-ids="1:00I0I_5CO4sCDR8QD,1:00t0t_88VgoHILu0K,1:00707_cgFx3xKtxde,1:00v0v_kHT74rt8915,1:00w0w_91T6L9pSASA,1:00P0P_8ZdxeFKhNYh,1:00f0f_a0dxzJPrEc0,1:00c0c_66cAMQZNU0F,1:00t0t_ahCaSTWIgNm,1:00000_lnO3AjQyRR0,1:01717_dRpkX2tbrGc,1:00o0o_7cK1CFPqovp,1:00y0y_3xMuflH7m3X,1:00l0l_2qprMn3yRPf,1:00m0m_hZzRy6cOSY6">
+                <span class="result-price">$1495</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 13:55" title="Thu 19 Dec 01:55:34 PM">Dec 19</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-liberty-triumph-2-4-post/7041493669.html" data-id="7041493669" class="result-title hdrlnk">** Liberty &amp; Triumph 2 &amp; 4 Post Auto Lifts &amp; Wheel Service Equipment**</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1495</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; ***Best Finance Rates Available(Price Beat Guarantee)***)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035430404" data-repost-of="6919926916">
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-new-50-amp-digital-plasma/7035430404.html" class="result-image gallery" data-ids="1:00J0J_jFUWr1LIPwQ,1:00W0W_d64GP0SXx8I,1:00N0N_85Q4RGtsL8s">
+                <span class="result-price">$625</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-09 15:03" title="Mon 09 Dec 03:03:59 PM">Dec  9</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-new-50-amp-digital-plasma/7035430404.html" data-id="7035430404" class="result-title hdrlnk">NEW-50 amp Digital Plasma Cutter,cuts to 5/8&quot; 3 yr warranty!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$625</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037462361">
+
+        <a href="https://fortcollins.craigslist.org/tld/d/los-angeles-welder-carpenters-square/7037462361.html" class="result-image gallery" data-ids="1:00y0y_4ENPzWYEAky,1:00r0r_4JlhR49yMCb,1:00e0e_fFUiHNgmewt,1:01313_2zTB2kPkEXg,1:00P0P_6scuxeqM9eN,1:00s0s_jdqdsN87UY1,1:00F0F_8tgrJIjNy5n,1:00J0J_h4c0VpkwG9I">
+                <span class="result-price">$25</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 18:35" title="Thu 12 Dec 06:35:11 PM">Dec 12</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tld/d/los-angeles-welder-carpenters-square/7037462361.html" data-id="7037462361" class="result-title hdrlnk">WELDER / CARPENTERS SQUARE YOU’VE NEVER SEEN</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037465364">
+
+        <a href="https://fortcollins.craigslist.org/tld/d/los-angeles-welder-carpenters-square/7037465364.html" class="result-image gallery" data-ids="1:00y0y_4ENPzWYEAky,1:00r0r_4JlhR49yMCb,1:00e0e_fFUiHNgmewt,1:01313_2zTB2kPkEXg,1:00P0P_6scuxeqM9eN,1:00s0s_jdqdsN87UY1,1:00F0F_8tgrJIjNy5n,1:00J0J_h4c0VpkwG9I">
+                <span class="result-price">$25</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 18:42" title="Thu 12 Dec 06:42:44 PM">Dec 12</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tld/d/los-angeles-welder-carpenters-square/7037465364.html" data-id="7037465364" class="result-title hdrlnk">WELDER / CARPENTERS SQUARE YOU’VE NEVER SEEN</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049830012">
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-stihl-tools-sale/7049830012.html" class="result-image gallery" data-ids="1:00E0E_aR8eshiNqTV,1:00z0z_lkp6PIRkNQn,1:00m0m_63parTb7nfK,1:00n0n_jz58tpa5FyD">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 12:58" title="Sat 04 Jan 12:58:41 PM">Jan  4</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tld/d/fort-collins-stihl-tools-sale/7049830012.html" data-id="7049830012" class="result-title hdrlnk">STIHL TOOLS SALE!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Fort Collins Daily Pawn)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048374511" data-repost-of="6853478849">
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-hp-air-compressor/7048374511.html" class="result-image gallery" data-ids="1:00t0t_l1p4bAdPcG4">
+                <span class="result-price">$2999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 10:03" title="Thu 02 Jan 10:03:37 AM">Jan  2</time>
+
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-hp-air-compressor/7048374511.html" data-id="7048374511" class="result-title hdrlnk">10, 15, 20, 25, 30, 50 HP Air Compressor</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2999</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; Colorado Springs)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040624147">
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-triumph-11k-low/7040624147.html" class="result-image gallery" data-ids="1:00o0o_5WbSs5OTGup,1:00t0t_kTus8qLwPSV,1:00s0s_exdtofhY8pN,1:00505_eP7hk1DsIqH,1:00e0e_7KMKFm0GjZw,1:00505_9rfIdiU7IFi,1:00N0N_ceBbIunwtXR,1:00v0v_2LU7P1uIx65,1:00v0v_hgPhhFlLf3g,1:00707_kUlzNTbPcUY,1:00A0A_iXfMhxyzrdL,1:00I0I_cYpv4N2MTn8,1:00p0p_ctQygexWBA3,1:00w0w_1K2VPYhOB1O,1:00808_c4B8DnvznrQ,1:00202_bSSQ6Zb6FFF,1:00N0N_4oCBRsI0VOD,1:00Q0Q_hR8K9v4DTYw,1:00T0T_g1v7Ly5cWjF,1:00n0n_1D99CxzqnpU,1:01616_lh6iNPBbrBP,1:00H0H_7guyuugAAO6,1:00Y0Y_b14doZ8z5lP,1:00000_2XwPUj7DzTu">
+                <span class="result-price">$2450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-18 07:33" title="Wed 18 Dec 07:33:25 AM">Dec 18</time>
+
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-triumph-11k-low/7040624147.html" data-id="7040624147" class="result-title hdrlnk">Triumph 11K Low Ceiling Two Post Auto Lift * Free Shipping *</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2450</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; Call * 844-536-6505 * Best Financing-Same Day Processing * *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043908445" data-repost-of="6965961641">
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-triumph-nss8-4-post/7043908445.html" class="result-image gallery" data-ids="1:00H0H_7VxbeeK8Bs0,1:00S0S_kgOpL1QSjo6,1:00404_6VAFWjYfnw7,1:00q0q_4z1RgumkUes,1:00C0C_96K4SByAjC1,1:01414_dDpnSIuX5PT,1:00J0J_hHhctiHy66C">
+                <span class="result-price">$2429</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-24 09:14" title="Tue 24 Dec 09:14:50 AM">Dec 24</time>
+
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-triumph-nss8-4-post/7043908445.html" data-id="7043908445" class="result-title hdrlnk">Triumph NSS8, 4 Post Auto Lift 8K ** FREE SHIPPING</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2429</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; Call Now * 844-536-6505 * Financing Available *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047380918" data-repost-of="6966865399">
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-triumph-tire-changer/7047380918.html" class="result-image gallery" data-ids="1:00t0t_2b66Qt6baat,1:00y0y_hmjdfoy8LvO,1:01717_zcnToVxuES,1:00V0V_cq3Cq4uzReT,1:00202_l9FH2l9DjQp,1:00t0t_lmsgEGcgO5S,1:00404_9yGEjApejvz,1:00F0F_2XvJ0rXSZTP,1:00o0o_1L9pCtXKd9R,1:00202_am2MJbeRmcV,1:01414_8PlRG5WVrfN,1:00Z0Z_kFYiLPt3gIL,1:00u0u_8MITdd6x8Nu,1:00e0e_5WQ1pcruYxP,1:00v0v_2LU7P1uIx65,1:00X0X_38kYNlNaLS9,1:00a0a_frzM7Yz3zov,1:00c0c_2wQ2DIl8nA6,1:00S0S_jB0WT6IA1EA,1:00v0v_2gBCMqxeEz0,1:00f0f_ipGKyAvZ1Pg,1:00w0w_7dYMCuxtTHR">
+                <span class="result-price">$2399</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 09:05" title="Tue 31 Dec 09:05:45 AM">Dec 31</time>
+
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-triumph-tire-changer/7047380918.html" data-id="7047380918" class="result-title hdrlnk">Triumph Tire Changer-Wheel Balancer Combo * Great Financing Terms *</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2399</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; Call Now * 844-536-6505 * FREE SHIPPING *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041490847" data-repost-of="7002319918">
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-liberty-triumph-2-4/7041490847.html" class="result-image gallery" data-ids="1:00I0I_5CO4sCDR8QD,1:00t0t_88VgoHILu0K,1:00707_cgFx3xKtxde,1:00v0v_kHT74rt8915,1:00w0w_91T6L9pSASA,1:00P0P_8ZdxeFKhNYh,1:00707_iARBgzwupYu,1:00f0f_a0dxzJPrEc0,1:00c0c_66cAMQZNU0F,1:00t0t_ahCaSTWIgNm,1:00000_lnO3AjQyRR0,1:01717_dRpkX2tbrGc,1:00o0o_7cK1CFPqovp,1:00y0y_3xMuflH7m3X,1:00l0l_2qprMn3yRPf,1:00m0m_hZzRy6cOSY6">
+                <span class="result-price">$1495</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 13:51" title="Thu 19 Dec 01:51:18 PM">Dec 19</time>
+
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-liberty-triumph-2-4/7041490847.html" data-id="7041490847" class="result-title hdrlnk">** Liberty &amp; Triumph 2 &amp; 4 Post Auto Lifts &amp; Wheel Service Equipment**</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1495</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; ***Best Finance Rates Available(Price Beat Guarantee)***)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044836132" data-repost-of="5930986282">
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-val6-portable-space/7044836132.html" class="result-image gallery" data-ids="1:00O0O_49RsfobstZp,1:00y0y_5DmXx2O6ICI,1:00l0l_15s8oaX5Ow1,1:00s0s_gIOY5urjxuf">
+                <span class="result-price">$995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-26 15:39" title="Thu 26 Dec 03:39:31 PM">Dec 26</time>
+
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-val6-portable-space/7044836132.html" data-id="7044836132" class="result-title hdrlnk">VAL6 PORTABLE SPACE HEATERS SALES AND SERVICE WE REPAIR MOST HEATERS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$995</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; COLORADO SPRINGS)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049280321" data-repost-of="5930986282">
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-val6-portable-space/7049280321.html" class="result-image gallery" data-ids="1:00O0O_49RsfobstZp">
+                <span class="result-price">$750</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-03 15:00" title="Fri 03 Jan 03:00:21 PM">Jan  3</time>
+
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-val6-portable-space/7049280321.html" data-id="7049280321" class="result-title hdrlnk">VAL6 PORTABLE SPACE HEATERS SALES AND SERVICE WE REPAIR MOST HEATERS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$750</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; COLORADO SPRINGS)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045170807" data-repost-of="6987784542">
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-tool-blowout/7045170807.html" class="result-image gallery" data-ids="1:00R0R_l1giCm7WkgA,1:00J0J_iVXaxV5vnkQ,1:00k0k_8SrXDM2xqnK,1:00909_23vwjkNm2a8">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 09:46" title="Fri 27 Dec 09:46:29 AM">Dec 27</time>
+
+
+        <a href="https://cosprings.craigslist.org/tld/d/colorado-springs-tool-blowout/7045170807.html" data-id="7045170807" class="result-title hdrlnk">Tool Blowout</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="colorado springs">(cos)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045546220" data-repost-of="6856206272">
+
+        <a href="https://pueblo.craigslist.org/tld/d/pueblo-hp-air-compressor/7045546220.html" class="result-image gallery" data-ids="1:00X0X_k1UO4Q27bwx">
+                <span class="result-price">$2999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 19:24" title="Fri 27 Dec 07:24:07 PM">Dec 27</time>
+
+
+        <a href="https://pueblo.craigslist.org/tld/d/pueblo-hp-air-compressor/7045546220.html" data-id="7045546220" class="result-title hdrlnk">10, 15, 20, 25, 30, 50 HP Air Compressor</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2999</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub &gt; Pueblo)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050729340" data-repost-of="6990680738">
+
+        <a href="https://pueblo.craigslist.org/tld/d/avondale-triumph-nss8-4-post-auto-lift/7050729340.html" class="result-image gallery" data-ids="1:00Q0Q_a2WOUBlorgB,1:00S0S_kgOpL1QSjo6,1:01111_immsCEWUOFM,1:00202_2wj79SflxY9,1:00C0C_96K4SByAjC1,1:01414_dDpnSIuX5PT,1:00J0J_hHhctiHy66C">
+                <span class="result-price">$2429</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 07:08" title="Mon 06 Jan 07:08:50 AM">Jan  6</time>
+
+
+        <a href="https://pueblo.craigslist.org/tld/d/avondale-triumph-nss8-4-post-auto-lift/7050729340.html" data-id="7050729340" class="result-title hdrlnk">Triumph NSS8, 4 Post Auto Lift 8K ** FREE SHIPPING</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2429</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub &gt; Call * 844-536-6505 * Consumer Financing Available *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035053086" data-repost-of="7014773082">
+
+        <a href="https://pueblo.craigslist.org/tld/d/triumph-tire-changer-wheel-balancer/7035053086.html" class="result-image gallery" data-ids="1:00K0K_2Bhy0TICjcb,1:01313_9uVpdnx8qjy,1:00e0e_eFhSxIvV5mm,1:00w0w_2y43TNblwTE,1:00303_kxFbjwn1JWo,1:00T0T_cWBZEMPuBo8,1:00S0S_6B06lnMksbK,1:01111_d2IswQVSV0f,1:00C0C_k7hoxRfkCrD,1:00E0E_dMV7AQcFHb7,1:00D0D_h4aG5JrACaO,1:00D0D_2lIDsorklCY,1:01515_6f5qu7DAI76,1:00t0t_4KNZuvJTTUv,1:00606_12IvwxKllbV,1:00y0y_JlGgSho6iS,1:00J0J_lllm8V3SyIc,1:01515_3skLRpap4e4,1:00J0J_hhM7QBDNbFs,1:01717_d7y5pTAdD6F,1:00F0F_fBEWTLzoQJy">
+                <span class="result-price">$2399</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-09 07:14" title="Mon 09 Dec 07:14:55 AM">Dec  9</time>
+
+
+        <a href="https://pueblo.craigslist.org/tld/d/triumph-tire-changer-wheel-balancer/7035053086.html" data-id="7035053086" class="result-title hdrlnk">Triumph Tire Changer-Wheel Balancer Combo ** Free Shipping  **</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2399</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub &gt; Call * 844-536-6505 * Financing-Same Day Processing * *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041494763" data-repost-of="7002327362">
+
+        <a href="https://pueblo.craigslist.org/tld/d/avondale-liberty-triumph-2-4-post-auto/7041494763.html" class="result-image gallery" data-ids="1:00I0I_5CO4sCDR8QD,1:00t0t_88VgoHILu0K,1:00707_cgFx3xKtxde,1:00v0v_kHT74rt8915,1:00w0w_91T6L9pSASA,1:00P0P_8ZdxeFKhNYh,1:00707_iARBgzwupYu,1:00f0f_a0dxzJPrEc0,1:00c0c_66cAMQZNU0F,1:00t0t_ahCaSTWIgNm,1:00000_lnO3AjQyRR0,1:01717_dRpkX2tbrGc,1:00o0o_7cK1CFPqovp,1:00y0y_3xMuflH7m3X,1:00l0l_2qprMn3yRPf,1:00m0m_hZzRy6cOSY6">
+                <span class="result-price">$1495</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 13:57" title="Thu 19 Dec 01:57:16 PM">Dec 19</time>
+
+
+        <a href="https://pueblo.craigslist.org/tld/d/avondale-liberty-triumph-2-4-post-auto/7041494763.html" data-id="7041494763" class="result-title hdrlnk">** Liberty &amp; Triumph 2 &amp; 4 Post Auto Lifts &amp; Wheel Service Equipment**</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1495</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub &gt; ***Best Finance Rates Available(Price Beat Guarantee)***)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044123163" data-repost-of="6853372749">
+
+        <a href="https://rockies.craigslist.org/tld/d/brighton-hp-air-compressor/7044123163.html" class="result-image gallery" data-ids="1:01717_9Rx7bUdH5Pj">
+                <span class="result-price">$2999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-24 18:46" title="Tue 24 Dec 06:46:27 PM">Dec 24</time>
+
+
+        <a href="https://rockies.craigslist.org/tld/d/brighton-hp-air-compressor/7044123163.html" data-id="7044123163" class="result-title hdrlnk">10, 15, 20, 25, 30, 50 HP Air Compressor</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2999</span>
+
+
+                <span class="nearby" title="high rockies">(rck &gt; Commerce City)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048934379" data-repost-of="7010064666">
+
+        <a href="https://rockies.craigslist.org/tld/d/denver-triumph-overhead-2-post-car-lift/7048934379.html" class="result-image gallery" data-ids="1:00E0E_dMV7AQcFHb7,1:00C0C_k7hoxRfkCrD,1:00V0V_2ZSPtFjDTWs,1:00D0D_h4aG5JrACaO,1:00D0D_2lIDsorklCY,1:00e0e_5WQ1pcruYxP,1:01515_6f5qu7DAI76,1:00z0z_9MHmJCuwWtd,1:00K0K_2Bhy0TICjcb,1:01313_9uVpdnx8qjy,1:01313_9uVpdnx8qjy,1:00e0e_eFhSxIvV5mm,1:00w0w_2y43TNblwTE,1:00303_kxFbjwn1JWo,1:00T0T_cWBZEMPuBo8,1:00S0S_6B06lnMksbK,1:01111_d2IswQVSV0f">
+                <span class="result-price">$2094</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-03 07:52" title="Fri 03 Jan 07:52:12 AM">Jan  3</time>
+
+
+        <a href="https://rockies.craigslist.org/tld/d/denver-triumph-overhead-2-post-car-lift/7048934379.html" data-id="7048934379" class="result-title hdrlnk">Triumph Overhead 2 Post Car Lift 9K ** Free Shipping **</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2094</span>
+
+
+                <span class="nearby" title="high rockies">(rck &gt; Call * 844-536-6505 * Financing-Same Day Processing * *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048512729">
+
+        <a href="https://eastco.craigslist.org/tld/d/burlington-new-sewer-camera-owner/7048512729.html" class="result-image gallery" data-ids="1:00f0f_4yiYyxgrHsZ,1:00a0a_14Gu4yaaYca,1:00J0J_kaZjO8EDIpi,1:00m0m_jwkkMBTE8Rl,1:01212_fKlHTLt9uLq,1:00N0N_lDifixIJF4B,1:01010_cu3sTqwnO1H,1:00m0m_faIclaaEr7j,1:00W0W_a5OmwqXoiqF,1:00M0M_dJlWm6F3ZB6,1:00x0x_8aoGtyQhKaW,1:00o0o_dmeLNwsSeiG,1:00x0x_d71XN16lspa,1:00303_hGOupirwRTZ,1:01616_7ogv2ABJCI4,1:00X0X_c0HBf6h4AUO,1:00C0C_hH6n8t4WHAP,1:00i0i_81uBS5hrlmy,1:00U0U_9mTuXWbiriQ,1:00U0U_hPyJw3T0lc5">
+                <span class="result-price">$5995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 12:44" title="Thu 02 Jan 12:44:57 PM">Jan  2</time>
+
+
+        <a href="https://eastco.craigslist.org/tld/d/burlington-new-sewer-camera-owner/7048512729.html" data-id="7048512729" class="result-title hdrlnk">New Sewer Camera &quot;Owner Serviceable&quot;</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5995</span>
+
+
+                <span class="nearby" title="eastern CO">(eco &gt; Burlington)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050944530">
+
+        <a href="https://eastco.craigslist.org/tld/d/covina-new-4-post-auto-lift-stda-7000st/7050944530.html" class="result-image gallery" data-ids="1:00B0B_lVS8ySKmjEV,1:00q0q_fwrPshGk1Qi,1:00D0D_8gJKRdBFNbb,1:00u0u_kyHCLHpyKzX,1:00f0f_c84cmpMvymb,1:00T0T_4tizwKBWK64,1:00i0i_6BeGRlSM6w5,1:00R0R_bJHUcRENTr1,1:00707_xIC3jzeibQ,1:00e0e_3BlECt5kS5Q,1:00T0T_h8lDq4ZRjQX,1:01313_5whl1YI9ren">
+                <span class="result-price">$4095</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 11:39" title="Mon 06 Jan 11:39:26 AM">Jan  6</time>
+
+
+        <a href="https://eastco.craigslist.org/tld/d/covina-new-4-post-auto-lift-stda-7000st/7050944530.html" data-id="7050944530" class="result-title hdrlnk">New 4 Post Auto Lift STDA-7000ST</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4095</span>
+
+
+                <span class="nearby" title="eastern CO">(eco)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048373999" data-repost-of="6853483168">
+
+        <a href="https://eastco.craigslist.org/tld/d/burlington-hp-air-compressor/7048373999.html" class="result-image gallery" data-ids="1:00P0P_ifE8A1XXqDh">
+                <span class="result-price">$2999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 10:03" title="Thu 02 Jan 10:03:02 AM">Jan  2</time>
+
+
+        <a href="https://eastco.craigslist.org/tld/d/burlington-hp-air-compressor/7048373999.html" data-id="7048373999" class="result-title hdrlnk">10, 15, 20, 25, 30, 50 HP Air Compressor</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2999</span>
+
+
+                <span class="nearby" title="eastern CO">(eco &gt; Burlington)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037841023" data-repost-of="6997550668">
+
+        <a href="https://eastco.craigslist.org/tld/d/denver-triumph-nss8-4-post-auto-lift-8k/7037841023.html" class="result-image gallery" data-ids="1:00Q0Q_a2WOUBlorgB,1:00S0S_kgOpL1QSjo6,1:01111_immsCEWUOFM,1:00202_2wj79SflxY9,1:00C0C_96K4SByAjC1,1:01414_dDpnSIuX5PT,1:00J0J_hHhctiHy66C">
+                <span class="result-price">$2429</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-13 11:59" title="Fri 13 Dec 11:59:29 AM">Dec 13</time>
+
+
+        <a href="https://eastco.craigslist.org/tld/d/denver-triumph-nss8-4-post-auto-lift-8k/7037841023.html" data-id="7037841023" class="result-title hdrlnk">Triumph NSS8, 4 Post Auto Lift 8K ** FREE SHIPPING</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2429</span>
+
+
+                <span class="nearby" title="eastern CO">(eco &gt; Call * 844-536-6505 * Best Consumer Financing Available *)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                </ul>
+            </div>
+
+            <div class="search-legend bottom">
+                <div class="search-view">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="search-sort">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="paginator buttongroup firstpage lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <a href="/search/tld?sort=pricedsc" class="button first" title="first page">&lt;&lt;</a>
+        <span class="button first" title="first page">&lt;&lt;</span>
+        <a href="/search/tld?sort=pricedsc" class="button prev" title="previous page">&lt; prev</a>
+        <span class="button prev" title="previous page">&lt; prev</span>
+
+        <span class="button pagenum">
+            <span class="range">
+                <span class="rangeFrom">1</span>
+                -
+                <span class="rangeTo">32</span>
+            </span>
+            /
+            <span class="totalcount">32</span>
+        </span>
+
+        <a href="" class="button next" title="next page">next &gt; </a>
+        <span class="button next" title="next page"> next &gt; </span>
+    </span>
+</div>
+
+            </div>
+
+            <section class="blurbs">
+                
+            </section>
+
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+        </form>
+
+<aside class="tsb">
+    <ul>
+        <li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+
+<div class="slidemessage">
+    <span class="fave">
+        <span class="star"></span>
+        favorited
+    </span>
+    <span class="unfave">
+        <span class="star"></span>
+        no longer favorited
+    </span>
+    <span class="hide">
+        <span class="trash"></span>
+        hidden
+    </span>
+    <span class="unhide">
+        <span class="trash"></span>
+        no longer hidden
+    </span>
+</div>
+
+<footer>
+        <span class="rss">
+            <a class="l" href="https://denver.craigslist.org/search/tld?format=rss&amp;sort=pricedsc">RSS</a>
+            <a href="https://www.craigslist.org/about/rss">(?)</a><br>
+        </span>
+    <ul class="clfooter">
+        <li>&copy;  <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="https://www.craigslist.org/about/help/">help</a></li>
+        <li><a href="https://www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use.en-us">terms</a><sup class="neu">new</sup></li>
+        <li><a href="https://www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+    </ul>
+</footer>
+    </section>
+
+    <template id="gallerycarousel">
+        <div class="slider-info"></div><div class="slider-back arrow">&lt;</div><div class="slider-forward arrow">&gt;</div>
+    </template>
+
+    
+                <script>
+                try {
+                    if (
+                        !/\/\/.+\.craigslist\.org\/about\//.test(window.location.href)
+                        &&
+                        (!window.addEventListener || JSON.parse(JSON.stringify('x')) !== 'x')
+                    ) {
+                        throw "unsupported browser";
+                    }
+                } catch (e) {
+                    function cleanup() {
+                        document.body.innerHTML = '<div id="cl-unsupported-browser" style="margin:1em;font-size:150%;text-align:center;">We have detected you are using a browser that is missing critical features.<br><br>Please visit craigslist from a modern browser.</div>';
+                        document.body.style = "display:block";
+                    }
+
+                    try {
+                        document.body.style = "display:none";
+                    } catch (e) {
+                    }
+                    window.onload = cleanup;
+                    window.clUnsupportedBrowser = true;
+                }
+                </script>
+            <script src="//www.craigslist.org/js/general-concat.min.js?v=e9ae037676b2885c7a77adfdf33f8501" type="text/javascript" ></script>
+
+<script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish">
+                    <span class="icon icon-trash" role="button"></span>
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+                <span class="unbanish">
+                    <span class="icon icon-trash red" role="button"></span>
+                    unhide
+                </span>
+            </span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="icon icon-star" data-pid="{PostingID}" role="button">
+                <span class="screen-reader-text">favorite this post</span>
+            </span>
+            <span class="postingtitle">
+                <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                    <span class="banish">
+                        <span class="icon icon-trash" role="button"></span>
+                        <span class="screen-reader-text">hide this posting</span>
+                    </span>
+                    <span class="unbanish">
+                        <span class="icon icon-trash red" role="button"></span>
+                        <span class="screen-reader-text">unhide</span>
+                        unhide
+                    </span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer gallery">
+            <span class="slider-back arrow">&lt;</span><span class="slider-info"></span><span class="slider-forward arrow">&gt;</span>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <div class="timecontainer"></div>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=34556d4d2e18087b28df012cc48ea196" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/search-concat.min.js?v=30665e23846bcb69ae24b2b76bc99ad1" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/postings-concat.min.js?v=5da8d5d0efb2e814fc9b7cf2a309d6d1" type="text/javascript" ></script>
+
+</body>
+</html>

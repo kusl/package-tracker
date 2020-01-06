@@ -855,7 +855,7 @@ books &amp; magazines
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">931</span>
+            <span class="totalcount">937</span>
         </span>
 
         <a href="/search/bka?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -5414,6 +5414,43 @@ books &amp; magazines
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="6942898556">
+
+        <a href="https://denver.craigslist.org/bks/d/broomfield-harlequin-premiere-editions/6942898556.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-08-16 09:00" title="Fri 16 Aug 09:00:48 AM">Aug 16</time>
+
+
+        <a href="https://denver.craigslist.org/bks/d/broomfield-harlequin-premiere-editions/6942898556.html" data-id="6942898556" class="result-title hdrlnk">Harlequin Premiere Editions Romance Books - Boxed Sets - 36 Volumes</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (Broomfield)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7017543999">
 
         <a href="https://denver.craigslist.org/bks/d/littleton-charlie-browns-encyclopedia/7017543999.html" class="result-image gallery" data-ids="1:00N0N_lNGaIgb1XR4">
@@ -5600,46 +5637,6 @@ books &amp; magazines
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7028091637">
-
-        <a href="https://denver.craigslist.org/bks/d/littleton-the-short-line-blue-book/7028091637.html" class="result-image gallery" data-ids="1:00q0q_jg83m6BiGYz,1:00909_7zvgwKxKtG4">
-                <span class="result-price">$40</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-26 06:42" title="Thu 26 Dec 06:42:53 AM">Dec 26</time>
-
-
-        <a href="https://denver.craigslist.org/bks/d/littleton-the-short-line-blue-book/7028091637.html" data-id="7028091637" class="result-title hdrlnk">The Short Line Blue Book</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$40</span>
-
-
-                <span class="result-hood"> (Littleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5672,7 +5669,7 @@ books &amp; magazines
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">931</span>
+            <span class="totalcount">937</span>
         </span>
 
         <a href="/search/bka?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

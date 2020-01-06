@@ -906,7 +906,7 @@ boats
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">333</span>
+            <span class="totalcount">336</span>
         </span>
 
         <a href="/search/boo?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -942,7 +942,47 @@ boats
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7037982361">
+                             <li class="result-row" data-pid="7023494643" data-repost-of="6714456326">
+
+        <a href="https://denver.craigslist.org/boa/d/brighton-carlson-cvx-16/7023494643.html" class="result-image gallery" data-ids="1:00z0z_anhrlNmVpGf,1:00c0c_jO9FUEduFvc,1:00L0L_7mz1u6Re4R5,1:00S0S_hFlmHpGu5GM,1:00a0a_kCxwHFQPMQ5,1:01414_byNIUqfvC19,1:01414_cy11j0yRoGb">
+                <span class="result-price">$3200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-05 21:44" title="Thu 05 Dec 09:44:57 PM">Dec  5</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/brighton-carlson-cvx-16/7023494643.html" data-id="7023494643" class="result-title hdrlnk">Carlson CVX-16</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3200</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037982361">
 
         <a href="https://denver.craigslist.org/boa/d/brighton-very-nice-ole-fishing-boat/7037982361.html" class="result-image gallery" data-ids="1:00909_hE99sOjEQ0I,1:01616_7EDe6rV00v,1:00T0T_n11eb0r2WN,1:00l0l_bo4DkHku0UH,1:00Z0Z_7PdSCjLBQCF,1:00I0I_dmZn71pE5FS,1:00101_cASaRYHihqz,1:00C0C_kJaBg1nwHbH,1:00o0o_a1S1vfIVNF5,1:00v0v_83OS9wzAWSW,1:00f0f_9EZoQaXfLnu">
                 <span class="result-price">$3500</span>
@@ -4356,6 +4396,45 @@ boats
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="6894744141">
+
+        <a href="https://denver.craigslist.org/boa/d/larkspur-sea-ray-185-sport/6894744141.html" class="result-image gallery" data-ids="1:00202_3BWMiXilHF9,1:00F0F_ey3BvNkQgy7,1:00808_cnJePBunYWa,1:00k0k_1PjM4UEjn5J,1:00202_25b5Ze1TdXq,1:00404_hs5wPWXcJJV,1:00G0G_52ONIt1B3lF,1:00303_81uAhaTLfu4,1:01212_elfTgc9pxjZ,1:00e0e_9fOl2Mmvx8c,1:00h0h_7MHExvwKgJl,1:00H0H_jgBsYvOfSK2,1:01414_dCFbafeLXIB,1:00Z0Z_8olcwHC082f,1:00k0k_gxvqcJo0jbH,1:00w0w_kzqPnGlvpzI,1:00Q0Q_5lyAhCPhmWT,1:00m0m_gg3GMKJSgPC">
+                <span class="result-price">$13900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 21:10" title="Fri 07 Jun 09:10:32 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/larkspur-sea-ray-185-sport/6894744141.html" data-id="6894744141" class="result-title hdrlnk">Sea Ray 185 SPORT</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$13900</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7031446603" data-repost-of="6603174589">
 
         <a href="https://denver.craigslist.org/boa/d/1998-powerquest/7031446603.html" class="result-image gallery" data-ids="1:00505_i3gnP9TuYhk">
@@ -4533,6 +4612,46 @@ boats
                 <span class="result-price">$14995</span>
 
 
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6893692068">
+
+        <a href="https://denver.craigslist.org/boa/d/littleton-1998-shamrock-219-wa/6893692068.html" class="result-image gallery" data-ids="1:00T0T_44f8x7RtHPL,1:00x0x_ccUOQeBNVdn,1:00Z0Z_3EDHCnGAbeX,1:00F0F_kV0sAXuhbSx,1:01414_bf43sLPz8h4,1:00606_6j00BHdcFXq,1:00O0O_fxZiWKVJX6j,1:00Y0Y_9cNnQdsuEFi,1:00u0u_c5wSsZIUxpm,1:00C0C_YDItK99Znl,1:00Q0Q_lt5vkziYpzS,1:00R0R_jHsvJJ9mXNN,1:00E0E_34qHA1IeDW,1:00x0x_pSGlVQEdOk">
+                <span class="result-price">$15000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-10 17:25" title="Mon 10 Jun 05:25:39 PM">Jun 10</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/littleton-1998-shamrock-219-wa/6893692068.html" data-id="6893692068" class="result-title hdrlnk">1998 Shamrock 219 WA</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$15000</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5582,126 +5701,6 @@ boats
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7042004932" data-repost-of="6338464250">
-
-        <a href="https://denver.craigslist.org/boa/d/littleton-ultimate-20-sail-boat/7042004932.html" class="result-image gallery" data-ids="1:00m0m_1lisrUDufIB,1:00E0E_a9TJC3EZ8MU,1:00N0N_hHYa5Zy0UQS,1:00u0u_hTkmibKBGlo,1:00r0r_48vcjJLy0Oc,1:00C0C_9prEufEvExu,1:00T0T_dnjgp1hAZD4,1:00X0X_gLbg3gLmHf2,1:00101_i5GDEwJZ17b,1:00d0d_68AA4i9063f,1:00t0t_cfxtoYuPpCI">
-                <span class="result-price">$20000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-20 12:22" title="Fri 20 Dec 12:22:36 PM">Dec 20</time>
-
-
-        <a href="https://denver.craigslist.org/boa/d/littleton-ultimate-20-sail-boat/7042004932.html" data-id="7042004932" class="result-title hdrlnk">ultimate 20 sail boat</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$20000</span>
-
-
-                <span class="result-hood"> (Littleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7040218328">
-
-        <a href="https://denver.craigslist.org/bod/d/lovell-2007-crownline-19-ss-open-bow/7040218328.html" class="result-image gallery" data-ids="1:00Q0Q_di3IhophCgw,1:00c0c_bUf1wUBl6ru,1:01313_b0OWf4uG7GN,1:00G0G_19B70nileym,1:00T0T_bj4ff3uryzy,1:00G0G_cCNVdPFsBnj,1:00F0F_eIkchDiIDNH,1:00909_fXcOe3sNZwk,1:00y0y_2lObeahHBRN,1:01414_cEORDZ0P0Ys,1:00V0V_85xdntfaXdx,1:00q0q_3RaWYl7SAR0,1:00909_fVFFxabAnXy,1:00y0y_6WtzuIILLD1,1:00Y0Y_6hAvhGEojnf,1:00c0c_6FTrM0JwO42,1:00E0E_91HjnzheNh6,1:00I0I_lo2ynGFdmt5,1:00i0i_arFOXyGeSYS,1:00v0v_gc3CYqw1q19,1:01212_dKqJnG6hpdC">
-                <span class="result-price">$21500</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-17 12:15" title="Tue 17 Dec 12:15:10 PM">Dec 17</time>
-
-
-        <a href="https://denver.craigslist.org/bod/d/lovell-2007-crownline-19-ss-open-bow/7040218328.html" data-id="7040218328" class="result-title hdrlnk">2007 Crownline 19 SS Open Bow</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$21500</span>
-
-
-                <span class="result-hood"> (Midway Auto and Marine)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7040376104">
-
-        <a href="https://denver.craigslist.org/bod/d/lovell-2011-starcraft-18-starweld-fish/7040376104.html" class="result-image gallery" data-ids="1:00B0B_3hs6PiXbEsz,1:00A0A_cK4xjeovFAg,1:00D0D_4outt7kHSq6,1:00808_4zkvEGgYWoq,1:00s0s_fFgRYjN61CP,1:00y0y_hk1aGefwjhk,1:00N0N_dxfEgLdOdm3,1:00S0S_k2RBw9OG2o4,1:00u0u_b9cmSms3Jda,1:00R0R_2wm8Pz9Q4wp,1:00R0R_dmlIVDvGpJY,1:00x0x_itsEl5DI89j,1:00D0D_cXKotlT8Dh6,1:00I0I_k8uT8XVj1Uh,1:00u0u_1MD32Eavh29,1:00A0A_abPdFa6kWEI,1:00D0D_cRX5WUk1a4o,1:00909_9s6yjMSXqGY,1:00505_ifPyfgvTnpH,1:00N0N_9cam3iAOrPP,1:00C0C_g53QI9lCAU6,1:00B0B_k63QD50dSfL">
-                <span class="result-price">$21500</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-17 16:01" title="Tue 17 Dec 04:01:08 PM">Dec 17</time>
-
-
-        <a href="https://denver.craigslist.org/bod/d/lovell-2011-starcraft-18-starweld-fish/7040376104.html" data-id="7040376104" class="result-title hdrlnk">2011 Starcraft 18 Starweld Fish n Ski</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$21500</span>
-
-
-                <span class="result-hood"> (Midway Auto and Marine)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5734,7 +5733,7 @@ boats
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">333</span>
+            <span class="totalcount">336</span>
         </span>
 
         <a href="/search/boo?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

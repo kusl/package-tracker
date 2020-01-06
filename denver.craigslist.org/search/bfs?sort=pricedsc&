@@ -854,7 +854,7 @@ business/commercial - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1309</span>
+            <span class="totalcount">1306</span>
         </span>
 
         <a href="/search/bfs?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -1959,43 +1959,6 @@ business/commercial - by owner
 
 
                 <span class="result-hood"> (E Niagara off SO Townsend (HWY 550))</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="6889176922">
-
-        <a href="https://denver.craigslist.org/bfs/d/montrose-landscape-company/6889176922.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-06-07 21:09" title="Fri 07 Jun 09:09:23 PM">Jun  7</time>
-
-
-        <a href="https://denver.craigslist.org/bfs/d/montrose-landscape-company/6889176922.html" data-id="6889176922" class="result-title hdrlnk">Landscape company</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$185000</span>
-
-
-                <span class="result-hood"> (Montrose)</span>
 
                 <span class="result-tags">
                 </span>
@@ -5573,6 +5536,46 @@ business/commercial - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7050881718">
+
+        <a href="https://denver.craigslist.org/bfs/d/conifer-direct-to-garment-printing/7050881718.html" class="result-image gallery" data-ids="1:00x0x_hDSl1hUHSS5,1:00u0u_gevwPGsOSos,1:00101_6WHXUZRZNz5,1:00r0r_7TTLl3KToqa">
+                <span class="result-price">$25000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 10:43" title="Mon 06 Jan 10:43:22 AM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bfs/d/conifer-direct-to-garment-printing/7050881718.html" data-id="7050881718" class="result-title hdrlnk">Direct To Garment Printing Business</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25000</span>
+
+
+                <span class="result-hood"> (Conifer)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5605,7 +5608,7 @@ business/commercial - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1309</span>
+            <span class="totalcount">1306</span>
         </span>
 
         <a href="/search/bfs?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

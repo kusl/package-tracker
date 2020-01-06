@@ -1492,7 +1492,47 @@ bicycles - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051093509">
+                             <li class="result-row" data-pid="7039718797" data-repost-of="7016862046">
+
+        <a href="https://denver.craigslist.org/bik/d/castle-rock-new-in-box-hybrid-bike/7039718797.html" class="result-image gallery" data-ids="1:00b0b_gFnWl44IcoB">
+                <span class="result-price">$199</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:20" title="Mon 06 Jan 03:20:16 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bik/d/castle-rock-new-in-box-hybrid-bike/7039718797.html" data-id="7039718797" class="result-title hdrlnk">New in box Hybrid bike</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$199</span>
+
+
+                <span class="result-hood"> (Castle Rock)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051093509">
 
         <a href="https://denver.craigslist.org/bik/d/denver-2019-niner-jet-9-rdo-mountain/7051093509.html" class="result-image gallery" data-ids="1:00Y0Y_9M1yaJ2AgPU,1:00606_g0xAtjCEpnj,1:00I0I_8qWICRmys3m,1:00x0x_eSX9c89SUcs,1:00f0f_7P13fQ2GJF4,1:00K0K_30PEXT2mZR8,1:00d0d_7wXctRYg4Xg,1:00D0D_hkC6GAHiz0F,1:00202_6tI3kebMnZt,1:01717_fkJkuyEbIJC,1:00Q0Q_igZdkpEYjYS,1:00T0T_hoWhwliEoWq,1:00M0M_9xxwHUQXyU5,1:00E0E_89IcIbmmflN">
                 <span class="result-price">$3000</span>
@@ -6203,46 +6243,6 @@ bicycles - by owner
 
         <span class="result-meta">
                 <span class="result-price">$165</span>
-
-
-                <span class="result-hood"> (lakewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7034106849" data-repost-of="4901070860">
-
-        <a href="https://denver.craigslist.org/bik/d/vintage-azuki-road-bike-with-mixtie/7034106849.html" class="result-image gallery" data-ids="1:00W0W_804ciZNTMp">
-                <span class="result-price">$145</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 09:02" title="Mon 06 Jan 09:02:10 AM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/bik/d/vintage-azuki-road-bike-with-mixtie/7034106849.html" data-id="7034106849" class="result-title hdrlnk">Vintage Azuki road bike with mixtie frame</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$145</span>
 
 
                 <span class="result-hood"> (lakewood)</span>
