@@ -1457,7 +1457,7 @@ bicycles
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2336</span>
+            <span class="totalcount">2340</span>
         </span>
 
         <a href="/search/bia?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -1493,7 +1493,47 @@ bicycles
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7029622346">
+                             <li class="result-row" data-pid="7028983425" data-repost-of="6978914927">
+
+        <a href="https://denver.craigslist.org/bik/d/castle-rock-mongoose-wired-21-speed/7028983425.html" class="result-image gallery" data-ids="1:00101_fzFBNSIy9dt,1:00K0K_4QtxGs6NTwq">
+                <span class="result-price">$50</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-03 19:31" title="Tue 03 Dec 07:31:03 PM">Dec  3</time>
+
+
+        <a href="https://denver.craigslist.org/bik/d/castle-rock-mongoose-wired-21-speed/7028983425.html" data-id="7028983425" class="result-title hdrlnk">*** Mongoose Wired 21 Speed- Great Condition ***</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$50</span>
+
+
+                <span class="result-hood"> (Parker)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7029622346">
 
         <a href="https://denver.craigslist.org/bik/d/littleton-azuki-10-speed-bike/7029622346.html" class="result-image gallery" data-ids="1:00S0S_50QoOwd6MCi,1:00D0D_802dsYoebU9,1:00P0P_emqryVzaIqj,1:00r0r_g8d0DIQsv0p">
                 <span class="result-price">$50</span>
@@ -6214,46 +6254,6 @@ bicycles
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7034401250">
-
-        <a href="https://denver.craigslist.org/bik/d/denver-vintage-ross-roadbike/7034401250.html" class="result-image gallery" data-ids="1:00Z0Z_gyx956lYtki,1:00R0R_lo4PzOBKdoZ,1:00t0t_1bNMQKMKmM9,1:00x0x_fHRjmXiCe8e">
-                <span class="result-price">$65</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 19:07" title="Sun 05 Jan 07:07:23 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/bik/d/denver-vintage-ross-roadbike/7034401250.html" data-id="7034401250" class="result-title hdrlnk">Vintage Ross Roadbike</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$65</span>
-
-
-                <span class="result-hood"> (Lakewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6286,7 +6286,7 @@ bicycles
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2336</span>
+            <span class="totalcount">2340</span>
         </span>
 
         <a href="/search/bia?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

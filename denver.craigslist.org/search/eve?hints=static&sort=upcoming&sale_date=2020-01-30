@@ -1,0 +1,924 @@
+﻿<!DOCTYPE html>
+<html class="no-js"><head>
+    <title>denver events  - craigslist</title>
+
+    <meta name="description" content="denver events  - craigslist">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="canonical" href="https://denver.craigslist.org/search/eve">
+    <link rel="alternate" type="application/rss+xml" href="https://denver.craigslist.org/search/eve?format=rss&amp;hints=static&amp;sale_date=2020-01-30&amp;sort=upcoming" title="RSS feed for craigslist | denver events  - craigslist">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=f45c4074e9853c0ceb280398a8131359">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=bc035cbbc3978b0ec9df93944cdf349b">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=33e3dd14c7deed955c83b6927c5e1f07">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=9bea97021e746649c6837e95dd9723e8">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=d8743547c59d5ad31d4d7294c7e2f7f2">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+
+    
+        <script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "13";
+var areaRegion = "CO";
+var catAbb = "eve";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "&#x0024;";
+var defaultView = "list";
+var expiredFavIDs = null;
+var imageConfig = {"1":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]},"0":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450"]},"2":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]}};
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+var maxResults = 3000;
+var noImageText = "no image";
+var pID = null;
+var postalLat = null;
+var postalLon = null;
+var purveyorCategories = null;
+var searchDistance = null;
+var sectionAbb = "eee";
+var sectionBase = "eee";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var showingBanished = 0;
+var showingFavorites = 0;
+var starHint = "save this post in your favorites list";
+var subarea = null;
+var zoomToPosting = null;
+--></script>
+    
+</head>
+<body class="search has-map">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <section class="page-container" id="page-top">
+        <div class="bglogo"></div>
+        <div class="tryapp">
+    try the craigslist app &raquo;
+    <a class="appstorebtn"
+    href="https://play.google.com/store/apps/details?id=org.craigslist.CraigslistMobile">
+        Android
+    </a>
+    <a class="appstorebtn"
+    href="https://apps.apple.com/us/app/craigslist/id1336642410">
+        iOS
+    </a>
+</div>
+<header class="global-header wide">
+   <a class="header-logo" name="logoLink" href="/">CL</a>
+
+    <nav class="breadcrumbs-container">
+<form id="breadcrumbform" class="breadcrumbs-form" method="get" action="/search/eve" data-action="/search/###/eve">
+    <input type="hidden" name="sale_date" value="2020-01-30">
+<input type="hidden" name="sort" value="upcoming">
+<input type="hidden" name="hints" value="static">
+
+    <ul class="breadcrumbs ">
+        <li class="crumb area">
+            
+            <span class="no-js">
+                <a href="/">denver</a>
+            </span>
+                <select name="areaAbb" id="areaAbb" class="js-only">
+                    <option value="denver">denver</option>
+                        <option value="boulder">boulder</option>
+                        <option value="cosprings">colo springs</option>
+                        <option value="eastco">eastern CO</option>
+                        <option value="fortcollins">fort collins</option>
+                        <option value="rockies">high rockies</option>
+                        <option value="pueblo">pueblo</option>
+                        <option value="scottsbluff">scottsbluff</option>
+                        <option value="westslope">western slope</option>
+                </select>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb section">
+                    <select name="catAbb" id="catAbb">
+                        <option value="ccc">community</option>
+                        <option value="eee" selected>events</option>
+                        <option value="sss">for sale</option>
+                        <option value="ggg">gigs</option>
+                        <option value="hhh">housing</option>
+                        <option value="jjj">jobs</option>
+                        <option value="rrr">resumes</option>
+                        <option value="bbb">services</option>
+                    </select>
+                <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb category">
+            <select id="subcatAbb" class="js-only">
+                <option value="eee">all</option>
+                    <option value="cls">classes</option>
+                    <option value="eve" selected>events</option>
+            </select><span class="no-js">events</span>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb no-js">
+            <input type="submit" value="go">
+        </li>
+    </ul>
+</form>
+    </nav>
+
+<div class="userlinks">
+    <ul class="user-actions">
+        <li class="user post">
+            <a href="https://post.craigslist.org/c/den">post</a>
+        </li>
+        <li class="user account">
+            <a href="https://accounts.craigslist.org/login/home">account</a>
+        </li>
+    </ul>
+    <ul class="user-favs-discards">
+        <li class="user">
+            <div class="favorites">
+                <a href="#" class="favlink"><span class="icon icon-star fav" aria-hidden="true"></span><span class="fav-number">0</span><span class="fav-label"> favorites</span></a>
+            </div>
+        </li>
+        <li class="user discards">
+          <form class="unfavform js-only" method="POST" action="/favorites">
+            <div class="to-banish-page">
+              <input type="hidden" class="lastLink" name="lastLink" value="//denver.craigslist.org/search/eve?hints=static&amp;sale_date=2020-01-30&amp;sort=upcoming">
+              <input type="hidden" class="lastTitle" name="lastTitle" value="denver events  - craigslist">
+              <input type="hidden" class="unfaves" name="fl">
+              <input type="hidden" name="uf" value="1">
+              <a href="#" class="to-banish-page-link">
+                <span class="icon icon-trash red" aria-hidden="true"></span>
+                <span class="banished_count">0</span>
+                <span class="discards-label"> hidden</span>
+              </a>
+            </div>
+          </form>
+        </li>
+    </ul>
+</div>
+
+</header>
+<header class="global-header narrow">
+   <a class="header-logo" href="/">CL</a>
+    <nav class="breadcrumbs-container">
+
+<ul class="breadcrumbs">
+
+
+denver            &gt;
+
+events
+
+</ul>
+
+
+    </nav>
+    <span class="linklike show-wide-header">...</span>
+</header>
+
+
+        <form id="searchform" class="search-form" action="/search/eve">
+            <div class="querybox">
+                
+                <div class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></div>
+                <input type="text" placeholder="search events" name="query"
+                    id="query" value="" autocorrect="off" class="flatinput ui-autocomplete-input"
+                    autocapitalize="off" autocomplete="off" data-autocomplete="search">
+
+                <button type="submit" class="searchbtn">
+                    <span class="icon icon-search" aria-hidden="true"></span>
+                    <span class="screen-reader-text">press to search craigslist</span>
+                </button>
+                    <div class="savealert">
+                        <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fdenver%252Ecraigslist%252Eorg%252Fsearch%252Feve%253Fhints%253Dstatic%2526sale%255Fdate%253D2020%252D01%252D30%2526sort%253Dupcoming"  title="save this search" >save search</a>
+                    </div>
+            </div>
+
+            <div class="search-options-container">
+    <h2 class="search-options-header linklike">
+        <div class="icon icon-toggle-gear" aria-hidden="true"></div>
+        options<span class="options-close">close</span>
+    </h2>
+    <input id="excats" type="hidden" name="excats">
+        <input type="hidden" name="sort" value="upcoming">
+    <div class="search-options">
+        <div class="searchgroup categories">
+            <div class="cattitle">
+                  <a href="/search/eve" title="clear all search parameters" class="reset">events</a>
+            </div>
+
+        </div>
+        <input type="hidden" name="userid" value="" />
+
+
+
+
+              <div class="searchgroup cal-container"><table class="cal">
+    <tr class="days">
+            <th>M</th>
+            <th>T</th>
+            <th>W</th>
+            <th>T</th>
+            <th>F</th>
+            <th>S</th>
+            <th>S</th>
+    </tr>
+        <tr>
+                <td class="today "><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-06">6</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-07">7</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-08">8</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-09">9</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-10">10</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-11">11</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-12">12</a></td>
+        </tr>
+        <tr>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-13">13</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-14">14</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-15">15</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-16">16</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-17">17</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-18">18</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-19">19</a></td>
+        </tr>
+        <tr>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-20">20</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-21">21</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-22">22</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-23">23</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-24">24</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-25">25</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-26">26</a></td>
+        </tr>
+        <tr>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-27">27</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-28">28</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-29">29</a></td>
+                <td class="searched "><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-30">30</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-01-31">31</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-02-01">1</a></td>
+                <td class=""><a href="//denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming&amp;sale_date=2020-02-02">2</a></td>
+        </tr>
+</table>
+</div>
+
+        <div class="searchgroup">
+            <ul>
+    <li>
+       <label class="srchType">
+           <input type="checkbox" name="srchType" class="" value="T" >
+           search titles only
+       </label>
+    </li>
+    <li>
+       <label class="hasPic">
+           <input type="checkbox" name="hasPic" class="autosubmit" value="1" >
+           has image
+       </label>
+    </li>
+    <li>
+       <label class="postedToday">
+           <input type="checkbox" name="postedToday" class="autosubmit" value="1" >
+           posted today
+       </label>
+    </li>
+    <li>
+       <label class="bundleDuplicates">
+           <input type="checkbox" name="bundleDuplicates" class="autosubmit" value="1" >
+           bundle duplicates
+       </label>
+    </li>
+    <li>
+       <label class="searchNearby">
+           <input type="checkbox" name="searchNearby" class="autosubmit" value="1" >
+           include nearby areas
+       </label>
+    </li>
+</ul>
+
+                <ul class="js-only nearbyAreas ">
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_0"
+                            value="319"
+                            disabled="disabled"
+                            />
+                            boulder, CO <small>(bou)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_2"
+                            value="210"
+                            disabled="disabled"
+                            />
+                            colorado springs <small>(cos)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_5"
+                            value="713"
+                            disabled="disabled"
+                            />
+                            eastern CO <small>(eco)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_10"
+                            value="568"
+                            disabled="disabled"
+                            />
+                            farmington, NM <small>(fnm)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_1"
+                            value="287"
+                            disabled="disabled"
+                            />
+                            fort collins / north CO <small>(ftc)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_4"
+                            value="288"
+                            disabled="disabled"
+                            />
+                            high rockies <small>(rck)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_8"
+                            value="668"
+                            disabled="disabled"
+                            />
+                            north platte, NE <small>(lbf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_9"
+                            value="688"
+                            disabled="disabled"
+                            />
+                            northwest KS <small>(nwk)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_3"
+                            value="315"
+                            disabled="disabled"
+                            />
+                            pueblo, CO <small>(pub)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_12"
+                            value="218"
+                            disabled="disabled"
+                            />
+                            santa fe / taos <small>(saf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_6"
+                            value="669"
+                            disabled="disabled"
+                            />
+                            scottsbluff / panhandle <small>(bff)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_13"
+                            value="687"
+                            disabled="disabled"
+                            />
+                            southwest KS <small>(swk)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_7"
+                            value="320"
+                            disabled="disabled"
+                            />
+                            western slope <small>(gjt)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_11"
+                            value="197"
+                            disabled="disabled"
+                            />
+                            wyoming <small>(wyo)</small>
+                        </label>
+                        </li>
+
+                        <li>
+                        <span class="nextNearbyZone linklike" data-zone="1">
+                            + show <span id="nearbyNumber">14</span> more...
+                        </span>
+                        </li>
+                </ul>
+        </div>
+
+            <div class="searchgroup">
+                <span class="searchfieldlabel">miles from zip</span>
+                <input size="5" maxlength="5" inputmode="numeric"
+                    class="flatinput searchInput search_distance" placeholder="miles"
+                    name="search_distance"
+                    value=""
+                />
+                <input type="text" class="flatinput searchInput postal" placeholder="from zip"
+                    size="7" name="postal" value="">
+                <span class="icon icon-locate"></span>
+            </div>
+
+
+
+
+
+        <div class="searchgroup"><label class="event_art">
+        <input type="checkbox" name="event_art" value="1" class="autosubmit" />
+    art/film
+</label><br>
+<label class="event_career">
+        <input type="checkbox" name="event_career" value="1" class="autosubmit" />
+    career
+</label><br>
+<label class="event_fundraiser_vol">
+        <input type="checkbox" name="event_fundraiser_vol" value="1" class="autosubmit" />
+    charitable
+</label><br>
+<label class="event_athletics">
+        <input type="checkbox" name="event_athletics" value="1" class="autosubmit" />
+    competition
+</label><br>
+<label class="event_dance">
+        <input type="checkbox" name="event_dance" value="1" class="autosubmit" />
+    dance
+</label><br>
+<label class="event_festival">
+        <input type="checkbox" name="event_festival" value="1" class="autosubmit" />
+    fest/fair
+</label><br>
+<label class="event_fitness_wellness">
+        <input type="checkbox" name="event_fitness_wellness" value="1" class="autosubmit" />
+    fitness/health
+</label><br>
+<label class="event_food">
+        <input type="checkbox" name="event_food" value="1" class="autosubmit" />
+    food/drink
+</label><br>
+<label class="event_free">
+        <input type="checkbox" name="event_free" value="1" class="autosubmit" />
+    free
+</label><br>
+<label class="event_kidfriendly">
+        <input type="checkbox" name="event_kidfriendly" value="1" class="autosubmit" />
+    kid friendly
+</label><br>
+<label class="event_literary">
+        <input type="checkbox" name="event_literary" value="1" class="autosubmit" />
+    literary
+</label><br>
+<label class="event_music">
+        <input type="checkbox" name="event_music" value="1" class="autosubmit" />
+    music
+</label><br>
+<label class="event_outdoor">
+        <input type="checkbox" name="event_outdoor" value="1" class="autosubmit" />
+    outdoor
+</label><br>
+<label class="event_sale">
+        <input type="checkbox" name="event_sale" value="1" class="autosubmit" />
+    sale
+</label><br>
+<label class="event_singles">
+        <input type="checkbox" name="event_singles" value="1" class="autosubmit" />
+    singles
+</label><br>
+<label class="event_geek">
+        <input type="checkbox" name="event_geek" value="1" class="autosubmit" />
+    tech
+</label><br>
+</div>
+
+            <div class="searchgroup">
+                    <div class="searchfieldlabel">on date</div>
+                <select class="autosubmit" id="sale_date" name="sale_date">
+                    <option>all dates</option>
+                        <option value="2020-01-06">jan 6 - today</option>
+                        <option value="2020-01-07">jan 7 - tomorrow</option>
+                        <option value="2020-01-08">jan 8 - wednesday</option>
+                        <option value="2020-01-09">jan 9 - thursday</option>
+                        <option value="2020-01-10">jan 10 - friday</option>
+                        <option value="2020-01-11">jan 11 - saturday</option>
+                        <option value="2020-01-12">jan 12 - sunday</option>
+                        <option value="2020-01-13">jan 13 - monday</option>
+                        <option value="2020-01-14">jan 14 - tuesday</option>
+                        <option value="2020-01-15">jan 15 - wednesday</option>
+                        <option value="2020-01-16">jan 16 - thursday</option>
+                        <option value="2020-01-17">jan 17 - friday</option>
+                        <option value="2020-01-18">jan 18 - saturday</option>
+                        <option value="2020-01-19">jan 19 - sunday</option>
+                        <option value="2020-01-20">jan 20 - monday</option>
+                        <option value="2020-01-21">jan 21 - tuesday</option>
+                        <option value="2020-01-22">jan 22 - wednesday</option>
+                        <option value="2020-01-23">jan 23 - thursday</option>
+                        <option value="2020-01-24">jan 24 - friday</option>
+                        <option value="2020-01-25">jan 25 - saturday</option>
+                        <option value="2020-01-26">jan 26 - sunday</option>
+                        <option value="2020-01-27">jan 27 - monday</option>
+                        <option value="2020-01-28">jan 28 - tuesday</option>
+                        <option value="2020-01-29">jan 29 - wednesday</option>
+                        <option value="2020-01-30" selected>jan 30 - thursday</option>
+                        <option value="2020-01-31">jan 31 - friday</option>
+                        <option value="2020-02-01">feb 1 - saturday</option>
+                        <option value="2020-02-02">feb 2 - sunday</option>
+                </select>
+            </div>
+        <div class="searchgroup resetsearch">
+            <a href="/search/eve" title="clear all search parameters" class="reset linklike">reset</a>
+            <button type="submit" class="searchlink linklike">update search</button>
+        </div>
+
+    </div>
+</div>
+
+
+            <div class="search-legend">
+<div class="search-view js-only">
+    <div class="dropdown dropdown-icons dropdown-arrows dropdown-view" role="toolbar" aria-label="view options" aria-expanded="false">
+        <ul class="dropdown-list">
+            <li class="dropdown-item mode sel">
+                <button title="show results in a list" data-selection="list" id="listview">
+                    <span class="view-list icon"></span>list
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results in a list with thumbnail pictures"  data-selection="pic"  id="picview" >
+                    <span class="view-thumb icon"></span>thumb
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results side-by-side with larger pictures" data-selection="grid" id="gridview">
+                    <span class="view-gallery icon"></span>gallery
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+                <li class="dropdown-item mode">
+                    <button title="show results on a map"  data-selection="map"  id="mapview" >
+                        <span class="view-map icon"></span>map
+                    </button>
+                    <span class="toggle-arrow"></span>
+                </li>
+        </ul>
+    </div>
+</div>
+                <div class="search-sort" >
+    <div class="dropdown dropdown-sort dropdown-arrows" data-default-sort="upcoming" role="toolbar" aria-label="sort options" aria-expanded="false">
+        <ul class="dropdown-list">
+
+            <li class="dropdown-item mode sel" aria-selected="true">
+                <a data-selection="upcoming" title="show upcoming events" href="/search/eve?sort=upcoming&amp;hints=static&amp;sale_date=2020-01-30">upcoming <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="date" title="show newest matches first" href="/search/eve?sort=date&amp;hints=static&amp;sale_date=2020-01-30">newest <span class="toggle-arrow"></span></a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+                <div class="paginator buttongroup firstpage lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">0</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <span class="button pagenum">no results</span>
+    </span>
+</div>
+
+                <div class="day_pag_div ban">
+    <span class="cur_day daybubbles">events on thu jan 30</span>
+    <div class="prev_day">
+        <span class="daybubbles"><a href="//denver.craigslist.org/search/eve?hints=static&amp;sale_date=2020-01-29&amp;sort=upcoming">&lt;&lt; previous day</a></span>
+    </div>
+    <div class="next_day">
+        <span class="daybubbles"><a href="//denver.craigslist.org/search/eve?hints=static&amp;sale_date=2020-01-31&amp;sort=upcoming">next day &gt;&gt;</a></span>
+    </div>
+</div>
+
+            </div>
+            <div class="content" id="sortable-results" >
+                <section class="favlistsection">
+                    <section class="favlistinfo">
+                    </section>
+                    <section class="banishlistinfo">
+                    </section>
+                </section>
+
+                    
+
+                    <div class="alert alert-sm alert-warning">Nothing found for 2020-01-30<br>(see results for <a href="https://denver.craigslist.org/search/eve?hints=static&amp;sort=upcoming">all days</a>).</div>
+
+<div id="mapcontainer" data-arealat="39.739201" data-arealon="-104.984001">
+    <div id="noresult-overlay"></div>
+    <div id="noresult-text">
+        <span class="message">No mappable items found</span>
+    </div>
+    <div id="map" class="loading">
+        <div class="close-full-screen-map-mode-button">close fullscreen</div>
+        <div class="close-map-view-button">close map</div>
+    </div>
+</div>
+
+                <ul class="rows">
+                    
+                    
+                    
+                </ul>
+            </div>
+
+            <div class="search-legend bottom">
+                <div class="search-view">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="search-sort">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="paginator buttongroup firstpage lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">0</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <span class="button pagenum">no results</span>
+    </span>
+</div>
+
+            </div>
+
+            <section class="blurbs">
+                
+            </section>
+
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+        </form>
+
+
+<div class="slidemessage">
+    <span class="fave">
+        <span class="star"></span>
+        favorited
+    </span>
+    <span class="unfave">
+        <span class="star"></span>
+        no longer favorited
+    </span>
+    <span class="hide">
+        <span class="trash"></span>
+        hidden
+    </span>
+    <span class="unhide">
+        <span class="trash"></span>
+        no longer hidden
+    </span>
+</div>
+
+<footer>
+        <span class="rss">
+            <a class="l" href="https://denver.craigslist.org/search/eve?format=rss&amp;hints=static&amp;sale_date=2020-01-30&amp;sort=upcoming">RSS</a>
+            <a href="https://www.craigslist.org/about/rss">(?)</a><br>
+        </span>
+    <ul class="clfooter">
+        <li>&copy;  <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="https://www.craigslist.org/about/help/">help</a></li>
+        <li><a href="https://www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use.en-us">terms</a><sup class="neu">new</sup></li>
+        <li><a href="https://www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+    </ul>
+</footer>
+    </section>
+
+    <template id="gallerycarousel">
+        <div class="slider-info"></div><div class="slider-back arrow">&lt;</div><div class="slider-forward arrow">&gt;</div>
+    </template>
+
+    
+                <script>
+                try {
+                    if (
+                        !/\/\/.+\.craigslist\.org\/about\//.test(window.location.href)
+                        &&
+                        (!window.addEventListener || JSON.parse(JSON.stringify('x')) !== 'x')
+                    ) {
+                        throw "unsupported browser";
+                    }
+                } catch (e) {
+                    function cleanup() {
+                        document.body.innerHTML = '<div id="cl-unsupported-browser" style="margin:1em;font-size:150%;text-align:center;">We have detected you are using a browser that is missing critical features.<br><br>Please visit craigslist from a modern browser.</div>';
+                        document.body.style = "display:block";
+                    }
+
+                    try {
+                        document.body.style = "display:none";
+                    } catch (e) {
+                    }
+                    window.onload = cleanup;
+                    window.clUnsupportedBrowser = true;
+                }
+                </script>
+            <script src="//www.craigslist.org/js/general-concat.min.js?v=e9ae037676b2885c7a77adfdf33f8501" type="text/javascript" ></script>
+
+<script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish">
+                    <span class="icon icon-trash" role="button"></span>
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+                <span class="unbanish">
+                    <span class="icon icon-trash red" role="button"></span>
+                    unhide
+                </span>
+            </span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="icon icon-star" data-pid="{PostingID}" role="button">
+                <span class="screen-reader-text">favorite this post</span>
+            </span>
+            <span class="postingtitle">
+                <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                    <span class="banish">
+                        <span class="icon icon-trash" role="button"></span>
+                        <span class="screen-reader-text">hide this posting</span>
+                    </span>
+                    <span class="unbanish">
+                        <span class="icon icon-trash red" role="button"></span>
+                        <span class="screen-reader-text">unhide</span>
+                        unhide
+                    </span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer gallery">
+            <span class="slider-back arrow">&lt;</span><span class="slider-info"></span><span class="slider-forward arrow">&gt;</span>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <div class="timecontainer"></div>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=34556d4d2e18087b28df012cc48ea196" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/search-concat.min.js?v=30665e23846bcb69ae24b2b76bc99ad1" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/postings-concat.min.js?v=5da8d5d0efb2e814fc9b7cf2a309d6d1" type="text/javascript" ></script>
+
+</body>
+</html>

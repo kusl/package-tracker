@@ -1,0 +1,3320 @@
+﻿<!DOCTYPE html>
+<html class="no-js"><head>
+    <title>denver tickets  - craigslist</title>
+
+    <meta name="description" content="denver tickets  - craigslist">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="canonical" href="https://denver.craigslist.org/search/tia">
+    <link rel="alternate" type="application/rss+xml" href="https://denver.craigslist.org/search/tia?format=rss&amp;sale_date=2020-01-05&amp;sort=pricedsc" title="RSS feed for craigslist | denver tickets  - craigslist">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=f45c4074e9853c0ceb280398a8131359">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=bc035cbbc3978b0ec9df93944cdf349b">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=33e3dd14c7deed955c83b6927c5e1f07">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=9bea97021e746649c6837e95dd9723e8">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=d8743547c59d5ad31d4d7294c7e2f7f2">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+
+    
+        <script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "13";
+var areaRegion = "CO";
+var catAbb = "tia";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "&#x0024;";
+var defaultView = "grid";
+var expiredFavIDs = null;
+var imageConfig = {"1":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]},"0":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450"]},"2":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]}};
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+var maxResults = 3000;
+var noImageText = "no image";
+var pID = null;
+var postalLat = null;
+var postalLon = null;
+var purveyorCategories = {"owner":"tix","dealer":"tid","all":"tia"};
+var searchDistance = null;
+var sectionAbb = "sss";
+var sectionBase = "sss";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var showingBanished = 0;
+var showingFavorites = 0;
+var starHint = "save this post in your favorites list";
+var subarea = null;
+var zoomToPosting = null;
+--></script>
+    
+</head>
+<body class="search has-map">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <section class="page-container" id="page-top">
+        <div class="bglogo"></div>
+        <div class="tryapp">
+    try the craigslist app &raquo;
+    <a class="appstorebtn"
+    href="https://play.google.com/store/apps/details?id=org.craigslist.CraigslistMobile">
+        Android
+    </a>
+    <a class="appstorebtn"
+    href="https://apps.apple.com/us/app/craigslist/id1336642410">
+        iOS
+    </a>
+</div>
+<header class="global-header wide">
+   <a class="header-logo" name="logoLink" href="/">CL</a>
+
+    <nav class="breadcrumbs-container">
+<form id="breadcrumbform" class="breadcrumbs-form" method="get" action="/search/tia" data-action="/search/###/tia">
+    <input type="hidden" name="sale_date" value="2020-01-05">
+<input type="hidden" name="sort" value="pricedsc">
+
+    <ul class="breadcrumbs ">
+        <li class="crumb area">
+            
+            <span class="no-js">
+                <a href="/">denver</a>
+            </span>
+                <select name="areaAbb" id="areaAbb" class="js-only">
+                    <option value="denver">denver</option>
+                        <option value="boulder">boulder</option>
+                        <option value="cosprings">colo springs</option>
+                        <option value="eastco">eastern CO</option>
+                        <option value="fortcollins">fort collins</option>
+                        <option value="rockies">high rockies</option>
+                        <option value="pueblo">pueblo</option>
+                        <option value="scottsbluff">scottsbluff</option>
+                        <option value="westslope">western slope</option>
+                </select>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb section">
+                    <select name="catAbb" id="catAbb">
+                        <option value="ccc">community</option>
+                        <option value="eee">events</option>
+                        <option value="sss" selected>for sale</option>
+                        <option value="ggg">gigs</option>
+                        <option value="hhh">housing</option>
+                        <option value="jjj">jobs</option>
+                        <option value="rrr">resumes</option>
+                        <option value="bbb">services</option>
+                    </select>
+                <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb category">
+            <select id="subcatAbb" class="js-only">
+                <option value="sss">all</option>
+                    <option value="ata">antiques</option>
+                    <option value="ppa">appliances</option>
+                    <option value="ara">arts+crafts</option>
+                    <option value="sna">atvs/utvs/snow</option>
+                    <option value="pta">auto parts</option>
+                    <option value="wta">auto wheels &amp; tires</option>
+                    <option value="ava">aviation</option>
+                    <option value="baa">baby+kids</option>
+                    <option value="bar">barter</option>
+                    <option value="haa">beauty+hlth</option>
+                    <option value="bip">bike parts</option>
+                    <option value="bia">bikes</option>
+                    <option value="bpa">boat parts</option>
+                    <option value="boo">boats</option>
+                    <option value="bka">books</option>
+                    <option value="bfa">business</option>
+                    <option value="cta">cars+trucks</option>
+                    <option value="ema">cds/dvd/vhs</option>
+                    <option value="moa">cell phones</option>
+                    <option value="cla">clothes+acc</option>
+                    <option value="cba">collectibles</option>
+                    <option value="syp">computer parts</option>
+                    <option value="sya">computers</option>
+                    <option value="ela">electronics</option>
+                    <option value="gra">farm+garden</option>
+                    <option value="zip">free stuff</option>
+                    <option value="fua">furniture</option>
+                    <option value="gms">garage sales</option>
+                    <option value="foa">general</option>
+                    <option value="hva">heavy equipment</option>
+                    <option value="hsa">household</option>
+                    <option value="jwa">jewelry</option>
+                    <option value="maa">materials</option>
+                    <option value="mpa">motorcycle parts</option>
+                    <option value="mca">motorcycles</option>
+                    <option value="msa">music instr</option>
+                    <option value="pha">photo+video</option>
+                    <option value="rva">RVs</option>
+                    <option value="sga">sporting</option>
+                    <option value="tia" selected>tickets</option>
+                    <option value="tla">tools</option>
+                    <option value="taa">toys+games</option>
+                    <option value="tra">trailers</option>
+                    <option value="vga">video gaming</option>
+                    <option value="waa">wanted</option>
+            </select><span class="no-js">tickets</span>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb no-js">
+            <input type="submit" value="go">
+        </li>
+    </ul>
+</form>
+    </nav>
+
+<div class="userlinks">
+    <ul class="user-actions">
+        <li class="user post">
+            <a href="https://post.craigslist.org/c/den">post</a>
+        </li>
+        <li class="user account">
+            <a href="https://accounts.craigslist.org/login/home">account</a>
+        </li>
+    </ul>
+    <ul class="user-favs-discards">
+        <li class="user">
+            <div class="favorites">
+                <a href="#" class="favlink"><span class="icon icon-star fav" aria-hidden="true"></span><span class="fav-number">0</span><span class="fav-label"> favorites</span></a>
+            </div>
+        </li>
+        <li class="user discards">
+          <form class="unfavform js-only" method="POST" action="/favorites">
+            <div class="to-banish-page">
+              <input type="hidden" class="lastLink" name="lastLink" value="//denver.craigslist.org/search/tia?sale_date=2020-01-05&amp;sort=pricedsc">
+              <input type="hidden" class="lastTitle" name="lastTitle" value="denver tickets  - craigslist">
+              <input type="hidden" class="unfaves" name="fl">
+              <input type="hidden" name="uf" value="1">
+              <a href="#" class="to-banish-page-link">
+                <span class="icon icon-trash red" aria-hidden="true"></span>
+                <span class="banished_count">0</span>
+                <span class="discards-label"> hidden</span>
+              </a>
+            </div>
+          </form>
+        </li>
+    </ul>
+</div>
+
+</header>
+<header class="global-header narrow">
+   <a class="header-logo" href="/">CL</a>
+    <nav class="breadcrumbs-container">
+
+<ul class="breadcrumbs">
+
+
+denver            &gt;
+
+tickets
+
+</ul>
+
+
+    </nav>
+    <span class="linklike show-wide-header">...</span>
+</header>
+
+
+        <form id="searchform" class="search-form" action="/search/tia">
+            <div class="querybox">
+                
+                <div class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></div>
+                <input type="text" placeholder="search tickets" name="query"
+                    id="query" value="" autocorrect="off" class="flatinput ui-autocomplete-input"
+                    autocapitalize="off" autocomplete="off" data-autocomplete="search">
+
+                <button type="submit" class="searchbtn">
+                    <span class="icon icon-search" aria-hidden="true"></span>
+                    <span class="screen-reader-text">press to search craigslist</span>
+                </button>
+                    <div class="savealert">
+                        <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fdenver%252Ecraigslist%252Eorg%252Fsearch%252Ftia%253Fsale%255Fdate%253D2020%252D01%252D05%2526sort%253Dpricedsc"  title="save this search" >save search</a>
+                    </div>
+            </div>
+
+            <div class="search-options-container">
+    <h2 class="search-options-header linklike">
+        <div class="icon icon-toggle-gear" aria-hidden="true"></div>
+        options<span class="options-close">close</span>
+    </h2>
+    <input id="excats" type="hidden" name="excats">
+        <input type="hidden" name="sort" value="pricedsc">
+    <div class="search-options">
+        <div class="searchgroup categories">
+            <div class="cattitle">
+                  <a href="/search/tia" title="clear all search parameters" class="reset">tickets</a>
+            </div>
+
+        </div>
+        <input type="hidden" name="userid" value="" />
+
+                <ul class="searchgroup buttongroup purveyor">
+                    <li class="button sel">
+                        <a href="/search/tia?sale_date=2020-01-05&amp;sort=pricedsc" data-val="all">all</a>
+                    </li><li class="button ">
+                        <a href="/search/tix?sale_date=2020-01-05&amp;sort=pricedsc" data-val="owner"> owner</a>
+                    </li><li class="button ">
+                        <a href="/search/tid?sale_date=2020-01-05&amp;sort=pricedsc" data-val="dealer">dealer</a>
+                    </li>
+                </ul>
+
+
+
+
+        <div class="searchgroup">
+            <ul>
+    <li>
+       <label class="srchType">
+           <input type="checkbox" name="srchType" class="" value="T" >
+           search titles only
+       </label>
+    </li>
+    <li>
+       <label class="hasPic">
+           <input type="checkbox" name="hasPic" class="autosubmit" value="1" >
+           has image
+       </label>
+    </li>
+    <li>
+       <label class="postedToday">
+           <input type="checkbox" name="postedToday" class="autosubmit" value="1" >
+           posted today
+       </label>
+    </li>
+    <li>
+       <label class="bundleDuplicates">
+           <input type="checkbox" name="bundleDuplicates" class="autosubmit" value="1" >
+           bundle duplicates
+       </label>
+    </li>
+    <li>
+       <label class="searchNearby">
+           <input type="checkbox" name="searchNearby" class="autosubmit" value="1" >
+           include nearby areas
+       </label>
+    </li>
+</ul>
+
+                <ul class="js-only nearbyAreas ">
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_0"
+                            value="319"
+                            disabled="disabled"
+                            />
+                            boulder, CO <small>(bou)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_2"
+                            value="210"
+                            disabled="disabled"
+                            />
+                            colorado springs <small>(cos)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_5"
+                            value="713"
+                            disabled="disabled"
+                            />
+                            eastern CO <small>(eco)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_10"
+                            value="568"
+                            disabled="disabled"
+                            />
+                            farmington, NM <small>(fnm)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_1"
+                            value="287"
+                            disabled="disabled"
+                            />
+                            fort collins / north CO <small>(ftc)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_4"
+                            value="288"
+                            disabled="disabled"
+                            />
+                            high rockies <small>(rck)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_8"
+                            value="668"
+                            disabled="disabled"
+                            />
+                            north platte, NE <small>(lbf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_9"
+                            value="688"
+                            disabled="disabled"
+                            />
+                            northwest KS <small>(nwk)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_3"
+                            value="315"
+                            disabled="disabled"
+                            />
+                            pueblo, CO <small>(pub)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_12"
+                            value="218"
+                            disabled="disabled"
+                            />
+                            santa fe / taos <small>(saf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_6"
+                            value="669"
+                            disabled="disabled"
+                            />
+                            scottsbluff / panhandle <small>(bff)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_13"
+                            value="687"
+                            disabled="disabled"
+                            />
+                            southwest KS <small>(swk)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_7"
+                            value="320"
+                            disabled="disabled"
+                            />
+                            western slope <small>(gjt)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_11"
+                            value="197"
+                            disabled="disabled"
+                            />
+                            wyoming <small>(wyo)</small>
+                        </label>
+                        </li>
+
+                        <li>
+                        <span class="nextNearbyZone linklike" data-zone="1">
+                            + show <span id="nearbyNumber">14</span> more...
+                        </span>
+                        </li>
+                </ul>
+        </div>
+
+            <div class="searchgroup">
+                <span class="searchfieldlabel">miles from zip</span>
+                <input size="5" maxlength="5" inputmode="numeric"
+                    class="flatinput searchInput search_distance" placeholder="miles"
+                    name="search_distance"
+                    value=""
+                />
+                <input type="text" class="flatinput searchInput postal" placeholder="from zip"
+                    size="7" name="postal" value="">
+                <span class="icon icon-locate"></span>
+            </div>
+
+
+    <div class="searchgroup minmax price">
+<span class="searchfieldlabel">price</span>
+    <input type="tel" name="min_price" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="">
+    <input type="tel" name="max_price" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+
+
+
+        <div class="searchgroup"><label class="crypto_currency_ok">
+        <input type="checkbox" name="crypto_currency_ok" value="1" class="autosubmit" />
+    cryptocurrency ok
+</label><br>
+<label class="delivery_available">
+        <input type="checkbox" name="delivery_available" value="1" class="autosubmit" />
+    delivery available
+</label><br>
+</div><div class="searchgroup"><div class="search-attribute hide-list" data-attr="language">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> language of posting
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="language_1" name="language" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    af
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_2" name="language" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    ca
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_3" name="language" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    da
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_4" name="language" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    de
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_5" name="language" class="multi_checkbox" value="5" type="checkbox"
+                     />
+                    en
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_6" name="language" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    es
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_7" name="language" class="multi_checkbox" value="7" type="checkbox"
+                     />
+                    fi
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_8" name="language" class="multi_checkbox" value="8" type="checkbox"
+                     />
+                    fr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_9" name="language" class="multi_checkbox" value="9" type="checkbox"
+                     />
+                    it
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_10" name="language" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    nl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_11" name="language" class="multi_checkbox" value="11" type="checkbox"
+                     />
+                    no
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_12" name="language" class="multi_checkbox" value="12" type="checkbox"
+                     />
+                    pt
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_13" name="language" class="multi_checkbox" value="13" type="checkbox"
+                     />
+                    sv
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_14" name="language" class="multi_checkbox" value="14" type="checkbox"
+                     />
+                    tl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_15" name="language" class="multi_checkbox" value="15" type="checkbox"
+                     />
+                    tr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_16" name="language" class="multi_checkbox" value="16" type="checkbox"
+                     />
+                    zh
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_17" name="language" class="multi_checkbox" value="17" type="checkbox"
+                     />
+                    ar
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_18" name="language" class="multi_checkbox" value="18" type="checkbox"
+                     />
+                    ja
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_19" name="language" class="multi_checkbox" value="19" type="checkbox"
+                     />
+                    ko
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_20" name="language" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    ru
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_21" name="language" class="multi_checkbox" value="21" type="checkbox"
+                     />
+                    vi
+                </label>
+            </li>
+
+            <li class="selectall js-only ">
+                <span class="all">select all</span>
+                <span class="none">deselect all</span>
+            </li>
+
+
+    </ul>
+</div>
+</div>
+
+            <div class="searchgroup">
+                    <div class="searchfieldlabel">on date</div>
+                <select class="autosubmit" id="sale_date" name="sale_date">
+                    <option>all dates</option>
+                        <option value="2020-01-05" selected>jan 5 - past</option>
+                        <option value="2020-01-06">jan 6 - today</option>
+                        <option value="2020-01-07">jan 7 - tomorrow</option>
+                        <option value="2020-01-08">jan 8 - wednesday</option>
+                        <option value="2020-01-09">jan 9 - thursday</option>
+                        <option value="2020-01-10">jan 10 - friday</option>
+                        <option value="2020-01-11">jan 11 - saturday</option>
+                        <option value="2020-01-12">jan 12 - sunday</option>
+                        <option value="2020-01-13">jan 13 - monday</option>
+                        <option value="2020-01-14">jan 14 - tuesday</option>
+                        <option value="2020-01-15">jan 15 - wednesday</option>
+                        <option value="2020-01-16">jan 16 - thursday</option>
+                        <option value="2020-01-17">jan 17 - friday</option>
+                        <option value="2020-01-18">jan 18 - saturday</option>
+                        <option value="2020-01-19">jan 19 - sunday</option>
+                        <option value="2020-01-20">jan 20 - monday</option>
+                        <option value="2020-01-21">jan 21 - tuesday</option>
+                        <option value="2020-01-22">jan 22 - wednesday</option>
+                        <option value="2020-01-23">jan 23 - thursday</option>
+                        <option value="2020-01-24">jan 24 - friday</option>
+                        <option value="2020-01-25">jan 25 - saturday</option>
+                        <option value="2020-01-26">jan 26 - sunday</option>
+                        <option value="2020-01-27">jan 27 - monday</option>
+                        <option value="2020-01-28">jan 28 - tuesday</option>
+                        <option value="2020-01-29">jan 29 - wednesday</option>
+                        <option value="2020-01-30">jan 30 - thursday</option>
+                        <option value="2020-01-31">jan 31 - friday</option>
+                        <option value="2020-02-01">feb 1 - saturday</option>
+                        <option value="2020-02-02">feb 2 - sunday</option>
+                </select>
+            </div>
+        <div class="searchgroup resetsearch">
+            <a href="/search/tia" title="clear all search parameters" class="reset linklike">reset</a>
+            <button type="submit" class="searchlink linklike">update search</button>
+        </div>
+
+<aside class="tsb">
+    <ul>
+        <li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+    </div>
+</div>
+
+
+            <div class="search-legend">
+<div class="search-view js-only">
+    <div class="dropdown dropdown-icons dropdown-arrows dropdown-view" role="toolbar" aria-label="view options" aria-expanded="false">
+        <ul class="dropdown-list">
+            <li class="dropdown-item mode sel">
+                <button title="show results in a list" data-selection="list" id="listview">
+                    <span class="view-list icon"></span>list
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results in a list with thumbnail pictures"  data-selection="pic"  id="picview" >
+                    <span class="view-thumb icon"></span>thumb
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results side-by-side with larger pictures" data-selection="grid" id="gridview">
+                    <span class="view-gallery icon"></span>gallery
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+                <li class="dropdown-item mode">
+                    <button title="show results on a map"  data-selection="map"  id="mapview" >
+                        <span class="view-map icon"></span>map
+                    </button>
+                    <span class="toggle-arrow"></span>
+                </li>
+        </ul>
+    </div>
+</div>
+                <div class="search-sort" >
+    <div class="dropdown dropdown-sort dropdown-arrows" data-default-sort="pricedsc" role="toolbar" aria-label="sort options" aria-expanded="false">
+        <ul class="dropdown-list">
+
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="upcoming" title="show upcoming events" href="/search/tia?sort=upcoming&amp;sale_date=2020-01-05">upcoming <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="date" title="show newest matches first" href="/search/tia?sort=date&amp;sale_date=2020-01-05">newest <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="priceasc" title="sort by price, lowest to highest" href="/search/tia?sort=priceasc&amp;sale_date=2020-01-05">price &uarr; <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode sel" aria-selected="true">
+                <a data-selection="pricedsc" title="sort by price, highest to lowest" href="/search/tia?sort=pricedsc&amp;sale_date=2020-01-05">price &darr; <span class="toggle-arrow"></span></a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+                <div class="paginator buttongroup firstpage lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <a href="/search/tia?sale_date=2020-01-05&amp;sort=pricedsc" class="button first" title="first page">&lt;&lt;</a>
+        <span class="button first" title="first page">&lt;&lt;</span>
+        <a href="/search/tia?sale_date=2020-01-05&amp;sort=pricedsc" class="button prev" title="previous page">&lt; prev</a>
+        <span class="button prev" title="previous page">&lt; prev</span>
+
+        <span class="button pagenum">
+            <span class="range">
+                <span class="rangeFrom">1</span>
+                -
+                <span class="rangeTo">42</span>
+            </span>
+            /
+            <span class="totalcount">42</span>
+        </span>
+
+        <a href="" class="button next" title="next page">next &gt; </a>
+        <span class="button next" title="next page"> next &gt; </span>
+    </span>
+</div>
+
+                <div class="day_pag_div ban">
+    <span class="cur_day daybubbles">tickets for sun jan  5</span>
+    <div class="prev_day">
+        <span class="daybubbles"><a href="//denver.craigslist.org/search/tia?sale_date=2020-01-04&amp;sort=pricedsc">&lt;&lt; previous day</a></span>
+    </div>
+    <div class="next_day">
+        <span class="daybubbles"><a href="//denver.craigslist.org/search/tia?sale_date=2020-01-06&amp;sort=pricedsc">next day &gt;&gt;</a></span>
+    </div>
+</div>
+
+            </div>
+            <div class="content" id="sortable-results" >
+                <section class="favlistsection">
+                    <section class="favlistinfo">
+                    </section>
+                    <section class="banishlistinfo">
+                    </section>
+                </section>
+
+                    <div class="alert alert-sm alert-info searchHints">
+    <span class="prompt">ALSO TRY:</span>
+    <ul>
+        <li><a href="/search/eve?hints=static&amp;sale_date=2020-01-05"><strong>date: </strong>2020-01-05</a> in events</li>
+        <li><a href="/search/cls?hints=static&amp;sale_date=2020-01-05"><strong>date: </strong>2020-01-05</a> in classes</li>
+    </ul>
+</div>
+
+
+
+<div class="open-map-view-button">
+    <span>see in map view</span>
+</div>
+<div id="mapcontainer" data-arealat="39.739201" data-arealon="-104.984001">
+    <div id="noresult-overlay"></div>
+    <div id="noresult-text">
+        <span class="message">No mappable items found</span>
+    </div>
+    <div id="map" class="loading">
+        <div class="close-full-screen-map-mode-button">close fullscreen</div>
+        <div class="close-map-view-button">close map</div>
+    </div>
+</div>
+
+                <ul class="rows">
+                             <li class="result-row" data-pid="7050516570">
+
+        <a href="https://denver.craigslist.org/tix/d/el-paso-snowcom-ski-tickets-55-off/7050516570.html" class="result-image gallery" data-ids="1:00i0i_8cY3v7pEhuU,1:00606_cwdXnuJ3w4v">
+                <span class="result-price">$800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 17:13" title="Sun 05 Jan 05:13:51 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/el-paso-snowcom-ski-tickets-55-off/7050516570.html" data-id="7050516570" class="result-title hdrlnk">Snow.com Ski Tickets 55% off</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$800</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050595605" data-repost-of="6993979294">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-face-value-vip-tickets-kenny/7050595605.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 19:56" title="Sun 05 Jan 07:56:19 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-face-value-vip-tickets-kenny/7050595605.html" data-id="7050595605" class="result-title hdrlnk">Face Value VIP Tickets Kenny Chesney Chillaxification Tour @ Mile High</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$780</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050433330">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-avalanche-hockey-nhl-stadium/7050433330.html" class="result-image gallery" data-ids="1:00202_iUzHPKgU0jH,1:00I0I_2YPlG6BpHJ0,1:00j0j_8y75og3E6OC">
+                <span class="result-price">$705</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 14:31" title="Sun 05 Jan 02:31:14 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-avalanche-hockey-nhl-stadium/7050433330.html" data-id="7050433330" class="result-title hdrlnk">Avalanche Hockey *NHL Stadium Series*</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$705</span>
+
+
+                <span class="result-hood"> (Ken Caryl)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050595482" data-repost-of="6993976980">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-face-value-floor-seats-kenny/7050595482.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 19:55" title="Sun 05 Jan 07:55:58 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-face-value-floor-seats-kenny/7050595482.html" data-id="7050595482" class="result-title hdrlnk">Face Value Floor Seats Kenny Chesney Chillaxification Tour @ Mile High</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$453</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7033446988">
+
+        <a href="https://denver.craigslist.org/tix/d/albuquerque-russ-meet-and-greet-red/7033446988.html" class="result-image gallery" data-ids="1:00H0H_9mkURCylbOr">
+                <span class="result-price">$350</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-06 11:03" title="Fri 06 Dec 11:03:17 AM">Dec  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/albuquerque-russ-meet-and-greet-red/7033446988.html" data-id="7033446988" class="result-title hdrlnk">RUSS MEET AND GREET- RED ROCKS CO</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$350</span>
+
+
+                <span class="result-hood"> (Albuquerque)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043258710">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-lakers-vs-nuggets-feb/7043258710.html" class="result-image gallery" data-ids="1:00O0O_hAEzebA2aR2,1:00y0y_fk7Z4sLTJ26,1:00r0r_duwiEHJU9Ho,1:00R0R_ev1Fu5jBtPI">
+                <span class="result-price">$300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-22 23:41" title="Sun 22 Dec 11:41:09 PM">Dec 22</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-lakers-vs-nuggets-feb/7043258710.html" data-id="7043258710" class="result-title hdrlnk">LAKERS VS. NUGGETS FEB. 12th!!!EXLUSIVE FLOOR SEATS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$300</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050556770">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-vs-charlotte-hornets/7050556770.html" class="result-image gallery" data-ids="1:01111_91v8K4qLyVG">
+                <span class="result-price">$300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 18:21" title="Sun 05 Jan 06:21:04 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-vs-charlotte-hornets/7050556770.html" data-id="7050556770" class="result-title hdrlnk">Nuggets vs Charlotte Hornets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$300</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050250212">
+
+        <a href="https://denver.craigslist.org/tix/d/golden-winter-wondergrass-3-day-general/7050250212.html" class="result-image gallery" data-ids="1:00k0k_6RjndMFut6Z">
+                <span class="result-price">$250</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 09:52" title="Sun 05 Jan 09:52:38 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/golden-winter-wondergrass-3-day-general/7050250212.html" data-id="7050250212" class="result-title hdrlnk">Winter Wondergrass 3 Day General Admission</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$250</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049131116" data-repost-of="5362889676">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-two-2-escape-to-margaritaville/7049131116.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-03 12:00" title="Fri 03 Jan 12:00:08 PM">Jan  3</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-two-2-escape-to-margaritaville/7049131116.html" data-id="7049131116" class="result-title hdrlnk">Two (2) &quot;ESCAPE TO MARGARITAVILLE&quot; tix - 1/5/20 @ 7:30PM</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$200</span>
+
+
+                <span class="result-hood"> (Orch, Sec C, Row H, Seats 14-15)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050597769">
+
+        <a href="https://denver.craigslist.org/tix/d/westminster-loveland-lift-ticket/7050597769.html" class="result-image gallery" data-ids="1:00f0f_8iiy3sAtKmK">
+                <span class="result-price">$180</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 20:02" title="Sun 05 Jan 08:02:20 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/westminster-loveland-lift-ticket/7050597769.html" data-id="7050597769" class="result-title hdrlnk">Loveland lift ticket</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$180</span>
+
+
+                <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050495586">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-colorado-avalanche-vs-pittsburgh/7050495586.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 17:54" title="Sun 05 Jan 05:54:14 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-colorado-avalanche-vs-pittsburgh/7050495586.html" data-id="7050495586" class="result-title hdrlnk">Colorado Avalanche vs. Pittsburgh Penguins</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$150</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050583556">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-houston-rockets-at-denver/7050583556.html" class="result-image gallery" data-ids="1:00W0W_6ZJhDXeNRN4">
+                <span class="result-price">$150</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 21:15" title="Sun 05 Jan 09:15:26 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-houston-rockets-at-denver/7050583556.html" data-id="7050583556" class="result-title hdrlnk">Houston Rockets at Denver Nuggets Sun. Jan 26, 20 1:30 PM-Pepsi Center</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$150</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050510770">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-king-princess-2-2-face-value/7050510770.html" class="result-image gallery" data-ids="1:00202_51Yq2bQeVNP">
+                <span class="result-price">$112</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 16:45" title="Sun 05 Jan 04:45:38 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-king-princess-2-2-face-value/7050510770.html" data-id="7050510770" class="result-title hdrlnk">King Princess 2/2 Face Value</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$112</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050088990">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-echo-mountain-night-season/7050088990.html" class="result-image gallery" data-ids="1:00u0u_a4YUc6zYgVK">
+                <span class="result-price">$100</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 21:28" title="Sat 04 Jan 09:28:35 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-echo-mountain-night-season/7050088990.html" data-id="7050088990" class="result-title hdrlnk">Echo Mountain Night Season Pass</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050264559">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-nuggets-clippers-ll-sec-130/7050264559.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 10:14" title="Sun 05 Jan 10:14:13 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-nuggets-clippers-ll-sec-130/7050264559.html" data-id="7050264559" class="result-title hdrlnk">2 Nuggets Clippers LL Sec 130</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050360522">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-murder-by-death-1-10/7050360522.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 12:55" title="Sun 05 Jan 12:55:16 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-murder-by-death-1-10/7050360522.html" data-id="7050360522" class="result-title hdrlnk">Murder by Death 1/10</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050625336">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-the-dollop-newman-center/7050625336.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 21:29" title="Sun 05 Jan 09:29:50 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-the-dollop-newman-center/7050625336.html" data-id="7050625336" class="result-title hdrlnk">The Dollop- Newman Center</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050266228">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-nuggets-rockets/7050266228.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 10:20" title="Sun 05 Jan 10:20:03 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-nuggets-rockets/7050266228.html" data-id="7050266228" class="result-title hdrlnk">2 Nuggets Rockets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$90</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046302399">
+
+        <a href="https://denver.craigslist.org/tix/d/westminster-jimmy-buffett-escape/7046302399.html" class="result-image gallery" data-ids="1:01111_1xg6q0qVsPg">
+                <span class="result-price">$78</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-29 10:15" title="Sun 29 Dec 10:15:43 AM">Dec 29</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/westminster-jimmy-buffett-escape/7046302399.html" data-id="7046302399" class="result-title hdrlnk">Jimmy Buffett Escape</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$78</span>
+
+
+                <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050211228">
+
+        <a href="https://denver.craigslist.org/tix/d/englewood-2-tix-for-sam-bush/7050211228.html" class="result-image gallery" data-ids="1:00202_g59jC1sSsIx">
+                <span class="result-price">$77</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 08:37" title="Sun 05 Jan 08:37:23 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/englewood-2-tix-for-sam-bush/7050211228.html" data-id="7050211228" class="result-title hdrlnk">2 tix for Sam Bush 2/29/20</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$77</span>
+
+
+                <span class="result-hood"> (Englewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050244145">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-brian-regan-feb-7th/7050244145.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 09:40" title="Sun 05 Jan 09:40:13 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-brian-regan-feb-7th/7050244145.html" data-id="7050244145" class="result-title hdrlnk">Brian Regan Feb 7th</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035641191">
+
+        <a href="https://denver.craigslist.org/tix/d/peyton-2-tickets-denver-nuggets-home/7035641191.html" class="result-image gallery" data-ids="1:00I0I_bQNbgoM5zOc,1:00m0m_ds6mQRp059k,1:00T0T_eyb2QBOoTj3">
+                <span class="result-price">$70</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 13:28" title="Sat 04 Jan 01:28:04 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/peyton-2-tickets-denver-nuggets-home/7035641191.html" data-id="7035641191" class="result-title hdrlnk">2 tickets Denver Nuggets home games lower level</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$70</span>
+
+
+                <span class="result-hood"> (Section 120)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046744389">
+
+        <a href="https://denver.craigslist.org/tix/d/castle-rock-escape-for-margaritaville/7046744389.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 08:00" title="Mon 30 Dec 08:00:03 AM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/castle-rock-escape-for-margaritaville/7046744389.html" data-id="7046744389" class="result-title hdrlnk">Escape for Margaritaville Tix</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$70</span>
+
+
+                <span class="result-hood"> (Castle Rock)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050501997">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-the-infamous-stringdusters/7050501997.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 18:11" title="Sun 05 Jan 06:11:58 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-the-infamous-stringdusters/7050501997.html" data-id="7050501997" class="result-title hdrlnk">The Infamous Stringdusters Reserved</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$70</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050640084">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-loveland-lift-tickets/7050640084.html" class="result-image gallery" data-ids="1:00H0H_4RUVyAP0IfI">
+                <span class="result-price">$70</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 22:38" title="Sun 05 Jan 10:38:24 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-loveland-lift-tickets/7050640084.html" data-id="7050640084" class="result-title hdrlnk">Loveland Lift Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$70</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050261835">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-nuggets-cavaliers-sec-130/7050261835.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 10:09" title="Sun 05 Jan 10:09:41 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-nuggets-cavaliers-sec-130/7050261835.html" data-id="7050261835" class="result-title hdrlnk">2 Nuggets Cavaliers Sec 130</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050244896">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-california-honeydrops/7050244896.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 09:41" title="Sun 05 Jan 09:41:33 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-california-honeydrops/7050244896.html" data-id="7050244896" class="result-title hdrlnk">California Honeydrops</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$55</span>
+
+
+                <span class="result-hood"> (Mission Ballroom)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049839728">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-tix-for-tomorrows-sold-out/7049839728.html" class="result-image gallery" data-ids="1:00v0v_lwDbZZdfe4m,1:00r0r_laxUNcM3q5c">
+                <span class="result-price">$53</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 13:42" title="Sat 04 Jan 01:42:38 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-tix-for-tomorrows-sold-out/7049839728.html" data-id="7049839728" class="result-title hdrlnk">2 Tix for Tomorrow&#39;s Sold-Out Mesmerica!!!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$53</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048646070">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-jimmy-buffetts-escape-to/7048646070.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 16:14" title="Sat 04 Jan 04:14:52 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-jimmy-buffetts-escape-to/7048646070.html" data-id="7048646070" class="result-title hdrlnk">Jimmy Buffett’s Escape to Margaritaville Sunday</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$50</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050520732">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-colorado-avalanche-tix-from/7050520732.html" class="result-image gallery" data-ids="1:01717_gATxPa4uAoG,1:00j0j_VaaatEU8df">
+                <span class="result-price">$45</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 17:48" title="Sun 05 Jan 05:48:52 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-colorado-avalanche-tix-from/7050520732.html" data-id="7050520732" class="result-title hdrlnk">Colorado Avalanche Tix from a real person! INCL STADIUM SERIES NO FEES</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$45</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050311741" data-repost-of="4845348683">
+
+        <a href="https://denver.craigslist.org/tix/d/colorado-the-world-and-mexican-rodeo/7050311741.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 11:27" title="Sun 05 Jan 11:27:37 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/colorado-the-world-and-mexican-rodeo/7050311741.html" data-id="7050311741" class="result-title hdrlnk">Colorado v. The World and Mexican Rodeo Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (Centennial)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050394949">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-cavs/7050394949.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 13:29" title="Sun 05 Jan 01:29:46 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-cavs/7050394949.html" data-id="7050394949" class="result-title hdrlnk">Nuggets v Cavs</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047842995" data-repost-of="5388882696">
+
+        <a href="https://denver.craigslist.org/tix/d/national-western-stock-show-mexican/7047842995.html" class="result-image gallery" data-ids="1:00b0b_1O2YQDjt1mx,1:00s0s_R17Qnym8A7">
+                <span class="result-price">$39</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 21:45" title="Sun 05 Jan 09:45:08 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/national-western-stock-show-mexican/7047842995.html" data-id="7047842995" class="result-title hdrlnk">NATIONAL WESTERN STOCK SHOW MEXICAN RODEO</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$39</span>
+
+
+                <span class="result-hood"> (SECTION 114 ROW 1)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039623621">
+
+        <a href="https://denver.craigslist.org/tix/d/loveland-second-annual-12th-night/7039623621.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-16 13:16" title="Mon 16 Dec 01:16:46 PM">Dec 16</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/loveland-second-annual-12th-night/7039623621.html" data-id="7039623621" class="result-title hdrlnk">Second Annual 12th Night Formal Ball benefitting Free Our Girls!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+                <span class="result-hood"> (Outlets at Loveland)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039797850">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-winter-park-2-day-jr/7039797850.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-16 17:38" title="Mon 16 Dec 05:38:50 PM">Dec 16</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-winter-park-2-day-jr/7039797850.html" data-id="7039797850" class="result-title hdrlnk">Winter Park 2 day JR</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049787554">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-cu-vs-oregon-state-tickets-2/7049787554.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 12:11" title="Sat 04 Jan 12:11:44 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-cu-vs-oregon-state-tickets-2/7049787554.html" data-id="7049787554" class="result-title hdrlnk">CU vs. Oregon State Tickets (2)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (DENVER)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040802046" data-repost-of="5928143419">
+
+        <a href="https://denver.craigslist.org/tix/d/rodeo-national-western-stock-show/7040802046.html" class="result-image gallery" data-ids="1:00d0d_kBDjN8gJ787,1:00j0j_eTQIWiyuuVv,1:00K0K_i0kyl8OY8t0">
+                <span class="result-price">$19</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-03 10:35" title="Fri 03 Jan 10:35:30 AM">Jan  3</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/rodeo-national-western-stock-show/7040802046.html" data-id="7040802046" class="result-title hdrlnk">Rodeo! National Western Stock Show</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$19</span>
+
+
+                <span class="result-hood"> (Castle Rock)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040895958" data-repost-of="6989361693">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-tickets-for-denver-aquarium/7040895958.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 13:09" title="Sat 04 Jan 01:09:21 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-tickets-for-denver-aquarium/7040895958.html" data-id="7040895958" class="result-title hdrlnk">Tickets for Denver Aquarium</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$16</span>
+
+
+                <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039399720" data-repost-of="7037389169">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-hard-copy-tickets-for-the-black/7039399720.html" class="result-image gallery" data-ids="1:00w0w_4In3VTOZskC">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 15:29" title="Sun 05 Jan 03:29:52 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-hard-copy-tickets-for-the-black/7039399720.html" data-id="7039399720" class="result-title hdrlnk">HARD COPY TICKETS FOR THE BLACK CROWES - SOLD OUT SHOW!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046582182">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-national-western-stock-show-best/7046582182.html" class="result-image gallery" data-ids="1:00X0X_fSIa2NYqGHo">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-29 19:09" title="Sun 29 Dec 07:09:25 PM">Dec 29</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-national-western-stock-show-best/7046582182.html" data-id="7046582182" class="result-title hdrlnk">National Western Stock Show- BEST SEATS:Mexican Rodeo</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047808609" data-repost-of="4827664364">
+
+        <a href="https://denver.craigslist.org/tix/d/national-western-stock-show-colorado-vs/7047808609.html" class="result-image gallery" data-ids="1:00707_9RWsxnvWIdm,1:00c0c_7iZcuL3GML8,1:00s0s_R17Qnym8A7">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 21:43" title="Sun 05 Jan 09:43:25 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/national-western-stock-show-colorado-vs/7047808609.html" data-id="7047808609" class="result-title hdrlnk">NATIONAL WESTERN STOCK SHOW COLORADO VS WORLD</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Section114  ROW 1)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050344709" data-repost-of="4831913497">
+
+        <a href="https://denver.craigslist.org/tix/d/2020-national-western-stock-show-rodeo/7050344709.html" class="result-image gallery" data-ids="1:00O0O_b9WjLfIuJMR,1:00H0H_l5TE7fyf9jA,1:00P0P_lygHWx041V3,1:01414_aUCAfKfvyt8,1:00G0G_b1PfrQO62wR,1:00U0U_guAy55QpoS2,1:00A0A_3tLHKIiWcPb,1:00c0c_3RrUtM6qIzo,1:00101_2AagjDQ79jh">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 13:20" title="Sun 05 Jan 01:20:45 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/2020-national-western-stock-show-rodeo/7050344709.html" data-id="7050344709" class="result-title hdrlnk">2020 National Western Stock Show/Rodeo Tickets - Great Seats!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Littleton, CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                    <h4 class="ban nearby"><span class="bantext">Few local results found for 2020-01-05. Here are some from nearby areas. Checking &#39;include nearby areas&#39; will expand your search.</span></h4>
+
+                             <li class="result-row" data-pid="7050087112">
+
+        <a href="https://boulder.craigslist.org/tix/d/firestone-post-malone-thu-mar-pm-pepsi/7050087112.html" class="result-image gallery" data-ids="1:00S0S_4TCljckILht">
+                <span class="result-price">$300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 22:06" title="Sat 04 Jan 10:06:33 PM">Jan  4</time>
+
+
+        <a href="https://boulder.craigslist.org/tix/d/firestone-post-malone-thu-mar-pm-pepsi/7050087112.html" data-id="7050087112" class="result-title hdrlnk">Post Malone Thu. Mar 12, 2020 8:00 PM - Pepsi Center, Denver</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$300</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou &gt; boulder)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050399222">
+
+        <a href="https://boulder.craigslist.org/tix/d/denver-find-cheapmulti-destination/7050399222.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 15:30" title="Sun 05 Jan 03:30:08 PM">Jan  5</time>
+
+
+        <a href="https://boulder.craigslist.org/tix/d/denver-find-cheapmulti-destination/7050399222.html" data-id="7050399222" class="result-title hdrlnk">Find Cheap****Multi destination flights</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$199</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050231915">
+
+        <a href="https://boulder.craigslist.org/tix/d/boulder-no-blackout-loveland-tickets/7050231915.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 09:18" title="Sun 05 Jan 09:18:17 AM">Jan  5</time>
+
+
+        <a href="https://boulder.craigslist.org/tix/d/boulder-no-blackout-loveland-tickets/7050231915.html" data-id="7050231915" class="result-title hdrlnk">No Blackout Loveland Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$70</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050506199">
+
+        <a href="https://boulder.craigslist.org/tix/d/aurora-loveland-ski-passes-6/7050506199.html" class="result-image gallery" data-ids="1:00f0f_hJhgDHKM8tG">
+                <span class="result-price">$65</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 16:36" title="Sun 05 Jan 04:36:36 PM">Jan  5</time>
+
+
+        <a href="https://boulder.craigslist.org/tix/d/aurora-loveland-ski-passes-6/7050506199.html" data-id="7050506199" class="result-title hdrlnk">Loveland Ski Passes (6)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$65</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050358242">
+
+        <a href="https://boulder.craigslist.org/tix/d/denver-1-monet-ticket-for-jan-5th/7050358242.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 12:36" title="Sun 05 Jan 12:36:04 PM">Jan  5</time>
+
+
+        <a href="https://boulder.craigslist.org/tix/d/denver-1-monet-ticket-for-jan-5th/7050358242.html" data-id="7050358242" class="result-title hdrlnk">1 monet ticket for Jan 5th</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$30</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou &gt; Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050267347">
+
+        <a href="https://fortcollins.craigslist.org/tix/d/windsor-5-tickets-sat-jan-11th-8-pm/7050267347.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 10:18" title="Sun 05 Jan 10:18:49 AM">Jan  5</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tix/d/windsor-5-tickets-sat-jan-11th-8-pm/7050267347.html" data-id="7050267347" class="result-title hdrlnk">5 Tickets Sat Jan 11th 8 PM  Denver Rodeo CO vs the World  finals</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$150</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Severance)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050603274">
+
+        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-infamous-stringdusters/7050603274.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 20:18" title="Sun 05 Jan 08:18:31 PM">Jan  5</time>
+
+
+        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-infamous-stringdusters/7050603274.html" data-id="7050603274" class="result-title hdrlnk">Infamous Stringdusters 1/11/19</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$70</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049766761">
+
+        <a href="https://cosprings.craigslist.org/tix/d/usaf-academy-nhl-stadium-series/7049766761.html" class="result-image gallery" data-ids="1:00z0z_6watoM3JHNO,1:00c0c_ibznmsvlSP2,1:01616_5LrB7Fg4lDV">
+                <span class="result-price">$425</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 11:46" title="Sat 04 Jan 11:46:52 AM">Jan  4</time>
+
+
+        <a href="https://cosprings.craigslist.org/tix/d/usaf-academy-nhl-stadium-series/7049766761.html" data-id="7049766761" class="result-title hdrlnk">NHL Stadium Series - February 15 2020 - Kings vs. Avalanche</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$425</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; Colorado Springs)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050309166">
+
+        <a href="https://cosprings.craigslist.org/tix/d/usaf-academy-nhl-stadium-series/7050309166.html" class="result-image gallery" data-ids="1:00z0z_6watoM3JHNO,1:00R0R_5PmYYCqzvaB,1:01414_je5VKqfwJcc">
+                <span class="result-price">$350</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 11:23" title="Sun 05 Jan 11:23:42 AM">Jan  5</time>
+
+
+        <a href="https://cosprings.craigslist.org/tix/d/usaf-academy-nhl-stadium-series/7050309166.html" data-id="7050309166" class="result-title hdrlnk">NHL Stadium Series - February 15 2020 - Kings v Avalanche</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$350</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; US Air Force Academy)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050602331">
+
+        <a href="https://cosprings.craigslist.org/tix/d/peyton-avs-vs-blues-january-18th/7050602331.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 20:15" title="Sun 05 Jan 08:15:47 PM">Jan  5</time>
+
+
+        <a href="https://cosprings.craigslist.org/tix/d/peyton-avs-vs-blues-january-18th/7050602331.html" data-id="7050602331" class="result-title hdrlnk">AVS vs BLUES January 18th</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$200</span>
+
+
+                <span class="nearby" title="colorado springs">(cos)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050599423">
+
+        <a href="https://cosprings.craigslist.org/tix/d/peyton-avalanche-vs-sharks-tickets-jan/7050599423.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 20:06" title="Sun 05 Jan 08:06:51 PM">Jan  5</time>
+
+
+        <a href="https://cosprings.craigslist.org/tix/d/peyton-avalanche-vs-sharks-tickets-jan/7050599423.html" data-id="7050599423" class="result-title hdrlnk">Avalanche vs Sharks tickets Jan 16th</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$110</span>
+
+
+                <span class="nearby" title="colorado springs">(cos)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050595261" data-repost-of="6993970094">
+
+        <a href="https://rockies.craigslist.org/tix/d/denver-face-value-vip-tickets-kenny/7050595261.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 19:55" title="Sun 05 Jan 07:55:22 PM">Jan  5</time>
+
+
+        <a href="https://rockies.craigslist.org/tix/d/denver-face-value-vip-tickets-kenny/7050595261.html" data-id="7050595261" class="result-title hdrlnk">Face Value VIP Tickets Kenny Chesney Chillaxification Tour @ Mile High</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$780</span>
+
+
+                <span class="nearby" title="high rockies">(rck)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050595699" data-repost-of="6993982483">
+
+        <a href="https://rockies.craigslist.org/tix/d/denver-face-value-floor-seats-kenny/7050595699.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 19:56" title="Sun 05 Jan 07:56:35 PM">Jan  5</time>
+
+
+        <a href="https://rockies.craigslist.org/tix/d/denver-face-value-floor-seats-kenny/7050595699.html" data-id="7050595699" class="result-title hdrlnk">Face Value Floor Seats Kenny Chesney Chillaxification Tour @ Mile High</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$453</span>
+
+
+                <span class="nearby" title="high rockies">(rck)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050302302">
+
+        <a href="https://rockies.craigslist.org/tix/d/frisco-2-single-day-snowsio-festival/7050302302.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 11:13" title="Sun 05 Jan 11:13:39 AM">Jan  5</time>
+
+
+        <a href="https://rockies.craigslist.org/tix/d/frisco-2-single-day-snowsio-festival/7050302302.html" data-id="7050302302" class="result-title hdrlnk">2 Single Day Snowsio Festival Tickets for 2/8</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="nearby" title="high rockies">(rck)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050222209" data-repost-of="7044199992">
+
+        <a href="https://rockies.craigslist.org/tix/d/vail-vail-mountain-lift-tickets/7050222209.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 09:08" title="Sun 05 Jan 09:08:23 AM">Jan  5</time>
+
+
+        <a href="https://rockies.craigslist.org/tix/d/vail-vail-mountain-lift-tickets/7050222209.html" data-id="7050222209" class="result-title hdrlnk">Vail Mountain Lift Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+                <span class="nearby" title="high rockies">(rck)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051128192">
+
+        <a href="https://rockies.craigslist.org/tix/d/snowmass-village-mountain-ski-lifts/7051128192.html" class="result-image gallery" data-ids="1:00h0h_lPgXx6Q3ldO">
+                <span class="result-price">$75</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:34" title="Mon 06 Jan 03:34:31 PM">Jan  6</time>
+
+
+        <a href="https://rockies.craigslist.org/tix/d/snowmass-village-mountain-ski-lifts/7051128192.html" data-id="7051128192" class="result-title hdrlnk">Mountain Ski Lifts!!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+                <span class="nearby" title="high rockies">(rck)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                </ul>
+            </div>
+
+            <div class="search-legend bottom">
+                <div class="search-view">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="search-sort">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="paginator buttongroup firstpage lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <a href="/search/tia?sale_date=2020-01-05&amp;sort=pricedsc" class="button first" title="first page">&lt;&lt;</a>
+        <span class="button first" title="first page">&lt;&lt;</span>
+        <a href="/search/tia?sale_date=2020-01-05&amp;sort=pricedsc" class="button prev" title="previous page">&lt; prev</a>
+        <span class="button prev" title="previous page">&lt; prev</span>
+
+        <span class="button pagenum">
+            <span class="range">
+                <span class="rangeFrom">1</span>
+                -
+                <span class="rangeTo">42</span>
+            </span>
+            /
+            <span class="totalcount">42</span>
+        </span>
+
+        <a href="" class="button next" title="next page">next &gt; </a>
+        <span class="button next" title="next page"> next &gt; </span>
+    </span>
+</div>
+
+            </div>
+
+            <section class="blurbs">
+                
+            </section>
+
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+        </form>
+
+<aside class="tsb">
+    <ul>
+        <li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+
+<div class="slidemessage">
+    <span class="fave">
+        <span class="star"></span>
+        favorited
+    </span>
+    <span class="unfave">
+        <span class="star"></span>
+        no longer favorited
+    </span>
+    <span class="hide">
+        <span class="trash"></span>
+        hidden
+    </span>
+    <span class="unhide">
+        <span class="trash"></span>
+        no longer hidden
+    </span>
+</div>
+
+<footer>
+        <span class="rss">
+            <a class="l" href="https://denver.craigslist.org/search/tia?format=rss&amp;sale_date=2020-01-05&amp;sort=pricedsc">RSS</a>
+            <a href="https://www.craigslist.org/about/rss">(?)</a><br>
+        </span>
+    <ul class="clfooter">
+        <li>&copy;  <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="https://www.craigslist.org/about/help/">help</a></li>
+        <li><a href="https://www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use.en-us">terms</a><sup class="neu">new</sup></li>
+        <li><a href="https://www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+    </ul>
+</footer>
+    </section>
+
+    <template id="gallerycarousel">
+        <div class="slider-info"></div><div class="slider-back arrow">&lt;</div><div class="slider-forward arrow">&gt;</div>
+    </template>
+
+    
+                <script>
+                try {
+                    if (
+                        !/\/\/.+\.craigslist\.org\/about\//.test(window.location.href)
+                        &&
+                        (!window.addEventListener || JSON.parse(JSON.stringify('x')) !== 'x')
+                    ) {
+                        throw "unsupported browser";
+                    }
+                } catch (e) {
+                    function cleanup() {
+                        document.body.innerHTML = '<div id="cl-unsupported-browser" style="margin:1em;font-size:150%;text-align:center;">We have detected you are using a browser that is missing critical features.<br><br>Please visit craigslist from a modern browser.</div>';
+                        document.body.style = "display:block";
+                    }
+
+                    try {
+                        document.body.style = "display:none";
+                    } catch (e) {
+                    }
+                    window.onload = cleanup;
+                    window.clUnsupportedBrowser = true;
+                }
+                </script>
+            <script src="//www.craigslist.org/js/general-concat.min.js?v=e9ae037676b2885c7a77adfdf33f8501" type="text/javascript" ></script>
+
+<script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish">
+                    <span class="icon icon-trash" role="button"></span>
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+                <span class="unbanish">
+                    <span class="icon icon-trash red" role="button"></span>
+                    unhide
+                </span>
+            </span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="icon icon-star" data-pid="{PostingID}" role="button">
+                <span class="screen-reader-text">favorite this post</span>
+            </span>
+            <span class="postingtitle">
+                <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                    <span class="banish">
+                        <span class="icon icon-trash" role="button"></span>
+                        <span class="screen-reader-text">hide this posting</span>
+                    </span>
+                    <span class="unbanish">
+                        <span class="icon icon-trash red" role="button"></span>
+                        <span class="screen-reader-text">unhide</span>
+                        unhide
+                    </span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer gallery">
+            <span class="slider-back arrow">&lt;</span><span class="slider-info"></span><span class="slider-forward arrow">&gt;</span>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <div class="timecontainer"></div>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=34556d4d2e18087b28df012cc48ea196" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/search-concat.min.js?v=30665e23846bcb69ae24b2b76bc99ad1" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/postings-concat.min.js?v=5da8d5d0efb2e814fc9b7cf2a309d6d1" type="text/javascript" ></script>
+
+</body>
+</html>

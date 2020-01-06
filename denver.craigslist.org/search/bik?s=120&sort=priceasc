@@ -1457,7 +1457,7 @@ bicycles - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2172</span>
+            <span class="totalcount">2175</span>
         </span>
 
         <a href="/search/bik?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -5024,6 +5024,46 @@ bicycles - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7051168597">
+
+        <a href="https://denver.craigslist.org/bik/d/arvada-boys-bike/7051168597.html" class="result-image gallery" data-ids="1:00f0f_g5OBdJo852">
+                <span class="result-price">$40</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:35" title="Mon 06 Jan 04:35:30 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bik/d/arvada-boys-bike/7051168597.html" data-id="7051168597" class="result-title hdrlnk">Boys bike</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (Golden)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7026799710" data-repost-of="6210933457">
 
         <a href="https://denver.craigslist.org/bik/d/girls-retro-bike/7026799710.html" class="result-image gallery" data-ids="1:01313_jjJzn1JEgZv,1:00g0g_lcoWXTeq1wv">
@@ -6204,46 +6244,6 @@ bicycles - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7029622346">
-
-        <a href="https://denver.craigslist.org/bik/d/littleton-azuki-10-speed-bike/7029622346.html" class="result-image gallery" data-ids="1:00S0S_50QoOwd6MCi,1:00D0D_802dsYoebU9,1:00P0P_emqryVzaIqj,1:00r0r_g8d0DIQsv0p">
-                <span class="result-price">$50</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-30 11:23" title="Sat 30 Nov 11:23:40 AM">Nov 30</time>
-
-
-        <a href="https://denver.craigslist.org/bik/d/littleton-azuki-10-speed-bike/7029622346.html" data-id="7029622346" class="result-title hdrlnk">Azuki 10 Speed Bike</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$50</span>
-
-
-                <span class="result-hood"> (Littleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6276,7 +6276,7 @@ bicycles - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2172</span>
+            <span class="totalcount">2175</span>
         </span>
 
         <a href="/search/bik?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

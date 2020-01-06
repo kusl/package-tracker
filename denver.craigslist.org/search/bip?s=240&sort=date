@@ -863,7 +863,7 @@ bicycle parts
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1172</span>
+            <span class="totalcount">1171</span>
         </span>
 
         <a href="/search/bip?s=360&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -899,47 +899,7 @@ bicycle parts
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7046243016">
-
-        <a href="https://denver.craigslist.org/bop/d/denver-trail-tech-bar-handlebars/7046243016.html" class="result-image gallery" data-ids="1:00F0F_gPfsHAlY7nK,1:00M0M_gBLA58xUPXk,1:00V0V_1NRFvu6gYqP">
-                <span class="result-price">$30</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 14:33" title="Sat 04 Jan 02:33:27 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/bop/d/denver-trail-tech-bar-handlebars/7046243016.html" data-id="7046243016" class="result-title hdrlnk">Trail Tech X bar handlebars</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$30</span>
-
-
-                <span class="result-hood"> (Littleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7036053647">
+                             <li class="result-row" data-pid="7036053647">
 
         <a href="https://denver.craigslist.org/bop/d/denver-275-giant-carbon-boost-front/7036053647.html" class="result-image gallery" data-ids="1:00R0R_gBmjYj8TB68,1:01212_hFFCWYzK6F8,1:00202_8DiLqX9WLs5,1:00k0k_dSuoifXZUGW,1:00Y0Y_j99XK7cDHLL,1:00A0A_6AwAUTeh6Yx,1:00L0L_kX8CmjFEyVx,1:00202_21ZCLLP0mMg,1:00L0L_1PDqwp3wtq8,1:00f0f_dUn0QY5EVwO,1:00g0g_9EuB6uNnaXj,1:00202_hpQgPhSBbd4,1:00Q0Q_3Ae0S7Xbrp9,1:00F0F_zZon7fz6qQ,1:00X0X_7eW3nYqyBY7,1:00O0O_iLc6pA8vJyq,1:00a0a_gSJbiu0dOip,1:00Q0Q_hUVG6pIYc2J">
                 <span class="result-price">$110</span>
@@ -5661,6 +5621,46 @@ bicycle parts
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7044514573" data-repost-of="5831487008">
+
+        <a href="https://denver.craigslist.org/bop/d/sram-shifter-hoods-hudz-white-black-red/7044514573.html" class="result-image gallery" data-ids="1:00W0W_90E18wt1dPs,1:00C0C_12mzJ8xEYS7,1:00q0q_jbmFk7SEsgR,1:00r0r_4FLFNl2vemt">
+                <span class="result-price">$10</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 21:59" title="Thu 02 Jan 09:59:52 PM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/bop/d/sram-shifter-hoods-hudz-white-black-red/7044514573.html" data-id="7044514573" class="result-title hdrlnk">SRAM Shifter hoods hudz white black red</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$10</span>
+
+
+                <span class="result-hood"> (Golden / Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5693,7 +5693,7 @@ bicycle parts
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1172</span>
+            <span class="totalcount">1171</span>
         </span>
 
         <a href="/search/bip?s=360&amp;sort=date" class="button next" title="next page">next &gt; </a>

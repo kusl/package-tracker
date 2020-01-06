@@ -897,44 +897,7 @@ baby &amp; kid stuff
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7050455533" data-repost-of="6987287089">
-
-        <a href="https://denver.craigslist.org/bab/d/denver-babybjorn-bouncer-silver-white/7050455533.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 15:08" title="Sun 05 Jan 03:08:01 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/bab/d/denver-babybjorn-bouncer-silver-white/7050455533.html" data-id="7050455533" class="result-title hdrlnk">BabyBjorn Bouncer Silver/White Mesh</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$139</span>
-
-
-                <span class="result-hood"> (Denver near Wash Park)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7045161560">
+                             <li class="result-row" data-pid="7045161560">
 
         <a href="https://denver.craigslist.org/bab/d/commerce-city-stroller/7045161560.html" class="result-image gallery" data-ids="1:00i0i_gJog40mafXf,1:01010_9QSpvjpr4nj,1:00U0U_krE2OBLnK3R,1:00v0v_fb24X6hubh6,1:00808_fCnCg7ufeJq,1:00h0h_8EI058PYKQx">
                 <span class="result-price">$45</span>
@@ -5647,6 +5610,46 @@ baby &amp; kid stuff
 
 
                 <span class="result-hood"> (Broomfield)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050227827">
+
+        <a href="https://denver.craigslist.org/bab/d/hygiene-childs-school-desk/7050227827.html" class="result-image gallery" data-ids="1:00303_jNO3GuMIf1u">
+                <span class="result-price">$25</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 09:10" title="Sun 05 Jan 09:10:50 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/bab/d/hygiene-childs-school-desk/7050227827.html" data-id="7050227827" class="result-title hdrlnk">CHILD&#39;S SCHOOL DESK</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+                <span class="result-hood"> (NIWOT)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

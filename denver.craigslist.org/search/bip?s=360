@@ -861,7 +861,7 @@ bicycle parts
                 <span class="rangeTo">480</span>
             </span>
             /
-            <span class="totalcount">1172</span>
+            <span class="totalcount">1177</span>
         </span>
 
         <a href="/search/bip?s=480" class="button next" title="next page">next &gt; </a>
@@ -897,47 +897,7 @@ bicycle parts
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7044514573" data-repost-of="5831487008">
-
-        <a href="https://denver.craigslist.org/bop/d/sram-shifter-hoods-hudz-white-black-red/7044514573.html" class="result-image gallery" data-ids="1:00W0W_90E18wt1dPs,1:00C0C_12mzJ8xEYS7,1:00q0q_jbmFk7SEsgR,1:00r0r_4FLFNl2vemt">
-                <span class="result-price">$10</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-02 21:59" title="Thu 02 Jan 09:59:52 PM">Jan  2</time>
-
-
-        <a href="https://denver.craigslist.org/bop/d/sram-shifter-hoods-hudz-white-black-red/7044514573.html" data-id="7044514573" class="result-title hdrlnk">SRAM Shifter hoods hudz white black red</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10</span>
-
-
-                <span class="result-hood"> (Golden / Lakewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7044514719" data-repost-of="6542109968">
+                             <li class="result-row" data-pid="7044514719" data-repost-of="6542109968">
 
         <a href="https://denver.craigslist.org/bop/d/denver-fsa-os-mm-stem-road-mtb-6-deg/7044514719.html" class="result-image gallery" data-ids="1:00M0M_8vw7IZXviR,1:00q0q_flYstqJtgP2,1:00101_6wLPEcyAQLv">
                 <span class="result-price">$20</span>
@@ -5650,6 +5610,45 @@ bicycle parts
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7042457597">
+
+        <a href="https://denver.craigslist.org/bop/d/frederick-columbia-snow-pants/7042457597.html" class="result-image gallery" data-ids="1:00O0O_eJjBzPEtGBS,1:00H0H_9NeQItsm6Ne,1:00o0o_3p2YbVvIcVf">
+                <span class="result-price">$45</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 11:05" title="Tue 31 Dec 11:05:56 AM">Dec 31</time>
+
+
+        <a href="https://denver.craigslist.org/bop/d/frederick-columbia-snow-pants/7042457597.html" data-id="7042457597" class="result-title hdrlnk">Columbia snow pants</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$45</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5682,7 +5681,7 @@ bicycle parts
                 <span class="rangeTo">480</span>
             </span>
             /
-            <span class="totalcount">1172</span>
+            <span class="totalcount">1177</span>
         </span>
 
         <a href="/search/bip?s=480" class="button next" title="next page">next &gt; </a>

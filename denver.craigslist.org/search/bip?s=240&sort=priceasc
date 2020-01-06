@@ -863,7 +863,7 @@ bicycle parts
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1134</span>
+            <span class="totalcount">1133</span>
         </span>
 
         <a href="/search/bip?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -899,47 +899,7 @@ bicycle parts
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7027512058">
-
-        <a href="https://denver.craigslist.org/bop/d/broomfield-womens-bike-helmet-gently/7027512058.html" class="result-image gallery" data-ids="1:00a0a_5lb0f05emWb,1:00X0X_bZlA4pfVM7m,1:00h0h_1VBeLFUKHG0">
-                <span class="result-price">$25</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-26 10:29" title="Tue 26 Nov 10:29:48 AM">Nov 26</time>
-
-
-        <a href="https://denver.craigslist.org/bop/d/broomfield-womens-bike-helmet-gently/7027512058.html" data-id="7027512058" class="result-title hdrlnk">Women&#39;s Bike Helmet (gently used)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$25</span>
-
-
-                <span class="result-hood"> (Westminster)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7030268249">
+                             <li class="result-row" data-pid="7030268249">
 
         <a href="https://denver.craigslist.org/bop/d/littleton-carbon-fork-and-dura-ace/7030268249.html" class="result-image gallery" data-ids="1:00e0e_ZFfmYvdOHR,1:00y0y_8zjclXQTLuy,1:00101_clWfftJlsGn,1:01212_iFTscAsoXQ9,1:00404_f3BKK7hog76,1:00T0T_jTUEAvFr6oI,1:00a0a_2CjUUvWNmMJ">
                 <span class="result-price">$25</span>
@@ -5652,6 +5612,46 @@ bicycle parts
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7020674167" data-repost-of="6912864974">
+
+        <a href="https://denver.craigslist.org/bop/d/denver-thule-aero-foot-kit-to-attach/7020674167.html" class="result-image gallery" data-ids="1:00G0G_7CFmsbis43z,1:00V0V_bLDxl1vBP19,1:00l0l_9Qgilnnphlz,1:00P0P_eiaU7Dya8is,1:00e0e_1DUgi7fCmS2,1:00606_g3kKRcHansi,1:00Y0Y_2A16SioI6VE">
+                <span class="result-price">$35</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-25 10:27" title="Mon 25 Nov 10:27:13 AM">Nov 25</time>
+
+
+        <a href="https://denver.craigslist.org/bop/d/denver-thule-aero-foot-kit-to-attach/7020674167.html" data-id="7020674167" class="result-title hdrlnk">Thule Aero Foot Kit to attach load bars to your car - NEW</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$35</span>
+
+
+                <span class="result-hood"> (Denver - DU Area)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5684,7 +5684,7 @@ bicycle parts
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1134</span>
+            <span class="totalcount">1133</span>
         </span>
 
         <a href="/search/bip?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
