@@ -899,47 +899,7 @@ antiques
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7041096688" data-repost-of="6940007037">
-
-        <a href="https://denver.craigslist.org/atq/d/aurora-vintage-bronzed-baby-shoes/7041096688.html" class="result-image gallery" data-ids="1:00909_7k2FLNXg6Oh,1:00f0f_9n6SPnOCQuN">
-                <span class="result-price">$8</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 18:55" title="Sat 04 Jan 06:55:15 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/atq/d/aurora-vintage-bronzed-baby-shoes/7041096688.html" data-id="7041096688" class="result-title hdrlnk">Vintage Bronzed Baby Shoes</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$8</span>
-
-
-                <span class="result-hood"> (SE Aurora)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7041099688" data-repost-of="6765931532">
+                             <li class="result-row" data-pid="7041099688" data-repost-of="6765931532">
 
         <a href="https://denver.craigslist.org/atq/d/aurora-vintage-art-prints-the-pears-of/7041099688.html" class="result-image gallery" data-ids="1:00D0D_3f1iYVtIyfL,1:00H0H_2Ane1lX4tpu,1:00s0s_3SczxA7r3GF,1:00x0x_qT6nNDidAW,1:00P0P_koKGoUbzmni">
                 <span class="result-price">$8</span>
@@ -5656,6 +5616,46 @@ antiques
 
 
                 <span class="result-hood"> (Dtc)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050864143">
+
+        <a href="https://denver.craigslist.org/atq/d/littleton-sloans-liniment-bottle/7050864143.html" class="result-image gallery" data-ids="1:00s0s_6vEaLJLksdS">
+                <span class="result-price">$10</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 10:14" title="Mon 06 Jan 10:14:05 AM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/atq/d/littleton-sloans-liniment-bottle/7050864143.html" data-id="7050864143" class="result-title hdrlnk">Sloan&#39;s Liniment Bottle</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$10</span>
+
+
+                <span class="result-hood"> (Ken-Caryl)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

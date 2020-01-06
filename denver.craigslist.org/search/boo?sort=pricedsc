@@ -905,7 +905,7 @@ boats
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">335</span>
+            <span class="totalcount">333</span>
         </span>
 
         <a href="/search/boo?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -5556,46 +5556,6 @@ boats
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="6893692068">
-
-        <a href="https://denver.craigslist.org/boa/d/littleton-1998-shamrock-219-wa/6893692068.html" class="result-image gallery" data-ids="1:00T0T_44f8x7RtHPL,1:00x0x_ccUOQeBNVdn,1:00Z0Z_3EDHCnGAbeX,1:00F0F_kV0sAXuhbSx,1:01414_bf43sLPz8h4,1:00606_6j00BHdcFXq,1:00O0O_fxZiWKVJX6j,1:00Y0Y_9cNnQdsuEFi,1:00u0u_c5wSsZIUxpm,1:00C0C_YDItK99Znl,1:00Q0Q_lt5vkziYpzS,1:00R0R_jHsvJJ9mXNN,1:00E0E_34qHA1IeDW,1:00x0x_pSGlVQEdOk">
-                <span class="result-price">$15000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-06-10 17:25" title="Mon 10 Jun 05:25:39 PM">Jun 10</time>
-
-
-        <a href="https://denver.craigslist.org/boa/d/littleton-1998-shamrock-219-wa/6893692068.html" data-id="6893692068" class="result-title hdrlnk">1998 Shamrock 219 WA</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$15000</span>
-
-
-                <span class="result-hood"> (Littleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7025330717">
 
         <a href="https://denver.craigslist.org/boa/d/castle-rock-boat-for-sale/7025330717.html" class="result-image gallery" data-ids="1:01717_7L2Dt2cX4Lx,1:00000_dgX88DbX9Aw,1:01717_1YcT7Eg2BkD">
@@ -5716,6 +5676,42 @@ boats
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7045672636" data-repost-of="6898272773">
+
+        <a href="https://denver.craigslist.org/boa/d/aurora-calabria-sports-comp-xts/7045672636.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-28 07:10" title="Sat 28 Dec 07:10:46 AM">Dec 28</time>
+
+
+        <a href="https://denver.craigslist.org/boa/d/aurora-calabria-sports-comp-xts/7045672636.html" data-id="7045672636" class="result-title hdrlnk">Calabria sports comp xts</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$15000</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5748,7 +5744,7 @@ boats
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">335</span>
+            <span class="totalcount">333</span>
         </span>
 
         <a href="/search/boo?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

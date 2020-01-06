@@ -854,7 +854,7 @@ business/commercial - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1304</span>
+            <span class="totalcount">1303</span>
         </span>
 
         <a href="/search/bfs?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -4160,6 +4160,46 @@ business/commercial - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7051106536">
+
+        <a href="https://denver.craigslist.org/bfs/d/golden-retail-business-120k-cash-flow/7051106536.html" class="result-image gallery" data-ids="1:01515_i0lDzWiPaZl,1:01313_b1hco0BzoBo,1:00p0p_gbDafUxYlH5,1:00T0T_8A8DAPweiy1,1:00y0y_eHPji6DcDQl,1:00404_fVdmcIrq556,1:00V0V_iLexA0Pe6X8,1:00G0G_e2hhzIVincI,1:00e0e_5GBQacjfp6W">
+                <span class="result-price">$50000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:04" title="Mon 06 Jan 03:04:49 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bfs/d/golden-retail-business-120k-cash-flow/7051106536.html" data-id="7051106536" class="result-title hdrlnk">Retail Business 120K Cash Flow</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$50000</span>
+
+
+                <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7015010291">
 
         <a href="https://denver.craigslist.org/bfs/d/wheat-ridge-turnkey-bar-for-sale/7015010291.html" class="result-image gallery" data-ids="1:00707_jMV0R3rpYkA,1:00T0T_2kq9s9r8QUb">
@@ -5536,45 +5576,6 @@ business/commercial - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7040753370">
-
-        <a href="https://denver.craigslist.org/bfs/d/barron-2013-subaru-wrx-sti/7040753370.html" class="result-image gallery" data-ids="1:00a0a_fky5WdhBHkl,1:00I0I_gmtoL8nnFof,1:00D0D_3ifS9lfMxvB,1:00101_6uVq9Hftj9d,1:00F0F_bjxCNZUwoS0,1:00A0A_4YfLgsQCbQ9">
-                <span class="result-price">$23995</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-18 10:39" title="Wed 18 Dec 10:39:54 AM">Dec 18</time>
-
-
-        <a href="https://denver.craigslist.org/bfs/d/barron-2013-subaru-wrx-sti/7040753370.html" data-id="7040753370" class="result-title hdrlnk">2013 Subaru WRX STI</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$23995</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5607,7 +5608,7 @@ business/commercial - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1304</span>
+            <span class="totalcount">1303</span>
         </span>
 
         <a href="/search/bfs?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

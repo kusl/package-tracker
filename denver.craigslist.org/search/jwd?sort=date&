@@ -1,0 +1,2588 @@
+﻿<!DOCTYPE html>
+<html class="no-js"><head>
+    <title>denver jewelry - by dealer  - craigslist</title>
+
+    <meta name="description" content="denver jewelry - by dealer  - craigslist">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="canonical" href="https://denver.craigslist.org/search/jwd">
+    <link rel="alternate" type="application/rss+xml" href="https://denver.craigslist.org/search/jwd?format=rss&amp;sort=date" title="RSS feed for craigslist | denver jewelry - by dealer  - craigslist">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=f45c4074e9853c0ceb280398a8131359">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=bc035cbbc3978b0ec9df93944cdf349b">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=33e3dd14c7deed955c83b6927c5e1f07">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=9bea97021e746649c6837e95dd9723e8">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=d8743547c59d5ad31d4d7294c7e2f7f2">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+
+    
+        <script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "13";
+var areaRegion = "CO";
+var catAbb = "jwd";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "&#x0024;";
+var defaultView = "grid";
+var expiredFavIDs = null;
+var imageConfig = {"1":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]},"0":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450"]},"2":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]}};
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+var maxResults = 3000;
+var noImageText = "no image";
+var pID = null;
+var postalLat = null;
+var postalLon = null;
+var purveyorCategories = {"owner":"jwl","dealer":"jwd","all":"jwa"};
+var searchDistance = null;
+var sectionAbb = "ssq";
+var sectionBase = "sss";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var showingBanished = 0;
+var showingFavorites = 0;
+var starHint = "save this post in your favorites list";
+var subarea = null;
+var zoomToPosting = null;
+--></script>
+    
+</head>
+<body class="search has-map">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <section class="page-container" id="page-top">
+        <div class="bglogo"></div>
+        <div class="tryapp">
+    try the craigslist app &raquo;
+    <a class="appstorebtn"
+    href="https://play.google.com/store/apps/details?id=org.craigslist.CraigslistMobile">
+        Android
+    </a>
+    <a class="appstorebtn"
+    href="https://apps.apple.com/us/app/craigslist/id1336642410">
+        iOS
+    </a>
+</div>
+<header class="global-header wide">
+   <a class="header-logo" name="logoLink" href="/">CL</a>
+
+    <nav class="breadcrumbs-container">
+<form id="breadcrumbform" class="breadcrumbs-form" method="get" action="/search/jwd" data-action="/search/###/jwd">
+    <input type="hidden" name="sort" value="date">
+
+    <ul class="breadcrumbs ">
+        <li class="crumb area">
+            
+            <span class="no-js">
+                <a href="/">denver</a>
+            </span>
+                <select name="areaAbb" id="areaAbb" class="js-only">
+                    <option value="denver">denver</option>
+                        <option value="boulder">boulder</option>
+                        <option value="cosprings">colo springs</option>
+                        <option value="eastco">eastern CO</option>
+                        <option value="fortcollins">fort collins</option>
+                        <option value="rockies">high rockies</option>
+                        <option value="pueblo">pueblo</option>
+                        <option value="scottsbluff">scottsbluff</option>
+                        <option value="westslope">western slope</option>
+                </select>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb section">
+                    <select name="catAbb" id="catAbb">
+                        <option value="ccc">community</option>
+                        <option value="eee">events</option>
+                        <option value="sss" selected>for sale</option>
+                        <option value="ggg">gigs</option>
+                        <option value="hhh">housing</option>
+                        <option value="jjj">jobs</option>
+                        <option value="rrr">resumes</option>
+                        <option value="bbb">services</option>
+                    </select>
+                <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb category">
+            <select id="subcatAbb" class="js-only">
+                <option value="ssq">all</option>
+                    <option value="atd">antiques</option>
+                    <option value="ppd">appliances</option>
+                    <option value="ard">arts+crafts</option>
+                    <option value="snd">atvs/utvs/snow</option>
+                    <option value="ptd">auto parts</option>
+                    <option value="wtd">auto wheels &amp; tires</option>
+                    <option value="avd">aviation</option>
+                    <option value="bad">baby+kids</option>
+                    <option value="bar">barter</option>
+                    <option value="bdp">bike parts</option>
+                    <option value="bid">bikes</option>
+                    <option value="bpd">boat parts</option>
+                    <option value="bod">boats</option>
+                    <option value="bkd">books</option>
+                    <option value="bfd">business</option>
+                    <option value="ctd">cars+trucks</option>
+                    <option value="emq">cds/dvd/vhs</option>
+                    <option value="mod">cell phones</option>
+                    <option value="cld">clothes+acc</option>
+                    <option value="cbd">collectibles</option>
+                    <option value="sdp">computer parts</option>
+                    <option value="syd">computers</option>
+                    <option value="eld">electronics</option>
+                    <option value="grq">farm+garden</option>
+                    <option value="zip">free stuff</option>
+                    <option value="fud">furniture</option>
+                    <option value="gms">garage sales</option>
+                    <option value="fod">general</option>
+                    <option value="had">beauty+hlth</option>
+                    <option value="hvd">heavy equipment</option>
+                    <option value="hsd">household</option>
+                    <option value="jwd" selected>jewelry</option>
+                    <option value="mad">materials</option>
+                    <option value="mpd">motorcycle parts</option>
+                    <option value="mcd">motorcycles</option>
+                    <option value="msd">music instr</option>
+                    <option value="phd">photo+video</option>
+                    <option value="rvd">RVs</option>
+                    <option value="sgd">sporting</option>
+                    <option value="tid">tickets</option>
+                    <option value="tld">tools</option>
+                    <option value="tad">toys+games</option>
+                    <option value="trb">trailers</option>
+                    <option value="vgd">video gaming</option>
+                    <option value="wad">wanted</option>
+            </select><span class="no-js">jewelry - by dealer</span>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb no-js">
+            <input type="submit" value="go">
+        </li>
+    </ul>
+</form>
+    </nav>
+
+<div class="userlinks">
+    <ul class="user-actions">
+        <li class="user post">
+            <a href="https://post.craigslist.org/c/den">post</a>
+        </li>
+        <li class="user account">
+            <a href="https://accounts.craigslist.org/login/home">account</a>
+        </li>
+    </ul>
+    <ul class="user-favs-discards">
+        <li class="user">
+            <div class="favorites">
+                <a href="#" class="favlink"><span class="icon icon-star fav" aria-hidden="true"></span><span class="fav-number">0</span><span class="fav-label"> favorites</span></a>
+            </div>
+        </li>
+        <li class="user discards">
+          <form class="unfavform js-only" method="POST" action="/favorites">
+            <div class="to-banish-page">
+              <input type="hidden" class="lastLink" name="lastLink" value="//denver.craigslist.org/search/jwd?sort=date">
+              <input type="hidden" class="lastTitle" name="lastTitle" value="denver jewelry - by dealer  - craigslist">
+              <input type="hidden" class="unfaves" name="fl">
+              <input type="hidden" name="uf" value="1">
+              <a href="#" class="to-banish-page-link">
+                <span class="icon icon-trash red" aria-hidden="true"></span>
+                <span class="banished_count">0</span>
+                <span class="discards-label"> hidden</span>
+              </a>
+            </div>
+          </form>
+        </li>
+    </ul>
+</div>
+
+</header>
+<header class="global-header narrow">
+   <a class="header-logo" href="/">CL</a>
+    <nav class="breadcrumbs-container">
+
+<ul class="breadcrumbs">
+
+
+denver            &gt;
+
+jewelry - by dealer
+
+</ul>
+
+
+    </nav>
+    <span class="linklike show-wide-header">...</span>
+</header>
+
+
+        <form id="searchform" class="search-form" action="/search/jwd">
+            <div class="querybox">
+                
+                <div class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></div>
+                <input type="text" placeholder="search jewelry - by dealer" name="query"
+                    id="query" value="" autocorrect="off" class="flatinput ui-autocomplete-input"
+                    autocapitalize="off" autocomplete="off" data-autocomplete="search">
+
+                <button type="submit" class="searchbtn">
+                    <span class="icon icon-search" aria-hidden="true"></span>
+                    <span class="screen-reader-text">press to search craigslist</span>
+                </button>
+                    <div class="savealert">
+                        <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fdenver%252Ecraigslist%252Eorg%252Fsearch%252Fjwd%253Fsort%253Ddate"  title="save this search" >save search</a>
+                    </div>
+            </div>
+
+            <div class="search-options-container">
+    <h2 class="search-options-header linklike">
+        <div class="icon icon-toggle-gear" aria-hidden="true"></div>
+        options<span class="options-close">close</span>
+    </h2>
+    <input id="excats" type="hidden" name="excats">
+        <input type="hidden" name="sort" value="date">
+    <div class="search-options">
+        <div class="searchgroup categories">
+            <div class="cattitle">
+                  <a href="/search/jwd" title="clear all search parameters" class="reset">jewelry - by dealer</a>
+            </div>
+
+        </div>
+        <input type="hidden" name="userid" value="" />
+
+                <ul class="searchgroup buttongroup purveyor">
+                    <li class="button ">
+                        <a href="/search/jwa?sort=date" data-val="all">all</a>
+                    </li><li class="button ">
+                        <a href="/search/jwl?sort=date" data-val="owner"> owner</a>
+                    </li><li class="button sel">
+                        <a href="/search/jwd?sort=date" data-val="dealer">dealer</a>
+                    </li>
+                </ul>
+
+
+
+
+        <div class="searchgroup">
+            <ul>
+    <li>
+       <label class="srchType">
+           <input type="checkbox" name="srchType" class="" value="T" >
+           search titles only
+       </label>
+    </li>
+    <li>
+       <label class="hasPic">
+           <input type="checkbox" name="hasPic" class="autosubmit" value="1" >
+           has image
+       </label>
+    </li>
+    <li>
+       <label class="postedToday">
+           <input type="checkbox" name="postedToday" class="autosubmit" value="1" >
+           posted today
+       </label>
+    </li>
+    <li>
+       <label class="bundleDuplicates">
+           <input type="checkbox" name="bundleDuplicates" class="autosubmit" value="1" >
+           bundle duplicates
+       </label>
+    </li>
+    <li>
+       <label class="searchNearby">
+           <input type="checkbox" name="searchNearby" class="autosubmit" value="1" >
+           include nearby areas
+       </label>
+    </li>
+</ul>
+
+                <ul class="js-only nearbyAreas ">
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_0"
+                            value="319"
+                            disabled="disabled"
+                            />
+                            boulder, CO <small>(bou)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_2"
+                            value="210"
+                            disabled="disabled"
+                            />
+                            colorado springs <small>(cos)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_5"
+                            value="713"
+                            disabled="disabled"
+                            />
+                            eastern CO <small>(eco)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_10"
+                            value="568"
+                            disabled="disabled"
+                            />
+                            farmington, NM <small>(fnm)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_1"
+                            value="287"
+                            disabled="disabled"
+                            />
+                            fort collins / north CO <small>(ftc)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_4"
+                            value="288"
+                            disabled="disabled"
+                            />
+                            high rockies <small>(rck)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_8"
+                            value="668"
+                            disabled="disabled"
+                            />
+                            north platte, NE <small>(lbf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_9"
+                            value="688"
+                            disabled="disabled"
+                            />
+                            northwest KS <small>(nwk)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_3"
+                            value="315"
+                            disabled="disabled"
+                            />
+                            pueblo, CO <small>(pub)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_12"
+                            value="218"
+                            disabled="disabled"
+                            />
+                            santa fe / taos <small>(saf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_6"
+                            value="669"
+                            disabled="disabled"
+                            />
+                            scottsbluff / panhandle <small>(bff)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_13"
+                            value="687"
+                            disabled="disabled"
+                            />
+                            southwest KS <small>(swk)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_7"
+                            value="320"
+                            disabled="disabled"
+                            />
+                            western slope <small>(gjt)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_11"
+                            value="197"
+                            disabled="disabled"
+                            />
+                            wyoming <small>(wyo)</small>
+                        </label>
+                        </li>
+
+                        <li>
+                        <span class="nextNearbyZone linklike" data-zone="1">
+                            + show <span id="nearbyNumber">14</span> more...
+                        </span>
+                        </li>
+                </ul>
+        </div>
+
+            <div class="searchgroup">
+                <span class="searchfieldlabel">miles from zip</span>
+                <input size="5" maxlength="5" inputmode="numeric"
+                    class="flatinput searchInput search_distance" placeholder="miles"
+                    name="search_distance"
+                    value=""
+                />
+                <input type="text" class="flatinput searchInput postal" placeholder="from zip"
+                    size="7" name="postal" value="">
+                <span class="icon icon-locate"></span>
+            </div>
+
+
+    <div class="searchgroup minmax price">
+<span class="searchfieldlabel">price</span>
+    <input type="tel" name="min_price" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="">
+    <input type="tel" name="max_price" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+
+
+
+        <div class="searchgroup"><span class="searchfieldlabel">make and model</span>
+    <input
+        type="text"
+        class="flatinput auto_make_model"
+        placeholder="make / model"
+        name="auto_make_model"
+        value=""
+        data-autocomplete="makemodel" />
+</div><div class="searchgroup"><label class="crypto_currency_ok">
+        <input type="checkbox" name="crypto_currency_ok" value="1" class="autosubmit" />
+    cryptocurrency ok
+</label><br>
+<label class="delivery_available">
+        <input type="checkbox" name="delivery_available" value="1" class="autosubmit" />
+    delivery available
+</label><br>
+</div><div class="searchgroup"><div class="search-attribute hide-list" data-attr="language">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> language of posting
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="language_1" name="language" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    af
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_2" name="language" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    ca
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_3" name="language" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    da
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_4" name="language" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    de
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_5" name="language" class="multi_checkbox" value="5" type="checkbox"
+                     />
+                    en
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_6" name="language" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    es
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_7" name="language" class="multi_checkbox" value="7" type="checkbox"
+                     />
+                    fi
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_8" name="language" class="multi_checkbox" value="8" type="checkbox"
+                     />
+                    fr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_9" name="language" class="multi_checkbox" value="9" type="checkbox"
+                     />
+                    it
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_10" name="language" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    nl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_11" name="language" class="multi_checkbox" value="11" type="checkbox"
+                     />
+                    no
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_12" name="language" class="multi_checkbox" value="12" type="checkbox"
+                     />
+                    pt
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_13" name="language" class="multi_checkbox" value="13" type="checkbox"
+                     />
+                    sv
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_14" name="language" class="multi_checkbox" value="14" type="checkbox"
+                     />
+                    tl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_15" name="language" class="multi_checkbox" value="15" type="checkbox"
+                     />
+                    tr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_16" name="language" class="multi_checkbox" value="16" type="checkbox"
+                     />
+                    zh
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_17" name="language" class="multi_checkbox" value="17" type="checkbox"
+                     />
+                    ar
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_18" name="language" class="multi_checkbox" value="18" type="checkbox"
+                     />
+                    ja
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_19" name="language" class="multi_checkbox" value="19" type="checkbox"
+                     />
+                    ko
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_20" name="language" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    ru
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_21" name="language" class="multi_checkbox" value="21" type="checkbox"
+                     />
+                    vi
+                </label>
+            </li>
+
+            <li class="selectall js-only ">
+                <span class="all">select all</span>
+                <span class="none">deselect all</span>
+            </li>
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="condition">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> condition
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_10" name="condition" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    new
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_20" name="condition" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    like new
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_30" name="condition" class="multi_checkbox" value="30" type="checkbox"
+                     />
+                    excellent
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_40" name="condition" class="multi_checkbox" value="40" type="checkbox"
+                     />
+                    good
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_50" name="condition" class="multi_checkbox" value="50" type="checkbox"
+                     />
+                    fair
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_60" name="condition" class="multi_checkbox" value="60" type="checkbox"
+                     />
+                    salvage
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+</div>
+
+        <div class="searchgroup resetsearch">
+            <a href="/search/jwd" title="clear all search parameters" class="reset linklike">reset</a>
+            <button type="submit" class="searchlink linklike">update search</button>
+        </div>
+
+<aside class="tsb">
+    <ul>
+        <li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+    </div>
+</div>
+
+
+            <div class="search-legend">
+<div class="search-view js-only">
+    <div class="dropdown dropdown-icons dropdown-arrows dropdown-view" role="toolbar" aria-label="view options" aria-expanded="false">
+        <ul class="dropdown-list">
+            <li class="dropdown-item mode sel">
+                <button title="show results in a list" data-selection="list" id="listview">
+                    <span class="view-list icon"></span>list
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results in a list with thumbnail pictures"  data-selection="pic"  id="picview" >
+                    <span class="view-thumb icon"></span>thumb
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results side-by-side with larger pictures" data-selection="grid" id="gridview">
+                    <span class="view-gallery icon"></span>gallery
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+                <li class="dropdown-item mode">
+                    <button title="show results on a map"  data-selection="map"  id="mapview" >
+                        <span class="view-map icon"></span>map
+                    </button>
+                    <span class="toggle-arrow"></span>
+                </li>
+        </ul>
+    </div>
+</div>
+                <div class="search-sort" >
+    <div class="dropdown dropdown-sort dropdown-arrows" data-default-sort="date" role="toolbar" aria-label="sort options" aria-expanded="false">
+        <ul class="dropdown-list">
+
+            <li class="dropdown-item mode sel" aria-selected="true">
+                <a data-selection="date" title="show newest matches first" href="/search/jwd?sort=date&amp;">newest <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="priceasc" title="sort by price, lowest to highest" href="/search/jwd?sort=priceasc&amp;">price &uarr; <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="pricedsc" title="sort by price, highest to lowest" href="/search/jwd?sort=pricedsc&amp;">price &darr; <span class="toggle-arrow"></span></a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+                <div class="paginator buttongroup firstpage lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <a href="/search/jwd?sort=date" class="button first" title="first page">&lt;&lt;</a>
+        <span class="button first" title="first page">&lt;&lt;</span>
+        <a href="/search/jwd?sort=date" class="button prev" title="previous page">&lt; prev</a>
+        <span class="button prev" title="previous page">&lt; prev</span>
+
+        <span class="button pagenum">
+            <span class="range">
+                <span class="rangeFrom">1</span>
+                -
+                <span class="rangeTo">15</span>
+            </span>
+            /
+            <span class="totalcount">15</span>
+        </span>
+
+        <a href="" class="button next" title="next page">next &gt; </a>
+        <span class="button next" title="next page"> next &gt; </span>
+    </span>
+</div>
+
+                
+            </div>
+            <div class="content" id="sortable-results" >
+                <section class="favlistsection">
+                    <section class="favlistinfo">
+                    </section>
+                    <section class="banishlistinfo">
+                    </section>
+                </section>
+
+                    
+
+
+<div class="open-map-view-button">
+    <span>see in map view</span>
+</div>
+<div id="mapcontainer" data-arealat="39.739201" data-arealon="-104.984001">
+    <div id="noresult-overlay"></div>
+    <div id="noresult-text">
+        <span class="message">No mappable items found</span>
+    </div>
+    <div id="map" class="loading">
+        <div class="close-full-screen-map-mode-button">close fullscreen</div>
+        <div class="close-map-view-button">close map</div>
+    </div>
+</div>
+
+                <ul class="rows">
+                             <li class="result-row" data-pid="7047244099">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-datejust-16200/7047244099.html" class="result-image gallery" data-ids="1:00b0b_gKtmdbZSRO6,1:00d0d_aX8GXvQhqNH,1:00q0q_lbxjcNgaSFk,1:00W0W_47b5aoPGPvq,1:01010_3peEH3vGZl0,1:00X0X_artJjfJI1qe,1:00b0b_1A5J5O5qrpc,1:00p0p_isI7vPjkoW0">
+                <span class="result-price">$4350</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 22:20" title="Mon 30 Dec 10:20:52 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-datejust-16200/7047244099.html" data-id="7047244099" class="result-title hdrlnk">Rolex Datejust 16200</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4350</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047242191">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-jaeger-lecoultre-reverso-classic/7047242191.html" class="result-image gallery" data-ids="1:01414_23KnrsgUD2D,1:00j0j_dw2D8YyBFGj,1:00r0r_8dv734z63nf,1:00F0F_1OSZNA7XlBg,1:00B0B_dxPQQVBP44,1:01616_22feN2muZra,1:00w0w_EMvsxvv23P,1:00303_8VS1TU9QXX0,1:00A0A_5KiJRrOiHxF">
+                <span class="result-price">$5250</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 22:11" title="Mon 30 Dec 10:11:55 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-jaeger-lecoultre-reverso-classic/7047242191.html" data-id="7047242191" class="result-title hdrlnk">Jaeger-LeCoultre Reverso Classic Large Small Seconds</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5250</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047225768">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-oyster-perpetual-6084/7047225768.html" class="result-image gallery" data-ids="1:01212_9uizMnRRXY8,1:00B0B_htUbIJtbJRz,1:00606_8CAWRITF2ca,1:00G0G_5dpqtYecVEH,1:00m0m_2t5JTvF09ba,1:00404_cnolrBpKxRa,1:00P0P_2kyS6NeHlmc,1:00O0O_51ekZ5khakJ,1:00q0q_cxjGYrMCAXq,1:00q0q_9UX4rvuULIS,1:00I0I_kbgu9LrULK6,1:01515_2tIaBb36J7N,1:00F0F_fqES2NvC2u3,1:00q0q_ikK6zsBmy08,1:00Y0Y_axDAuy6HUKt">
+                <span class="result-price">$3500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 21:04" title="Mon 30 Dec 09:04:47 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-oyster-perpetual-6084/7047225768.html" data-id="7047225768" class="result-title hdrlnk">Rolex Oyster Perpetual 6084</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3500</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047224067">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-oyster-perpetual-date-15053/7047224067.html" class="result-image gallery" data-ids="1:00c0c_bZOeYcoZRgM,1:01414_5tAwPsxJRN5,1:00L0L_fmZzc50ZNpm,1:00Z0Z_dxsWCKGwpKz,1:01414_cCgGxN6Yv67,1:00Q0Q_kSl4QrSjX4f,1:00O0O_k0j3DNdcBSZ,1:00F0F_4Q3zS1H26N5,1:00A0A_huDJE0xttOV,1:00T0T_ejpExqDaJav,1:00G0G_crYPscic6a2,1:00L0L_cGMjKJRjQkp,1:00R0R_gS7T0Tuqvri,1:00z0z_g6w6gHq9RQQ,1:00O0O_2PlSC39YZqe">
+                <span class="result-price">$3250</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 20:58" title="Mon 30 Dec 08:58:26 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-oyster-perpetual-date-15053/7047224067.html" data-id="7047224067" class="result-title hdrlnk">Rolex Oyster Perpetual Date 15053</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3250</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047222516">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-datejust-16220/7047222516.html" class="result-image gallery" data-ids="1:00B0B_frXkeAR9wzs,1:00505_8nCNwx9V3q7,1:01010_eUz1x7VGGWm,1:00F0F_hFO7SWI6BYe,1:00202_iupxdZyMESA,1:00Z0Z_3sNbIuDqY5f,1:01010_I5fBkkHnyr,1:00w0w_cnRgxip1PwR,1:00303_lRSLuTrZuXZ,1:00I0I_koBH3rwBgvY,1:00B0B_iXG3c0MlHZp,1:00p0p_7NX5YK6UT4b,1:00101_j65X3ZhtCV1,1:00S0S_8Xad7VmUdEy">
+                <span class="result-price">$3950</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 20:53" title="Mon 30 Dec 08:53:04 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-datejust-16220/7047222516.html" data-id="7047222516" class="result-title hdrlnk">Rolex Datejust 16220</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3950</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047216879">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-datejust-16030/7047216879.html" class="result-image gallery" data-ids="1:00G0G_e7FGPhjBuQt,1:00u0u_hzNpuck1myV,1:00L0L_kNA1ehV1se7,1:01717_iqwLXEenHEg,1:00T0T_kiT1y6hbq1X,1:00W0W_kekBUcJiQsI,1:01414_2D6YzthQg95,1:00K0K_bUGpz1e46OS,1:00F0F_cY7CA4K18oH,1:00P0P_5AkjUkWmswV,1:00k0k_8xWMFAN6L6P,1:00J0J_kWNeVoPwBgP,1:01616_hmUUMr2BbH5,1:00d0d_aeKQcxmsKJi,1:00707_cJtxzwwb6ow">
+                <span class="result-price">$3750</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 20:34" title="Mon 30 Dec 08:34:40 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-datejust-16030/7047216879.html" data-id="7047216879" class="result-title hdrlnk">Rolex Datejust 16030</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3750</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047214636">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-oyster-perpetual-date-15010/7047214636.html" class="result-image gallery" data-ids="1:00F0F_d71GwzX52ve,1:00U0U_805gxMB8wHD,1:00Z0Z_4IzKR0eiLOn,1:00X0X_bkMCq9GPsqG,1:00J0J_45M9NfzI6mm,1:01212_4XDfedptkau,1:01616_5Uw0wo55sLI,1:00W0W_aroN2bndzke,1:00q0q_gEbukrObTTA,1:00W0W_l5EQe2FAlHI,1:00808_iaw7XEqTVgF,1:01313_6J7WM9ujZqk,1:00B0B_9x4pGaKhIWh,1:00Z0Z_7nq1a1NEMDB,1:00i0i_GEEsOO4ntU,1:00u0u_kuUGqLaaHX9">
+                <span class="result-price">$3300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 20:27" title="Mon 30 Dec 08:27:16 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-oyster-perpetual-date-15010/7047214636.html" data-id="7047214636" class="result-title hdrlnk">Rolex Oyster Perpetual Date 15010</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3300</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047211469">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-datejust-16220/7047211469.html" class="result-image gallery" data-ids="1:00M0M_ahQ6CqIaNC6,1:00e0e_4tQiZJfDcuJ,1:00707_ljriv3z5OZv,1:00J0J_8E6lz0FuBjc,1:00B0B_aToFocp7zMr,1:00p0p_7jOnaQ5qDvP,1:00808_524dqGBhcJ8,1:00101_419evRPcWGH,1:00j0j_3U8Hh5tA0pO,1:01212_7GbIo4K9xGP,1:00C0C_gVL4iU8KdDf,1:00N0N_hehtIk7XnaE,1:00p0p_cfTWxzB1UT5,1:00K0K_2mT8RfcghD7,1:00D0D_x4ESuvhQfD,1:00b0b_lNTaKkuH5EQ,1:00i0i_aEjyUnjzkUt,1:00E0E_8bz6HjExltF">
+                <span class="result-price">$4450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 20:16" title="Mon 30 Dec 08:16:54 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-rolex-datejust-16220/7047211469.html" data-id="7047211469" class="result-title hdrlnk">Rolex Datejust 16220</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4450</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047209685">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-audemars-piguet-millenary/7047209685.html" class="result-image gallery" data-ids="1:00z0z_5rqIB4M24TX,1:00G0G_kks5Eygzz7c,1:00R0R_7K7olJZOtoo,1:01616_2VhFg6xTFDv,1:01010_9av8utWXLzx,1:00a0a_aOvnQFNEcjl,1:00J0J_i1X0Uu9TkDV">
+                <span class="result-price">$7500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 20:10" title="Mon 30 Dec 08:10:59 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-audemars-piguet-millenary/7047209685.html" data-id="7047209685" class="result-title hdrlnk">Audemars Piguet Millenary</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$7500</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047206371">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-hautlence-destination-02/7047206371.html" class="result-image gallery" data-ids="1:00U0U_cDw4CeyM96f,1:00g0g_bbTnbbX8Mi1,1:00O0O_hqo4VcxnzYa,1:00V0V_1UsBk0YldPl,1:00U0U_lvqYOWuznK0,1:00a0a_dA1EwaYx5x1">
+                <span class="result-price">$9950</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 20:00" title="Mon 30 Dec 08:00:44 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-hautlence-destination-02/7047206371.html" data-id="7047206371" class="result-title hdrlnk">Hautlence Destination 02</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$9950</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047202921" data-repost-of="6942729034">
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-buy-rolex-cash-paid-immediately/7047202921.html" class="result-image gallery" data-ids="1:00Y0Y_i1IKHw9BLOO">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 19:50" title="Mon 30 Dec 07:50:16 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/denver-buy-rolex-cash-paid-immediately/7047202921.html" data-id="7047202921" class="result-title hdrlnk">I BUY ROLEX!!! CASH Paid Immediately!!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045139328">
+
+        <a href="https://denver.craigslist.org/jwd/d/262ct-round-diamond-absolute-beauty/7045139328.html" class="result-image gallery" data-ids="1:01616_3rDPAinDLja,1:01515_gfm7zG5UEWN,1:00808_dq5jH1rwHiM,1:00808_9CqXAo7P3pj,1:00g0g_cQ1sdsZKHqZ,1:00x0x_2V7xX0FrNUl">
+                <span class="result-price">$6100</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 09:06" title="Fri 27 Dec 09:06:17 AM">Dec 27</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/262ct-round-diamond-absolute-beauty/7045139328.html" data-id="7045139328" class="result-title hdrlnk">🌟 2.62ct Round Diamond - Absolute Beauty! - $6,100🌟</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6100</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042977230">
+
+        <a href="https://denver.craigslist.org/jwd/d/louisville-watches-and-jewelry-off/7042977230.html" class="result-image gallery" data-ids="1:00P0P_c9DuANbrLUS,1:00h0h_7RLtxL00z4T,1:00R0R_2eiWjFNNkwU,1:00B0B_dD4ASYCPPqY,1:00L0L_46uUEPz5Veb,1:00505_cRyPO7mGTdG,1:00o0o_8BykTgtiAbv,1:00w0w_89zfdfu2lbD,1:01616_d9wCBZnkD0U">
+                <span class="result-price">$25</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-22 10:47" title="Sun 22 Dec 10:47:45 AM">Dec 22</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/louisville-watches-and-jewelry-off/7042977230.html" data-id="7042977230" class="result-title hdrlnk">Watches and Jewelry 40%-50% off. Citizen, Seiko, and More!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+                <span class="result-hood"> (Broomfield)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041822377">
+
+        <a href="https://denver.craigslist.org/jwd/d/beautiful-204ctw-diamond-stud-earrings/7041822377.html" class="result-image gallery" data-ids="1:00N0N_j6MU3GNQb0c,1:01414_bdIdg3wG8l8,1:00404_1lGQ0dW3asQ,1:00303_dsBANzZTcER,1:00j0j_b1pTtg6BbM4,1:00L0L_bSfRlLjEq82,1:00707_4F02Af61g2A">
+                <span class="result-price">$2450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-20 08:09" title="Fri 20 Dec 08:09:11 AM">Dec 20</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/beautiful-204ctw-diamond-stud-earrings/7041822377.html" data-id="7041822377" class="result-title hdrlnk">Beautiful 2.04CTW Diamond Stud Earrings! Makes The Perfect Holiday Gift!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2450</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037196303">
+
+        <a href="https://denver.craigslist.org/jwd/d/beautiful-242ctw-oval-cut-diamond/7037196303.html" class="result-image gallery" data-ids="1:00E0E_hvPxBF00bCK,1:00L0L_1ATdTQtsIMt,1:00j0j_b1pTtg6BbM4,1:00000_5gq2hhKllsX,1:00H0H_b1wzhTBj0QV">
+                <span class="result-price">$6650</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 11:33" title="Thu 12 Dec 11:33:47 AM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/jwd/d/beautiful-242ctw-oval-cut-diamond/7037196303.html" data-id="7037196303" class="result-title hdrlnk">Beautiful 2.42Ctw Oval Cut Diamond Engagement Ring</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6650</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                    <h4 class="ban nearby"><span class="bantext">Few local results found. Here are some from nearby areas. Checking &#39;include nearby areas&#39; will expand your search.</span></h4>
+
+                             <li class="result-row" data-pid="7045082011">
+
+        <a href="https://boulder.craigslist.org/jwd/d/205ct-round-diamond-engagement-ring/7045082011.html" class="result-image gallery" data-ids="1:00M0M_kOkbbjyK7qi,1:00M0M_296FXcguqcd,1:00e0e_aCDLrifoGHd,1:00x0x_2V7xX0FrNUl">
+                <span class="result-price">$5600</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 07:37" title="Fri 27 Dec 07:37:28 AM">Dec 27</time>
+
+
+        <a href="https://boulder.craigslist.org/jwd/d/205ct-round-diamond-engagement-ring/7045082011.html" data-id="7045082011" class="result-title hdrlnk">2.05CT ROUND DIAMOND Engagement Ring - High Color Low Price</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5600</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037661900">
+
+        <a href="https://boulder.craigslist.org/jwd/d/beautiful-204ctw-diamond-stud-earrings/7037661900.html" class="result-image gallery" data-ids="1:00N0N_j6MU3GNQb0c,1:00303_dsBANzZTcER,1:00j0j_b1pTtg6BbM4">
+                <span class="result-price">$2650</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-13 08:17" title="Fri 13 Dec 08:17:38 AM">Dec 13</time>
+
+
+        <a href="https://boulder.craigslist.org/jwd/d/beautiful-204ctw-diamond-stud-earrings/7037661900.html" data-id="7037661900" class="result-title hdrlnk">Beautiful 2.04CTW Diamond Stud Earrings! Makes The Perfect Holiday Gift!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2650</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7036394320">
+
+        <a href="https://boulder.craigslist.org/jwd/d/152ct-round-diamond-engagement-ring/7036394320.html" class="result-image gallery" data-ids="1:00S0S_eprny59Yljy,1:00e0e_1XIk9mJsYzS,1:01111_eu3ColF0EMx,1:00z0z_9ZeuT19IFXk">
+                <span class="result-price">$4550</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-11 07:44" title="Wed 11 Dec 07:44:11 AM">Dec 11</time>
+
+
+        <a href="https://boulder.craigslist.org/jwd/d/152ct-round-diamond-engagement-ring/7036394320.html" data-id="7036394320" class="result-title hdrlnk">1.52CT ROUND DIAMOND Engagement Ring - High Color Low Price</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4550</span>
+
+
+                <span class="nearby" title="boulder, CO">(bou)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044502348" data-repost-of="6819746440">
+
+        <a href="https://fortcollins.craigslist.org/jwd/d/parlin-140-tcw-halo-radiant-cut/7044502348.html" class="result-image gallery" data-ids="1:01010_1epfrWfyMoS,1:00b0b_g0lUnXRBn3T,1:00D0D_hPxQGL3TfAK,1:00M0M_6JYyFidfAnW,1:01212_iqgs4PMzTSt,1:00M0M_jKuIyF1Fol3,1:00I0I_6CXzNiWcUBA,1:00N0N_3KD5FqvchDN,1:00U0U_l8gFMno7Fzk,1:00W0W_7qgFo8GjVOU,1:00X0X_85Vu6XdPsU0,1:00F0F_aZt22AQd31x">
+                <span class="result-price">$3990</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-26 07:46" title="Thu 26 Dec 07:46:56 AM">Dec 26</time>
+
+
+        <a href="https://fortcollins.craigslist.org/jwd/d/parlin-140-tcw-halo-radiant-cut/7044502348.html" data-id="7044502348" class="result-title hdrlnk">1.40 tcw Halo Radiant Cut Engagement Ring</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3990</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7036028215">
+
+        <a href="https://fortcollins.craigslist.org/jwd/d/eaton-free-cleaning-by-rjddiamonds/7036028215.html" class="result-image gallery" data-ids="1:00C0C_2pMnBDtw2nv">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-10 13:40" title="Tue 10 Dec 01:40:24 PM">Dec 10</time>
+
+
+        <a href="https://fortcollins.craigslist.org/jwd/d/eaton-free-cleaning-by-rjddiamonds/7036028215.html" data-id="7036028215" class="result-title hdrlnk">Free cleaning by rjd.diamonds</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Eaton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035071191" data-repost-of="6819746440">
+
+        <a href="https://fortcollins.craigslist.org/jwd/d/parlin-50-financing-on-all-engagement/7035071191.html" class="result-image gallery" data-ids="1:00F0F_aZt22AQd31x,1:00D0D_hPxQGL3TfAK,1:00M0M_6JYyFidfAnW,1:01212_iqgs4PMzTSt,1:00M0M_jKuIyF1Fol3,1:00X0X_et8zHIRpo5g,1:00I0I_6CXzNiWcUBA,1:00N0N_3KD5FqvchDN,1:00U0U_l8gFMno7Fzk,1:01010_1epfrWfyMoS,1:00W0W_7qgFo8GjVOU,1:00X0X_85Vu6XdPsU0">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-09 07:44" title="Mon 09 Dec 07:44:31 AM">Dec  9</time>
+
+
+        <a href="https://fortcollins.craigslist.org/jwd/d/parlin-50-financing-on-all-engagement/7035071191.html" data-id="7035071191" class="result-title hdrlnk">50% Financing on all Engagement Rings</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045168680" data-repost-of="6989654669">
+
+        <a href="https://cosprings.craigslist.org/jwd/d/colorado-springs-silver-bullion/7045168680.html" class="result-image gallery" data-ids="1:00N0N_3surqFzotzq">
+                <span class="result-price">$2</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 09:43" title="Fri 27 Dec 09:43:49 AM">Dec 27</time>
+
+
+        <a href="https://cosprings.craigslist.org/jwd/d/colorado-springs-silver-bullion/7045168680.html" data-id="7045168680" class="result-title hdrlnk">Silver bullion</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2</span>
+
+
+                <span class="nearby" title="colorado springs">(cos)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045085233">
+
+        <a href="https://cosprings.craigslist.org/jwd/d/205ct-round-diamond-engagement-ring/7045085233.html" class="result-image gallery" data-ids="1:00M0M_kOkbbjyK7qi,1:00M0M_296FXcguqcd,1:00e0e_aCDLrifoGHd,1:00x0x_2V7xX0FrNUl">
+                <span class="result-price">$5600</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 07:43" title="Fri 27 Dec 07:43:05 AM">Dec 27</time>
+
+
+        <a href="https://cosprings.craigslist.org/jwd/d/205ct-round-diamond-engagement-ring/7045085233.html" data-id="7045085233" class="result-title hdrlnk">2.05CT ROUND DIAMOND Engagement Ring - High Color Low Price</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5600</span>
+
+
+                <span class="nearby" title="colorado springs">(cos)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041296287">
+
+        <a href="https://cosprings.craigslist.org/jwd/d/145ctw-round-diamond-set-in-french-pave/7041296287.html" class="result-image gallery" data-ids="1:00D0D_jmr4OtoZjYc,1:00x0x_2sI1IZMpCF9,1:00H0H_b1wzhTBj0QV">
+                <span class="result-price">$2950</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 09:28" title="Thu 19 Dec 09:28:21 AM">Dec 19</time>
+
+
+        <a href="https://cosprings.craigslist.org/jwd/d/145ctw-round-diamond-set-in-french-pave/7041296287.html" data-id="7041296287" class="result-title hdrlnk">1.45CTW Round Diamond Set In a French Pave Diamond Setting!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2950</span>
+
+
+                <span class="nearby" title="colorado springs">(cos)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037711454">
+
+        <a href="https://cosprings.craigslist.org/jwd/d/colorado-springs-125ct-round-diamond/7037711454.html" class="result-image gallery" data-ids="1:00A0A_6AyRNTIpBbR,1:01313_jilG6mUzVa7,1:00v0v_6HXP8dVPVTx,1:00x0x_2V7xX0FrNUl">
+                <span class="result-price">$2700</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-13 09:24" title="Fri 13 Dec 09:24:43 AM">Dec 13</time>
+
+
+        <a href="https://cosprings.craigslist.org/jwd/d/colorado-springs-125ct-round-diamond/7037711454.html" data-id="7037711454" class="result-title hdrlnk">1.25CT Round Diamond Engagement Ring - High Color Low Price</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2700</span>
+
+
+                <span class="nearby" title="colorado springs">(cos)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035122660">
+
+        <a href="https://cosprings.craigslist.org/jwd/d/205ct-round-diamond-engagement-ring/7035122660.html" class="result-image gallery" data-ids="1:00M0M_kOkbbjyK7qi,1:00M0M_296FXcguqcd,1:00e0e_aCDLrifoGHd,1:00x0x_2V7xX0FrNUl">
+                <span class="result-price">$5600</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-09 08:56" title="Mon 09 Dec 08:56:20 AM">Dec  9</time>
+
+
+        <a href="https://cosprings.craigslist.org/jwd/d/205ct-round-diamond-engagement-ring/7035122660.html" data-id="7035122660" class="result-title hdrlnk">2.05CT ROUND DIAMOND Engagement Ring - High Color Low Price</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5600</span>
+
+
+                <span class="nearby" title="colorado springs">(cos)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050760187">
+
+        <a href="https://pueblo.craigslist.org/jwd/d/205ct-round-diamond-engagement-ring/7050760187.html" class="result-image gallery" data-ids="1:00M0M_kOkbbjyK7qi,1:00M0M_296FXcguqcd,1:00e0e_aCDLrifoGHd,1:00x0x_2V7xX0FrNUl">
+                <span class="result-price">$5600</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 07:59" title="Mon 06 Jan 07:59:45 AM">Jan  6</time>
+
+
+        <a href="https://pueblo.craigslist.org/jwd/d/205ct-round-diamond-engagement-ring/7050760187.html" data-id="7050760187" class="result-title hdrlnk">2.05CT ROUND DIAMOND Engagement Ring - High Color Low Price</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5600</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047469659">
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-collection-of-old-pawn-sterling/7047469659.html" class="result-image gallery" data-ids="1:00R0R_1NFnnG64cLI,1:00r0r_44Zdk7PGxPx,1:00C0C_gqN74RXNQU3,1:01717_cjCwLR0L6qa,1:00u0u_kbxiQ2q7TIs,1:01515_fStytqQMf7G,1:00303_jilPTEJ7uUq,1:00a0a_5pYS6mqpdgO,1:00k0k_jwozV4KvcV4,1:01414_kkzc4wpRwK2,1:00404_1CUCrLxS1T0,1:00505_dHyu0ymyu8q,1:00t0t_6XXvW9buUoV,1:00e0e_k1dW8p4OvX5,1:00Q0Q_iEt1Est7j5A,1:00V0V_bVdaUdYUV9u,1:00i0i_66evvz68Z4z">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 11:15" title="Tue 31 Dec 11:15:15 AM">Dec 31</time>
+
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-collection-of-old-pawn-sterling/7047469659.html" data-id="7047469659" class="result-title hdrlnk">Collection of Old Pawn Sterling Jewelry at Auction</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub &gt; Pueblo)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047436071">
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-sterling-southwest-inspired/7047436071.html" class="result-image gallery" data-ids="1:00U0U_hfS3PocfUav,1:00E0E_32UvHNB7RM2,1:00u0u_1EGYbJPvme7,1:00T0T_2l8ttuzxxLl,1:00606_dOrYmy1SGZ6,1:01414_iPzqGaiJUhs,1:00g0g_2Bs9M31DTJg,1:00202_6sQp930mhpA,1:00v0v_k33iTeuFt1a,1:00K0K_1frVl0mE4WK,1:00I0I_bnDZZphCCPh,1:00V0V_3kiN92FgD2O">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 10:26" title="Tue 31 Dec 10:26:54 AM">Dec 31</time>
+
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-sterling-southwest-inspired/7047436071.html" data-id="7047436071" class="result-title hdrlnk">Sterling Southwest Inspired Jewelry at Auction</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub &gt; Pueblo)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047433244">
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-10-and-14-kt-gold-jewelry-at/7047433244.html" class="result-image gallery" data-ids="1:00a0a_kv1diINGMBr,1:01111_cESTZWcfxhQ,1:00c0c_iyK0sJ1oY4S,1:00404_a8cNn4pxNY1,1:00Z0Z_9VSDk1ULxlg,1:00N0N_Kv82U0s6eE,1:00404_9OJfuuGUm8l,1:00M0M_7fwwylV5iFa,1:00v0v_dkYXJIn5BAQ,1:00404_jKHj9O5DvM7,1:00606_gNCld5jpz3I,1:00606_9jW7SlAYYY5">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 10:22" title="Tue 31 Dec 10:22:51 AM">Dec 31</time>
+
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-10-and-14-kt-gold-jewelry-at/7047433244.html" data-id="7047433244" class="result-title hdrlnk">10 and 14 kt Gold Jewelry at Auction</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub &gt; Pueblo)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047431999">
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-hundreds-of-name-brand-fine/7047431999.html" class="result-image gallery" data-ids="1:00606_2WVagxtXDyU,1:01616_7aChCJKomMU,1:01010_lUtRCurkjaz,1:00Y0Y_cKW28gY8P3g,1:00T0T_ewgq2HmgI9G,1:00v0v_7P1y1BCdixm,1:00c0c_448v58A76td,1:00r0r_cypdv9mWYwI,1:01717_2ic3HO6QfwC,1:00O0O_ba3R5Rp0Kcg,1:00U0U_joOF6ab2clv,1:00S0S_lAPd6nGmtpZ,1:00i0i_3y48qeBzByC,1:00w0w_hgnVwy7Ixeq,1:00D0D_74cnCexF6tB">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 10:21" title="Tue 31 Dec 10:21:06 AM">Dec 31</time>
+
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-hundreds-of-name-brand-fine/7047431999.html" data-id="7047431999" class="result-title hdrlnk">Hundreds of Name Brand Fine Fashion Jewelry at Auction</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub &gt; Pueblo)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047057120">
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-600-lots-of-fine-southwest-and/7047057120.html" class="result-image gallery" data-ids="1:00U0U_asfDp0ushd4,1:00Q0Q_hdz2K9Aqbri,1:00r0r_fc8kefDYYTG,1:00Q0Q_3dWJqrowGYp,1:00l0l_2rPAKnz10Gb,1:00B0B_aCRwBoK09DE,1:01010_lUtRCurkjaz,1:00O0O_jmMlBuWgSzw,1:00G0G_9EHO2xJwov0,1:00k0k_l5PiW9Vuxf9,1:00i0i_hwt76GACox1,1:00H0H_cHtLgikqPeW,1:00Q0Q_3olXjKY2Zhs,1:00i0i_6tzIhRToOUS,1:00g0g_2Bs9M31DTJg,1:01111_jGyvLQLkv4f,1:00l0l_bbcU26ASN2X,1:00B0B_5FOQz5CEIAY,1:00q0q_ikyp08YCoJl,1:00D0D_i5IR6Y2ozic,1:00O0O_cm3hp2QBjVd,1:00E0E_fCvDhQCVkQt,1:00O0O_feyMtAxLwJh,1:00o0o_9wFmcklPaGx">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 14:56" title="Mon 30 Dec 02:56:02 PM">Dec 30</time>
+
+
+        <a href="https://pueblo.craigslist.org/jwd/d/pueblo-600-lots-of-fine-southwest-and/7047057120.html" data-id="7047057120" class="result-title hdrlnk">600 Lots of Fine, Southwest and Fashion Jewelry at Auction</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub &gt; Pueblo)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039382629">
+
+        <a href="https://pueblo.craigslist.org/jwd/d/beautiful-204ctw-diamond-stud-earrings/7039382629.html" class="result-image gallery" data-ids="1:00N0N_j6MU3GNQb0c,1:01414_bdIdg3wG8l8,1:00404_1lGQ0dW3asQ,1:00303_dsBANzZTcER,1:00j0j_b1pTtg6BbM4,1:00L0L_bSfRlLjEq82,1:00707_4F02Af61g2A">
+                <span class="result-price">$2350</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-16 08:08" title="Mon 16 Dec 08:08:29 AM">Dec 16</time>
+
+
+        <a href="https://pueblo.craigslist.org/jwd/d/beautiful-204ctw-diamond-stud-earrings/7039382629.html" data-id="7039382629" class="result-title hdrlnk">Beautiful 2.04CTW Diamond Stud Earrings! Makes The Perfect Holiday Gift!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2350</span>
+
+
+                <span class="nearby" title="pueblo, CO">(pub)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045072950" data-repost-of="6822858140">
+
+        <a href="https://rockies.craigslist.org/jwd/d/parlin-140-tcw-halo-radiant-cut/7045072950.html" class="result-image gallery" data-ids="1:00E0E_btXVv5ecDze,1:00b0b_7nS86BczraQ,1:00D0D_hPxQGL3TfAK,1:00X0X_et8zHIRpo5g,1:00303_aMNSFkEQveI,1:01010_1epfrWfyMoS,1:00b0b_iemD5D1RdR,1:01717_8JxMG55F8pK,1:00u0u_iVP60v7BtvP,1:00K0K_5nm4TbZDYc8,1:01414_eiM6jUcjTxc,1:00g0g_hFPCt7KhHLQ">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 07:20" title="Fri 27 Dec 07:20:55 AM">Dec 27</time>
+
+
+        <a href="https://rockies.craigslist.org/jwd/d/parlin-140-tcw-halo-radiant-cut/7045072950.html" data-id="7045072950" class="result-title hdrlnk">1.40 tcw Halo Radiant Cut Engagement Ring</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="nearby" title="high rockies">(rck)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040862888">
+
+        <a href="https://rockies.craigslist.org/jwd/d/beautiful-106ctw-diamond-tennis/7040862888.html" class="result-image gallery" data-ids="1:00I0I_euQzU33UPj1,1:00B0B_dPyU3N2t7qs,1:01111_1nCee6205nE,1:00H0H_b1wzhTBj0QV">
+                <span class="result-price">$1450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-18 12:57" title="Wed 18 Dec 12:57:12 PM">Dec 18</time>
+
+
+        <a href="https://rockies.craigslist.org/jwd/d/beautiful-106ctw-diamond-tennis/7040862888.html" data-id="7040862888" class="result-title hdrlnk">Beautiful 1.06ctw Diamond Tennis Bracelet! Makes the Perfect Gift!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1450</span>
+
+
+                <span class="nearby" title="high rockies">(rck)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048928505">
+
+        <a href="https://eastco.craigslist.org/jwd/d/301ct-round-diamond-engagement-ring/7048928505.html" class="result-image gallery" data-ids="1:00K0K_kRfeZ9JHUI3,1:00E0E_3RrxngjKkkn,1:00B0B_82FnhEHuWaQ,1:00x0x_2V7xX0FrNUl">
+                <span class="result-price">$8650</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-03 07:42" title="Fri 03 Jan 07:42:08 AM">Jan  3</time>
+
+
+        <a href="https://eastco.craigslist.org/jwd/d/301ct-round-diamond-engagement-ring/7048928505.html" data-id="7048928505" class="result-title hdrlnk">3.01CT ROUND DIAMOND Engagement Ring - High Color Low Price</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$8650</span>
+
+
+                <span class="nearby" title="eastern CO">(eco)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041298741">
+
+        <a href="https://eastco.craigslist.org/jwd/d/145ctw-round-diamond-set-in-french-pave/7041298741.html" class="result-image gallery" data-ids="1:00D0D_jmr4OtoZjYc,1:00x0x_2sI1IZMpCF9,1:00H0H_b1wzhTBj0QV">
+                <span class="result-price">$2950</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 09:31" title="Thu 19 Dec 09:31:36 AM">Dec 19</time>
+
+
+        <a href="https://eastco.craigslist.org/jwd/d/145ctw-round-diamond-set-in-french-pave/7041298741.html" data-id="7041298741" class="result-title hdrlnk">1.45CTW Round Diamond Set In a French Pave Diamond Setting!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2950</span>
+
+
+                <span class="nearby" title="eastern CO">(eco)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                </ul>
+            </div>
+
+            <div class="search-legend bottom">
+                <div class="search-view">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="search-sort">
+                    <span class="buttongroup"><a class="backtotop button" href="#page-top">^ back to top</a></span>
+                </div>
+                <div class="paginator buttongroup firstpage lastpage">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <a href="/search/jwd?sort=date" class="button first" title="first page">&lt;&lt;</a>
+        <span class="button first" title="first page">&lt;&lt;</span>
+        <a href="/search/jwd?sort=date" class="button prev" title="previous page">&lt; prev</a>
+        <span class="button prev" title="previous page">&lt; prev</span>
+
+        <span class="button pagenum">
+            <span class="range">
+                <span class="rangeFrom">1</span>
+                -
+                <span class="rangeTo">15</span>
+            </span>
+            /
+            <span class="totalcount">15</span>
+        </span>
+
+        <a href="" class="button next" title="next page">next &gt; </a>
+        <span class="button next" title="next page"> next &gt; </span>
+    </span>
+</div>
+
+            </div>
+
+            <section class="blurbs">
+                
+            </section>
+
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+        </form>
+
+<aside class="tsb">
+    <ul>
+        <li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+
+<div class="slidemessage">
+    <span class="fave">
+        <span class="star"></span>
+        favorited
+    </span>
+    <span class="unfave">
+        <span class="star"></span>
+        no longer favorited
+    </span>
+    <span class="hide">
+        <span class="trash"></span>
+        hidden
+    </span>
+    <span class="unhide">
+        <span class="trash"></span>
+        no longer hidden
+    </span>
+</div>
+
+<footer>
+        <span class="rss">
+            <a class="l" href="https://denver.craigslist.org/search/jwd?format=rss&amp;sort=date">RSS</a>
+            <a href="https://www.craigslist.org/about/rss">(?)</a><br>
+        </span>
+    <ul class="clfooter">
+        <li>&copy;  <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="https://www.craigslist.org/about/help/">help</a></li>
+        <li><a href="https://www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="https://www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use.en-us">terms</a><sup class="neu">new</sup></li>
+        <li><a href="https://www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+    </ul>
+</footer>
+    </section>
+
+    <template id="gallerycarousel">
+        <div class="slider-info"></div><div class="slider-back arrow">&lt;</div><div class="slider-forward arrow">&gt;</div>
+    </template>
+
+    
+                <script>
+                try {
+                    if (
+                        !/\/\/.+\.craigslist\.org\/about\//.test(window.location.href)
+                        &&
+                        (!window.addEventListener || JSON.parse(JSON.stringify('x')) !== 'x')
+                    ) {
+                        throw "unsupported browser";
+                    }
+                } catch (e) {
+                    function cleanup() {
+                        document.body.innerHTML = '<div id="cl-unsupported-browser" style="margin:1em;font-size:150%;text-align:center;">We have detected you are using a browser that is missing critical features.<br><br>Please visit craigslist from a modern browser.</div>';
+                        document.body.style = "display:block";
+                    }
+
+                    try {
+                        document.body.style = "display:none";
+                    } catch (e) {
+                    }
+                    window.onload = cleanup;
+                    window.clUnsupportedBrowser = true;
+                }
+                </script>
+            <script src="//www.craigslist.org/js/general-concat.min.js?v=e9ae037676b2885c7a77adfdf33f8501" type="text/javascript" ></script>
+
+<script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish">
+                    <span class="icon icon-trash" role="button"></span>
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+                <span class="unbanish">
+                    <span class="icon icon-trash red" role="button"></span>
+                    unhide
+                </span>
+            </span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="icon icon-star" data-pid="{PostingID}" role="button">
+                <span class="screen-reader-text">favorite this post</span>
+            </span>
+            <span class="postingtitle">
+                <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                    <span class="banish">
+                        <span class="icon icon-trash" role="button"></span>
+                        <span class="screen-reader-text">hide this posting</span>
+                    </span>
+                    <span class="unbanish">
+                        <span class="icon icon-trash red" role="button"></span>
+                        <span class="screen-reader-text">unhide</span>
+                        unhide
+                    </span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer gallery">
+            <span class="slider-back arrow">&lt;</span><span class="slider-info"></span><span class="slider-forward arrow">&gt;</span>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <div class="timecontainer"></div>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=34556d4d2e18087b28df012cc48ea196" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/search-concat.min.js?v=30665e23846bcb69ae24b2b76bc99ad1" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/postings-concat.min.js?v=5da8d5d0efb2e814fc9b7cf2a309d6d1" type="text/javascript" ></script>
+
+</body>
+</html>

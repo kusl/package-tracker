@@ -3787,7 +3787,7 @@ cars &amp; trucks - by owner
 </li>
          <li class="result-row" data-pid="7042178939">
 
-        <a href="https://denver.craigslist.org/cto/d/breckenridge-2014-toyota-tundra-crewmax/7042178939.html" class="result-image gallery" data-ids="1:00M0M_3a3CyiYbfAU,1:00707_7LnCd1jVvMe,1:00v0v_g1b24jItWHs,1:00Y0Y_kXw2aSdcQ1T,1:00q0q_hxL3qjD8Q8R">
+        <a href="https://denver.craigslist.org/cto/d/breckenridge-2014-toyota-tundra-crewmax/7042178939.html" class="result-image gallery" data-ids="1:00M0M_3a3CyiYbfAU,1:00707_7LnCd1jVvMe,1:00v0v_g1b24jItWHs,1:00q0q_hxL3qjD8Q8R">
                 <span class="result-price">$25000</span>
         </a>
 
@@ -4244,6 +4244,46 @@ cars &amp; trucks - by owner
                 <span class="result-price">$25000</span>
 
 
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051118184" data-repost-of="7042178939">
+
+        <a href="https://denver.craigslist.org/cto/d/breckenridge-2014-toyota-tundra-crewmax/7051118184.html" class="result-image gallery" data-ids="1:00M0M_3a3CyiYbfAU,1:00707_7LnCd1jVvMe,1:00v0v_g1b24jItWHs,1:00q0q_hxL3qjD8Q8R">
+                <span class="result-price">$25000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:16" title="Mon 06 Jan 03:16:22 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/cto/d/breckenridge-2014-toyota-tundra-crewmax/7051118184.html" data-id="7051118184" class="result-title hdrlnk">2014 Toyota Tundra CrewMax SR5</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25000</span>
+
+
+                <span class="result-hood"> (Breckenridge)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -6117,46 +6157,6 @@ cars &amp; trucks - by owner
 
 
                 <span class="result-hood"> (thornton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7041483076">
-
-        <a href="https://denver.craigslist.org/cto/d/englewood-2005-ford-650-medium-duty/7041483076.html" class="result-image gallery" data-ids="1:00909_jc7hmlDSoHK,1:00s0s_icN66xTFzkm,1:00x0x_e73EMWbdyw0,1:00g0g_1njs1Gdi2ta,1:00O0O_95Hk4BP94yy,1:00f0f_iyGHUuo84TM,1:00G0G_8XmGQH1clx5,1:00i0i_afG627dMJ2o,1:01616_lvSgMxwpNAb,1:00S0S_cCsVp1UhvdZ,1:00V0V_chgrxt9n6I7,1:00000_3q58Xztp7N1,1:00505_jy1hBHBg5Rg,1:00M0M_bnuFISpQe3Y,1:00w0w_fNCX4ntYK17,1:00C0C_9xa6dk76YO2,1:01616_eDQU65d0A1m,1:01717_jfZFR8rY5jf,1:00404_8TGde9zRtkf,1:00K0K_4krnAvP7Iuk">
-                <span class="result-price">$23995</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-19 13:39" title="Thu 19 Dec 01:39:01 PM">Dec 19</time>
-
-
-        <a href="https://denver.craigslist.org/cto/d/englewood-2005-ford-650-medium-duty/7041483076.html" data-id="7041483076" class="result-title hdrlnk">2005 Ford F-650 Medium Duty Wrecker Tow Truck</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$23995</span>
-
-
-                <span class="result-hood"> (Englewood)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

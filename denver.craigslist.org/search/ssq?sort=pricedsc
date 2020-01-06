@@ -285,7 +285,7 @@ for sale by dealer
                value="146" class="catcheck multi_checkbox"
                data-abb="ctd" id="cat_ctd"
                checked="checked">
-        <a href="/search/ctd?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">26135</span>
+        <a href="/search/ctd?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">26155</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -299,14 +299,14 @@ for sale by dealer
                value="142" class="catcheck multi_checkbox"
                data-abb="fud" id="cat_fud"
                checked="checked">
-        <a href="/search/fud?sort=pricedsc" class="category">furniture</a> <span class="count">1640</span>
+        <a href="/search/fud?sort=pricedsc" class="category">furniture</a> <span class="count">1641</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="162" class="catcheck multi_checkbox"
                data-abb="ppd" id="cat_ppd"
                checked="checked">
-        <a href="/search/ppd?sort=pricedsc" class="category">appliances</a> <span class="count">1417</span>
+        <a href="/search/ppd?sort=pricedsc" class="category">appliances</a> <span class="count">1416</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -321,7 +321,7 @@ for sale by dealer
             <span class="linklike closed"><span class="plusminus">+</span>show 37 more</span>
             <span class="linklike open"><span class="plusminus">&ndash;</span>hide 37 more</span>
 
-            <span class="count">4366</span>
+            <span class="count">4369</span>
     </li>
 </ul>
 
@@ -331,7 +331,7 @@ for sale by dealer
                value="194" class="catcheck multi_checkbox"
                data-abb="hvd" id="cat_hvd"
                checked="checked">
-        <a href="/search/hvd?sort=pricedsc" class="category">heavy equipment</a> <span class="count">573</span>
+        <a href="/search/hvd?sort=pricedsc" class="category">heavy equipment</a> <span class="count">572</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -366,7 +366,7 @@ for sale by dealer
                value="192" class="catcheck multi_checkbox"
                data-abb="snd" id="cat_snd"
                checked="checked">
-        <a href="/search/snd?sort=pricedsc" class="category">atvs, utvs, snowmobiles</a> <span class="count">330</span>
+        <a href="/search/snd?sort=pricedsc" class="category">atvs, utvs, snowmobiles</a> <span class="count">332</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -443,7 +443,7 @@ for sale by dealer
                value="181" class="catcheck multi_checkbox"
                data-abb="hsd" id="cat_hsd"
                checked="checked">
-        <a href="/search/hsd?sort=pricedsc" class="category">household items</a> <span class="count">53</span>
+        <a href="/search/hsd?sort=pricedsc" class="category">household items</a> <span class="count">54</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -475,17 +475,17 @@ for sale by dealer
     </li>
     <li>
            <input type="checkbox" name="cat_id"
+               value="188" class="catcheck multi_checkbox"
+               data-abb="tad" id="cat_tad"
+               checked="checked">
+        <a href="/search/tad?sort=pricedsc" class="category">toys &amp; games</a> <span class="count">20</span>
+    </li>
+    <li>
+           <input type="checkbox" name="cat_id"
                value="169" class="catcheck multi_checkbox"
                data-abb="atd" id="cat_atd"
                checked="checked">
         <a href="/search/atd?sort=pricedsc" class="category">antiques</a> <span class="count">19</span>
-    </li>
-    <li>
-           <input type="checkbox" name="cat_id"
-               value="188" class="catcheck multi_checkbox"
-               data-abb="tad" id="cat_tad"
-               checked="checked">
-        <a href="/search/tad?sort=pricedsc" class="category">toys &amp; games</a> <span class="count">19</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
