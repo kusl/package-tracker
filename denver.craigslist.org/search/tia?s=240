@@ -836,7 +836,7 @@ tickets
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2554</span>
+            <span class="totalcount">2555</span>
         </span>
 
         <a href="/search/tia?s=360" class="button next" title="next page">next &gt; </a>
@@ -872,7 +872,44 @@ tickets
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7048632603">
+                             <li class="result-row" data-pid="7048626237">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-colorado-avalanche-vs-st-louis/7048626237.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 15:25" title="Thu 02 Jan 03:25:32 PM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-colorado-avalanche-vs-st-louis/7048626237.html" data-id="7048626237" class="result-title hdrlnk">Colorado Avalanche Vs St Louis Blues Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="result-hood"> (Pepsi Center)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048632603">
 
         <a href="https://denver.craigslist.org/tix/d/littleton-iso-palace-ticket-at-larimer/7048632603.html" class="result-image gallery empty"></a>
 
@@ -5389,47 +5426,6 @@ tickets
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047274850">
-
-        <a href="https://denver.craigslist.org/tid/d/denver-4-four-avalanche-tickets-6-six/7047274850.html" class="result-image gallery" data-ids="1:01717_eKys7W0gbLq,1:00x0x_mQFCQdHMEN">
-                <span class="result-price">$20</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-31 02:25" title="Tue 31 Dec 02:25:23 AM">Dec 31</time>
-
-
-        <a href="https://denver.craigslist.org/tid/d/denver-4-four-avalanche-tickets-6-six/7047274850.html" data-id="7047274850" class="result-title hdrlnk">4 Four Avalanche Tickets 6 Six Avalanche Tickets - Huge Selection</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$20</span>
-
-
-                <span class="result-hood"> (Colorado Avalanche Tickets - Norton Shopping Guarantee)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                    <span class="pictag">img</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5462,7 +5458,7 @@ tickets
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2554</span>
+            <span class="totalcount">2555</span>
         </span>
 
         <a href="/search/tia?s=360" class="button next" title="next page">next &gt; </a>

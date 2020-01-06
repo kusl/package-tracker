@@ -3351,43 +3351,6 @@ auto parts - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="6885813614">
-
-        <a href="https://denver.craigslist.org/pts/d/omaha-2009-dodge-67-cummins-engine/6885813614.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-06-07 17:56" title="Fri 07 Jun 05:56:29 PM">Jun  7</time>
-
-
-        <a href="https://denver.craigslist.org/pts/d/omaha-2009-dodge-67-cummins-engine/6885813614.html" data-id="6885813614" class="result-title hdrlnk">2009 dodge 6.7 cummins engine complete</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$5000</span>
-
-
-                <span class="result-hood"> (omaha)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7024962931">
 
         <a href="https://denver.craigslist.org/pts/d/denver-1993-ford-ranger/7024962931.html" class="result-image gallery" data-ids="1:00l0l_eqSK7YbRyO4">
@@ -5612,6 +5575,46 @@ auto parts - by owner
 
 
                 <span class="result-hood"> (Golden, CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037391217">
+
+        <a href="https://denver.craigslist.org/pts/d/aurora-mazda-cx-7/7037391217.html" class="result-image gallery" data-ids="1:00A0A_bS6ku1CfgP2,1:00H0H_2LMtN7ZIR51,1:00808_4t4o4FHkDwI,1:00000_9gNi8p5Fnew,1:00B0B_cMa3ZudYJg5,1:00h0h_5fUEqALM3Iq,1:00A0A_6kT7U2Ccgbz,1:00A0A_kxMMZ5oRtbU,1:00I0I_jhn4ij87EAY">
+                <span class="result-price">$4000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 16:15" title="Thu 12 Dec 04:15:04 PM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/pts/d/aurora-mazda-cx-7/7037391217.html" data-id="7037391217" class="result-title hdrlnk">Mazda CX-7</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4000</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

@@ -836,7 +836,7 @@ tickets - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2099</span>
+            <span class="totalcount">2100</span>
         </span>
 
         <a href="/search/tix?s=240" class="button next" title="next page">next &gt; </a>
@@ -872,7 +872,47 @@ tickets - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7050211228">
+                             <li class="result-row" data-pid="7038683153" data-repost-of="7037389169">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-hard-copy-tickets-for-the-black/7038683153.html" class="result-image gallery" data-ids="1:00w0w_4In3VTOZskC">
+                <span class="result-price">$125</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 08:38" title="Sun 05 Jan 08:38:52 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-hard-copy-tickets-for-the-black/7038683153.html" data-id="7038683153" class="result-title hdrlnk">HARD COPY TICKETS FOR THE BLACK CROWES - SOLD OUT SHOW!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$125</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050211228">
 
         <a href="https://denver.craigslist.org/tix/d/englewood-2-tix-for-sam-bush/7050211228.html" class="result-image gallery" data-ids="1:00202_g59jC1sSsIx">
                 <span class="result-price">$77</span>
@@ -5414,46 +5454,6 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047805969">
-
-        <a href="https://denver.craigslist.org/tix/d/castle-rock-jojo-siwa-concert/7047805969.html" class="result-image gallery" data-ids="1:01313_S47nfNVqUg">
-                <span class="result-price">$200</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-01 08:51" title="Wed 01 Jan 08:51:18 AM">Jan  1</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/castle-rock-jojo-siwa-concert/7047805969.html" data-id="7047805969" class="result-title hdrlnk">JoJo Siwa Concert</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$200</span>
-
-
-                <span class="result-hood"> (Parker)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5486,7 +5486,7 @@ tickets - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2099</span>
+            <span class="totalcount">2100</span>
         </span>
 
         <a href="/search/tix?s=240" class="button next" title="next page">next &gt; </a>

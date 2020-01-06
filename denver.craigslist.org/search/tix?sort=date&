@@ -837,7 +837,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2099</span>
+            <span class="totalcount">2102</span>
         </span>
 
         <a href="/search/tix?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -880,7 +880,44 @@ tickets - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7045155481" data-repost-of="4994539316">
+                             <li class="result-row" data-pid="7051152561">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-motion-city-soundtrack/7051152561.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:09" title="Mon 06 Jan 04:09:53 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-motion-city-soundtrack/7051152561.html" data-id="7051152561" class="result-title hdrlnk">Motion City Soundtrack</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$65</span>
+
+
+                <span class="result-hood"> (Summit)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045155481" data-repost-of="4994539316">
 
         <a href="https://denver.craigslist.org/tix/d/2-avalanche-vs-dallas-stars-1-14/7045155481.html" class="result-image gallery" data-ids="1:00303_18JdnuXJ5H5">
                 <span class="result-price">$1</span>
@@ -5419,46 +5456,6 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7038683153" data-repost-of="7037389169">
-
-        <a href="https://denver.craigslist.org/tix/d/aurora-hard-copy-tickets-for-the-black/7038683153.html" class="result-image gallery" data-ids="1:00w0w_4In3VTOZskC">
-                <span class="result-price">$125</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 08:38" title="Sun 05 Jan 08:38:52 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/aurora-hard-copy-tickets-for-the-black/7038683153.html" data-id="7038683153" class="result-title hdrlnk">HARD COPY TICKETS FOR THE BLACK CROWES - SOLD OUT SHOW!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$125</span>
-
-
-                <span class="result-hood"> (Aurora)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5491,7 +5488,7 @@ tickets - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2099</span>
+            <span class="totalcount">2102</span>
         </span>
 
         <a href="/search/tix?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>

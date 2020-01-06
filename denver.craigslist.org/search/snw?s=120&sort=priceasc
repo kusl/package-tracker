@@ -863,7 +863,7 @@ atvs, utvs, snowmobiles - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">908</span>
+            <span class="totalcount">906</span>
         </span>
 
         <a href="/search/snw?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -899,44 +899,7 @@ atvs, utvs, snowmobiles - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7046907396">
-
-        <a href="https://denver.craigslist.org/snw/d/littleton-2019-summit-stock-can/7046907396.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-30 11:37" title="Mon 30 Dec 11:37:02 AM">Dec 30</time>
-
-
-        <a href="https://denver.craigslist.org/snw/d/littleton-2019-summit-stock-can/7046907396.html" data-id="7046907396" class="result-title hdrlnk">2019 Summit 850 - stock can</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$80</span>
-
-
-                <span class="result-hood"> (lakewood or littleton)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7048102834">
+                             <li class="result-row" data-pid="7048102834">
 
         <a href="https://denver.craigslist.org/snw/d/parker-timbersled-essentials-tunnel-bag/7048102834.html" class="result-image gallery" data-ids="1:00808_cLstu76SGV2,1:00f0f_7KoccxBrcR2,1:00U0U_6qaNa0jfMOC">
                 <span class="result-price">$80</span>
@@ -5634,6 +5597,46 @@ atvs, utvs, snowmobiles - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7014090347">
+
+        <a href="https://denver.craigslist.org/snw/d/denver-textron-arctic-cat-hard-top-roof/7014090347.html" class="result-image gallery" data-ids="1:00F0F_2Mg087QcVZN,1:00N0N_8066C5xMQtX,1:00909_2uJxoyrmWDg">
+                <span class="result-price">$400</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-29 09:35" title="Fri 29 Nov 09:35:13 AM">Nov 29</time>
+
+
+        <a href="https://denver.craigslist.org/snw/d/denver-textron-arctic-cat-hard-top-roof/7014090347.html" data-id="7014090347" class="result-title hdrlnk">Textron/Arctic Cat Hard Top Roof - 2012-2018 Wildcat</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$400</span>
+
+
+                <span class="result-hood"> (South Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5666,7 +5669,7 @@ atvs, utvs, snowmobiles - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">908</span>
+            <span class="totalcount">906</span>
         </span>
 
         <a href="/search/snw?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

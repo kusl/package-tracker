@@ -838,7 +838,7 @@ tickets
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2138</span>
+            <span class="totalcount">2140</span>
         </span>
 
         <a href="/search/tia?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -5392,6 +5392,43 @@ tickets
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7051153722">
+
+        <a href="https://denver.craigslist.org/tix/d/brighton-lyle-lovett/7051153722.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:11" title="Mon 06 Jan 04:11:49 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/brighton-lyle-lovett/7051153722.html" data-id="7051153722" class="result-title hdrlnk">Lyle lovett</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$250</span>
+
+
+                <span class="result-hood"> (Boulder)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7028948923">
 
         <a href="https://denver.craigslist.org/tix/d/platteville-broncos-vs-chargers/7028948923.html" class="result-image gallery" data-ids="1:00k0k_7RyNxBRPXun,1:00E0E_eyXFvdkLsFj">
@@ -5411,45 +5448,6 @@ tickets
 
         <span class="result-meta">
                 <span class="result-price">$244</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7031245907">
-
-        <a href="https://denver.craigslist.org/tix/d/denver-lakers-vs-nuggets-tickets/7031245907.html" class="result-image gallery" data-ids="1:00v0v_lHa1YQbUXbI">
-                <span class="result-price">$240</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-03 05:05" title="Tue 03 Dec 05:05:03 AM">Dec  3</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/denver-lakers-vs-nuggets-tickets/7031245907.html" data-id="7031245907" class="result-title hdrlnk">Lakers Vs Nuggets Tickets</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$240</span>
 
 
 
@@ -5502,7 +5500,7 @@ tickets
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2138</span>
+            <span class="totalcount">2140</span>
         </span>
 
         <a href="/search/tia?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
