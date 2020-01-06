@@ -852,7 +852,7 @@ wanted
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1221</span>
+            <span class="totalcount">1222</span>
         </span>
 
         <a href="/search/waa?s=120" class="button next" title="next page">next &gt; </a>
@@ -888,7 +888,124 @@ wanted
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7047686743">
+                             <li class="result-row" data-pid="7035165213" data-repost-of="6867111796">
+
+        <a href="https://denver.craigslist.org/wan/d/broomfield-wanted-wtb-dodge-ram-3500/7035165213.html" class="result-image gallery" data-ids="1:00P0P_3J1C7HS3tjR">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:10" title="Mon 06 Jan 02:10:59 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/broomfield-wanted-wtb-dodge-ram-3500/7035165213.html" data-id="7035165213" class="result-title hdrlnk">Wanted - WTB Dodge Ram 3500 Dually Box Bed / Flares 2003-2008 Blue</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035754515" data-repost-of="6641196650">
+
+        <a href="https://denver.craigslist.org/wan/d/broomfield-wanted-commercial-industrial/7035754515.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:10" title="Mon 06 Jan 02:10:50 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/broomfield-wanted-commercial-industrial/7035754515.html" data-id="7035754515" class="result-title hdrlnk">Wanted Commercial industrial Sweeper Scrubber Tennant Advance Nilfisk</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044616400" data-repost-of="7008031496">
+
+        <a href="https://denver.craigslist.org/wan/d/broomfield-wanted-l-v6-engine-motor-gm/7044616400.html" class="result-image gallery" data-ids="1:00B0B_9vim9aVGtU7">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:09" title="Mon 06 Jan 02:09:44 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/broomfield-wanted-l-v6-engine-motor-gm/7044616400.html" data-id="7044616400" class="result-title hdrlnk">Wanted 1985-1995 4.3L V6 engine motor GM S10 S15 GMC</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047686743">
 
         <a href="https://denver.craigslist.org/wan/d/denver-good-car-needed-2000-or-newer/7047686743.html" class="result-image gallery" data-ids="1:00h0h_iyxPGA3ihaU,1:00a0a_i9UgwrRYqxl,1:00u0u_cOGCcuMcdaV">
                 <span class="result-price">$1500</span>
@@ -1104,43 +1221,6 @@ wanted
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7047701710">
-
-        <a href="https://denver.craigslist.org/wan/d/wheat-ridge-wanted-old-electronics/7047701710.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 12:25" title="Mon 06 Jan 12:25:06 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/wheat-ridge-wanted-old-electronics/7047701710.html" data-id="7047701710" class="result-title hdrlnk">Wanted: Old Electronics Working or Not (See Ad for List of Items)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (Denver metro area)</span>
-
-                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -1856,46 +1936,6 @@ wanted
                 <span class="result-hood"> (Denver)</span>
 
                 <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050824376">
-
-        <a href="https://denver.craigslist.org/wan/d/englewood-wanted-vinyl-recordscds/7050824376.html" class="result-image gallery" data-ids="1:00R0R_gjKBXcA2OBM,1:00F0F_lLjCjVJ8HNm">
-                <span class="result-price">$5</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 09:28" title="Mon 06 Jan 09:28:37 AM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/englewood-wanted-vinyl-recordscds/7050824376.html" data-id="7050824376" class="result-title hdrlnk">Wanted vinyl records,CDs, cassettes,8tracks 78rpms</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$5</span>
-
-
-                <span class="result-hood"> (Englewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -5419,46 +5459,6 @@ wanted
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7034826250" data-repost-of="7008272330">
-
-        <a href="https://denver.craigslist.org/wan/d/englewood-metal-wall-decor/7034826250.html" class="result-image gallery" data-ids="1:01414_9R39e5SLvhP,1:00Q0Q_36EcSVj5hWQ,1:00l0l_hq7bGg88l6E">
-                <span class="result-price">$15</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 19:20" title="Sat 04 Jan 07:20:52 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/englewood-metal-wall-decor/7034826250.html" data-id="7034826250" class="result-title hdrlnk">Metal wall decor</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$15</span>
-
-
-                <span class="result-hood"> (Centennial)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5491,7 +5491,7 @@ wanted
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1221</span>
+            <span class="totalcount">1222</span>
         </span>
 
         <a href="/search/waa?s=120" class="button next" title="next page">next &gt; </a>

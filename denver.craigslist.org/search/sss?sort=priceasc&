@@ -285,35 +285,35 @@ for sale
                value="145,146" class="catcheck multi_checkbox"
                data-abb="cta" id="cat_cta"
                checked="checked">
-        <a href="/search/cta?sort=priceasc" class="category">cars &amp; trucks</a> <span class="count">31169</span>
+        <a href="/search/cta?sort=priceasc" class="category">cars &amp; trucks</a> <span class="count">31174</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="141,142" class="catcheck multi_checkbox"
                data-abb="fua" id="cat_fua"
                checked="checked">
-        <a href="/search/fua?sort=priceasc" class="category">furniture</a> <span class="count">14484</span>
+        <a href="/search/fua?sort=priceasc" class="category">furniture</a> <span class="count">14495</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="5,179" class="catcheck multi_checkbox"
                data-abb="foa" id="cat_foa"
                checked="checked">
-        <a href="/search/foa?sort=priceasc" class="category">general for sale</a> <span class="count">11150</span>
+        <a href="/search/foa?sort=priceasc" class="category">general for sale</a> <span class="count">11136</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="122,163" class="catcheck multi_checkbox"
                data-abb="pta" id="cat_pta"
                checked="checked">
-        <a href="/search/pta?sort=priceasc" class="category">auto parts</a> <span class="count">9625</span>
+        <a href="/search/pta?sort=priceasc" class="category">auto parts</a> <span class="count">9652</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="93,186" class="catcheck multi_checkbox"
                data-abb="sga" id="cat_sga"
                checked="checked">
-        <a href="/search/sga?sort=priceasc" class="category">sporting goods</a> <span class="count">9253</span>
+        <a href="/search/sga?sort=priceasc" class="category">sporting goods</a> <span class="count">9225</span>
     </li>
 
         <li class="morecats js-only closed">
@@ -321,7 +321,7 @@ for sale
             <span class="linklike closed"><span class="plusminus">+</span>show 40 more</span>
             <span class="linklike open"><span class="plusminus">&ndash;</span>hide 40 more</span>
 
-            <span class="count">86222</span>
+            <span class="count">86206</span>
     </li>
 </ul>
 
@@ -331,105 +331,105 @@ for sale
                value="97,181" class="catcheck multi_checkbox"
                data-abb="hsa" id="cat_hsa"
                checked="checked">
-        <a href="/search/hsa?sort=priceasc" class="category">household items</a> <span class="count">6623</span>
+        <a href="/search/hsa?sort=priceasc" class="category">household items</a> <span class="count">6628</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="96,167" class="catcheck multi_checkbox"
                data-abb="ela" id="cat_ela"
                checked="checked">
-        <a href="/search/ela?sort=priceasc" class="category">electronics</a> <span class="count">6423</span>
+        <a href="/search/ela?sort=priceasc" class="category">electronics</a> <span class="count">6426</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="94,176" class="catcheck multi_checkbox"
                data-abb="cla" id="cat_cla"
                checked="checked">
-        <a href="/search/cla?sort=priceasc" class="category">clothing &amp; accessories</a> <span class="count">6397</span>
+        <a href="/search/cla?sort=priceasc" class="category">clothing &amp; accessories</a> <span class="count">6400</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="203,204" class="catcheck multi_checkbox"
                data-abb="wta" id="cat_wta"
                checked="checked">
-        <a href="/search/wta?sort=priceasc" class="category">auto wheels &amp; tires</a> <span class="count">5524</span>
+        <a href="/search/wta?sort=priceasc" class="category">auto wheels &amp; tires</a> <span class="count">5527</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="95,177" class="catcheck multi_checkbox"
                data-abb="cba" id="cat_cba"
                checked="checked">
-        <a href="/search/cba?sort=priceasc" class="category">collectibles</a> <span class="count">4975</span>
+        <a href="/search/cba?sort=priceasc" class="category">collectibles</a> <span class="count">4978</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="149,162" class="catcheck multi_checkbox"
                data-abb="ppa" id="cat_ppa"
                checked="checked">
-        <a href="/search/ppa?sort=priceasc" class="category">appliances</a> <span class="count">4536</span>
+        <a href="/search/ppa?sort=priceasc" class="category">appliances</a> <span class="count">4539</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="118,187" class="catcheck multi_checkbox"
                data-abb="tla" id="cat_tla"
                checked="checked">
-        <a href="/search/tla?sort=priceasc" class="category">tools</a> <span class="count">4435</span>
+        <a href="/search/tla?sort=priceasc" class="category">tools</a> <span class="count">4406</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="107,171" class="catcheck multi_checkbox"
                data-abb="baa" id="cat_baa"
                checked="checked">
-        <a href="/search/baa?sort=priceasc" class="category">baby &amp; kid stuff</a> <span class="count">3944</span>
+        <a href="/search/baa?sort=priceasc" class="category">baby &amp; kid stuff</a> <span class="count">3940</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="98,184" class="catcheck multi_checkbox"
                data-abb="msa" id="cat_msa"
                checked="checked">
-        <a href="/search/msa?sort=priceasc" class="category">musical instruments</a> <span class="count">3544</span>
+        <a href="/search/msa?sort=priceasc" class="category">musical instruments</a> <span class="count">3557</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="150,169" class="catcheck multi_checkbox"
                data-abb="ata" id="cat_ata"
                checked="checked">
-        <a href="/search/ata?sort=priceasc" class="category">antiques</a> <span class="count">3385</span>
+        <a href="/search/ata?sort=priceasc" class="category">antiques</a> <span class="count">3387</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="133,178" class="catcheck multi_checkbox"
                data-abb="gra" id="cat_gra"
                checked="checked">
-        <a href="/search/gra?sort=priceasc" class="category">farm &amp; garden</a> <span class="count">2796</span>
+        <a href="/search/gra?sort=priceasc" class="category">farm &amp; garden</a> <span class="count">2787</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="132,188" class="catcheck multi_checkbox"
                data-abb="taa" id="cat_taa"
                checked="checked">
-        <a href="/search/taa?sort=priceasc" class="category">toys &amp; games</a> <span class="count">2653</span>
+        <a href="/search/taa?sort=priceasc" class="category">toys &amp; games</a> <span class="count">2652</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="124,168" class="catcheck multi_checkbox"
                data-abb="rva" id="cat_rva"
                checked="checked">
-        <a href="/search/rva?sort=priceasc" class="category">recreational vehicles</a> <span class="count">2414</span>
+        <a href="/search/rva?sort=priceasc" class="category">recreational vehicles</a> <span class="count">2415</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="68,172" class="catcheck multi_checkbox"
                data-abb="bia" id="cat_bia"
                checked="checked">
-        <a href="/search/bia?sort=priceasc" class="category">bicycles</a> <span class="count">2319</span>
+        <a href="/search/bia?sort=priceasc" class="category">bicycles</a> <span class="count">2325</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="44,161" class="catcheck multi_checkbox"
                data-abb="tia" id="cat_tia"
                checked="checked">
-        <a href="/search/tia?sort=priceasc" class="category">tickets</a> <span class="count">2137</span>
+        <a href="/search/tia?sort=priceasc" class="category">tickets</a> <span class="count">2138</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -440,66 +440,66 @@ for sale
     </li>
     <li>
            <input type="checkbox" name="cat_id"
-               value="134,174" class="catcheck multi_checkbox"
-               data-abb="bfa" id="cat_bfa"
-               checked="checked">
-        <a href="/search/bfa?sort=priceasc" class="category">business</a> <span class="count">1718</span>
-    </li>
-    <li>
-           <input type="checkbox" name="cat_id"
                value="136,183" class="catcheck multi_checkbox"
                data-abb="maa" id="cat_maa"
                checked="checked">
-        <a href="/search/maa?sort=priceasc" class="category">materials</a> <span class="count">1715</span>
+        <a href="/search/maa?sort=priceasc" class="category">materials</a> <span class="count">1713</span>
+    </li>
+    <li>
+           <input type="checkbox" name="cat_id"
+               value="134,174" class="catcheck multi_checkbox"
+               data-abb="bfa" id="cat_bfa"
+               checked="checked">
+        <a href="/search/bfa?sort=priceasc" class="category">business</a> <span class="count">1712</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="135,170" class="catcheck multi_checkbox"
                data-abb="ara" id="cat_ara"
                checked="checked">
-        <a href="/search/ara?sort=priceasc" class="category">arts &amp; crafts</a> <span class="count">1688</span>
+        <a href="/search/ara?sort=priceasc" class="category">arts &amp; crafts</a> <span class="count">1686</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="193,194" class="catcheck multi_checkbox"
                data-abb="hva" id="cat_hva"
                checked="checked">
-        <a href="/search/hva?sort=priceasc" class="category">heavy equipment</a> <span class="count">1619</span>
+        <a href="/search/hva?sort=priceasc" class="category">heavy equipment</a> <span class="count">1620</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="205,206" class="catcheck multi_checkbox"
                data-abb="tra" id="cat_tra"
                checked="checked">
-        <a href="/search/tra?sort=priceasc" class="category">trailers</a> <span class="count">1602</span>
+        <a href="/search/tra?sort=priceasc" class="category">trailers</a> <span class="count">1603</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="120,182" class="catcheck multi_checkbox"
                data-abb="jwa" id="cat_jwa"
                checked="checked">
-        <a href="/search/jwa?sort=priceasc" class="category">jewelry</a> <span class="count">1484</span>
+        <a href="/search/jwa?sort=priceasc" class="category">jewelry</a> <span class="count">1482</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="195,196" class="catcheck multi_checkbox"
                data-abb="mpa" id="cat_mpa"
                checked="checked">
-        <a href="/search/mpa?sort=priceasc" class="category">motorcycle parts &amp; accessories</a> <span class="count">1315</span>
+        <a href="/search/mpa?sort=priceasc" class="category">motorcycle parts &amp; accessories</a> <span class="count">1307</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="153,165" class="catcheck multi_checkbox"
                data-abb="moa" id="cat_moa"
                checked="checked">
-        <a href="/search/moa?sort=priceasc" class="category">cell phones</a> <span class="count">1295</span>
+        <a href="/search/moa?sort=priceasc" class="category">cell phones</a> <span class="count">1296</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="191,192" class="catcheck multi_checkbox"
                data-abb="sna" id="cat_sna"
                checked="checked">
-        <a href="/search/sna?sort=priceasc" class="category">atvs, utvs, snowmobiles</a> <span class="count">1226</span>
+        <a href="/search/sna?sort=priceasc" class="category">atvs, utvs, snowmobiles</a> <span class="count">1231</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -513,63 +513,63 @@ for sale
                value="197,198" class="catcheck multi_checkbox"
                data-abb="bip" id="cat_bip"
                checked="checked">
-        <a href="/search/bip?sort=priceasc" class="category">bicycle parts</a> <span class="count">1127</span>
+        <a href="/search/bip?sort=priceasc" class="category">bicycle parts</a> <span class="count">1128</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="137,185" class="catcheck multi_checkbox"
                data-abb="pha" id="cat_pha"
                checked="checked">
-        <a href="/search/pha?sort=priceasc" class="category">photo/video</a> <span class="count">1058</span>
+        <a href="/search/pha?sort=priceasc" class="category">photo/video</a> <span class="count">1054</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="69,160" class="catcheck multi_checkbox"
                data-abb="mca" id="cat_mca"
                checked="checked">
-        <a href="/search/mca?sort=priceasc" class="category">motorcycles/scooters</a> <span class="count">1050</span>
+        <a href="/search/mca?sort=priceasc" class="category">motorcycles/scooters</a> <span class="count">1051</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="92,173" class="catcheck multi_checkbox"
                data-abb="bka" id="cat_bka"
                checked="checked">
-        <a href="/search/bka?sort=priceasc" class="category">books &amp; magazines</a> <span class="count">936</span>
+        <a href="/search/bka?sort=priceasc" class="category">books &amp; magazines</a> <span class="count">927</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="199,200" class="catcheck multi_checkbox"
                data-abb="syp" id="cat_syp"
                checked="checked">
-        <a href="/search/syp?sort=priceasc" class="category">computer parts</a> <span class="count">917</span>
+        <a href="/search/syp?sort=priceasc" class="category">computer parts</a> <span class="count">919</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="151,189" class="catcheck multi_checkbox"
                data-abb="vga" id="cat_vga"
                checked="checked">
-        <a href="/search/vga?sort=priceasc" class="category">video gaming</a> <span class="count">795</span>
+        <a href="/search/vga?sort=priceasc" class="category">video gaming</a> <span class="count">793</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="20,190" class="catcheck multi_checkbox"
                data-abb="waa" id="cat_waa"
                checked="checked">
-        <a href="/search/waa?sort=priceasc" class="category">wanted</a> <span class="count">564</span>
+        <a href="/search/waa?sort=priceasc" class="category">wanted</a> <span class="count">566</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="117,175" class="catcheck multi_checkbox"
                data-abb="ema" id="cat_ema"
                checked="checked">
-        <a href="/search/ema?sort=priceasc" class="category">cds / dvds / vhs</a> <span class="count">499</span>
+        <a href="/search/ema?sort=priceasc" class="category">cds / dvds / vhs</a> <span class="count">505</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="119,164" class="catcheck multi_checkbox"
                data-abb="boo" id="cat_boo"
                checked="checked">
-        <a href="/search/boo?sort=priceasc" class="category">boats</a> <span class="count">334</span>
+        <a href="/search/boo?sort=priceasc" class="category">boats</a> <span class="count">333</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -1731,7 +1731,833 @@ for sale
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="6928058046">
+                             <li class="result-row" data-pid="6884419391">
+
+        <a href="https://denver.craigslist.org/clt/d/aurora-dale-earnhardt-senior/6884419391.html" class="result-image gallery" data-ids="1:00j0j_5PB1UObWqbk,1:00K0K_87mGNc7Wz4e,1:01111_6PS5Q3mhs6q">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 11:15" title="Fri 07 Jun 11:15:56 AM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/clt/d/aurora-dale-earnhardt-senior/6884419391.html" data-id="6884419391" class="result-title hdrlnk">Dale Earnhardt Senior</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6884631520">
+
+        <a href="https://denver.craigslist.org/clo/d/englewood-snow-gear/6884631520.html" class="result-image gallery" data-ids="1:00A0A_2chuVz7lkW7,1:00909_ljg2ZST5ffk,1:00000_yn2saD5SfP,1:00D0D_2bpSNc9aElK,1:00h0h_kzL1IZOcKM7,1:00R0R_4wSmJpUwQSU,1:00E0E_3ugzOkuV8xv,1:00202_kG8RV2gGAD0">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 15:50" title="Fri 07 Jun 03:50:40 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/clo/d/englewood-snow-gear/6884631520.html" data-id="6884631520" class="result-title hdrlnk">Snow Gear!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885287847">
+
+        <a href="https://denver.craigslist.org/clo/d/englewood-well-worn-shoes/6885287847.html" class="result-image gallery" data-ids="1:00P0P_9929E0SYb00,1:00g0g_hFmS6DOoDyp">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 15:47" title="Fri 07 Jun 03:47:46 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/clo/d/englewood-well-worn-shoes/6885287847.html" data-id="6885287847" class="result-title hdrlnk">Well Worn Shoes</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Englewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885394809">
+
+        <a href="https://denver.craigslist.org/fuo/d/denver-mattress-queen-sale-bunk-beds/6885394809.html" class="result-image gallery" data-ids="1:00r0r_aRz4lo8Lfga,1:00z0z_bUofPe8pjOH,1:00202_ann3pKepMi2,1:00000_cQqzj2xVDnP,1:01111_jzTndvrt5kp,1:01313_i9KD9fSSy0h,1:00m0m_5eY16aVRRs1,1:00u0u_fBOlF2EErHE,1:00S0S_j6CmD1Ud7kf,1:00303_2XzMkH6tiPK,1:00T0T_26RO9u5RZiC,1:00d0d_2rzZTyYYCKk,1:00V0V_639SlopW12d,1:00808_hrGe11UxYBg,1:00101_gqaC1wULlHO">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 21:19" title="Fri 07 Jun 09:19:21 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/fuo/d/denver-mattress-queen-sale-bunk-beds/6885394809.html" data-id="6885394809" class="result-title hdrlnk">MATTRESS QUEEN SALE / BUNK BEDS QUEEN KING/ CAMAS DE VENTA</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (2475 w Alameda Ave Denver Colorado)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885402822">
+
+        <a href="https://denver.craigslist.org/fuo/d/denver-king-queen-sale-mattress-sale/6885402822.html" class="result-image gallery" data-ids="1:00r0r_aRz4lo8Lfga,1:00p0p_aibwnrdX5Sr,1:00o0o_7HSJV3TmJut,1:00W0W_h43lugcLlKN,1:00M0M_5TMagaoyP7q,1:00S0S_j6CmD1Ud7kf,1:00303_2XzMkH6tiPK,1:00T0T_26RO9u5RZiC,1:00j0j_iKKoqoXwil1,1:00S0S_jI5gTT5RF0x,1:00W0W_aP6pqItZH0b,1:00Q0Q_hPAY0CaPRcB,1:00f0f_h67NZSak2rp,1:00808_iyHTIqzsPOZ">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 21:19" title="Fri 07 Jun 09:19:10 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/fuo/d/denver-king-queen-sale-mattress-sale/6885402822.html" data-id="6885402822" class="result-title hdrlnk">KING QUEEN SALE  MATTRESS SALE/ CAMAS DE VENTA / DELIVERY AVAILABLE</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (2475 W Alameda Ave Denver Colorado)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885412063">
+
+        <a href="https://denver.craigslist.org/fuo/d/denver-king-mattress-queen-sale-sale/6885412063.html" class="result-image gallery" data-ids="1:00b0b_ceZhXSjNpZ7,1:00n0n_1RssK9kciE2,1:00Y0Y_j5MPxQJLV6K,1:00202_ann3pKepMi2,1:00B0B_8zjhfPjpWSI,1:01313_i9KD9fSSy0h,1:00S0S_j6CmD1Ud7kf,1:00n0n_57iCJyOFSoI,1:00303_2XzMkH6tiPK,1:00T0T_26RO9u5RZiC,1:00X0X_6LhAh0ISYsf,1:00j0j_8XVYwvDEB94,1:00F0F_56s3hZ3P5Iy,1:00d0d_2rzZTyYYCKk,1:00808_hrGe11UxYBg">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 21:18" title="Fri 07 Jun 09:18:58 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/fuo/d/denver-king-mattress-queen-sale-sale/6885412063.html" data-id="6885412063" class="result-title hdrlnk">KING MATTRESS  QUEEN SALE SALE/ CAMAS DE VENTA</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (2475 w Alameda Ave Denver Colorado)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885468469" data-repost-of="4774983157">
+
+        <a href="https://denver.craigslist.org/for/d/landscape-rock-mulch-install-skid-steer/6885468469.html" class="result-image gallery" data-ids="1:00t0t_6xncvgd0d2Q,1:01010_gJz73Ouy3xo,1:01414_jFBNLGQktqC,1:00O0O_800AzvhKrUp,1:00404_kVbAWQCNaTC">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 22:30" title="Fri 07 Jun 10:30:37 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/for/d/landscape-rock-mulch-install-skid-steer/6885468469.html" data-id="6885468469" class="result-title hdrlnk">Landscape Rock / Mulch INSTALL w Skid steer loader service Cheap!!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Denver,Aurora,GrVlyRanch,Lit,Parker,High)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885604112" data-repost-of="5994640039">
+
+        <a href="https://denver.craigslist.org/for/d/new-genuine-hp-printer-ink/6885604112.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 05:18" title="Fri 07 Jun 05:18:32 AM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/for/d/new-genuine-hp-printer-ink/6885604112.html" data-id="6885604112" class="result-title hdrlnk">**⚠ New Genuine HP Printer Ink  ⚠**</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Northeast of Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885684616">
+
+        <a href="https://denver.craigslist.org/pts/d/denver-2005-subaru-impreza-wrx-20-core/6885684616.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 10:03" title="Fri 07 Jun 10:03:44 AM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/pts/d/denver-2005-subaru-impreza-wrx-20-core/6885684616.html" data-id="6885684616" class="result-title hdrlnk">2005 Subaru Impreza wrx 2.0 core engine</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (DENVER)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885707158">
+
+        <a href="https://denver.craigslist.org/mat/d/littleton-doors/6885707158.html" class="result-image gallery" data-ids="1:01313_j5s8zOd3f6x,1:00o0o_lXiQK8I4ZWZ,1:00j0j_9DfLI0pzSdu,1:00404_gzrWQz5vEWe,1:00L0L_lkNAZaTDgxJ,1:00M0M_8rJtVg2y62s,1:00L0L_7kAG0ZgJ3Hp,1:00101_8PfNLhvWCL0,1:01010_23URT7b1LTq,1:00f0f_50d5vsAFq2S,1:00S0S_7Yz7Cjttcxx,1:01515_lTvQv6fcp27,1:00808_lyuPcIJZKFs,1:00707_3BuhfdBwmE1,1:00000_LmwMShQLQ9">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 05:49" title="Fri 07 Jun 05:49:06 AM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/mat/d/littleton-doors/6885707158.html" data-id="6885707158" class="result-title hdrlnk">DOORS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Colorado)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885821698" data-repost-of="6854995639">
+
+        <a href="https://denver.craigslist.org/for/d/missoula-mountain-goat-pope-young/6885821698.html" class="result-image gallery" data-ids="1:00R0R_ftcAARm85KO,1:00303_dlVYvQzSFKR,1:00s0s_erePdaMZToI">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 20:17" title="Fri 07 Jun 08:17:20 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/for/d/missoula-mountain-goat-pope-young/6885821698.html" data-id="6885821698" class="result-title hdrlnk">Mountain Goat - Pope &amp; Young trophy class mount</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Missoula)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6886064532">
+
+        <a href="https://denver.craigslist.org/wan/d/elizabeth-looking-for-1970-air-grabber/6886064532.html" class="result-image gallery" data-ids="1:00b0b_kc35WSyGHI1,1:00b0b_kc35WSyGHI1">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 06:51" title="Fri 07 Jun 06:51:45 AM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/elizabeth-looking-for-1970-air-grabber/6886064532.html" data-id="6886064532" class="result-title hdrlnk">Looking For 1970 Air Grabber Hood</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Elizabeth)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6886088872" data-repost-of="6826502885">
+
+        <a href="https://denver.craigslist.org/emd/d/denver-albums-frank-sinatra-60-off/6886088872.html" class="result-image gallery" data-ids="1:00J0J_j1NnAXJ4WCo">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 12:57" title="Fri 07 Jun 12:57:42 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/emd/d/denver-albums-frank-sinatra-60-off/6886088872.html" data-id="6886088872" class="result-title hdrlnk">ALBUMS-FRANK SINATRA-60% OFF-BOBBY G&#39;S RECORD RACK</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (LAKEWOOD)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6886115577" data-repost-of="6735722526">
+
+        <a href="https://denver.craigslist.org/emd/d/denver-album-box-sets-rock-and-roll-era/6886115577.html" class="result-image gallery" data-ids="1:01414_6joTUQK8PLU,1:00p0p_eCtdcwLFMI5,1:00a0a_700REe44I9v,1:00Y0Y_hWXRrAlvKcu,1:00e0e_XbBbmOqdy9,1:00s0s_34pvbSnM0Be,1:00404_74SQ7K097hg,1:00P0P_ghH9NeSypDW,1:00n0n_gylvfibyOvY,1:00u0u_1C6dkwTbtVB,1:00x0x_6tgaBU2a4DZ,1:00f0f_m0bQMXskTf,1:00505_jJARG7OhcV8,1:00H0H_35UsSfBFxa1,1:01414_cAm0mfQVe6I,1:00G0G_frByDzdFq8K">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 12:57" title="Fri 07 Jun 12:57:20 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/emd/d/denver-album-box-sets-rock-and-roll-era/6886115577.html" data-id="6886115577" class="result-title hdrlnk">ALBUM BOX SETS ROCK AND ROLL ERA-BOBBY G&#39;S RECORD RACK</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (LAKEWOOD)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6886364110" data-repost-of="6769918958">
+
+        <a href="https://denver.craigslist.org/hsh/d/denver-assorted-glassware-sets/6886364110.html" class="result-image gallery" data-ids="1:00K0K_czTdj2sXCqz,1:00N0N_l7xB0vC1un8,1:01414_lQsB4LzpWMF,1:00l0l_iQ6JyCHEilw,1:00r0r_3RlpzQY7OJU,1:00G0G_1o7CfMh4wJB,1:00c0c_9TCh8zpZiXF,1:00Q0Q_clezQfUqFys,1:00505_jq4nBJVFwJt,1:00303_3vUb3RAdsp9,1:00g0g_605Z94I3wcU">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 21:03" title="Fri 07 Jun 09:03:43 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/hsh/d/denver-assorted-glassware-sets/6886364110.html" data-id="6886364110" class="result-title hdrlnk">ASSORTED GLASSWARE SETS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6886364208" data-repost-of="6769915066">
+
+        <a href="https://denver.craigslist.org/for/d/denver-assorted-dish-sets/6886364208.html" class="result-image gallery" data-ids="1:00u0u_jLZGzUtz6r5,1:00404_4X1sc0NvymT,1:00o0o_lrI1dw2Viqm">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 21:03" title="Fri 07 Jun 09:03:49 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/for/d/denver-assorted-dish-sets/6886364208.html" data-id="6886364208" class="result-title hdrlnk">ASSORTED DISH SETS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6886364309" data-repost-of="6769915428">
+
+        <a href="https://denver.craigslist.org/hsh/d/denver-assorted-dish-sets/6886364309.html" class="result-image gallery" data-ids="1:00u0u_jLZGzUtz6r5,1:00404_4X1sc0NvymT,1:00o0o_lrI1dw2Viqm">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 21:03" title="Fri 07 Jun 09:03:53 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/hsh/d/denver-assorted-dish-sets/6886364309.html" data-id="6886364309" class="result-title hdrlnk">ASSORTED DISH SETS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6886707450" data-repost-of="6586077359">
+
+        <a href="https://denver.craigslist.org/emd/d/eastlake-rock-and-roll-lps/6886707450.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 14:04" title="Fri 07 Jun 02:04:27 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/emd/d/eastlake-rock-and-roll-lps/6886707450.html" data-id="6886707450" class="result-title hdrlnk">ROCK AND ROLL  LP&#39;S</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (NORTHGLENN)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6891872914" data-repost-of="6811454515">
+
+        <a href="https://denver.craigslist.org/for/d/denver-wedding-and-event-transportation/6891872914.html" class="result-image gallery" data-ids="1:00W0W_3TO1VQrb8sc,1:00e0e_akGq7nPpAWE,1:00303_efRWD4xor0T,1:00j0j_jGqo9eLyKTW,1:00r0r_lEyz3YKbX8O,1:00m0m_lOkwJD7d6U6,1:00u0u_bz87WwFexaY,1:00909_4UKLICKZNGc,1:00w0w_dzfrHZzODCz,1:00X0X_e0qTqI9fD6p,1:00i0i_ds5kxB7lHh8,1:00h0h_lXsMuKv913G,1:00T0T_eLlXBpJGRZC,1:00F0F_9lM8zpCzqSS,1:00k0k_fRTdK1923HA,1:00404_jzzECHA1IX6,1:00o0o_Id4U1hk65z,1:00202_590bBdaZ3fz,1:01212_eckLlBx1uOg,1:00202_lT0xSzZvqcI,1:00c0c_i5gfdStrw1j,1:00x0x_1kqGH4UvPT3,1:01111_esCurpjKpj2,1:00505_3u56nVnXYvx">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 16:48" title="Fri 07 Jun 04:48:47 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/for/d/denver-wedding-and-event-transportation/6891872914.html" data-id="6891872914" class="result-title hdrlnk">Wedding and Event Transportation Deals</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Colorado)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6892562780">
+
+        <a href="https://denver.craigslist.org/snw/d/denver-rzr-xp-1000-parts/6892562780.html" class="result-image gallery" data-ids="1:00707_kTfR9W60hPD,1:00606_9tHVMrVNvla,1:00K0K_bqDSyfO1yks,1:00Z0Z_kftDVvDRwJ9,1:00x0x_iqeYBW9cjzn,1:00g0g_65pWEBN48hx,1:01010_dHIfM8lFbFF,1:00808_3M7vIGicA2i,1:00202_3TaAGpa3AO1,1:00B0B_dxPZu7DU9GL">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-13 08:45" title="Thu 13 Jun 08:45:49 AM">Jun 13</time>
+
+
+        <a href="https://denver.craigslist.org/snw/d/denver-rzr-xp-1000-parts/6892562780.html" data-id="6892562780" class="result-title hdrlnk">RZR xp 1000 parts</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Lakewood CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6893511160" data-repost-of="6809343943">
+
+        <a href="https://denver.craigslist.org/for/d/golden-vintage-items-of-ill-repute/6893511160.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 09:57" title="Fri 07 Jun 09:57:24 AM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/for/d/golden-vintage-items-of-ill-repute/6893511160.html" data-id="6893511160" class="result-title hdrlnk">Vintage Items of ill Repute Found in Attic</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Golden)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6928058046">
 
         <a href="https://denver.craigslist.org/ppd/d/denver-stove-gas-range-all-colors-over/6928058046.html" class="result-image gallery" data-ids="1:00J0J_2QYjdFBfWUp,1:00404_exkgh3CNkuf,1:00101_5rsNBLCuduC,1:00303_1Q72bR6uWkg,1:01515_4gc743v2P2B,1:00p0p_bAc1FulLK5M,1:00909_1HnJVud1gEK,1:00404_1RF9x8hTy7x,1:00B0B_j0oB613OkkK,1:00i0i_ejAicvxLip5,1:00m0m_1hryfS3BSxe,1:00U0U_fWVflRK8DZ2,1:00404_7JfO4CDmHpA,1:00a0a_3OTDKeQ0Vnt,1:00e0e_9s2quzU7miA,1:00H0H_gYJJlvznxUL,1:00m0m_dY53D7YSK3O,1:00303_6QrWQ4Q37BF,1:01010_gQpTPhTyNrU,1:00o0o_aJHJqzja4Zg,1:00I0I_eAITztQz1vS,1:00e0e_hUCpWniN8gJ,1:00H0H_escCwRxUOqr,1:00Z0Z_56fme0dYrmc">
                 <span class="result-price">$1</span>
@@ -1836,6 +2662,43 @@ for sale
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6951525523">
+
+        <a href="https://denver.craigslist.org/app/d/westminster-parts-for-appliances-32/6951525523.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-09-03 10:30" title="Tue 03 Sep 10:30:53 AM">Sep  3</time>
+
+
+        <a href="https://denver.craigslist.org/app/d/westminster-parts-for-appliances-32/6951525523.html" data-id="6951525523" class="result-title hdrlnk">parts for appliances #32</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (westminster)</span>
+
+                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -5594,872 +6457,6 @@ for sale
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7012981548">
-
-        <a href="https://denver.craigslist.org/tix/d/el-mirage-rodeo/7012981548.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-02 06:54" title="Mon 02 Dec 06:54:24 AM">Dec  2</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/el-mirage-rodeo/7012981548.html" data-id="7012981548" class="result-title hdrlnk">Rodeo</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7012981730">
-
-        <a href="https://denver.craigslist.org/clt/d/denver-original-scarface-painting-from/7012981730.html" class="result-image gallery" data-ids="1:00a0a_jYmv7xlCiOW">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-30 10:48" title="Sat 30 Nov 10:48:06 AM">Nov 30</time>
-
-
-        <a href="https://denver.craigslist.org/clt/d/denver-original-scarface-painting-from/7012981730.html" data-id="7012981730" class="result-title hdrlnk">Original scarface painting from 1932 movie</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7012981932">
-
-        <a href="https://denver.craigslist.org/clt/d/denver-original-al-capone-painting/7012981932.html" class="result-image gallery" data-ids="1:00808_bC6hp4s9Lco">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-30 10:48" title="Sat 30 Nov 10:48:22 AM">Nov 30</time>
-
-
-        <a href="https://denver.craigslist.org/clt/d/denver-original-al-capone-painting/7012981932.html" data-id="7012981932" class="result-title hdrlnk">Original Al Capone painting</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7013150944">
-
-        <a href="https://denver.craigslist.org/clt/d/westminster-ww2-japanese-conflict/7013150944.html" class="result-image gallery" data-ids="1:00e0e_I3yVZv19n">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-03 12:43" title="Tue 03 Dec 12:43:54 PM">Dec  3</time>
-
-
-        <a href="https://denver.craigslist.org/clt/d/westminster-ww2-japanese-conflict/7013150944.html" data-id="7013150944" class="result-title hdrlnk">Ww2 Japanese conflict photographs</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Westminster)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7013151439">
-
-        <a href="https://denver.craigslist.org/atq/d/westminster-ww2-japanese-conflict/7013151439.html" class="result-image gallery" data-ids="1:00e0e_I3yVZv19n">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-03 12:44" title="Tue 03 Dec 12:44:02 PM">Dec  3</time>
-
-
-        <a href="https://denver.craigslist.org/atq/d/westminster-ww2-japanese-conflict/7013151439.html" data-id="7013151439" class="result-title hdrlnk">Ww2. Japanese conflict photographs</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Westminster)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7013345954">
-
-        <a href="https://denver.craigslist.org/mat/d/arvada-door-vanity-and-toilet/7013345954.html" class="result-image gallery" data-ids="1:00L0L_4Jx4skAFdPv,1:00f0f_huucViZOd5A,1:01717_eKa6ChbVXj,1:00L0L_5zfJEkJ7epG,1:00w0w_cJ5NhDUICuT,1:00B0B_aFA7u6KIAcu">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-25 05:57" title="Mon 25 Nov 05:57:09 AM">Nov 25</time>
-
-
-        <a href="https://denver.craigslist.org/mat/d/arvada-door-vanity-and-toilet/7013345954.html" data-id="7013345954" class="result-title hdrlnk">Door vanity and toilet</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Arvada)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7013397134">
-
-        <a href="https://denver.craigslist.org/pts/d/brighton-03-toyota-sequoia-hood/7013397134.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-03 19:31" title="Tue 03 Dec 07:31:29 PM">Dec  3</time>
-
-
-        <a href="https://denver.craigslist.org/pts/d/brighton-03-toyota-sequoia-hood/7013397134.html" data-id="7013397134" class="result-title hdrlnk">03 Toyota Sequoia hood</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Brighton)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7013473364">
-
-        <a href="https://denver.craigslist.org/atq/d/denver-antique-barn-roof-lightning-rod/7013473364.html" class="result-image gallery" data-ids="1:00j0j_91xbdCDn5wf,1:00H0H_ig4MKQZrTR3,1:00q0q_3FCpYHV0lvC,1:00707_2zoK4xQEN7Q,1:00q0q_7FiuUcgFnBx,1:00808_keGIOmR59TQ,1:00p0p_eTAC6lIjpey">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-03 05:20" title="Tue 03 Dec 05:20:00 AM">Dec  3</time>
-
-
-        <a href="https://denver.craigslist.org/atq/d/denver-antique-barn-roof-lightning-rod/7013473364.html" data-id="7013473364" class="result-title hdrlnk">Antique Barn Roof Lightning Rod fancy scroll</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7013500808" data-repost-of="6993352037">
-
-        <a href="https://denver.craigslist.org/msg/d/broomfield-martin-custom-mmv/7013500808.html" class="result-image gallery" data-ids="1:00S0S_hxdhB2G7bGP,1:00404_croRRuIXF7M,1:00m0m_iYJ2TkAEA4s,1:00F0F_8nbB1DqvkdH,1:00t0t_9rHPJml6GWY,1:00303_fOOJiX8rQGo,1:00y0y_c96rhC20rC8,1:00W0W_f2enQgukUTJ">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-01 22:34" title="Sun 01 Dec 10:34:43 PM">Dec  1</time>
-
-
-        <a href="https://denver.craigslist.org/msg/d/broomfield-martin-custom-mmv/7013500808.html" data-id="7013500808" class="result-title hdrlnk">Martin Custom MMV Dreadnaught Acoustic Guitar</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Westminster)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7013716273">
-
-        <a href="https://denver.craigslist.org/tro/d/colorado-springs-scam/7013716273.html" class="result-image gallery" data-ids="1:01616_fgwdZ4aKTKP,1:00v0v_g2pGE69y8al,1:01010_208Hs3GoqSV,1:00E0E_aPA7o8VvMue">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-04 07:32" title="Wed 04 Dec 07:32:53 AM">Dec  4</time>
-
-
-        <a href="https://denver.craigslist.org/tro/d/colorado-springs-scam/7013716273.html" data-id="7013716273" class="result-title hdrlnk">SCAM</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Co.)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7013867053" data-repost-of="4853722978">
-
-        <a href="https://denver.craigslist.org/bab/d/minnie-mickey-mouse-donald-daisy-goofy/7013867053.html" class="result-image gallery" data-ids="1:00A0A_aQ3aGc2lzRz,1:00S0S_kY8cLboBA5H,1:00H0H_kovmOHCOt6k,1:00G0G_4ZDhuuEcecZ,1:00F0F_f1TwRl0putd,1:00O0O_kkuNA840ZdJ,1:00u0u_9p9wLsoKXnR,1:00s0s_9SD3MCplFG8,1:00z0z_bDmsxO0ppGq,1:01111_49FVWnGekY3,1:00y0y_aeIiEe2lAXq,1:00a0a_eW3FZbiiTc9,1:00303_8volFL8kDWb,1:00E0E_3XGQvKEo4Fq,1:00w0w_7i07i2SbzTR,1:00K0K_d9hsqg6DW1E,1:00x0x_AE9JIeBNVl,1:00p0p_a1EkIiWrh8D,1:00G0G_eZRCnGUULKm,1:00x0x_cndALxuemZ6">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-04 17:28" title="Wed 04 Dec 05:28:29 PM">Dec  4</time>
-
-
-        <a href="https://denver.craigslist.org/bab/d/minnie-mickey-mouse-donald-daisy-goofy/7013867053.html" data-id="7013867053" class="result-title hdrlnk">*~* Minnie, Mickey Mouse, Donald, Daisy, Goofy (More ads by User)*~*</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (S.E.Aurora)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014089337">
-
-        <a href="https://denver.craigslist.org/clo/d/denver-brand-new-womens-long-sleeve/7014089337.html" class="result-image gallery" data-ids="1:01515_1GLjXIMWpps,1:00000_9xhSh30Bi5I,1:00g0g_1rYN1jTG2Sz,1:00Y0Y_7pJ9GSyM0o9,1:00E0E_iydT1ywWFXx,1:00h0h_4cD0N8vwozl,1:00J0J_3NfRbbKetC0,1:00a0a_jiWpzdjc0jw,1:00z0z_cPBBg7MZsYz,1:00j0j_bxj3eB7QytE,1:00V0V_kwJ6P1Xr7uz,1:00q0q_k5YHsFcLPwP,1:00j0j_aN4jx4ypfuY,1:00C0C_lCwkDeOK8Ko,1:00E0E_9xd4pt4A5qf,1:00W0W_lA7Iic4Txzw,1:00j0j_cDTnfvgOiP9,1:00e0e_ljLvSqDqonu,1:00E0E_eDKlegmc6lq,1:00w0w_lIHJkTXmQEp,1:01010_eH1HIdC8fNA,1:00n0n_k1VFet3SKiz,1:00G0G_eDnLVhXXKO9,1:00H0H_lm5Aq9JoKl5">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-03 10:31" title="Tue 03 Dec 10:31:33 AM">Dec  3</time>
-
-
-        <a href="https://denver.craigslist.org/clo/d/denver-brand-new-womens-long-sleeve/7014089337.html" data-id="7014089337" class="result-title hdrlnk">BRAND-NEW --- Women’s Long-Sleeve Shirts only $1.00 &amp; $2.00 each!!!!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Lakewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014105422">
-
-        <a href="https://denver.craigslist.org/hvo/d/denver-ies-20l-closed-loop-co2-extractor/7014105422.html" class="result-image gallery" data-ids="1:00H0H_6H5b7YFFiz6,1:00q0q_3NaPDgt4Kvv">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-25 09:22" title="Mon 25 Nov 09:22:39 AM">Nov 25</time>
-
-
-        <a href="https://denver.craigslist.org/hvo/d/denver-ies-20l-closed-loop-co2-extractor/7014105422.html" data-id="7014105422" class="result-title hdrlnk">IES 20L Closed Loop CO2 Extractor</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014136339">
-
-        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-vs-lakers-up-to-5/7014136339.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-03 08:11" title="Tue 03 Dec 08:11:48 AM">Dec  3</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-vs-lakers-up-to-5/7014136339.html" data-id="7014136339" class="result-title hdrlnk">Nuggets vs Lakers up to 5 tickets Front row Aisle seats</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Pepsi Center)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014141193" data-repost-of="6894076709">
-
-        <a href="https://denver.craigslist.org/tls/d/denver-engine-stand-industrial/7014141193.html" class="result-image gallery" data-ids="1:00j0j_fGBDZX3rK5k,1:00909_f1x5JfSxdlZ,1:00K0K_6N4bhHqQlqj,1:00909_f1x5JfSxdlZ,1:00b0b_gBFypI9rLLX">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-25 11:11" title="Mon 25 Nov 11:11:10 AM">Nov 25</time>
-
-
-        <a href="https://denver.craigslist.org/tls/d/denver-engine-stand-industrial/7014141193.html" data-id="7014141193" class="result-title hdrlnk">Engine Stand INDUSTRIAL</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014158944" data-repost-of="4437416175">
-
-        <a href="https://denver.craigslist.org/clt/d/rock-metal-concert-tour-shirts/7014158944.html" class="result-image gallery" data-ids="1:00000_8Hw7Rbliwmi,1:00D0D_kOXRC0nY5IL,1:00y0y_8cCDA24RkJt,1:00A0A_kbsGRcYRa2B,1:00202_bIdjNu4m8H4,1:00I0I_boYfwa2IBo1,1:00202_aJhvAFdz1Az,1:00u0u_jTvHUQPB19F,1:01010_d5TUgt7eZLJ,1:00N0N_7BHnSkHmTQz,1:00C0C_fp3RVOCGd07,1:00303_dw1zwNvhM92,1:00606_7DNv6ezx6fQ,1:00N0N_dqUj8ilvJa3,1:00b0b_keTLZufkGSj,1:00a0a_bGwvIphvaYz,1:00J0J_U40qbAsBy8,1:00p0p_lmvwJKgM9dr,1:00h0h_n2cOn6DEy3,1:00a0a_faadrpQTiai,1:00D0D_hfh9urpllUu,1:01717_jaolY87UkuI,1:00F0F_1bh6dWdV6Br,1:00H0H_dq82KdPjbEa">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-27 01:20" title="Wed 27 Nov 01:20:15 AM">Nov 27</time>
-
-
-        <a href="https://denver.craigslist.org/clt/d/rock-metal-concert-tour-shirts/7014158944.html" data-id="7014158944" class="result-title hdrlnk">ROCK N METAL CONCERT TOUR SHIRTS!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (denver area)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014262345">
-
-        <a href="https://denver.craigslist.org/pts/d/denver-4-wheel-part-holiday-specials/7014262345.html" class="result-image gallery" data-ids="1:00G0G_98QQhRSK8g4,1:00N0N_1eNzHgPLxRp,1:00a0a_guLEA4nrTF4,1:00p0p_iDQ13gNVuSi">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-25 11:47" title="Mon 25 Nov 11:47:30 AM">Nov 25</time>
-
-
-        <a href="https://denver.craigslist.org/pts/d/denver-4-wheel-part-holiday-specials/7014262345.html" data-id="7014262345" class="result-title hdrlnk">4 WHEEL PART holiday specials!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014352419">
-
-        <a href="https://denver.craigslist.org/pts/d/denver-2013-subaru-outback-50k-miles/7014352419.html" class="result-image gallery" data-ids="1:00G0G_fOmt7cN3DD3,1:00808_ixJoWII35Gf,1:01616_bDQ6tkgEgx,1:00k0k_1lxbfFvnkzG,1:00q0q_TQnfH2IAK4">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-05 13:54" title="Thu 05 Dec 01:54:47 PM">Dec  5</time>
-
-
-        <a href="https://denver.craigslist.org/pts/d/denver-2013-subaru-outback-50k-miles/7014352419.html" data-id="7014352419" class="result-title hdrlnk">2013 Subaru outback 50k miles</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (DENVER)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014369993">
-
-        <a href="https://denver.craigslist.org/emd/d/denver-albums-10-off-all-neil-diamond/7014369993.html" class="result-image gallery" data-ids="1:00V0V_10RRbiIjEAT">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-04 12:27" title="Wed 04 Dec 12:27:11 PM">Dec  4</time>
-
-
-        <a href="https://denver.craigslist.org/emd/d/denver-albums-10-off-all-neil-diamond/7014369993.html" data-id="7014369993" class="result-title hdrlnk">ALBUMS-10% OFF ALL NEIL DIAMOND-BOBBY G&#39;S RECORD RACK</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (LAKEWOOD)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014399052">
-
-        <a href="https://denver.craigslist.org/atq/d/greeley-dazey-chrun-heads/7014399052.html" class="result-image gallery" data-ids="1:00U0U_5NZlJ4Izp32,1:00B0B_69o5ZRQEw1r">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-05 09:27" title="Thu 05 Dec 09:27:30 AM">Dec  5</time>
-
-
-        <a href="https://denver.craigslist.org/atq/d/greeley-dazey-chrun-heads/7014399052.html" data-id="7014399052" class="result-title hdrlnk">Dazey chrun heads</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (N-W Greeley)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014407572" data-repost-of="4774983157">
-
-        <a href="https://denver.craigslist.org/for/d/landscape-rock-mulch-install-skid-steer/7014407572.html" class="result-image gallery" data-ids="1:00l0l_9OMfdRy73Fz,1:00r0r_5LpSKZMyIdd,1:01313_qZP1pw7ivn,1:00R0R_lSnhBQIOtsJ,1:00N0N_f1qGW8bqHQz,1:00909_bHWUuSjyBnp,1:00606_grbNeUphM4C,1:00C0C_MLnS8KQr9D,1:00i0i_Kf9nqSKeCa,1:00K0K_f0mrB47eHTM,1:00Y0Y_21jHuJ6LIuJ,1:00l0l_9JZ2HV4XQYH">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-02 18:43" title="Mon 02 Dec 06:43:01 PM">Dec  2</time>
-
-
-        <a href="https://denver.craigslist.org/for/d/landscape-rock-mulch-install-skid-steer/7014407572.html" data-id="7014407572" class="result-title hdrlnk">Landscape Rock / Mulch INSTALL w Skid steer loader service Cheap!!!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Denver,Aurora,GrVlyRanch,Lit,Parker,High)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7014472570">
-
-        <a href="https://denver.craigslist.org/pts/d/bailey-1990-diesel-parts/7014472570.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-04 08:40" title="Wed 04 Dec 08:40:39 AM">Dec  4</time>
-
-
-        <a href="https://denver.craigslist.org/pts/d/bailey-1990-diesel-parts/7014472570.html" data-id="7014472570" class="result-title hdrlnk">1990 diesel parts</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (grant)</span>
-
-                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
