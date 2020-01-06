@@ -863,7 +863,7 @@ bicycle parts - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1126</span>
+            <span class="totalcount">1129</span>
         </span>
 
         <a href="/search/bop?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -4953,6 +4953,46 @@ bicycle parts - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7049935078">
+
+        <a href="https://denver.craigslist.org/bop/d/denver-bell-2-bike-trunk-rack/7049935078.html" class="result-image gallery" data-ids="1:01313_5IKnWmjdBhY,1:00Y0Y_22Ii25vBGMN,1:00X0X_xwYJ25hMhA,1:00K0K_an984vY9BDD">
+                <span class="result-price">$20</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:11" title="Mon 06 Jan 04:11:42 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bop/d/denver-bell-2-bike-trunk-rack/7049935078.html" data-id="7049935078" class="result-title hdrlnk">BELL 2 BIKE TRUNK RACK</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (DENVER)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7049944934">
 
         <a href="https://denver.craigslist.org/bop/d/denver-shimano-road-brakes/7049944934.html" class="result-image gallery" data-ids="1:00J0J_cWY0HYO3jlF,1:00S0S_iFymNZqkYtt">
@@ -5630,46 +5670,6 @@ bicycle parts - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7027512058">
-
-        <a href="https://denver.craigslist.org/bop/d/broomfield-womens-bike-helmet-gently/7027512058.html" class="result-image gallery" data-ids="1:00a0a_5lb0f05emWb,1:00X0X_bZlA4pfVM7m,1:00h0h_1VBeLFUKHG0">
-                <span class="result-price">$25</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-26 10:29" title="Tue 26 Nov 10:29:48 AM">Nov 26</time>
-
-
-        <a href="https://denver.craigslist.org/bop/d/broomfield-womens-bike-helmet-gently/7027512058.html" data-id="7027512058" class="result-title hdrlnk">Women&#39;s Bike Helmet (gently used)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$25</span>
-
-
-                <span class="result-hood"> (Westminster)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5702,7 +5702,7 @@ bicycle parts - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1126</span>
+            <span class="totalcount">1129</span>
         </span>
 
         <a href="/search/bop?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
