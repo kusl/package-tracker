@@ -1,0 +1,3051 @@
+﻿<!DOCTYPE html>
+<html class="no-js"><head>
+    <title>denver cars &amp; trucks  - craigslist</title>
+
+    <meta name="description" content="denver cars &amp; trucks  - craigslist">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="canonical" href="https://denver.craigslist.org/search/cta?s=240">
+    <link rel="alternate" type="application/rss+xml" href="https://denver.craigslist.org/search/cta?format=rss&amp;hasPic=1&amp;s=240&amp;sort=pricedsc" title="RSS feed for craigslist | denver cars &amp; trucks  - craigslist">
+        <link rel="prev" href="https://denver.craigslist.org/search/cta?s=120&amp;hasPic=1&amp;sort=pricedsc">
+        <link rel="next" href="https://denver.craigslist.org/search/cta?s=360&amp;hasPic=1&amp;sort=pricedsc">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=f45c4074e9853c0ceb280398a8131359">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=bc035cbbc3978b0ec9df93944cdf349b">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=3b05ddffb7c7f5b62066deff2dda9339">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=33e3dd14c7deed955c83b6927c5e1f07">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=9bea97021e746649c6837e95dd9723e8">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=d8743547c59d5ad31d4d7294c7e2f7f2">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+
+    
+        <script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "13";
+var areaRegion = "CO";
+var catAbb = "cta";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "&#x0024;";
+var defaultView = "grid";
+var expiredFavIDs = null;
+var imageConfig = {"1":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]},"0":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450"]},"2":{"hostname":"https://images.craigslist.org","sizes":["50x50c","300x300","600x450","1200x900"]}};
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+var maxResults = 3000;
+var noImageText = "no image";
+var pID = null;
+var postalLat = null;
+var postalLon = null;
+var purveyorCategories = {"owner":"cto","dealer":"ctd","all":"cta"};
+var searchDistance = null;
+var sectionAbb = "sss";
+var sectionBase = "sss";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var showingBanished = 0;
+var showingFavorites = 0;
+var starHint = "save this post in your favorites list";
+var subarea = null;
+var zoomToPosting = null;
+--></script>
+    
+</head>
+<body class="search has-map">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <section class="page-container" id="page-top">
+        <div class="bglogo"></div>
+        <div class="tryapp">
+    try the craigslist app &raquo;
+    <a class="appstorebtn"
+    href="https://play.google.com/store/apps/details?id=org.craigslist.CraigslistMobile">
+        Android
+    </a>
+    <a class="appstorebtn"
+    href="https://apps.apple.com/us/app/craigslist/id1336642410">
+        iOS
+    </a>
+</div>
+<header class="global-header wide">
+   <a class="header-logo" name="logoLink" href="/">CL</a>
+
+    <nav class="breadcrumbs-container">
+<form id="breadcrumbform" class="breadcrumbs-form" method="get" action="/search/cta" data-action="/search/###/cta">
+    <input type="hidden" name="sort" value="pricedsc">
+<input type="hidden" name="hasPic" value="1">
+
+    <ul class="breadcrumbs ">
+        <li class="crumb area">
+            
+            <span class="no-js">
+                <a href="/">denver</a>
+            </span>
+                <select name="areaAbb" id="areaAbb" class="js-only">
+                    <option value="denver">denver</option>
+                        <option value="boulder">boulder</option>
+                        <option value="cosprings">colo springs</option>
+                        <option value="eastco">eastern CO</option>
+                        <option value="fortcollins">fort collins</option>
+                        <option value="rockies">high rockies</option>
+                        <option value="pueblo">pueblo</option>
+                        <option value="scottsbluff">scottsbluff</option>
+                        <option value="westslope">western slope</option>
+                </select>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb section">
+                    <select name="catAbb" id="catAbb">
+                        <option value="ccc">community</option>
+                        <option value="eee">events</option>
+                        <option value="sss" selected>for sale</option>
+                        <option value="ggg">gigs</option>
+                        <option value="hhh">housing</option>
+                        <option value="jjj">jobs</option>
+                        <option value="rrr">resumes</option>
+                        <option value="bbb">services</option>
+                    </select>
+                <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb category">
+            <select id="subcatAbb" class="js-only">
+                <option value="sss">all</option>
+                    <option value="ata">antiques</option>
+                    <option value="ppa">appliances</option>
+                    <option value="ara">arts+crafts</option>
+                    <option value="sna">atvs/utvs/snow</option>
+                    <option value="pta">auto parts</option>
+                    <option value="wta">auto wheels &amp; tires</option>
+                    <option value="ava">aviation</option>
+                    <option value="baa">baby+kids</option>
+                    <option value="bar">barter</option>
+                    <option value="haa">beauty+hlth</option>
+                    <option value="bip">bike parts</option>
+                    <option value="bia">bikes</option>
+                    <option value="bpa">boat parts</option>
+                    <option value="boo">boats</option>
+                    <option value="bka">books</option>
+                    <option value="bfa">business</option>
+                    <option value="cta" selected>cars+trucks</option>
+                    <option value="ema">cds/dvd/vhs</option>
+                    <option value="moa">cell phones</option>
+                    <option value="cla">clothes+acc</option>
+                    <option value="cba">collectibles</option>
+                    <option value="syp">computer parts</option>
+                    <option value="sya">computers</option>
+                    <option value="ela">electronics</option>
+                    <option value="gra">farm+garden</option>
+                    <option value="zip">free stuff</option>
+                    <option value="fua">furniture</option>
+                    <option value="gms">garage sales</option>
+                    <option value="foa">general</option>
+                    <option value="hva">heavy equipment</option>
+                    <option value="hsa">household</option>
+                    <option value="jwa">jewelry</option>
+                    <option value="maa">materials</option>
+                    <option value="mpa">motorcycle parts</option>
+                    <option value="mca">motorcycles</option>
+                    <option value="msa">music instr</option>
+                    <option value="pha">photo+video</option>
+                    <option value="rva">RVs</option>
+                    <option value="sga">sporting</option>
+                    <option value="tia">tickets</option>
+                    <option value="tla">tools</option>
+                    <option value="taa">toys+games</option>
+                    <option value="tra">trailers</option>
+                    <option value="vga">video gaming</option>
+                    <option value="waa">wanted</option>
+            </select><span class="no-js">cars+trucks</span>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb no-js">
+            <input type="submit" value="go">
+        </li>
+    </ul>
+</form>
+    </nav>
+
+<div class="userlinks">
+    <ul class="user-actions">
+        <li class="user post">
+            <a href="https://post.craigslist.org/c/den">post</a>
+        </li>
+        <li class="user account">
+            <a href="https://accounts.craigslist.org/login/home">account</a>
+        </li>
+    </ul>
+    <ul class="user-favs-discards">
+        <li class="user">
+            <div class="favorites">
+                <a href="#" class="favlink"><span class="icon icon-star fav" aria-hidden="true"></span><span class="fav-number">0</span><span class="fav-label"> favorites</span></a>
+            </div>
+        </li>
+        <li class="user discards">
+          <form class="unfavform js-only" method="POST" action="/favorites">
+            <div class="to-banish-page">
+              <input type="hidden" class="lastLink" name="lastLink" value="//denver.craigslist.org/search/cta?hasPic=1&amp;s=240&amp;sort=pricedsc">
+              <input type="hidden" class="lastTitle" name="lastTitle" value="denver cars &amp; trucks  - craigslist">
+              <input type="hidden" class="unfaves" name="fl">
+              <input type="hidden" name="uf" value="1">
+              <a href="#" class="to-banish-page-link">
+                <span class="icon icon-trash red" aria-hidden="true"></span>
+                <span class="banished_count">0</span>
+                <span class="discards-label"> hidden</span>
+              </a>
+            </div>
+          </form>
+        </li>
+    </ul>
+</div>
+
+</header>
+<header class="global-header narrow">
+   <a class="header-logo" href="/">CL</a>
+    <nav class="breadcrumbs-container">
+
+<ul class="breadcrumbs">
+
+
+denver            &gt;
+
+cars &amp; trucks
+
+</ul>
+
+
+    </nav>
+    <span class="linklike show-wide-header">...</span>
+</header>
+
+
+        <form id="searchform" class="search-form" action="/search/cta">
+            <div class="querybox">
+                
+                <div class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></div>
+                <input type="text" placeholder="search cars &amp; trucks" name="query"
+                    id="query" value="" autocorrect="off" class="flatinput ui-autocomplete-input"
+                    autocapitalize="off" autocomplete="off" data-autocomplete="search">
+
+                <button type="submit" class="searchbtn">
+                    <span class="icon icon-search" aria-hidden="true"></span>
+                    <span class="screen-reader-text">press to search craigslist</span>
+                </button>
+                    <div class="savealert">
+                        <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fdenver%252Ecraigslist%252Eorg%252Fsearch%252Fcta%253FhasPic%253D1%2526sort%253Dpricedsc"  title="save this search" >save search</a>
+                    </div>
+            </div>
+
+            <div class="search-options-container">
+    <h2 class="search-options-header linklike">
+        <div class="icon icon-toggle-gear" aria-hidden="true"></div>
+        options<span class="options-close">close</span>
+    </h2>
+    <input id="excats" type="hidden" name="excats">
+        <input type="hidden" name="sort" value="pricedsc">
+    <div class="search-options">
+        <div class="searchgroup categories">
+            <div class="cattitle">
+                  <a href="/search/cta" title="clear all search parameters" class="reset">cars &amp; trucks</a>
+            </div>
+
+        </div>
+        <input type="hidden" name="userid" value="" />
+
+                <ul class="searchgroup buttongroup purveyor">
+                    <li class="button sel">
+                        <a href="/search/cta?hasPic=1&amp;sort=pricedsc" data-val="all">all</a>
+                    </li><li class="button ">
+                        <a href="/search/cto?hasPic=1&amp;sort=pricedsc" data-val="owner"> owner</a>
+                    </li><li class="button ">
+                        <a href="/search/ctd?hasPic=1&amp;sort=pricedsc" data-val="dealer">dealer</a>
+                    </li>
+                </ul>
+
+
+
+
+        <div class="searchgroup">
+            <ul>
+    <li>
+       <label class="srchType">
+           <input type="checkbox" name="srchType" class="" value="T" >
+           search titles only
+       </label>
+    </li>
+    <li>
+       <label class="hasPic">
+           <input type="checkbox" name="hasPic" class="autosubmit" value="1"  checked>
+           has image
+       </label>
+    </li>
+    <li>
+       <label class="postedToday">
+           <input type="checkbox" name="postedToday" class="autosubmit" value="1" >
+           posted today
+       </label>
+    </li>
+    <li>
+       <label class="bundleDuplicates">
+           <input type="checkbox" name="bundleDuplicates" class="autosubmit" value="1" >
+           bundle duplicates
+       </label>
+    </li>
+    <li>
+       <label class="searchNearby">
+           <input type="checkbox" name="searchNearby" class="autosubmit" value="1" >
+           include nearby areas
+       </label>
+    </li>
+</ul>
+
+                <ul class="js-only nearbyAreas ">
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_0"
+                            value="319"
+                            disabled="disabled"
+                            />
+                            boulder, CO <small>(bou)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_2"
+                            value="210"
+                            disabled="disabled"
+                            />
+                            colorado springs <small>(cos)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_5"
+                            value="713"
+                            disabled="disabled"
+                            />
+                            eastern CO <small>(eco)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_10"
+                            value="568"
+                            disabled="disabled"
+                            />
+                            farmington, NM <small>(fnm)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_1"
+                            value="287"
+                            disabled="disabled"
+                            />
+                            fort collins / north CO <small>(ftc)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_4"
+                            value="288"
+                            disabled="disabled"
+                            />
+                            high rockies <small>(rck)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_8"
+                            value="668"
+                            disabled="disabled"
+                            />
+                            north platte, NE <small>(lbf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_9"
+                            value="688"
+                            disabled="disabled"
+                            />
+                            northwest KS <small>(nwk)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_3"
+                            value="315"
+                            disabled="disabled"
+                            />
+                            pueblo, CO <small>(pub)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_12"
+                            value="218"
+                            disabled="disabled"
+                            />
+                            santa fe / taos <small>(saf)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_6"
+                            value="669"
+                            disabled="disabled"
+                            />
+                            scottsbluff / panhandle <small>(bff)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_2">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_13"
+                            value="687"
+                            disabled="disabled"
+                            />
+                            southwest KS <small>(swk)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_7"
+                            value="320"
+                            disabled="disabled"
+                            />
+                            western slope <small>(gjt)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_11"
+                            value="197"
+                            disabled="disabled"
+                            />
+                            wyoming <small>(wyo)</small>
+                        </label>
+                        </li>
+
+                        <li>
+                        <span class="nextNearbyZone linklike" data-zone="1">
+                            + show <span id="nearbyNumber">14</span> more...
+                        </span>
+                        </li>
+                </ul>
+        </div>
+
+            <div class="searchgroup">
+                <span class="searchfieldlabel">miles from zip</span>
+                <input size="5" maxlength="5" inputmode="numeric"
+                    class="flatinput searchInput search_distance" placeholder="miles"
+                    name="search_distance"
+                    value=""
+                />
+                <input type="text" class="flatinput searchInput postal" placeholder="from zip"
+                    size="7" name="postal" value="">
+                <span class="icon icon-locate"></span>
+            </div>
+
+
+    <div class="searchgroup minmax price">
+<span class="searchfieldlabel">price</span>
+    <input type="tel" name="min_price" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="">
+    <input type="tel" name="max_price" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+
+
+
+        <div class="searchgroup"><span class="searchfieldlabel">make and model</span>
+    <input
+        type="text"
+        class="flatinput auto_make_model"
+        placeholder="make / model"
+        name="auto_make_model"
+        value=""
+        data-autocomplete="makemodel" />
+</div><div class="searchgroup">    <div class="minmax auto_year">
+<span class="searchfieldlabel">model year</span>
+    <input type="tel" name="min_auto_year" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="">
+    <input type="tel" name="max_auto_year" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+    <div class="minmax auto_miles">
+<span class="searchfieldlabel">odometer</span>
+    <input type="tel" name="min_auto_miles" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="">
+    <input type="tel" name="max_auto_miles" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+</div>
+</div><div class="searchgroup"><label class="crypto_currency_ok">
+        <input type="checkbox" name="crypto_currency_ok" value="1" class="autosubmit" />
+    cryptocurrency ok
+</label><br>
+<label class="delivery_available">
+        <input type="checkbox" name="delivery_available" value="1" class="autosubmit" />
+    delivery available
+</label><br>
+</div><div class="searchgroup"><div class="search-attribute hide-list" data-attr="language">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> language of posting
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="language_1" name="language" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    af
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_2" name="language" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    ca
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_3" name="language" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    da
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_4" name="language" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    de
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_5" name="language" class="multi_checkbox" value="5" type="checkbox"
+                     />
+                    en
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_6" name="language" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    es
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_7" name="language" class="multi_checkbox" value="7" type="checkbox"
+                     />
+                    fi
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_8" name="language" class="multi_checkbox" value="8" type="checkbox"
+                     />
+                    fr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_9" name="language" class="multi_checkbox" value="9" type="checkbox"
+                     />
+                    it
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_10" name="language" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    nl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_11" name="language" class="multi_checkbox" value="11" type="checkbox"
+                     />
+                    no
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_12" name="language" class="multi_checkbox" value="12" type="checkbox"
+                     />
+                    pt
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_13" name="language" class="multi_checkbox" value="13" type="checkbox"
+                     />
+                    sv
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_14" name="language" class="multi_checkbox" value="14" type="checkbox"
+                     />
+                    tl
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_15" name="language" class="multi_checkbox" value="15" type="checkbox"
+                     />
+                    tr
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_16" name="language" class="multi_checkbox" value="16" type="checkbox"
+                     />
+                    zh
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_17" name="language" class="multi_checkbox" value="17" type="checkbox"
+                     />
+                    ar
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_18" name="language" class="multi_checkbox" value="18" type="checkbox"
+                     />
+                    ja
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_19" name="language" class="multi_checkbox" value="19" type="checkbox"
+                     />
+                    ko
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_20" name="language" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    ru
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="language_21" name="language" class="multi_checkbox" value="21" type="checkbox"
+                     />
+                    vi
+                </label>
+            </li>
+
+            <li class="selectall js-only ">
+                <span class="all">select all</span>
+                <span class="none">deselect all</span>
+            </li>
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="condition">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> condition
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_10" name="condition" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    new
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_20" name="condition" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    like new
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_30" name="condition" class="multi_checkbox" value="30" type="checkbox"
+                     />
+                    excellent
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_40" name="condition" class="multi_checkbox" value="40" type="checkbox"
+                     />
+                    good
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_50" name="condition" class="multi_checkbox" value="50" type="checkbox"
+                     />
+                    fair
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="condition_60" name="condition" class="multi_checkbox" value="60" type="checkbox"
+                     />
+                    salvage
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="auto_cylinders">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> cylinders
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_cylinders_1" name="auto_cylinders" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    3 cylinders
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_cylinders_2" name="auto_cylinders" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    4 cylinders
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_cylinders_3" name="auto_cylinders" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    5 cylinders
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_cylinders_4" name="auto_cylinders" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    6 cylinders
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_cylinders_5" name="auto_cylinders" class="multi_checkbox" value="5" type="checkbox"
+                     />
+                    8 cylinders
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_cylinders_6" name="auto_cylinders" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    10 cylinders
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_cylinders_7" name="auto_cylinders" class="multi_checkbox" value="7" type="checkbox"
+                     />
+                    12 cylinders
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_cylinders_8" name="auto_cylinders" class="multi_checkbox" value="8" type="checkbox"
+                     />
+                    other
+                </label>
+            </li>
+
+            <li class="selectall js-only ">
+                <span class="all">select all</span>
+                <span class="none">deselect all</span>
+            </li>
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="auto_drivetrain">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> drive
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_drivetrain_1" name="auto_drivetrain" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    fwd
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_drivetrain_2" name="auto_drivetrain" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    rwd
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_drivetrain_3" name="auto_drivetrain" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    4wd
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="auto_fuel_type">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> fuel
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_fuel_type_1" name="auto_fuel_type" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    gas
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_fuel_type_2" name="auto_fuel_type" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    diesel
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_fuel_type_3" name="auto_fuel_type" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    hybrid
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_fuel_type_4" name="auto_fuel_type" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    electric
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_fuel_type_6" name="auto_fuel_type" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    other
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="auto_paint">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> paint color
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_1" name="auto_paint" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    black
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_2" name="auto_paint" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    blue
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_20" name="auto_paint" class="multi_checkbox" value="20" type="checkbox"
+                     />
+                    brown
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_3" name="auto_paint" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    green
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_4" name="auto_paint" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    grey
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_5" name="auto_paint" class="multi_checkbox" value="5" type="checkbox"
+                     />
+                    orange
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_6" name="auto_paint" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    purple
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_7" name="auto_paint" class="multi_checkbox" value="7" type="checkbox"
+                     />
+                    red
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_8" name="auto_paint" class="multi_checkbox" value="8" type="checkbox"
+                     />
+                    silver
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_9" name="auto_paint" class="multi_checkbox" value="9" type="checkbox"
+                     />
+                    white
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_10" name="auto_paint" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    yellow
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_paint_11" name="auto_paint" class="multi_checkbox" value="11" type="checkbox"
+                     />
+                    custom
+                </label>
+            </li>
+
+            <li class="selectall js-only ">
+                <span class="all">select all</span>
+                <span class="none">deselect all</span>
+            </li>
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="auto_size">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> size
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_size_1" name="auto_size" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    compact
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_size_2" name="auto_size" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    full-size
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_size_3" name="auto_size" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    mid-size
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_size_4" name="auto_size" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    sub-compact
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="auto_title_status">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> title status
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_title_status_1" name="auto_title_status" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    clean
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_title_status_2" name="auto_title_status" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    salvage
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_title_status_3" name="auto_title_status" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    rebuilt
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_title_status_4" name="auto_title_status" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    parts only
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_title_status_5" name="auto_title_status" class="multi_checkbox" value="5" type="checkbox"
+                     />
+                    lien
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_title_status_6" name="auto_title_status" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    missing
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="auto_transmission">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> transmission
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_transmission_1" name="auto_transmission" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    manual
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_transmission_2" name="auto_transmission" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    automatic
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_transmission_3" name="auto_transmission" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    other
+                </label>
+            </li>
+
+
+
+    </ul>
+</div>
+<div class="search-attribute hide-list" data-attr="auto_bodytype">
+    <div class="title linklike ">
+        <span class="plus">&#9656;</span><span class="minus">&#9662;</span> type
+    </div>
+
+        <ul class="list">
+
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_1" name="auto_bodytype" class="multi_checkbox" value="1" type="checkbox"
+                     />
+                    bus
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_2" name="auto_bodytype" class="multi_checkbox" value="2" type="checkbox"
+                     />
+                    convertible
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_3" name="auto_bodytype" class="multi_checkbox" value="3" type="checkbox"
+                     />
+                    coupe
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_4" name="auto_bodytype" class="multi_checkbox" value="4" type="checkbox"
+                     />
+                    hatchback
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_5" name="auto_bodytype" class="multi_checkbox" value="5" type="checkbox"
+                     />
+                    mini-van
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_6" name="auto_bodytype" class="multi_checkbox" value="6" type="checkbox"
+                     />
+                    offroad
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_7" name="auto_bodytype" class="multi_checkbox" value="7" type="checkbox"
+                     />
+                    pickup
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_8" name="auto_bodytype" class="multi_checkbox" value="8" type="checkbox"
+                     />
+                    sedan
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_9" name="auto_bodytype" class="multi_checkbox" value="9" type="checkbox"
+                     />
+                    truck
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_10" name="auto_bodytype" class="multi_checkbox" value="10" type="checkbox"
+                     />
+                    SUV
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_11" name="auto_bodytype" class="multi_checkbox" value="11" type="checkbox"
+                     />
+                    wagon
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_12" name="auto_bodytype" class="multi_checkbox" value="12" type="checkbox"
+                     />
+                    van
+                </label>
+            </li>
+            <li class="checkbox ">
+                <label>
+                    <input id="auto_bodytype_13" name="auto_bodytype" class="multi_checkbox" value="13" type="checkbox"
+                     />
+                    other
+                </label>
+            </li>
+
+            <li class="selectall js-only ">
+                <span class="all">select all</span>
+                <span class="none">deselect all</span>
+            </li>
+
+
+    </ul>
+</div>
+</div>
+
+        <div class="searchgroup resetsearch">
+            <a href="/search/cta" title="clear all search parameters" class="reset linklike">reset</a>
+            <button type="submit" class="searchlink linklike">update search</button>
+        </div>
+
+<aside class="tsb">
+    <ul>
+        <li><a href="https://www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="https://www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="https://www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="https://www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+    </div>
+</div>
+
+
+            <div class="search-legend">
+<div class="search-view js-only">
+    <div class="dropdown dropdown-icons dropdown-arrows dropdown-view" role="toolbar" aria-label="view options" aria-expanded="false">
+        <ul class="dropdown-list">
+            <li class="dropdown-item mode sel">
+                <button title="show results in a list" data-selection="list" id="listview">
+                    <span class="view-list icon"></span>list
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results in a list with thumbnail pictures"  data-selection="pic"  id="picview" >
+                    <span class="view-thumb icon"></span>thumb
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results side-by-side with larger pictures" data-selection="grid" id="gridview">
+                    <span class="view-gallery icon"></span>gallery
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+                <li class="dropdown-item mode">
+                    <button title="show results on a map"  data-selection="map"  id="mapview" >
+                        <span class="view-map icon"></span>map
+                    </button>
+                    <span class="toggle-arrow"></span>
+                </li>
+        </ul>
+    </div>
+</div>
+                <div class="search-sort" >
+    <div class="dropdown dropdown-sort dropdown-arrows" data-default-sort="pricedsc" role="toolbar" aria-label="sort options" aria-expanded="false">
+        <ul class="dropdown-list">
+
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="date" title="show newest matches first" href="/search/cta?sort=date&amp;hasPic=1">newest <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a data-selection="priceasc" title="sort by price, lowest to highest" href="/search/cta?sort=priceasc&amp;hasPic=1">price &uarr; <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode sel" aria-selected="true">
+                <a data-selection="pricedsc" title="sort by price, highest to lowest" href="/search/cta?sort=pricedsc&amp;hasPic=1">price &darr; <span class="toggle-arrow"></span></a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+                <div class="paginator buttongroup">
+    <span class="resulttotal">
+        <span class="for-map">
+        displaying <span class="displaycountShow">...</span> postings
+        </span>
+    </span>
+    <span class="buttons">
+        <a href="/search/cta?hasPic=1&amp;sort=pricedsc" class="button first" title="first page">&lt;&lt;</a>
+        <span class="button first" title="first page">&lt;&lt;</span>
+        <a href="/search/cta?s=120&amp;hasPic=1&amp;sort=pricedsc" class="button prev" title="previous page">&lt; prev</a>
+        <span class="button prev" title="previous page">&lt; prev</span>
+
+        <span class="button pagenum">
+            <span class="range">
+                <span class="rangeFrom">241</span>
+                -
+                <span class="rangeTo">360</span>
+            </span>
+            /
+            <span class="totalcount">3000</span>
+        </span>
+
+        <a href="/search/cta?s=360&amp;hasPic=1&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
+        <span class="button next" title="next page"> next &gt; </span>
+    </span>
+</div>
+
+                
+            </div>
+            <div class="content" id="sortable-results" >
+                <section class="favlistsection">
+                    <section class="favlistinfo">
+                    </section>
+                    <section class="banishlistinfo">
+                    </section>
+                </section>
+
+                    
+
+
+<div class="open-map-view-button">
+    <span>see in map view</span>
+</div>
+<div id="mapcontainer" data-arealat="39.739201" data-arealon="-104.984001">
+    <div id="noresult-overlay"></div>
+    <div id="noresult-text">
+        <span class="message">No mappable items found</span>
+    </div>
+    <div id="map" class="loading">
+        <div class="close-full-screen-map-mode-button">close fullscreen</div>
+        <div class="close-map-view-button">close map</div>
+    </div>
+</div>
+
+                <ul class="rows">
+                             <li class="result-row" data-pid="7037130319">
+
+        <a href="https://denver.craigslist.org/ctd/d/american-fork-2019-gmc-sierra-1500/7037130319.html" class="result-image gallery" data-ids="1:01010_gWYedBrMU3I,1:00A0A_errKwD5NMk6,1:00M0M_69bXdP1ZlqK,1:01414_g0CvNlD5ABr,1:00g0g_9XkuwfCXdwq,1:00t0t_a7F58vdmNIq,1:01212_8j8peqm3Vh,1:00e0e_5PkymHNZwKk,1:00N0N_iwcK2JxGRcl,1:00909_sxBsE0oFed,1:00o0o_cYr5sDFQ6DQ,1:00K0K_lWTWZ2yucPp,1:00L0L_dZdJmIr2owo,1:00o0o_kic3azFXSDS,1:00f0f_etvh4cSxkSy,1:00505_hZWIQrUphhf,1:00C0C_aAIlyz9Tdsi,1:00M0M_9yR0kskCcgm,1:00P0P_ix5twAiPG8V,1:00000_l08tOrnA37v,1:00V0V_wBRFF6T6aI,1:01717_eUoLGTP4bdm,1:00d0d_5QqEwfQN2HS,1:00W0W_gXUiAcFprZE">
+                <span class="result-price">$60900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 10:12" title="Thu 12 Dec 10:12:35 AM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/american-fork-2019-gmc-sierra-1500/7037130319.html" data-id="7037130319" class="result-title hdrlnk">2019 *GMC* *Sierra 1500* *DENALI* Onyx Black</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60900</span>
+
+
+                <span class="result-hood"> (Watts Automotive)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040263996" data-repost-of="7000028625">
+
+        <a href="https://denver.craigslist.org/cto/d/miami-boom-truck-mack-crane/7040263996.html" class="result-image gallery" data-ids="1:00x0x_9v3z8siZ1Z8,1:00O0O_a4TF8HUC2fj,1:00l0l_4LytHDT0cV3,1:00m0m_8oF4KsHiAsP,1:00y0y_ljCqLgUw4UR,1:00A0A_7flX6pl8KIp,1:00S0S_9jLWbytRpnz,1:00m0m_3xIv60Ao2jX,1:00D0D_jt8I5tct4UC,1:01717_bR0jmWRx7Z5,1:01414_aqdsy43dtXI,1:00404_l6aTLwGfO7W,1:00I0I_eSmhAP2pP5W,1:00Q0Q_84LvkyGMlsP,1:00M0M_ehzUVHHOoJ0,1:00c0c_bzqx1F5Ekqb,1:00a0a_3lCanxaQIYQ,1:00D0D_ezZcjrkObDn,1:00g0g_cAFqxVJWmN2,1:00J0J_fFEkkcFlRAu">
+                <span class="result-price">$60000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-17 13:14" title="Tue 17 Dec 01:14:55 PM">Dec 17</time>
+
+
+        <a href="https://denver.craigslist.org/cto/d/miami-boom-truck-mack-crane/7040263996.html" data-id="7040263996" class="result-title hdrlnk">Boom Truck Mack Crane</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60000</span>
+
+
+                <span class="result-hood"> (North Miami)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7034279339">
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2018-ford-350sd-lariat-any/7034279339.html" class="result-image gallery" data-ids="1:00s0s_a97GprKvBmF,1:00s0s_473FmJ1xyLK,1:01515_1WF3KbdIuss,1:00O0O_l5DjZFhKevr,1:00E0E_611t6br5FLK,1:00T0T_9iRPb5Pbgkt,1:00s0s_bhN9ykQXcRt,1:01414_ePOFVW1SiYz,1:00x0x_jnmpxOCeCnn,1:00505_4n3HewKLUgc,1:00Q0Q_imUzFPeqCTb,1:00q0q_7d0ohp2aeC7,1:01616_eVbhqcZiEz3,1:00000_dddFnab4jrp,1:00606_9EGQXgvHFXR,1:00K0K_3GwGbesSiMn,1:00P0P_ajH6BH09uZq,1:00C0C_j7WfgeQivvt,1:00707_dEBOXIrYm5w,1:01212_26Xop1lwdZB,1:00b0b_kIfdAqPGCw7,1:00R0R_6aaPfs2zG49,1:00l0l_2viWhwbTdXd,1:00b0b_e8GtECGn0Yg">
+                <span class="result-price">$59999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-07 15:40" title="Sat 07 Dec 03:40:02 PM">Dec  7</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2018-ford-350sd-lariat-any/7034279339.html" data-id="7034279339" class="result-title hdrlnk">2018 Ford F-350SD LARIAT - ANY CREDIT OK! SE HABLA ESPANOL!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59999</span>
+
+
+                <span class="result-hood"> (+ Grand Valley Auto - Best Cash Prices - Get A Loan Fast)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042531547">
+
+        <a href="https://denver.craigslist.org/ctd/d/longmont-1964-chevrolet-chevy-impala/7042531547.html" class="result-image gallery" data-ids="1:01515_iPM0Bzw146W,1:00f0f_2Izi5diBfZC,1:00101_3Sh87k2TU5b,1:00K0K_2ekySrePXpM,1:00o0o_9PxM1GL4y1t,1:00Z0Z_lOYhSPQeqij,1:00S0S_4wrEr9AThFG,1:00606_dtLQsNBnMvI,1:00a0a_gdaduVb9ysM,1:00808_gCKST4x5CLI,1:00N0N_23G27WnbEz0,1:00c0c_gebO3zRhuAS,1:00d0d_bFYYigH326U,1:00Q0Q_40onE9fyuUW,1:00F0F_c3MiEhZ4Csy,1:00606_600gyMyBpv5,1:00y0y_ec20VJwTJ2N,1:01414_8z7cslYvOb7,1:00202_59PvQcBNjEE,1:00303_8cf70WvPNeI,1:01414_chukU8qKTs2,1:00u0u_3JLBW73wzaI,1:00S0S_dtLP5tXp929,1:00E0E_aIKTasBq5q3">
+                <span class="result-price">$59999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-21 11:30" title="Sat 21 Dec 11:30:46 AM">Dec 21</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/longmont-1964-chevrolet-chevy-impala/7042531547.html" data-id="7042531547" class="result-title hdrlnk">1964 Chevrolet Chevy Impala Convertible - Over 500 Vehicles to Choose From!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59999</span>
+
+
+                <span class="result-hood"> (+ Victory Motors of Colorado)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048465626">
+
+        <a href="https://denver.craigslist.org/ctd/d/golden-2016-mercedes-benz-class-550/7048465626.html" class="result-image gallery" data-ids="1:00l0l_hLYLpxzNRN3,1:00V0V_k9ozx71sKo,1:01515_ivTHUzb6oAq,1:00U0U_gkpovaYkvlQ,1:00Y0Y_4sWoioux3GI,1:00u0u_j2KKkV0xq1P,1:00r0r_awjUjTcvmq4,1:01414_dYWfN7LXoAF,1:00y0y_10UPZfwSavU,1:00S0S_bJxZqiSjsrZ,1:00x0x_hYKWy0XBt1S,1:00N0N_2imZesM32Mn,1:00L0L_OWhSCiAZmj,1:00r0r_PPxiB4WbwS,1:00A0A_4sflUIEMuhw,1:00P0P_5olETb56JU8,1:00b0b_24syqhoqXMU,1:00P0P_9VjDPZhkOqc">
+                <span class="result-price">$59999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 11:48" title="Thu 02 Jan 11:48:59 AM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/golden-2016-mercedes-benz-class-550/7048465626.html" data-id="7048465626" class="result-title hdrlnk">2016 Mercedes-Benz S-Class S 550 4MATIC Coupe 2D</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59999</span>
+
+
+                <span class="result-hood"> (+ Icar Automotive LLC)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7034215946">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-gmc-sierra-1500-lifted/7034215946.html" class="result-image gallery" data-ids="1:00808_khexDg3pEqF,1:00x0x_hMxJXBiDs6y,1:00Z0Z_1sKseG8HqlN,1:00A0A_chjIcobqyVx,1:00b0b_3U3F84JYJqb,1:00Q0Q_ivCfI2WtVYd,1:00u0u_hVmTvdvSc46,1:00C0C_7lVXNepurk4,1:00000_hzL7oSiScB9,1:00H0H_au2xTW36mw7,1:00Y0Y_Y12E21PYq5,1:00V0V_4xVuHIr7Oke,1:00J0J_kh61Trda3oV,1:00e0e_64j2QrqMMQW,1:00707_aQaFmiPaFsk,1:01313_2ISZEkFLEAL,1:00Q0Q_ba5yNMBm9kn,1:00Z0Z_c0ZmvgOadY9,1:00808_4KfccYYgOtr,1:00303_1yMuc9loLpy,1:01212_hJHOJlz7lZS,1:01717_fNJg3wb1QM2,1:00l0l_8zZm1IEnKlF,1:00q0q_bu2jPwuC8tz">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-07 14:00" title="Sat 07 Dec 02:00:41 PM">Dec  7</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-gmc-sierra-1500-lifted/7034215946.html" data-id="7034215946" class="result-title hdrlnk">2019 *GMC* *Sierra 1500* *LIFTED NEXT GEN GMC DENALI 6.</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035293396">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7035293396.html" class="result-image gallery" data-ids="1:00101_17Y8oslQBt9,1:00Z0Z_4TsmEc1Ck4Y,1:00Y0Y_3pk9FJfg4Bu,1:00D0D_e0vhAV8yykZ,1:00D0D_e0vhAV8yykZ,1:00r0r_kcsqGmvEBqj,1:01616_9Muqfzx54ya,1:01616_9Muqfzx54ya,1:00202_3L8NoanKAXc,1:00v0v_iUlVf1xAW71,1:00101_7Ju5lwVrmFJ,1:00T0T_23AqSQg2yOr,1:00s0s_72IUhPRcGIC,1:00O0O_bPqFSw490Hm,1:01111_5VKcezPT5kE,1:00P0P_byfhnYGK7TN,1:00101_fJRr6DIPBNz,1:00c0c_765uiePGmF2,1:00G0G_9HUezOiV12Q,1:00J0J_ovTAGd8zPh,1:00Q0Q_lAnurGfhhDI,1:00M0M_gUzdHhk1Dqv,1:00M0M_kuhnK8lkdBW">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-09 12:10" title="Mon 09 Dec 12:10:49 PM">Dec  9</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7035293396.html" data-id="7035293396" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *SPECIAL ORDER .19 F</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037897842">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-gmc-sierra-1500-lifted/7037897842.html" class="result-image gallery" data-ids="1:01515_hfqrvtkgFN2,1:00e0e_60xP75Mwa8B,1:00j0j_5DztOoE4fnB,1:00Q0Q_eUCP2yHnUbW,1:00Q0Q_eUCP2yHnUbW,1:00303_b315YmJ6cHg,1:00303_fYsIb3K9VZm,1:00303_fYsIb3K9VZm,1:01414_64L6K0BDqVW,1:00v0v_d3NPMr5k2mo,1:00q0q_jga5c3ZICgx,1:00G0G_8G727bBO0Q1,1:00Y0Y_f1dEDreGE8q,1:00b0b_8iiyUcRyocm,1:00w0w_l5vYiTLwKrj,1:00k0k_2b2UmivxE8a,1:00V0V_6EutUG3oSSU,1:00c0c_33ANt8Cw45K,1:00707_fpViWGEbmcx,1:00b0b_iKvfT6yRBwP,1:00S0S_gmlK1iQZ4PO,1:00g0g_FOJJYxfR99,1:01616_c1yaFS56CuQ,1:00r0r_lXe2NpS54Hb">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-13 13:11" title="Fri 13 Dec 01:11:29 PM">Dec 13</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-gmc-sierra-1500-lifted/7037897842.html" data-id="7037897842" class="result-title hdrlnk">2019 *GMC* *Sierra 1500* *LIFTED NEXT GEN GMC DENALI 6.</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7038903995">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7038903995.html" class="result-image gallery" data-ids="1:00H0H_kPuxauNadJZ,1:00o0o_6hnjARj36Ni,1:00X0X_iq8sP21Fohg,1:00V0V_2ElcO2AHhJG,1:00r0r_f2Slouza4Wc,1:00000_apuPG9K2pwW,1:00V0V_fRq5dbTHH2F,1:00g0g_i2XLAt6I3nA,1:00K0K_14cwlwScu3r,1:01111_bGVAv4Inu5b,1:00r0r_1DCrqtr8r5w,1:01616_cUPNSx4oaoa,1:00E0E_7A88hAGaKDH,1:00101_bygVnrFM0JW,1:00i0i_cLSM0gKLrM8,1:01010_kVUiv4ze48p,1:00B0B_4VT5Iln2wGC,1:00202_fYKt6VkXIak,1:00z0z_3htAYDpNcZA,1:00w0w_Epj9CzrKyJ,1:00q0q_9kOMFPvLPS3,1:00J0J_kCHdHnyvk5H,1:00B0B_led6A43tSSf,1:00101_b2ELGdBxiIu">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-15 10:00" title="Sun 15 Dec 10:00:36 AM">Dec 15</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7038903995.html" data-id="7038903995" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *LIFTED 2019 FORD F2</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7038940484">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-gmc-sierra-1500-lifted/7038940484.html" class="result-image gallery" data-ids="1:00808_khexDg3pEqF,1:00x0x_hMxJXBiDs6y,1:00Z0Z_1sKseG8HqlN,1:00A0A_chjIcobqyVx,1:00b0b_3U3F84JYJqb,1:00Q0Q_ivCfI2WtVYd,1:00u0u_hVmTvdvSc46,1:00C0C_7lVXNepurk4,1:00000_hzL7oSiScB9,1:00H0H_au2xTW36mw7,1:00Y0Y_Y12E21PYq5,1:00V0V_4xVuHIr7Oke,1:00J0J_kh61Trda3oV,1:00e0e_64j2QrqMMQW,1:00707_aQaFmiPaFsk,1:01313_2ISZEkFLEAL,1:00Q0Q_ba5yNMBm9kn,1:00Z0Z_c0ZmvgOadY9,1:00808_4KfccYYgOtr,1:00303_1yMuc9loLpy,1:01212_hJHOJlz7lZS,1:01717_fNJg3wb1QM2,1:00l0l_8zZm1IEnKlF,1:00q0q_bu2jPwuC8tz">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-15 11:00" title="Sun 15 Dec 11:00:36 AM">Dec 15</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-gmc-sierra-1500-lifted/7038940484.html" data-id="7038940484" class="result-title hdrlnk">2019 *GMC* *Sierra 1500* *LIFTED NEXT GEN GMC DENALI 6.</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039751594">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7039751594.html" class="result-image gallery" data-ids="1:00101_17Y8oslQBt9,1:00Z0Z_4TsmEc1Ck4Y,1:00Y0Y_3pk9FJfg4Bu,1:00D0D_e0vhAV8yykZ,1:00D0D_e0vhAV8yykZ,1:00r0r_kcsqGmvEBqj,1:01616_9Muqfzx54ya,1:01616_9Muqfzx54ya,1:00202_3L8NoanKAXc,1:00v0v_iUlVf1xAW71,1:00101_7Ju5lwVrmFJ,1:00T0T_23AqSQg2yOr,1:00s0s_72IUhPRcGIC,1:00O0O_bPqFSw490Hm,1:01111_5VKcezPT5kE,1:00P0P_byfhnYGK7TN,1:00101_fJRr6DIPBNz,1:00c0c_765uiePGmF2,1:00G0G_9HUezOiV12Q,1:00J0J_ovTAGd8zPh,1:00Q0Q_lAnurGfhhDI,1:00M0M_gUzdHhk1Dqv,1:00M0M_kuhnK8lkdBW">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-16 16:11" title="Mon 16 Dec 04:11:09 PM">Dec 16</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7039751594.html" data-id="7039751594" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *SPECIAL ORDER .19 F</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041330875">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7041330875.html" class="result-image gallery" data-ids="1:00W0W_avAkg5P3yz1,1:00U0U_iFRP2mtkOc1,1:00u0u_9PPT9TAMRT2,1:00Z0Z_8MjWbOl0uZ2,1:00Z0Z_8MjWbOl0uZ2,1:00v0v_1N0bBcFteNX,1:00606_9B1CJ44Zzbc,1:00606_9B1CJ44Zzbc,1:00R0R_fdCSM52awnI,1:00m0m_ddjZ236GxRD,1:00m0m_ddjZ236GxRD,1:00303_4tCN2lDIBEp,1:00D0D_bb6imA7Un3a,1:00O0O_gXLXgWhi1dt,1:01717_5IYCKt8Q4Ag,1:00D0D_aDVU3NB23y2,1:00G0G_irWlqhys5Wg,1:01414_gMjLu1uckpj,1:00o0o_blPrg4JxkyA,1:00c0c_hjrjQqfZonH,1:00S0S_1mi6o9yObyu,1:00R0R_4nU4bQ9x3uJ,1:00X0X_9fOgje8O5J1,1:01414_fnLuqSFuBIo">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-19 10:13" title="Thu 19 Dec 10:13:51 AM">Dec 19</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7041330875.html" data-id="7041330875" class="result-title hdrlnk">2017 *Ford* *Super Duty F-250 SRW* *LIFTED POWER STROKE</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042119453">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7042119453.html" class="result-image gallery" data-ids="1:00H0H_kPuxauNadJZ,1:00o0o_6hnjARj36Ni,1:00X0X_iq8sP21Fohg,1:00V0V_2ElcO2AHhJG,1:00r0r_f2Slouza4Wc,1:00000_apuPG9K2pwW,1:00V0V_fRq5dbTHH2F,1:00g0g_i2XLAt6I3nA,1:00K0K_14cwlwScu3r,1:01111_bGVAv4Inu5b,1:00r0r_1DCrqtr8r5w,1:01616_cUPNSx4oaoa,1:00E0E_7A88hAGaKDH,1:00101_bygVnrFM0JW,1:00i0i_cLSM0gKLrM8,1:01010_kVUiv4ze48p,1:00B0B_4VT5Iln2wGC,1:00202_fYKt6VkXIak,1:00z0z_3htAYDpNcZA,1:00w0w_Epj9CzrKyJ,1:00q0q_9kOMFPvLPS3,1:00J0J_kCHdHnyvk5H,1:00B0B_led6A43tSSf,1:00101_b2ELGdBxiIu">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-20 15:11" title="Fri 20 Dec 03:11:14 PM">Dec 20</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7042119453.html" data-id="7042119453" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *LIFTED 2019 FORD F2</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043110228">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7043110228.html" class="result-image gallery" data-ids="1:00101_17Y8oslQBt9,1:00Z0Z_4TsmEc1Ck4Y,1:00Y0Y_3pk9FJfg4Bu,1:00D0D_e0vhAV8yykZ,1:00D0D_e0vhAV8yykZ,1:00r0r_kcsqGmvEBqj,1:01616_9Muqfzx54ya,1:01616_9Muqfzx54ya,1:00202_3L8NoanKAXc,1:00v0v_iUlVf1xAW71,1:00101_7Ju5lwVrmFJ,1:00T0T_23AqSQg2yOr,1:00s0s_72IUhPRcGIC,1:00O0O_bPqFSw490Hm,1:01111_5VKcezPT5kE,1:00P0P_byfhnYGK7TN,1:00101_fJRr6DIPBNz,1:00c0c_765uiePGmF2,1:00G0G_9HUezOiV12Q,1:00J0J_ovTAGd8zPh,1:00Q0Q_lAnurGfhhDI,1:00M0M_gUzdHhk1Dqv,1:00M0M_kuhnK8lkdBW">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-22 15:00" title="Sun 22 Dec 03:00:46 PM">Dec 22</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7043110228.html" data-id="7043110228" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *SPECIAL ORDER .19 F</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044074205">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7044074205.html" class="result-image gallery" data-ids="1:00W0W_avAkg5P3yz1,1:00U0U_iFRP2mtkOc1,1:00u0u_9PPT9TAMRT2,1:00Z0Z_8MjWbOl0uZ2,1:00Z0Z_8MjWbOl0uZ2,1:00v0v_1N0bBcFteNX,1:00606_9B1CJ44Zzbc,1:00606_9B1CJ44Zzbc,1:00R0R_fdCSM52awnI,1:00m0m_ddjZ236GxRD,1:00m0m_ddjZ236GxRD,1:00303_4tCN2lDIBEp,1:00D0D_bb6imA7Un3a,1:00O0O_gXLXgWhi1dt,1:01717_5IYCKt8Q4Ag,1:00D0D_aDVU3NB23y2,1:00G0G_irWlqhys5Wg,1:01414_gMjLu1uckpj,1:00o0o_blPrg4JxkyA,1:00c0c_hjrjQqfZonH,1:00S0S_1mi6o9yObyu,1:00R0R_4nU4bQ9x3uJ,1:00X0X_9fOgje8O5J1,1:01414_fnLuqSFuBIo">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-24 15:10" title="Tue 24 Dec 03:10:55 PM">Dec 24</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7044074205.html" data-id="7044074205" class="result-title hdrlnk">2017 *Ford* *Super Duty F-250 SRW* *LIFTED POWER STROKE</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044603145">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7044603145.html" class="result-image gallery" data-ids="1:00H0H_kPuxauNadJZ,1:00o0o_6hnjARj36Ni,1:00X0X_iq8sP21Fohg,1:00V0V_2ElcO2AHhJG,1:00r0r_f2Slouza4Wc,1:00000_apuPG9K2pwW,1:00V0V_fRq5dbTHH2F,1:00g0g_i2XLAt6I3nA,1:00K0K_14cwlwScu3r,1:01111_bGVAv4Inu5b,1:00r0r_1DCrqtr8r5w,1:01616_cUPNSx4oaoa,1:00E0E_7A88hAGaKDH,1:00101_bygVnrFM0JW,1:00i0i_cLSM0gKLrM8,1:01010_kVUiv4ze48p,1:00B0B_4VT5Iln2wGC,1:00202_fYKt6VkXIak,1:00z0z_3htAYDpNcZA,1:00w0w_Epj9CzrKyJ,1:00q0q_9kOMFPvLPS3,1:00J0J_kCHdHnyvk5H,1:00B0B_led6A43tSSf,1:00101_b2ELGdBxiIu">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-26 10:15" title="Thu 26 Dec 10:15:19 AM">Dec 26</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7044603145.html" data-id="7044603145" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *LIFTED 2019 FORD F2</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045776008">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7045776008.html" class="result-image gallery" data-ids="1:00101_17Y8oslQBt9,1:00Z0Z_4TsmEc1Ck4Y,1:00Y0Y_3pk9FJfg4Bu,1:00D0D_e0vhAV8yykZ,1:00D0D_e0vhAV8yykZ,1:00r0r_kcsqGmvEBqj,1:01616_9Muqfzx54ya,1:01616_9Muqfzx54ya,1:00202_3L8NoanKAXc,1:00v0v_iUlVf1xAW71,1:00101_7Ju5lwVrmFJ,1:00T0T_23AqSQg2yOr,1:00s0s_72IUhPRcGIC,1:00O0O_bPqFSw490Hm,1:01111_5VKcezPT5kE,1:00P0P_byfhnYGK7TN,1:00101_fJRr6DIPBNz,1:00c0c_765uiePGmF2,1:00G0G_9HUezOiV12Q,1:00J0J_ovTAGd8zPh,1:00Q0Q_lAnurGfhhDI,1:00M0M_gUzdHhk1Dqv,1:00M0M_kuhnK8lkdBW">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-28 10:00" title="Sat 28 Dec 10:00:47 AM">Dec 28</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7045776008.html" data-id="7045776008" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *SPECIAL ORDER .19 F</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046504145">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7046504145.html" class="result-image gallery" data-ids="1:00W0W_avAkg5P3yz1,1:00U0U_iFRP2mtkOc1,1:00u0u_9PPT9TAMRT2,1:00Z0Z_8MjWbOl0uZ2,1:00Z0Z_8MjWbOl0uZ2,1:00v0v_1N0bBcFteNX,1:00606_9B1CJ44Zzbc,1:00606_9B1CJ44Zzbc,1:00R0R_fdCSM52awnI,1:00m0m_ddjZ236GxRD,1:00m0m_ddjZ236GxRD,1:00303_4tCN2lDIBEp,1:00D0D_bb6imA7Un3a,1:00O0O_gXLXgWhi1dt,1:01717_5IYCKt8Q4Ag,1:00D0D_aDVU3NB23y2,1:00G0G_irWlqhys5Wg,1:01414_gMjLu1uckpj,1:00o0o_blPrg4JxkyA,1:00c0c_hjrjQqfZonH,1:00S0S_1mi6o9yObyu,1:00R0R_4nU4bQ9x3uJ,1:00X0X_9fOgje8O5J1,1:01414_fnLuqSFuBIo">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-29 16:00" title="Sun 29 Dec 04:00:22 PM">Dec 29</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7046504145.html" data-id="7046504145" class="result-title hdrlnk">2017 *Ford* *Super Duty F-250 SRW* *LIFTED POWER STROKE</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047578113">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7047578113.html" class="result-image gallery" data-ids="1:00H0H_kPuxauNadJZ,1:00o0o_6hnjARj36Ni,1:00X0X_iq8sP21Fohg,1:00V0V_2ElcO2AHhJG,1:00r0r_f2Slouza4Wc,1:00000_apuPG9K2pwW,1:00V0V_fRq5dbTHH2F,1:00g0g_i2XLAt6I3nA,1:00K0K_14cwlwScu3r,1:01111_bGVAv4Inu5b,1:00r0r_1DCrqtr8r5w,1:01616_cUPNSx4oaoa,1:00E0E_7A88hAGaKDH,1:00101_bygVnrFM0JW,1:00i0i_cLSM0gKLrM8,1:01010_kVUiv4ze48p,1:00B0B_4VT5Iln2wGC,1:00202_fYKt6VkXIak,1:00z0z_3htAYDpNcZA,1:00w0w_Epj9CzrKyJ,1:00q0q_9kOMFPvLPS3,1:00J0J_kCHdHnyvk5H,1:00B0B_led6A43tSSf,1:00101_b2ELGdBxiIu">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 14:11" title="Tue 31 Dec 02:11:27 PM">Dec 31</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7047578113.html" data-id="7047578113" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *LIFTED 2019 FORD F2</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048582176">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7048582176.html" class="result-image gallery" data-ids="1:00101_17Y8oslQBt9,1:00Z0Z_4TsmEc1Ck4Y,1:00Y0Y_3pk9FJfg4Bu,1:00D0D_e0vhAV8yykZ,1:00D0D_e0vhAV8yykZ,1:00r0r_kcsqGmvEBqj,1:01616_9Muqfzx54ya,1:01616_9Muqfzx54ya,1:00202_3L8NoanKAXc,1:00v0v_iUlVf1xAW71,1:00101_7Ju5lwVrmFJ,1:00T0T_23AqSQg2yOr,1:00s0s_72IUhPRcGIC,1:00O0O_bPqFSw490Hm,1:01111_5VKcezPT5kE,1:00P0P_byfhnYGK7TN,1:00101_fJRr6DIPBNz,1:00c0c_765uiePGmF2,1:00G0G_9HUezOiV12Q,1:00J0J_ovTAGd8zPh,1:00Q0Q_lAnurGfhhDI,1:00M0M_gUzdHhk1Dqv,1:00M0M_kuhnK8lkdBW">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 14:11" title="Thu 02 Jan 02:11:27 PM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7048582176.html" data-id="7048582176" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *SPECIAL ORDER .19 F</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049831736">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7049831736.html" class="result-image gallery" data-ids="1:00W0W_avAkg5P3yz1,1:00U0U_iFRP2mtkOc1,1:00u0u_9PPT9TAMRT2,1:00Z0Z_8MjWbOl0uZ2,1:00Z0Z_8MjWbOl0uZ2,1:00v0v_1N0bBcFteNX,1:00606_9B1CJ44Zzbc,1:00606_9B1CJ44Zzbc,1:00R0R_fdCSM52awnI,1:00m0m_ddjZ236GxRD,1:00m0m_ddjZ236GxRD,1:00303_4tCN2lDIBEp,1:00D0D_bb6imA7Un3a,1:00O0O_gXLXgWhi1dt,1:01717_5IYCKt8Q4Ag,1:00D0D_aDVU3NB23y2,1:00G0G_irWlqhys5Wg,1:01414_gMjLu1uckpj,1:00o0o_blPrg4JxkyA,1:00c0c_hjrjQqfZonH,1:00S0S_1mi6o9yObyu,1:00R0R_4nU4bQ9x3uJ,1:00X0X_9fOgje8O5J1,1:01414_fnLuqSFuBIo">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 13:00" title="Sat 04 Jan 01:00:40 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7049831736.html" data-id="7049831736" class="result-title hdrlnk">2017 *Ford* *Super Duty F-250 SRW* *LIFTED POWER STROKE</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050417360">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7050417360.html" class="result-image gallery" data-ids="1:00H0H_kPuxauNadJZ,1:00o0o_6hnjARj36Ni,1:00X0X_iq8sP21Fohg,1:00V0V_2ElcO2AHhJG,1:00r0r_f2Slouza4Wc,1:00000_apuPG9K2pwW,1:00V0V_fRq5dbTHH2F,1:00g0g_i2XLAt6I3nA,1:00K0K_14cwlwScu3r,1:01111_bGVAv4Inu5b,1:00r0r_1DCrqtr8r5w,1:01616_cUPNSx4oaoa,1:00E0E_7A88hAGaKDH,1:00101_bygVnrFM0JW,1:00i0i_cLSM0gKLrM8,1:01010_kVUiv4ze48p,1:00B0B_4VT5Iln2wGC,1:00202_fYKt6VkXIak,1:00z0z_3htAYDpNcZA,1:00w0w_Epj9CzrKyJ,1:00q0q_9kOMFPvLPS3,1:00J0J_kCHdHnyvk5H,1:00B0B_led6A43tSSf,1:00101_b2ELGdBxiIu">
+                <span class="result-price">$59995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 14:00" title="Sun 05 Jan 02:00:37 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-ford-super-duty-250-srw/7050417360.html" data-id="7050417360" class="result-title hdrlnk">2019 *Ford* *Super Duty F-250 SRW* *LIFTED 2019 FORD F2</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040278361">
+
+        <a href="https://denver.craigslist.org/ctd/d/franklinton-2007-international-awd/7040278361.html" class="result-image gallery" data-ids="1:00C0C_bpZZqHOuMM4,1:00C0C_agZ3YgMahTA,1:00U0U_knwrUpcRjtC,1:00101_5HP03V5C18B,1:00v0v_6v4kuucZysP,1:00T0T_cFnzZP9IdXE,1:00z0z_7naKkQGAj2Z,1:00K0K_iulRHd3wdHd,1:00e0e_hbrSPurClHf,1:00t0t_cUUkm5pv1qN,1:00202_jlxNKSMw8H7,1:00J0J_8hpuAHabncA,1:00Q0Q_cBoUyrScVRS,1:00000_fpz9aZgi75n,1:00M0M_30X1l6Ya1I2,1:01111_a5ed9fAAgJU,1:00v0v_7uprQSuinbm,1:00L0L_kSOP9FsspPP,1:00Y0Y_chLpbtZoWBA,1:00e0e_8bVVlP5buss,1:00P0P_2f9XgFc4coT,1:00k0k_a4yJpL6UiV9,1:00W0W_8is0N1eteN1,1:00W0W_NR5kv1uUEN">
+                <span class="result-price">$59990</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-17 13:34" title="Tue 17 Dec 01:34:41 PM">Dec 17</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/franklinton-2007-international-awd/7040278361.html" data-id="7040278361" class="result-title hdrlnk">2007 *International* *AWD UTILITY JUST 23k MILES NON CDL AIR</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59990</span>
+
+
+                <span class="result-hood"> (Griffin Commercial UD Trucks)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035992209">
+
+        <a href="https://denver.craigslist.org/ctd/d/pueblo-2019-jeep-wrangler-unlimited/7035992209.html" class="result-image gallery" data-ids="1:00O0O_3xQ64hyDXbI,1:00707_iFBcpPxDeeb,1:00q0q_ler1MTlzwMn,1:00u0u_l86QiPlT6P3,1:00t0t_5JbpPSkAwl6,1:00u0u_4xHllegCDpz,1:00F0F_49eEL4sPaWQ,1:01313_3VvGtbVfsbN,1:00808_fhAAkkUVBES,1:00z0z_685SCVXVq0Y,1:00R0R_307Y3jGQL3G,1:00U0U_gLqu2PqyXri,1:00404_fM2eA4ZQcL1,1:00P0P_6B6esy4kg70,1:01111_bnwnKaNBeiy,1:00s0s_4YcizxfBAPj,1:00A0A_fi9KHexLiYj,1:00n0n_Kr2P0EouRy,1:00G0G_30wk7z3fdC2,1:00k0k_bMa1qk2Kzz5,1:00L0L_gDtxXR6jv1z,1:00g0g_laxdOjRimiy,1:00M0M_fvDTKNad1qt,1:00l0l_4zuxFu5Wch0">
+                <span class="result-price">$59900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-10 12:54" title="Tue 10 Dec 12:54:36 PM">Dec 10</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/pueblo-2019-jeep-wrangler-unlimited/7035992209.html" data-id="7035992209" class="result-title hdrlnk">2019 Jeep Wrangler Unlimited Rubicon</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59900</span>
+
+
+                <span class="result-hood"> (Pueblo)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7036449503">
+
+        <a href="https://denver.craigslist.org/ctd/d/pueblo-2019-jeep-wrangler-unlimited/7036449503.html" class="result-image gallery" data-ids="1:00e0e_hLjaZB7I9LZ,1:00y0y_5EJrGbQ5rS9,1:00v0v_4YcwWW8iieo,1:00Z0Z_i4CMH61mBf2,1:00L0L_hQOYLVKmPlt,1:00D0D_lBIXYnd5i5a,1:00202_l5p0Cz8L7Cg,1:00P0P_8uRs6KmvW4c,1:00C0C_f7IFt1jqMOJ,1:00101_if8ZoiZCODa,1:00v0v_6Wg149mIP5b,1:00101_2WSzcVTbcfk,1:00H0H_fb6XRJqFO3e,1:01313_fHhT6KJ5PUf,1:00L0L_edflMvVCQlZ,1:00C0C_8wxCDB3CfNm,1:00P0P_kbN2iNo8qsN,1:00Q0Q_dBqP874FT5T,1:01616_fZRgdgshqh1,1:00S0S_hw88ksBUVWF,1:00G0G_bKWEevJIing,1:00E0E_e04jkSyMBoH,1:00R0R_6a69dCaMCvx,1:01212_TLtPqDW0On">
+                <span class="result-price">$59900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-11 09:04" title="Wed 11 Dec 09:04:20 AM">Dec 11</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/pueblo-2019-jeep-wrangler-unlimited/7036449503.html" data-id="7036449503" class="result-title hdrlnk">2019 Jeep Wrangler Unlimited Rubicon</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59900</span>
+
+
+                <span class="result-hood"> (Pueblo)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7038796959" data-repost-of="7011946923">
+
+        <a href="https://denver.craigslist.org/cto/d/littleton-1968-corvette-roadster/7038796959.html" class="result-image gallery" data-ids="1:01616_c3CDbOWP6Qq,1:00707_7syIJomGBjS,1:00303_h4dJ7b7SMG0,1:00m0m_lc2UYegBsXj,1:00T0T_b28nbqs4oaX,1:00707_kzNaq01cmld,1:00J0J_enAMQCysx1s,1:00c0c_9E8r6ps3jxo,1:00s0s_jGvWOfGUess,1:00h0h_bwZbGTDoOib,1:00n0n_9eYXVHGljAL,1:00e0e_ctK2t6BCQEr,1:00n0n_kmVx0b9TKTx,1:00C0C_lCrhco5wQ0T,1:01616_aUcU3U6VHO3,1:00707_kc5x9YyIt0a,1:00d0d_d8OsGsuOIfm,1:00404_ltaNO8R6Uys,1:00b0b_gXeHARd2o7h,1:00s0s_bjMoUQc3jyL,1:00707_hFkV0ROX7H8,1:00U0U_8dbHnSEnG63">
+                <span class="result-price">$59900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-15 05:32" title="Sun 15 Dec 05:32:30 AM">Dec 15</time>
+
+
+        <a href="https://denver.craigslist.org/cto/d/littleton-1968-corvette-roadster/7038796959.html" data-id="7038796959" class="result-title hdrlnk">1968 Corvette Roadster Restomod</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59900</span>
+
+
+                <span class="result-hood"> (littleton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048791977" data-repost-of="6990576488">
+
+        <a href="https://denver.craigslist.org/ctd/d/lafayette-2003-bmw-e39-m5-carbon-black/7048791977.html" class="result-image gallery" data-ids="1:00q0q_cHQC4qeJ3GQ,1:00s0s_94ehG1fg8iA,1:00R0R_QPfYaHTMlh,1:00g0g_56IvJDrMz3B,1:00B0B_7uR08k6VJxB,1:00k0k_fe47zcXbShf,1:00j0j_8VG4BvdaJ3s,1:00J0J_4BFLid0rT0t,1:01414_6uDC3lg0xeo,1:00Z0Z_55L0Sbr3jNx,1:00G0G_5Um7ac2WAWo,1:00g0g_gfgdkafOriy,1:00s0s_5Jei9d4IKrR,1:00202_3Ki7yXsE0YD,1:00O0O_i2BLUv125Ig,1:00O0O_emUtlwghLmA,1:00202_4bdmlwJQYPO,1:00B0B_77Xunh5sQbB,1:00808_fXdx5yAcgUE,1:00J0J_5y84wvoA022,1:00b0b_fYVBFvZNYtm,1:00808_59C4VYg1msZ,1:00w0w_9mM48208CwW,1:01313_gqrc0OuBE9O">
+                <span class="result-price">$59800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 20:30" title="Thu 02 Jan 08:30:17 PM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/lafayette-2003-bmw-e39-m5-carbon-black/7048791977.html" data-id="7048791977" class="result-title hdrlnk">2003 BMW (E39) M5 Carbon Black Metallic / Black Leather 27K Miles</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59800</span>
+
+
+                <span class="result-hood"> (Erie)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044013837">
+
+        <a href="https://denver.craigslist.org/ctd/d/littleton-2018-ford-350-sd-king-ranch/7044013837.html" class="result-image gallery" data-ids="1:00J0J_gxEt0EoGKKC,1:00p0p_cyxKGblmHH5,1:00101_clSxLCdv17o,1:00z0z_he2Jxu0b6Xx,1:00h0h_8y9VZXNHGKR,1:00u0u_8pLzJz5Yzoi,1:00Y0Y_591Vt0UF2qE,1:00J0J_iujb1vLtmxg,1:00808_3eViEePCXzt,1:01111_ksFABQWMmMk,1:00x0x_ljdZt7Bt0r4,1:00M0M_bBcN6eZ8xFa,1:00t0t_4pmxMcXHacC,1:00Z0Z_lv2njJoLyYq,1:00S0S_ikwAwDOZVkK,1:00G0G_YICsXxbXRl,1:00i0i_jeS9HuVR5WU,1:00j0j_hRUiC43lIrd,1:00V0V_dPDUeskObIl,1:00303_kOeFZXdOPIO,1:00707_kYf8YDRGEUU,1:00N0N_5xjTXP3sdJQ,1:00S0S_1XthERhIlJ9,1:00u0u_1Y72iVHY7oq">
+                <span class="result-price">$59786</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-24 12:36" title="Tue 24 Dec 12:36:52 PM">Dec 24</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/littleton-2018-ford-350-sd-king-ranch/7044013837.html" data-id="7044013837" class="result-title hdrlnk">2018 Ford F-350 SD King Ranch</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59786</span>
+
+
+                <span class="result-hood"> (7851 S. Elati St., Littleton CO 80120)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035457437">
+
+        <a href="https://denver.craigslist.org/ctd/d/sherman-1976-ford-bronco-4x4-v8/7035457437.html" class="result-image gallery" data-ids="1:00u0u_fXY8ZIZQhSb,1:00a0a_eHM43lcWDRj,1:01414_de06w0MtTUY,1:00n0n_c97UcGyx40X,1:00202_lwi7yV01iLR,1:00Y0Y_1bEvMxqlIiJ,1:00G0G_5f3JFvZIYL2,1:00W0W_aSqqJ0GVGfA,1:00e0e_aEEEN1dkwsu,1:00z0z_1uV91XccHQF,1:00k0k_9GmRNZjOquC,1:00C0C_4HpRwEZx5pW,1:00u0u_elieuOmk2mG,1:00c0c_fTG61kFjDsI,1:00I0I_lKpgk2i4Cwa,1:00303_bTA61IxAIeV,1:00K0K_fwdAxZMXJcs,1:00L0L_h1xUiDeGpqU,1:00X0X_3liD7Jq4NDw,1:00c0c_551WXVjTWtH,1:01111_bX6Gb8usQmL,1:00202_iBYi1t3qXqT">
+                <span class="result-price">$59500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-09 15:42" title="Mon 09 Dec 03:42:53 PM">Dec  9</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/sherman-1976-ford-bronco-4x4-v8/7035457437.html" data-id="7035457437" class="result-title hdrlnk">1976 Ford Bronco 4x4 V8 Automatic Frame-Off Restored #B34481</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59500</span>
+
+
+                <span class="result-hood"> (Sherman, TX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039627972">
+
+        <a href="https://denver.craigslist.org/cto/d/denver-1971-dodge-charger-rt/7039627972.html" class="result-image gallery" data-ids="1:00i0i_7UsZknBxyET,1:01414_j8laXcyH5Ni,1:00B0B_2HIIcch1kCe,1:01414_9ZGUOsjVVGI,1:00y0y_djNJDsmHwfy,1:00T0T_8wFpCaO7nhL,1:00303_l9KGws6KjQy,1:00101_bIj9P3ilTI,1:00x0x_4PWtbF3s8au,1:00G0G_7NsZGlQlzEN,1:00T0T_bJy6AoDuFiF,1:00b0b_4TvQ4cQlZz6,1:00909_h9BaiZzp84x,1:00B0B_4BTNJq6i3Bw">
+                <span class="result-price">$59500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-16 13:14" title="Mon 16 Dec 01:14:32 PM">Dec 16</time>
+
+
+        <a href="https://denver.craigslist.org/cto/d/denver-1971-dodge-charger-rt/7039627972.html" data-id="7039627972" class="result-title hdrlnk">1971 Dodge Charger RT</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59500</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047027751">
+
+        <a href="https://denver.craigslist.org/ctd/d/mount-vernon-1937-dodge-convertible-hemi/7047027751.html" class="result-image gallery" data-ids="1:01515_flD2z8WjL7S,1:00E0E_lpdSXZXQEju,1:00P0P_h4n7PM6ZAUr,1:00l0l_7wvDYDC0toP,1:00o0o_8vkCE1NrTG2,1:00h0h_jPqriWae3f4,1:00505_7cL3tgQvf0d,1:00E0E_4EIRZTDsJCS,1:00i0i_i1heUnYD8oy,1:00e0e_jXDNRzJhDhB,1:00q0q_iRjLeo0yNJK,1:00L0L_4fulgzvkUEW,1:00E0E_eUOSuzwUtfj,1:00505_8gu0JYH4iQy,1:00i0i_iCpBogcLTl3,1:00x0x_bUSNDeyK9aS,1:00101_4HNpY5L9SV6,1:00t0t_a4bwu8DawgG,1:01212_8R0yFskNpHb,1:00d0d_aNv3OonwLVZ,1:00J0J_bSyAMAufrGW,1:00P0P_civg8TQ28bK,1:00505_hAz5Fryrnw4,1:01616_iDQwaFxTkXo">
+                <span class="result-price">$59500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-30 14:11" title="Mon 30 Dec 02:11:58 PM">Dec 30</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/mount-vernon-1937-dodge-convertible-hemi/7047027751.html" data-id="7047027751" class="result-title hdrlnk">1937 Dodge Convertible HEMI</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59500</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048335561">
+
+        <a href="https://denver.craigslist.org/ctd/d/plant-city-2012-international-4400/7048335561.html" class="result-image gallery" data-ids="1:00j0j_bGn3okYAgVd,1:00k0k_8mvV5ZFa5nQ,1:00E0E_5jyjY1yrebx,1:00M0M_jTlH3B0NdKc,1:00N0N_gQoWwhDn77U,1:00E0E_k1UKJF3LTK0,1:00l0l_3JUgxYoExim,1:00k0k_k9RMJnfW9nQ">
+                <span class="result-price">$59500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 09:15" title="Thu 02 Jan 09:15:27 AM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/plant-city-2012-international-4400/7048335561.html" data-id="7048335561" class="result-title hdrlnk">2012 International 4400 Water Truck</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59500</span>
+
+
+                <span class="result-hood"> (*2012* *International* *4400* *Water* *Truck*)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043597108">
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2018-ford-350sd-lariat-any/7043597108.html" class="result-image gallery" data-ids="1:00i0i_70jteRaAisa,1:00k0k_hClHV3qPeIp,1:00202_aoW5CoxUR24,1:00000_6EDJXeMxglV,1:00K0K_6acT7HZY1Qq,1:00G0G_5KzJRMTjScu,1:00x0x_jnmpxOCeCnn,1:00C0C_3t3l6ifupBT,1:00Q0Q_imUzFPeqCTb,1:00202_cOzYSNzdItf,1:00000_dddFnab4jrp,1:00G0G_g28cAJyeWrq,1:00z0z_k4DixStXWEx,1:00u0u_8Rey2zlmI3T,1:00606_9EGQXgvHFXR,1:00K0K_3GwGbesSiMn,1:00P0P_ajH6BH09uZq,1:00C0C_j7WfgeQivvt,1:00707_dEBOXIrYm5w,1:01212_26Xop1lwdZB,1:00R0R_6aaPfs2zG49,1:00K0K_kfeSF9wVQ7q,1:00r0r_1aFdYwgwbYf,1:01616_eVbhqcZiEz3">
+                <span class="result-price">$59499</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-23 14:00" title="Mon 23 Dec 02:00:54 PM">Dec 23</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2018-ford-350sd-lariat-any/7043597108.html" data-id="7043597108" class="result-title hdrlnk">2018 Ford F-350SD LARIAT - ANY CREDIT OK! SE HABLA ESPANOL!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59499</span>
+
+
+                <span class="result-hood"> (+ Grand Valley Auto - Best Cash Prices - Get A Loan Fast)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049975997">
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2018-ford-350sd-lariat-any/7049975997.html" class="result-image gallery" data-ids="1:00i0i_70jteRaAisa,1:00k0k_hClHV3qPeIp,1:00202_aoW5CoxUR24,1:00000_6EDJXeMxglV,1:00K0K_6acT7HZY1Qq,1:00G0G_5KzJRMTjScu,1:00x0x_jnmpxOCeCnn,1:00C0C_3t3l6ifupBT,1:00Q0Q_imUzFPeqCTb,1:00202_cOzYSNzdItf,1:00000_dddFnab4jrp,1:00G0G_g28cAJyeWrq,1:00z0z_k4DixStXWEx,1:00u0u_8Rey2zlmI3T,1:00606_9EGQXgvHFXR,1:00K0K_3GwGbesSiMn,1:00P0P_ajH6BH09uZq,1:00C0C_j7WfgeQivvt,1:00707_dEBOXIrYm5w,1:01212_26Xop1lwdZB,1:00R0R_6aaPfs2zG49,1:00K0K_kfeSF9wVQ7q,1:00r0r_1aFdYwgwbYf,1:01616_eVbhqcZiEz3">
+                <span class="result-price">$59499</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 16:31" title="Sat 04 Jan 04:31:59 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2018-ford-350sd-lariat-any/7049975997.html" data-id="7049975997" class="result-title hdrlnk">2018 Ford F-350SD LARIAT - ANY CREDIT OK! SE HABLA ESPANOL!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59499</span>
+
+
+                <span class="result-hood"> (+ Grand Valley Auto - Best Cash Prices - Get A Loan Fast)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049980167">
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2018-ford-350sd-lariat-any/7049980167.html" class="result-image gallery" data-ids="1:00i0i_70jteRaAisa,1:00k0k_hClHV3qPeIp,1:00202_aoW5CoxUR24,1:00000_6EDJXeMxglV,1:00K0K_6acT7HZY1Qq,1:00G0G_5KzJRMTjScu,1:00x0x_jnmpxOCeCnn,1:00C0C_3t3l6ifupBT,1:00Q0Q_imUzFPeqCTb,1:00202_cOzYSNzdItf,1:00000_dddFnab4jrp,1:00G0G_g28cAJyeWrq,1:00z0z_k4DixStXWEx,1:00u0u_8Rey2zlmI3T,1:00606_9EGQXgvHFXR,1:00K0K_3GwGbesSiMn,1:00P0P_ajH6BH09uZq,1:00C0C_j7WfgeQivvt,1:00707_dEBOXIrYm5w,1:01212_26Xop1lwdZB,1:00R0R_6aaPfs2zG49,1:00K0K_kfeSF9wVQ7q,1:00r0r_1aFdYwgwbYf,1:01616_eVbhqcZiEz3">
+                <span class="result-price">$59499</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 16:39" title="Sat 04 Jan 04:39:42 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2018-ford-350sd-lariat-any/7049980167.html" data-id="7049980167" class="result-title hdrlnk">2018 Ford F-350SD LARIAT - ANY CREDIT OK! SE HABLA ESPANOL!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59499</span>
+
+
+                <span class="result-hood"> (+ Grand Valley Auto - Best Cash Prices - Get A Loan Fast)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035207678">
+
+        <a href="https://denver.craigslist.org/ctd/d/palm-desert-1968-porsche-912-targa/7035207678.html" class="result-image gallery" data-ids="1:00202_bok1vwX2cAR,1:00404_jsoFl6Rl7NY,1:00f0f_9fuUl1MMTgc,1:00000_hoTXHkoRcnf,1:01515_3eOtFzF3UxQ,1:00000_d99p8tGKoKF,1:01414_7wZIlIraoSf,1:00o0o_j3IZLVbDYSo,1:00v0v_79T7KHMP5Du,1:00a0a_2YDkE1V2aiX,1:00y0y_hZCHwqKz9NS,1:00d0d_kOUb3tsSX7n,1:01010_b2Y7q0ijVF8,1:00Z0Z_7AnCDw2gL70,1:00j0j_IX6OEDOmLP,1:00b0b_2qd5Ew3hydc,1:01616_hsDZGLraaCm,1:00O0O_1XMd1n5DQlf,1:00303_e8H6BXjKC64,1:00g0g_aokHQNbd7jB,1:00f0f_67O9mAleTYt,1:00c0c_b0zEiRUOTIw,1:00W0W_cUScqrV2LeU,1:00d0d_dItMVVqlSAt">
+                <span class="result-price">$59450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-09 10:34" title="Mon 09 Dec 10:34:02 AM">Dec  9</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/palm-desert-1968-porsche-912-targa/7035207678.html" data-id="7035207678" class="result-title hdrlnk">1968 Porsche 912 Targa Coupe - PRICE ROLLBACK</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59450</span>
+
+
+                <span class="result-hood"> (*1969* *Porsche* *912* *Targa* *Black* *on* *black* *Restore)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050247131">
+
+        <a href="https://denver.craigslist.org/ctd/d/palm-desert-1968-porsche-912-targa/7050247131.html" class="result-image gallery" data-ids="1:00202_bok1vwX2cAR,1:00404_jsoFl6Rl7NY,1:00f0f_9fuUl1MMTgc,1:00000_hoTXHkoRcnf,1:01515_3eOtFzF3UxQ,1:00000_d99p8tGKoKF,1:01414_7wZIlIraoSf,1:00o0o_j3IZLVbDYSo,1:00v0v_79T7KHMP5Du,1:00a0a_2YDkE1V2aiX,1:00y0y_hZCHwqKz9NS,1:00d0d_kOUb3tsSX7n,1:00f0f_457ThdxQAxn,1:00I0I_gAyR06KnXrh,1:00j0j_IX6OEDOmLP,1:00L0L_1nWlrHkDRbN,1:01111_sBJunsnHKp,1:01414_bRgGS598AZg,1:01616_hsDZGLraaCm,1:01313_7pFWTwGtzG7,1:00303_e8H6BXjKC64,1:00D0D_eoULEAQnaQy,1:00d0d_dItMVVqlSAt,1:00D0D_kyEwq4UdupR">
+                <span class="result-price">$59450</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 09:41" title="Sun 05 Jan 09:41:19 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/palm-desert-1968-porsche-912-targa/7050247131.html" data-id="7050247131" class="result-title hdrlnk">1968 Porsche 912 Targa Coupe - PRICE ROLLBACK</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59450</span>
+
+
+                <span class="result-hood"> (Desert Private Collection (760) 313-6607)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048001022" data-repost-of="7030343106">
+
+        <a href="https://denver.craigslist.org/cto/d/bandera-most-beautiful-78-4x4-f150-will/7048001022.html" class="result-image gallery" data-ids="1:00404_fPkFlGLMIJ8,1:00808_ek10KaJwDw,1:00V0V_e1yw6dPX0IZ,1:00909_ko7TRG0dIlz,1:00J0J_aUfEVob2bNR,1:00505_cxs0lZC5Fwa,1:00r0r_6NlUekgh0dG,1:00X0X_MeC1FObpnE,1:00F0F_h0IYXcQNIJL,1:00J0J_9oHK0f68Bns,1:00b0b_haAPHdfKcKm,1:00303_g8AHyURnzFm,1:00t0t_gH3oMs2OGBl,1:00i0i_7EGSycOOR70,1:00K0K_hDbWR2MKKVL,1:00000_ZucAYBti4W,1:00r0r_5DmNLHYuFwa,1:00000_1uz3YhYH7DA,1:00n0n_eRbhVP11ybP,1:00606_eftgpDxWnPt">
+                <span class="result-price">$59000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-01 14:51" title="Wed 01 Jan 02:51:40 PM">Jan  1</time>
+
+
+        <a href="https://denver.craigslist.org/cto/d/bandera-most-beautiful-78-4x4-f150-will/7048001022.html" data-id="7048001022" class="result-title hdrlnk">most beautiful 78 4x4 f150 WILL TRADE</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59000</span>
+
+
+                <span class="result-hood"> (bandera tx)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050513809">
+
+        <a href="https://denver.craigslist.org/cto/d/salt-lake-city-2017-transit-250-camper/7050513809.html" class="result-image gallery" data-ids="1:00m0m_3jBID35qGf3,1:00505_2IEELxTgvFJ,1:00W0W_kIsDXJDvNfU,1:00A0A_661lJhGOY35,1:00202_4TDPWrV4Yze,1:00P0P_fnoaJUI8gIM,1:01616_iKNKbLlKG3T,1:00101_2HI2j1tW5BZ,1:00A0A_bwvIVUeg8PZ,1:01010_h15yfPhksk9,1:00H0H_iig7S3sgK,1:01010_bJ1H1km0kBZ,1:00101_dVWFF0ajY9k">
+                <span class="result-price">$59000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 16:47" title="Sun 05 Jan 04:47:28 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/cto/d/salt-lake-city-2017-transit-250-camper/7050513809.html" data-id="7050513809" class="result-title hdrlnk">2017 Transit 250 CAMPER VAN High Top 148”</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$59000</span>
+
+
+                <span class="result-hood"> (SLC, UT)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035914063">
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2015-ford-f550-super-duty/7035914063.html" class="result-image gallery" data-ids="1:00t0t_c2unmIrEcQv,1:01212_6lyVw1twOPD,1:00Y0Y_8inuCAXeJcl,1:00a0a_OAIMJubA53,1:00E0E_3o1JwtzkUnx,1:00h0h_kzm6fIsnr4n,1:00O0O_lykUrRaH3eY,1:00k0k_2rJCRMH6Lwz,1:00z0z_5t6ZVmOmP77,1:00Z0Z_gAs8XIy63tT,1:00r0r_goVpz3KaEzh,1:00q0q_bcqERsAuT6P,1:00K0K_dlnNJddzmpv,1:00O0O_axTr1R064B5,1:00R0R_c3Lhlxkjpt1,1:00202_8rhDh40v1BM,1:00y0y_ga0TbsMOtob,1:00r0r_5uyIERBF2Zg,1:00w0w_guGJ9lHMKjh,1:00Z0Z_4dB84yBJt72,1:01717_aHWSJmsJOGi,1:00V0V_5RuNpCbUAbq,1:00Q0Q_dBKO3a9cp5E,1:00H0H_fQgnENydxgR">
+                <span class="result-price">$58999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-10 11:18" title="Tue 10 Dec 11:18:44 AM">Dec 10</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2015-ford-f550-super-duty/7035914063.html" data-id="7035914063" class="result-title hdrlnk">2015 Ford F550 SUPER DUTY</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$58999</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037154124">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-chevrolet-silverado/7037154124.html" class="result-image gallery" data-ids="1:00x0x_9sClWxxmori,1:00v0v_hgtpY0wbq77,1:00s0s_2YtnZF5ky8z,1:00H0H_1Ij9uwRWXms,1:00202_aqjuSeqmMya,1:00S0S_jGk4Hww66YB,1:00404_8N0aatmdJcU,1:00404_8N0aatmdJcU,1:00S0S_dlgTNIwSStq,1:00S0S_dlgTNIwSStq,1:01313_eeecDKhRtT9,1:01313_eeecDKhRtT9,1:01313_fKlFSX7RWLi,1:00x0x_jSeZkVUFUDi,1:00E0E_3qTG2qO3OOt,1:00A0A_3E1EI5U2ZIH,1:00i0i_7dlOJpT26kd,1:00X0X_5p3vKZbn3ZF,1:00q0q_dAtpYfHM3IX,1:00I0I_1UTZSzF3hYo,1:00h0h_4lo2GgFHYEd,1:00000_7x3BdWS9yqg,1:00F0F_3yTlqZ103TH,1:00N0N_gkP252K4lRM">
+                <span class="result-price">$58995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 10:41" title="Thu 12 Dec 10:41:38 AM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2019-chevrolet-silverado/7037154124.html" data-id="7037154124" class="result-title hdrlnk">2019 *Chevrolet* *Silverado 2500HD* *ONLY 4K MILES .LIF</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$58995</span>
+
+
+                <span class="result-hood"> (TRUCKMAX)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7037391331">
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7037391331.html" class="result-image gallery" data-ids="1:00W0W_avAkg5P3yz1,1:00U0U_iFRP2mtkOc1,1:00u0u_9PPT9TAMRT2,1:00Z0Z_8MjWbOl0uZ2,1:00Z0Z_8MjWbOl0uZ2,1:00v0v_1N0bBcFteNX,1:00606_9B1CJ44Zzbc,1:00606_9B1CJ44Zzbc,1:00R0R_fdCSM52awnI,1:00m0m_ddjZ236GxRD,1:00m0m_ddjZ236GxRD,1:00303_4tCN2lDIBEp,1:00D0D_bb6imA7Un3a,1:00O0O_gXLXgWhi1dt,1:01717_5IYCKt8Q4Ag,1:00D0D_aDVU3NB23y2,1:00G0G_irWlqhys5Wg,1:01414_gMjLu1uckpj,1:00o0o_blPrg4JxkyA,1:00c0c_hjrjQqfZonH,1:00S0S_1mi6o9yObyu,1:00R0R_4nU4bQ9x3uJ,1:00X0X_9fOgje8O5J1,1:01414_fnLuqSFuBIo">
+                <span class="result-price">$58995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-12 16:11" title="Thu 12 Dec 04:11:13 PM">Dec 12</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/scottsdale-2017-ford-super-duty-250-srw/7

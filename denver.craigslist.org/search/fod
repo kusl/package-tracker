@@ -852,7 +852,7 @@ general for sale - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">586</span>
+            <span class="totalcount">587</span>
         </span>
 
         <a href="/search/fod?s=120" class="button next" title="next page">next &gt; </a>
@@ -888,7 +888,47 @@ general for sale - by dealer
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7050998068" data-repost-of="6750387726">
+                             <li class="result-row" data-pid="7051091723" data-repost-of="6558363135">
+
+        <a href="https://denver.craigslist.org/fod/d/denver-yoder-smokers/7051091723.html" class="result-image gallery" data-ids="1:00f0f_duNGJSlPhLj,1:00B0B_feLn2K5EIX8,1:00r0r_2srbWTFJ7rI,1:01717_2JcGjYPfhGt,1:00e0e_7o2eCDnU8JK,1:00s0s_dIIcV6tp162,1:01010_lN6DHkQADZO,1:00E0E_lDmsRBTASMm,1:00H0H_4Htqvrvd9mZ">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:41" title="Mon 06 Jan 02:41:02 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/fod/d/denver-yoder-smokers/7051091723.html" data-id="7051091723" class="result-title hdrlnk">Yoder Smokers</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050998068" data-repost-of="6750387726">
 
         <a href="https://denver.craigslist.org/fod/d/henderson-8x32-mobile-office-unit/7050998068.html" class="result-image gallery" data-ids="1:01616_cR5MHXbXXuG,1:00t0t_4Elinuzw34u">
                 <span class="result-price">$11000</span>
@@ -5588,45 +5628,6 @@ general for sale - by dealer
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047242221">
-
-        <a href="https://denver.craigslist.org/fod/d/broomfield-40-storage-container-for-sale/7047242221.html" class="result-image gallery" data-ids="1:00r0r_25t9lVLOgsD,1:00808_godydTLH0RE">
-                <span class="result-price">$2200</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-30 22:12" title="Mon 30 Dec 10:12:02 PM">Dec 30</time>
-
-
-        <a href="https://denver.craigslist.org/fod/d/broomfield-40-storage-container-for-sale/7047242221.html" data-id="7047242221" class="result-title hdrlnk">40&#39; storage container for sale!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$2200</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5659,7 +5660,7 @@ general for sale - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">586</span>
+            <span class="totalcount">587</span>
         </span>
 
         <a href="/search/fod?s=120" class="button next" title="next page">next &gt; </a>
