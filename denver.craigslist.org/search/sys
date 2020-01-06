@@ -860,7 +860,7 @@ computers - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1799</span>
+            <span class="totalcount">1802</span>
         </span>
 
         <a href="/search/sys?s=120" class="button next" title="next page">next &gt; </a>
@@ -896,7 +896,125 @@ computers - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7047125713">
+                             <li class="result-row" data-pid="7051094442" data-repost-of="6892022828">
+
+        <a href="https://denver.craigslist.org/sys/d/denver-scotts-computer-services/7051094442.html" class="result-image gallery" data-ids="1:00o0o_1C5oEMTJHup">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:48" title="Mon 06 Jan 02:48:34 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/denver-scotts-computer-services/7051094442.html" data-id="7051094442" class="result-title hdrlnk">** SCOTT&#39;S COMPUTER SERVICES **</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="result-hood"> (Downtown Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042005912">
+
+        <a href="https://denver.craigslist.org/sys/d/denver-apple-27-display-screen/7042005912.html" class="result-image gallery" data-ids="1:00l0l_aZ9fxtI4zZw,1:00M0M_lt1JrnucJOj,1:01212_4yiEn5PUYwl,1:00n0n_k3fOpR8hs71,1:00q0q_8jP9Drx4XDB">
+                <span class="result-price">$400</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:43" title="Mon 06 Jan 02:43:41 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/denver-apple-27-display-screen/7042005912.html" data-id="7042005912" class="result-title hdrlnk">Apple 27&quot; Display Screen</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$400</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051089542">
+
+        <a href="https://denver.craigslist.org/sys/d/arvada-microsoft-surface-pro-core-3-5/7051089542.html" class="result-image gallery" data-ids="1:00T0T_1SMxhVZowys,1:00s0s_bEUaZcbyy04">
+                <span class="result-price">$275</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:42" title="Mon 06 Jan 02:42:01 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/arvada-microsoft-surface-pro-core-3-5/7051089542.html" data-id="7051089542" class="result-title hdrlnk">Microsoft Surface Pro Core 3 i-5 8GB Ram 256 gig</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$275</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047125713">
 
         <a href="https://denver.craigslist.org/sys/d/denver-hp-computer-desk-bundle/7047125713.html" class="result-image gallery" data-ids="1:00c0c_gRCPbiOq0d8">
                 <span class="result-price">$300</span>
@@ -5516,126 +5634,6 @@ computers - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050798722">
-
-        <a href="https://denver.craigslist.org/sys/d/boulder-156-laptop-win-10-4gb256gb/7050798722.html" class="result-image gallery" data-ids="1:00X0X_dOszQI8BHLU,1:00101_g2w2gQc8SxR,1:01212_cADCogybFTJ">
-                <span class="result-price">$120</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 08:56" title="Mon 06 Jan 08:56:46 AM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/boulder-156-laptop-win-10-4gb256gb/7050798722.html" data-id="7050798722" class="result-title hdrlnk">15.6&quot; Laptop Win 10 4gb+256gb</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$120</span>
-
-
-                <span class="result-hood"> (Boulder)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7040621512" data-repost-of="6620562569">
-
-        <a href="https://denver.craigslist.org/sys/d/denver-2-laptop-lap-shields/7040621512.html" class="result-image gallery" data-ids="1:00P0P_85HvFmeJqAK,1:00F0F_9iksDx6mGmq,1:00s0s_fg4pa9NklMy,1:00B0B_MKTE9aTbLO">
-                <span class="result-price">$10</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 08:54" title="Mon 06 Jan 08:54:38 AM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/denver-2-laptop-lap-shields/7040621512.html" data-id="7040621512" class="result-title hdrlnk">2 Laptop Lap Shields</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050796641" data-repost-of="6940520346">
-
-        <a href="https://denver.craigslist.org/sys/d/denver-surface-pro-5-i5-256gb-ssd-8gb/7050796641.html" class="result-image gallery" data-ids="1:00X0X_f1gMLzQezrp,1:01010_kAASiZD5EEU,1:00a0a_jgTrJsRisE8">
-                <span class="result-price">$550</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 08:54" title="Mon 06 Jan 08:54:07 AM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/denver-surface-pro-5-i5-256gb-ssd-8gb/7050796641.html" data-id="7050796641" class="result-title hdrlnk">Surface Pro 5 i5 256gb SSD 8gb ram</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$550</span>
-
-
-                <span class="result-hood"> (Denver / Conifer)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5668,7 +5666,7 @@ computers - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1799</span>
+            <span class="totalcount">1802</span>
         </span>
 
         <a href="/search/sys?s=120" class="button next" title="next page">next &gt; </a>

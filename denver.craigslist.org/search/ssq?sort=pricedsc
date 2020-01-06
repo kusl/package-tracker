@@ -285,7 +285,7 @@ for sale by dealer
                value="146" class="catcheck multi_checkbox"
                data-abb="ctd" id="cat_ctd"
                checked="checked">
-        <a href="/search/ctd?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">26128</span>
+        <a href="/search/ctd?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">26135</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -306,14 +306,14 @@ for sale by dealer
                value="162" class="catcheck multi_checkbox"
                data-abb="ppd" id="cat_ppd"
                checked="checked">
-        <a href="/search/ppd?sort=pricedsc" class="category">appliances</a> <span class="count">1416</span>
+        <a href="/search/ppd?sort=pricedsc" class="category">appliances</a> <span class="count">1417</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="206" class="catcheck multi_checkbox"
                data-abb="trb" id="cat_trb"
                checked="checked">
-        <a href="/search/trb?sort=pricedsc" class="category">trailers</a> <span class="count">955</span>
+        <a href="/search/trb?sort=pricedsc" class="category">trailers</a> <span class="count">958</span>
     </li>
 
         <li class="morecats js-only closed">
@@ -321,7 +321,7 @@ for sale by dealer
             <span class="linklike closed"><span class="plusminus">+</span>show 37 more</span>
             <span class="linklike open"><span class="plusminus">&ndash;</span>hide 37 more</span>
 
-            <span class="count">4363</span>
+            <span class="count">4366</span>
     </li>
 </ul>
 
@@ -345,14 +345,14 @@ for sale by dealer
                value="179" class="catcheck multi_checkbox"
                data-abb="fod" id="cat_fod"
                checked="checked">
-        <a href="/search/fod?sort=pricedsc" class="category">general for sale</a> <span class="count">439</span>
+        <a href="/search/fod?sort=pricedsc" class="category">general for sale</a> <span class="count">440</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="174" class="catcheck multi_checkbox"
                data-abb="bfd" id="cat_bfd"
                checked="checked">
-        <a href="/search/bfd?sort=pricedsc" class="category">business</a> <span class="count">414</span>
+        <a href="/search/bfd?sort=pricedsc" class="category">business</a> <span class="count">417</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -366,7 +366,7 @@ for sale by dealer
                value="192" class="catcheck multi_checkbox"
                data-abb="snd" id="cat_snd"
                checked="checked">
-        <a href="/search/snd?sort=pricedsc" class="category">atvs, utvs, snowmobiles</a> <span class="count">331</span>
+        <a href="/search/snd?sort=pricedsc" class="category">atvs, utvs, snowmobiles</a> <span class="count">330</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"

@@ -292,28 +292,28 @@ for sale by owner
                value="5" class="catcheck multi_checkbox"
                data-abb="for" id="cat_for"
                checked="checked">
-        <a href="/search/for?sort=pricedsc" class="category">general for sale</a> <span class="count">10708</span>
+        <a href="/search/for?sort=pricedsc" class="category">general for sale</a> <span class="count">10718</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="122" class="catcheck multi_checkbox"
                data-abb="pts" id="cat_pts"
                checked="checked">
-        <a href="/search/pts?sort=pricedsc" class="category">auto parts</a> <span class="count">9224</span>
+        <a href="/search/pts?sort=pricedsc" class="category">auto parts</a> <span class="count">9249</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="93" class="catcheck multi_checkbox"
                data-abb="spo" id="cat_spo"
                checked="checked">
-        <a href="/search/spo?sort=pricedsc" class="category">sporting goods</a> <span class="count">9167</span>
+        <a href="/search/spo?sort=pricedsc" class="category">sporting goods</a> <span class="count">9186</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="97" class="catcheck multi_checkbox"
                data-abb="hsh" id="cat_hsh"
                checked="checked">
-        <a href="/search/hsh?sort=pricedsc" class="category">household items</a> <span class="count">6579</span>
+        <a href="/search/hsh?sort=pricedsc" class="category">household items</a> <span class="count">6571</span>
     </li>
 
         <li class="morecats js-only closed">
@@ -321,7 +321,7 @@ for sale by owner
             <span class="linklike closed"><span class="plusminus">+</span>show 40 more</span>
             <span class="linklike open"><span class="plusminus">&ndash;</span>hide 40 more</span>
 
-            <span class="count">76866</span>
+            <span class="count">76947</span>
     </li>
 </ul>
 
@@ -331,91 +331,91 @@ for sale by owner
                value="94" class="catcheck multi_checkbox"
                data-abb="clo" id="cat_clo"
                checked="checked">
-        <a href="/search/clo?sort=pricedsc" class="category">clothing &amp; accessories</a> <span class="count">6357</span>
+        <a href="/search/clo?sort=pricedsc" class="category">clothing &amp; accessories</a> <span class="count">6366</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="96" class="catcheck multi_checkbox"
                data-abb="ele" id="cat_ele"
                checked="checked">
-        <a href="/search/ele?sort=pricedsc" class="category">electronics</a> <span class="count">6356</span>
+        <a href="/search/ele?sort=pricedsc" class="category">electronics</a> <span class="count">6362</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="203" class="catcheck multi_checkbox"
                data-abb="wto" id="cat_wto"
                checked="checked">
-        <a href="/search/wto?sort=pricedsc" class="category">auto wheels &amp; tires</a> <span class="count">5414</span>
+        <a href="/search/wto?sort=pricedsc" class="category">auto wheels &amp; tires</a> <span class="count">5418</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="145" class="catcheck multi_checkbox"
                data-abb="cto" id="cat_cto"
                checked="checked">
-        <a href="/search/cto?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">5073</span>
+        <a href="/search/cto?sort=pricedsc" class="category">cars &amp; trucks</a> <span class="count">5084</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="95" class="catcheck multi_checkbox"
                data-abb="clt" id="cat_clt"
                checked="checked">
-        <a href="/search/clt?sort=pricedsc" class="category">collectibles</a> <span class="count">4976</span>
+        <a href="/search/clt?sort=pricedsc" class="category">collectibles</a> <span class="count">4975</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="118" class="catcheck multi_checkbox"
                data-abb="tls" id="cat_tls"
                checked="checked">
-        <a href="/search/tls?sort=pricedsc" class="category">tools</a> <span class="count">4399</span>
+        <a href="/search/tls?sort=pricedsc" class="category">tools</a> <span class="count">4403</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="107" class="catcheck multi_checkbox"
                data-abb="bab" id="cat_bab"
                checked="checked">
-        <a href="/search/bab?sort=pricedsc" class="category">baby &amp; kid stuff</a> <span class="count">3952</span>
+        <a href="/search/bab?sort=pricedsc" class="category">baby &amp; kid stuff</a> <span class="count">3961</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="150" class="catcheck multi_checkbox"
                data-abb="atq" id="cat_atq"
                checked="checked">
-        <a href="/search/atq?sort=pricedsc" class="category">antiques</a> <span class="count">3370</span>
+        <a href="/search/atq?sort=pricedsc" class="category">antiques</a> <span class="count">3373</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="98" class="catcheck multi_checkbox"
                data-abb="msg" id="cat_msg"
                checked="checked">
-        <a href="/search/msg?sort=pricedsc" class="category">musical instruments</a> <span class="count">3330</span>
+        <a href="/search/msg?sort=pricedsc" class="category">musical instruments</a> <span class="count">3336</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="149" class="catcheck multi_checkbox"
                data-abb="app" id="cat_app"
                checked="checked">
-        <a href="/search/app?sort=pricedsc" class="category">appliances</a> <span class="count">3125</span>
+        <a href="/search/app?sort=pricedsc" class="category">appliances</a> <span class="count">3119</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="133" class="catcheck multi_checkbox"
                data-abb="grd" id="cat_grd"
                checked="checked">
-        <a href="/search/grd?sort=pricedsc" class="category">farm &amp; garden</a> <span class="count">2677</span>
+        <a href="/search/grd?sort=pricedsc" class="category">farm &amp; garden</a> <span class="count">2680</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="132" class="catcheck multi_checkbox"
                data-abb="tag" id="cat_tag"
                checked="checked">
-        <a href="/search/tag?sort=pricedsc" class="category">toys &amp; games</a> <span class="count">2634</span>
+        <a href="/search/tag?sort=pricedsc" class="category">toys &amp; games</a> <span class="count">2635</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="68" class="catcheck multi_checkbox"
                data-abb="bik" id="cat_bik"
                checked="checked">
-        <a href="/search/bik?sort=pricedsc" class="category">bicycles</a> <span class="count">2164</span>
+        <a href="/search/bik?sort=pricedsc" class="category">bicycles</a> <span class="count">2166</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -429,42 +429,42 @@ for sale by owner
                value="7" class="catcheck multi_checkbox"
                data-abb="sys" id="cat_sys"
                checked="checked">
-        <a href="/search/sys?sort=pricedsc" class="category">computers</a> <span class="count">1753</span>
+        <a href="/search/sys?sort=pricedsc" class="category">computers</a> <span class="count">1755</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="135" class="catcheck multi_checkbox"
                data-abb="art" id="cat_art"
                checked="checked">
-        <a href="/search/art?sort=pricedsc" class="category">arts &amp; crafts</a> <span class="count">1687</span>
+        <a href="/search/art?sort=pricedsc" class="category">arts &amp; crafts</a> <span class="count">1690</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="136" class="catcheck multi_checkbox"
                data-abb="mat" id="cat_mat"
                checked="checked">
-        <a href="/search/mat?sort=pricedsc" class="category">materials</a> <span class="count">1478</span>
+        <a href="/search/mat?sort=pricedsc" class="category">materials</a> <span class="count">1479</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="120" class="catcheck multi_checkbox"
                data-abb="jwl" id="cat_jwl"
                checked="checked">
-        <a href="/search/jwl?sort=pricedsc" class="category">jewelry</a> <span class="count">1462</span>
+        <a href="/search/jwl?sort=pricedsc" class="category">jewelry</a> <span class="count">1471</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="195" class="catcheck multi_checkbox"
                data-abb="mpo" id="cat_mpo"
                checked="checked">
-        <a href="/search/mpo?sort=pricedsc" class="category">motorcycle parts &amp; accessories</a> <span class="count">1311</span>
+        <a href="/search/mpo?sort=pricedsc" class="category">motorcycle parts &amp; accessories</a> <span class="count">1313</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="134" class="catcheck multi_checkbox"
                data-abb="bfs" id="cat_bfs"
                checked="checked">
-        <a href="/search/bfs?sort=pricedsc" class="category">business</a> <span class="count">1305</span>
+        <a href="/search/bfs?sort=pricedsc" class="category">business</a> <span class="count">1306</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -478,56 +478,56 @@ for sale by owner
                value="197" class="catcheck multi_checkbox"
                data-abb="bop" id="cat_bop"
                checked="checked">
-        <a href="/search/bop?sort=pricedsc" class="category">bicycle parts</a> <span class="count">1122</span>
+        <a href="/search/bop?sort=pricedsc" class="category">bicycle parts</a> <span class="count">1126</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="153" class="catcheck multi_checkbox"
                data-abb="mob" id="cat_mob"
                checked="checked">
-        <a href="/search/mob?sort=pricedsc" class="category">cell phones</a> <span class="count">1080</span>
+        <a href="/search/mob?sort=pricedsc" class="category">cell phones</a> <span class="count">1082</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="137" class="catcheck multi_checkbox"
                data-abb="pho" id="cat_pho"
                checked="checked">
-        <a href="/search/pho?sort=pricedsc" class="category">photo/video</a> <span class="count">1050</span>
+        <a href="/search/pho?sort=pricedsc" class="category">photo/video</a> <span class="count">1059</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="193" class="catcheck multi_checkbox"
                data-abb="hvo" id="cat_hvo"
                checked="checked">
-        <a href="/search/hvo?sort=pricedsc" class="category">heavy equipment</a> <span class="count">1047</span>
+        <a href="/search/hvo?sort=pricedsc" class="category">heavy equipment</a> <span class="count">1038</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="92" class="catcheck multi_checkbox"
                data-abb="bks" id="cat_bks"
                checked="checked">
-        <a href="/search/bks?sort=pricedsc" class="category">books &amp; magazines</a> <span class="count">935</span>
+        <a href="/search/bks?sort=pricedsc" class="category">books &amp; magazines</a> <span class="count">937</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="199" class="catcheck multi_checkbox"
                data-abb="sop" id="cat_sop"
                checked="checked">
-        <a href="/search/sop?sort=pricedsc" class="category">computer parts</a> <span class="count">918</span>
+        <a href="/search/sop?sort=pricedsc" class="category">computer parts</a> <span class="count">921</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="191" class="catcheck multi_checkbox"
                data-abb="snw" id="cat_snw"
                checked="checked">
-        <a href="/search/snw?sort=pricedsc" class="category">atvs, utvs, snowmobiles</a> <span class="count">902</span>
+        <a href="/search/snw?sort=pricedsc" class="category">atvs, utvs, snowmobiles</a> <span class="count">903</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="151" class="catcheck multi_checkbox"
                data-abb="vgm" id="cat_vgm"
                checked="checked">
-        <a href="/search/vgm?sort=pricedsc" class="category">video gaming</a> <span class="count">775</span>
+        <a href="/search/vgm?sort=pricedsc" class="category">video gaming</a> <span class="count">776</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -541,7 +541,7 @@ for sale by owner
                value="69" class="catcheck multi_checkbox"
                data-abb="mcy" id="cat_mcy"
                checked="checked">
-        <a href="/search/mcy?sort=pricedsc" class="category">motorcycles/scooters</a> <span class="count">549</span>
+        <a href="/search/mcy?sort=pricedsc" class="category">motorcycles/scooters</a> <span class="count">548</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -555,35 +555,35 @@ for sale by owner
                value="117" class="catcheck multi_checkbox"
                data-abb="emd" id="cat_emd"
                checked="checked">
-        <a href="/search/emd?sort=pricedsc" class="category">cds / dvds / vhs</a> <span class="count">505</span>
+        <a href="/search/emd?sort=pricedsc" class="category">cds / dvds / vhs</a> <span class="count">504</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="124" class="catcheck multi_checkbox"
                data-abb="rvs" id="cat_rvs"
                checked="checked">
-        <a href="/search/rvs?sort=pricedsc" class="category">recreational vehicles</a> <span class="count">278</span>
+        <a href="/search/rvs?sort=pricedsc" class="category">recreational vehicles</a> <span class="count">280</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="119" class="catcheck multi_checkbox"
                data-abb="boa" id="cat_boa"
                checked="checked">
-        <a href="/search/boa?sort=pricedsc" class="category">boats</a> <span class="count">258</span>
+        <a href="/search/boa?sort=pricedsc" class="category">boats</a> <span class="count">257</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="208" class="catcheck multi_checkbox"
                data-abb="avo" id="cat_avo"
                checked="checked">
-        <a href="/search/avo?sort=pricedsc" class="category">aviation</a> <span class="count">107</span>
+        <a href="/search/avo?sort=pricedsc" class="category">aviation</a> <span class="count">106</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="201" class="catcheck multi_checkbox"
                data-abb="bpo" id="cat_bpo"
                checked="checked">
-        <a href="/search/bpo?sort=pricedsc" class="category">boat parts &amp; accessories</a> <span class="count">90</span>
+        <a href="/search/bpo?sort=pricedsc" class="category">boat parts &amp; accessories</a> <span class="count">91</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -4941,43 +4941,6 @@ for sale by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="6889176922">
-
-        <a href="https://denver.craigslist.org/bfs/d/montrose-landscape-company/6889176922.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-06-07 21:09" title="Fri 07 Jun 09:09:23 PM">Jun  7</time>
-
-
-        <a href="https://denver.craigslist.org/bfs/d/montrose-landscape-company/6889176922.html" data-id="6889176922" class="result-title hdrlnk">Landscape company</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$185000</span>
-
-
-                <span class="result-hood"> (Montrose)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7032420708">
 
         <a href="https://denver.craigslist.org/bfs/d/broomfield-marijuana-grow-supply/7032420708.html" class="result-image gallery" data-ids="1:00x0x_8PZ7121fMe,1:00p0p_9h6QFaXUs4t,1:00L0L_amtzG1Jjkvx,1:00A0A_beKmfuPMRuj,1:00E0E_imLNEbUecpe,1:00F0F_5hmXyXAhyhv">
@@ -5903,6 +5866,46 @@ for sale by owner
 
 
         <a href="https://denver.craigslist.org/bfs/d/littleton-office-warehouse/7043982852.html" data-id="7043982852" class="result-title hdrlnk">Office Warehouse</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$145000</span>
+
+
+                <span class="result-hood"> (Highlands Ranch)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044018341">
+
+        <a href="https://denver.craigslist.org/for/d/littleton-warehouse-rv-storage/7044018341.html" class="result-image gallery" data-ids="1:00505_jrdDlBELlSe,1:00l0l_43VZCREwYs,1:00J0J_jO0yC2162Nc">
+                <span class="result-price">$145000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 09:35" title="Sat 04 Jan 09:35:37 AM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/for/d/littleton-warehouse-rv-storage/7044018341.html" data-id="7044018341" class="result-title hdrlnk">Warehouse/RV/Storage</a>
 
 
         <span class="result-meta">

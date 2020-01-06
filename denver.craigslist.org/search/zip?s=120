@@ -865,7 +865,47 @@ free stuff
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7048080959">
+                             <li class="result-row" data-pid="7049023266">
+
+        <a href="https://denver.craigslist.org/zip/d/black-hawk-work-bench/7049023266.html" class="result-image gallery" data-ids="1:00k0k_jBshnDTWcXs">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 14:07" title="Sun 05 Jan 02:07:15 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/zip/d/black-hawk-work-bench/7049023266.html" data-id="7049023266" class="result-title hdrlnk">Work Bench</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="result-hood"> (Central City)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048080959">
 
         <a href="https://denver.craigslist.org/zip/d/englewood-working-treadmill-ceiling-fan/7048080959.html" class="result-image gallery empty"></a>
 
@@ -5400,43 +5440,6 @@ free stuff
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7047518403" data-repost-of="6777765372">
-
-        <a href="https://denver.craigslist.org/zip/d/littleton-frameless-oval-mirrors/7047518403.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 12:19" title="Sat 04 Jan 12:19:54 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/zip/d/littleton-frameless-oval-mirrors/7047518403.html" data-id="7047518403" class="result-title hdrlnk">Frameless oval mirrors</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (Lone Tree)</span>
-
-                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">

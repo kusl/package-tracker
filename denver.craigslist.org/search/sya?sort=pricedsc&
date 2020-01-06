@@ -862,7 +862,7 @@ computers
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1789</span>
+            <span class="totalcount">1790</span>
         </span>
 
         <a href="/search/sya?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -2421,46 +2421,6 @@ computers
                 <span class="result-price">$2250</span>
 
 
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="6885500559">
-
-        <a href="https://denver.craigslist.org/sys/d/aurora-nvidia-mining-rig/6885500559.html" class="result-image gallery" data-ids="1:00G0G_f66namdaKp7,1:00L0L_jgWro59iKlH">
-                <span class="result-price">$2200</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-06-07 13:40" title="Fri 07 Jun 01:40:54 PM">Jun  7</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/aurora-nvidia-mining-rig/6885500559.html" data-id="6885500559" class="result-title hdrlnk">NVIDIA Mining Rig</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$2200</span>
-
-
-                <span class="result-hood"> (Aurora)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5650,6 +5610,46 @@ computers
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7022219649">
+
+        <a href="https://denver.craigslist.org/sys/d/arvada-macbook-pro-13-inch-with-extras/7022219649.html" class="result-image gallery" data-ids="1:01717_l59cxZVkcdo">
+                <span class="result-price">$1200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-15 23:58" title="Sun 15 Dec 11:58:46 PM">Dec 15</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/arvada-macbook-pro-13-inch-with-extras/7022219649.html" data-id="7022219649" class="result-title hdrlnk">Macbook Pro 13-inch With Extras Hdrive SSD</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1200</span>
+
+
+                <span class="result-hood"> (Arvada)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5682,7 +5682,7 @@ computers
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1789</span>
+            <span class="totalcount">1790</span>
         </span>
 
         <a href="/search/sya?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

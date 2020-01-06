@@ -898,7 +898,126 @@ appliances - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7042682756">
+                             <li class="result-row" data-pid="7037975193">
+
+        <a href="https://denver.craigslist.org/app/d/denver-bissell-premier-pet-carpet/7037975193.html" class="result-image gallery" data-ids="1:00101_9UFIfuDtEZV,1:00H0H_2utXt83RiFO">
+                <span class="result-price">$95</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:00" title="Mon 06 Jan 03:00:24 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/app/d/denver-bissell-premier-pet-carpet/7037975193.html" data-id="7037975193" class="result-title hdrlnk">Bissell Premier Pet Carpet Cleaner</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$95</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041106572" data-repost-of="7036255245">
+
+        <a href="https://denver.craigslist.org/app/d/arvada-microwave-drawer/7041106572.html" class="result-image gallery" data-ids="1:00y0y_1BHbKFbzGpQ,1:00T0T_lXA2T008iBt,1:01010_7kVEKgmi6eE">
+                <span class="result-price">$550</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:48" title="Mon 06 Jan 02:48:06 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/app/d/arvada-microwave-drawer/7041106572.html" data-id="7041106572" class="result-title hdrlnk">Microwave drawer</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$550</span>
+
+
+                <span class="result-hood"> (Arvada)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051089826">
+
+        <a href="https://denver.craigslist.org/app/d/denver-hoover-floormate-hard-floor/7051089826.html" class="result-image gallery" data-ids="1:00202_lFuFoXc50MJ,1:00a0a_cKJZ3FCmnOe,1:00U0U_iarLt8edLSH,1:00s0s_dQp8BjEFQ0F,1:00p0p_bKdrLjPBxJ8,1:00y0y_iEXjjws0eyQ,1:00v0v_hPIzestCYKk,1:00d0d_jmL5S5U8A74">
+                <span class="result-price">$50</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:43" title="Mon 06 Jan 02:43:25 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/app/d/denver-hoover-floormate-hard-floor/7051089826.html" data-id="7051089826" class="result-title hdrlnk">Hoover  FloorMate Hard Floor Cleaner</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$50</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042682756">
 
         <a href="https://denver.craigslist.org/app/d/denver-kenmore-above-stove-2016/7042682756.html" class="result-image gallery" data-ids="1:00O0O_6AjYsrUHmw9,1:00q0q_kPX9pQK9RX1,1:00U0U_hOBYsqbksAB">
                 <span class="result-price">$20</span>
@@ -2227,46 +2346,6 @@ appliances - by owner
 
 
                 <span class="result-hood"> (brighton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051009245">
-
-        <a href="https://denver.craigslist.org/app/d/denver-chairs/7051009245.html" class="result-image gallery" data-ids="1:00q0q_82MY9lXU7b,1:01010_ha0qytLXi8R">
-                <span class="result-price">$20</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 13:21" title="Mon 06 Jan 01:21:09 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/app/d/denver-chairs/7051009245.html" data-id="7051009245" class="result-title hdrlnk">Chairs</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$20</span>
-
-
-                <span class="result-hood"> (denver)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5552,86 +5631,6 @@ appliances - by owner
 
 
                 <span class="result-hood"> (Longmont)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7047423778">
-
-        <a href="https://denver.craigslist.org/app/d/arvada-sears-craftsman-wet-dry-vacuum/7047423778.html" class="result-image gallery" data-ids="1:00L0L_jW9IKpoN50S,1:00k0k_6eltZ3uDzjk">
-                <span class="result-price">$0</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 09:13" title="Mon 06 Jan 09:13:48 AM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/app/d/arvada-sears-craftsman-wet-dry-vacuum/7047423778.html" data-id="7047423778" class="result-title hdrlnk">Sears Craftsman Wet/dry vacuum **FREE</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (Arvada)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7049631264">
-
-        <a href="https://denver.craigslist.org/app/d/castle-rock-ge-washer-and-electric/7049631264.html" class="result-image gallery" data-ids="1:00Q0Q_dtUW58MzbUA,1:00v0v_d4c0QP6tEf7,1:00q0q_223kNULNxPK">
-                <span class="result-price">$275</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 09:11" title="Mon 06 Jan 09:11:00 AM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/app/d/castle-rock-ge-washer-and-electric/7049631264.html" data-id="7049631264" class="result-title hdrlnk">GE washer and electric dryer set for sale.</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$275</span>
-
-
-                <span class="result-hood"> (Parker, Co)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
