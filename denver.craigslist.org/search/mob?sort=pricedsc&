@@ -909,7 +909,7 @@ cell phones - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1073</span>
+            <span class="totalcount">1081</span>
         </span>
 
         <a href="/search/mob?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -3055,6 +3055,46 @@ cell phones - by owner
 
 
                 <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048980503">
+
+        <a href="https://denver.craigslist.org/mob/d/arvada-samsung-galaxy-note-gb-verizon/7048980503.html" class="result-image gallery" data-ids="1:00606_ld2GVrgywaO,1:00505_dFu0ZhfsvJc,1:00a0a_i5GNuIC5ZOH">
+                <span class="result-price">$750</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:24" title="Mon 06 Jan 03:24:54 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mob/d/arvada-samsung-galaxy-note-gb-verizon/7048980503.html" data-id="7048980503" class="result-title hdrlnk">Samsung Galaxy Note 10+ 256GB Verizon</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$750</span>
+
+
+                <span class="result-hood"> (Arvada)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5623,46 +5663,6 @@ cell phones - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047715544" data-repost-of="7013336865">
-
-        <a href="https://denver.craigslist.org/mob/d/littleton-iphone-xs-64g-verizon-like/7047715544.html" class="result-image gallery" data-ids="1:00D0D_cf7diQ2Y3hf,1:00j0j_d9yePN5zrXM,1:00X0X_FoATP9T8bm,1:00C0C_3Iic6svz1ZY,1:00707_bRdkfJ8NjGu,1:00l0l_boWHLFkd445">
-                <span class="result-price">$650</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-31 21:50" title="Tue 31 Dec 09:50:41 PM">Dec 31</time>
-
-
-        <a href="https://denver.craigslist.org/mob/d/littleton-iphone-xs-64g-verizon-like/7047715544.html" data-id="7047715544" class="result-title hdrlnk">iPhone XS 64G Verizon - Like New Plus Extras!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$650</span>
-
-
-                <span class="result-hood"> (Centennial)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5695,7 +5695,7 @@ cell phones - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1073</span>
+            <span class="totalcount">1081</span>
         </span>
 
         <a href="/search/mob?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

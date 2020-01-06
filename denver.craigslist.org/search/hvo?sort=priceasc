@@ -862,7 +862,7 @@ heavy equipment - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1045</span>
+            <span class="totalcount">1047</span>
         </span>
 
         <a href="/search/hvo?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -2336,6 +2336,45 @@ heavy equipment - by owner
 
 
                 <span class="result-hood"> (Broomfield)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039706975" data-repost-of="6855300940">
+
+        <a href="https://denver.craigslist.org/hvo/d/bennett-bobcat-skidsteer-operation/7039706975.html" class="result-image gallery" data-ids="1:00505_7keHc5EjAgp,1:01212_4HUZVj2D7Js">
+                <span class="result-price">$10</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:22" title="Mon 06 Jan 03:22:27 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/hvo/d/bennett-bobcat-skidsteer-operation/7039706975.html" data-id="7039706975" class="result-title hdrlnk">Bobcat Skidsteer Operation Maintenance Service Manual</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$10</span>
+
+
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5598,46 +5637,6 @@ heavy equipment - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7035454600" data-repost-of="7009444968">
-
-        <a href="https://denver.craigslist.org/hvo/d/denver-cabelas-champion-3800w-generator/7035454600.html" class="result-image gallery" data-ids="1:00I0I_g8QXfkXpZn0,1:01616_hLpRObxPCTm">
-                <span class="result-price">$250</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-13 11:18" title="Fri 13 Dec 11:18:57 AM">Dec 13</time>
-
-
-        <a href="https://denver.craigslist.org/hvo/d/denver-cabelas-champion-3800w-generator/7035454600.html" data-id="7035454600" class="result-title hdrlnk">Cabelas/champion 3800w generator</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$250</span>
-
-
-                <span class="result-hood"> (Lakewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5670,7 +5669,7 @@ heavy equipment - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1045</span>
+            <span class="totalcount">1047</span>
         </span>
 
         <a href="/search/hvo?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

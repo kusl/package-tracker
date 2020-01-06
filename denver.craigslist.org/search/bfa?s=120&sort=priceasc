@@ -855,7 +855,7 @@ business
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1722</span>
+            <span class="totalcount">1723</span>
         </span>
 
         <a href="/search/bfa?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -5261,46 +5261,6 @@ business
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7044996462">
-
-        <a href="https://denver.craigslist.org/bfs/d/santa-fe-restaurant-fully-stocked-santa/7044996462.html" class="result-image gallery" data-ids="1:00k0k_2JKMHsLFM0W,1:00101_xelsgluGqf,1:00707_jcV85CaFUyv">
-                <span class="result-price">$20</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 14:32" title="Sat 04 Jan 02:32:26 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/bfs/d/santa-fe-restaurant-fully-stocked-santa/7044996462.html" data-id="7044996462" class="result-title hdrlnk">RESTAURANT  *  FULLY STOCKED *  SANTA FE</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$20</span>
-
-
-                <span class="result-hood"> (DOWNTOWN SANTA FE NM)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7045292817">
 
         <a href="https://denver.craigslist.org/bfs/d/castle-rock-music-on-hold-system/7045292817.html" class="result-image gallery" data-ids="1:00Q0Q_4ARdkgWBUzS">
@@ -5660,6 +5620,46 @@ business
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7049550347" data-repost-of="7031783161">
+
+        <a href="https://denver.craigslist.org/bfs/d/arvada-led-flashlights-20-total/7049550347.html" class="result-image gallery" data-ids="1:00i0i_49dmBQhyycc,1:00X0X_fkG2QiNIIqz,1:00404_dMUU8dRGb6R">
+                <span class="result-price">$20</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 13:51" title="Mon 06 Jan 01:51:05 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bfs/d/arvada-led-flashlights-20-total/7049550347.html" data-id="7049550347" class="result-title hdrlnk">LED Flashlights- 20 total</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (Arvada(64th and Sheridan))</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5692,7 +5692,7 @@ business
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1722</span>
+            <span class="totalcount">1723</span>
         </span>
 
         <a href="/search/bfa?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

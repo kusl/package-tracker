@@ -918,7 +918,7 @@ cds / dvds / vhs - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">537</span>
+            <span class="totalcount">544</span>
         </span>
 
         <a href="/search/emd?s=240" class="button next" title="next page">next &gt; </a>
@@ -954,7 +954,47 @@ cds / dvds / vhs - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7049916216">
+                             <li class="result-row" data-pid="7038539177" data-repost-of="6975651418">
+
+        <a href="https://denver.craigslist.org/emd/d/denver-298-blues-soul-rb-45s/7038539177.html" class="result-image gallery" data-ids="1:00K0K_khhybtGSDb5,1:00i0i_f3iATWJBq4v,1:01212_gwlP1GDZ3lH">
+                <span class="result-price">$100</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 15:05" title="Sat 04 Jan 03:05:57 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/emd/d/denver-298-blues-soul-rb-45s/7038539177.html" data-id="7038539177" class="result-title hdrlnk">298 Blues Soul R&amp;B 45s</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="result-hood"> (Wheat Ridge)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049916216">
 
         <a href="https://denver.craigslist.org/emd/d/dupont-7-cdsall-for-5/7049916216.html" class="result-image gallery" data-ids="1:00D0D_9QI6mfFYRBQ">
                 <span class="result-price">$5</span>
@@ -5653,46 +5693,6 @@ cds / dvds / vhs - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7039349509">
-
-        <a href="https://denver.craigslist.org/emd/d/denver-lot-of-disney-vhs-tapes/7039349509.html" class="result-image gallery" data-ids="1:00D0D_dQ6dxrq6E0v,1:01515_lkZskUqv95,1:00h0h_8bCG8zCz1KD">
-                <span class="result-price">$150</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-28 07:36" title="Sat 28 Dec 07:36:06 AM">Dec 28</time>
-
-
-        <a href="https://denver.craigslist.org/emd/d/denver-lot-of-disney-vhs-tapes/7039349509.html" data-id="7039349509" class="result-title hdrlnk">Lot of Disney vhs tapes</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$150</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5725,7 +5725,7 @@ cds / dvds / vhs - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">537</span>
+            <span class="totalcount">544</span>
         </span>
 
         <a href="/search/emd?s=240" class="button next" title="next page">next &gt; </a>

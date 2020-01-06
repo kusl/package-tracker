@@ -862,7 +862,7 @@ jewelry - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1471</span>
+            <span class="totalcount">1473</span>
         </span>
 
         <a href="/search/jwl?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -1593,6 +1593,46 @@ jewelry - by owner
 
 
                 <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6982767890" data-repost-of="5198915830">
+
+        <a href="https://denver.craigslist.org/jwl/d/snow-sparkle-earrings/6982767890.html" class="result-image gallery" data-ids="0:00202_aix3RZP2iz7">
+                <span class="result-price">$2</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-10-07 11:04" title="Mon 07 Oct 11:04:44 AM">Oct  7</time>
+
+
+        <a href="https://denver.craigslist.org/jwl/d/snow-sparkle-earrings/6982767890.html" data-id="6982767890" class="result-title hdrlnk">Snow Sparkle Earrings</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2</span>
+
+
+                <span class="result-hood"> (Wheat Ridge)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5643,46 +5683,6 @@ jewelry - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7034754341">
-
-        <a href="https://denver.craigslist.org/jwl/d/denver-new-druzy-pendant/7034754341.html" class="result-image gallery" data-ids="1:00r0r_eQbusU6iZpm,1:00Q0Q_4PYEm3PgNrf,1:00z0z_52T1ihdf1N,1:00J0J_3DTyEisdsDZ,1:00h0h_lksWw5DhChm">
-                <span class="result-price">$10</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-01 05:09" title="Wed 01 Jan 05:09:29 AM">Jan  1</time>
-
-
-        <a href="https://denver.craigslist.org/jwl/d/denver-new-druzy-pendant/7034754341.html" data-id="7034754341" class="result-title hdrlnk">•NEW• Druzy Pendant</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10</span>
-
-
-                <span class="result-hood"> (North Area)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5715,7 +5715,7 @@ jewelry - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1471</span>
+            <span class="totalcount">1473</span>
         </span>
 
         <a href="/search/jwl?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

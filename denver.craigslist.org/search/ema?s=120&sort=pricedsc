@@ -920,7 +920,7 @@ cds / dvds / vhs
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">505</span>
+            <span class="totalcount">506</span>
         </span>
 
         <a href="/search/ema?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -956,7 +956,47 @@ cds / dvds / vhs
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7018770246">
+                             <li class="result-row" data-pid="7039416881">
+
+        <a href="https://denver.craigslist.org/emd/d/denver-promo-screener-of-the-running/7039416881.html" class="result-image gallery" data-ids="1:00j0j_hJoB2rLAqEH,1:00p0p_1O4DqKzPdUx,1:00z0z_hYURNdYInN8,1:00g0g_aq8AAVfJhJN,1:00z0z_4am5nNbw4hV,1:00y0y_4n5a6niA0dX,1:00U0U_7reS0ujZJxK,1:00k0k_9q9I8ZEHZGr,1:00R0R_duCO0WxVXW9,1:00O0O_43n7TqgsTZm,1:00v0v_baqFLjTsTMy,1:01414_78DPDmKWHM,1:00m0m_aRLYexXIU7E">
+                <span class="result-price">$43</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-16 09:01" title="Mon 16 Dec 09:01:19 AM">Dec 16</time>
+
+
+        <a href="https://denver.craigslist.org/emd/d/denver-promo-screener-of-the-running/7039416881.html" data-id="7039416881" class="result-title hdrlnk">PROMO SCREENER OF “THE RUNNING MAN” ARNOLD SCHWARZENEGGER</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$43</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7018770246">
 
         <a href="https://denver.craigslist.org/emd/d/denver-albums-the-4-seasons-folk-nanny/7018770246.html" class="result-image gallery" data-ids="1:00202_hWvOD402jtY,1:00K0K_idUJr512oNN,1:00z0z_1LTqzJYwnQw,1:00I0I_bF92VBnFwxY">
                 <span class="result-price">$40</span>
@@ -5655,46 +5695,6 @@ cds / dvds / vhs
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7016487539" data-repost-of="6933081624">
-
-        <a href="https://denver.craigslist.org/emd/d/littleton-the-best-of-friends-1-4/7016487539.html" class="result-image gallery" data-ids="1:00202_gg2jYcI6Owe">
-                <span class="result-price">$15</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-06 20:29" title="Fri 06 Dec 08:29:25 PM">Dec  6</time>
-
-
-        <a href="https://denver.craigslist.org/emd/d/littleton-the-best-of-friends-1-4/7016487539.html" data-id="7016487539" class="result-title hdrlnk">The Best of Friends V 1-4</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$15</span>
-
-
-                <span class="result-hood"> (Littleton/Lakewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5727,7 +5727,7 @@ cds / dvds / vhs
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">505</span>
+            <span class="totalcount">506</span>
         </span>
 
         <a href="/search/ema?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
