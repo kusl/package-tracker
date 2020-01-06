@@ -862,7 +862,7 @@ atvs, utvs, snowmobiles
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1232</span>
+            <span class="totalcount">1233</span>
         </span>
 
         <a href="/search/sna?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -1866,6 +1866,46 @@ atvs, utvs, snowmobiles
 
 
                 <span class="result-hood"> (Englewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051070581">
+
+        <a href="https://denver.craigslist.org/snw/d/aurora-atv-motorcycle-tires-used-cheap/7051070581.html" class="result-image gallery" data-ids="1:01111_tYh9gob3gP,1:00202_anpDvI8UICS">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:41" title="Mon 06 Jan 02:41:40 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/snw/d/aurora-atv-motorcycle-tires-used-cheap/7051070581.html" data-id="7051070581" class="result-title hdrlnk">ATV Motorcycle Tires USED CHEAP</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -4343,46 +4383,6 @@ atvs, utvs, snowmobiles
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7043587069" data-repost-of="6861439539">
-
-        <a href="https://denver.craigslist.org/snw/d/denver-arctic-cat-belts-new-s/7043587069.html" class="result-image gallery" data-ids="1:00j0j_1MzzXtEWppq,1:00606_a5bcTLyiNEt">
-                <span class="result-price">$59</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-03 13:25" title="Fri 03 Jan 01:25:28 PM">Jan  3</time>
-
-
-        <a href="https://denver.craigslist.org/snw/d/denver-arctic-cat-belts-new-s/7043587069.html" data-id="7043587069" class="result-title hdrlnk">ARCTIC CAT BELTS **NEW** 2012-2017&#39;s</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$59</span>
-
-
-                <span class="result-hood"> (LAKEWOOD)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7025994956">
 
         <a href="https://denver.craigslist.org/snw/d/henderson-yamaha-raptor-pack-rack/7025994956.html" class="result-image gallery" data-ids="1:01515_hcoo1zpQXa0,1:00B0B_176wW0yzri3">
@@ -5686,7 +5686,7 @@ atvs, utvs, snowmobiles
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1232</span>
+            <span class="totalcount">1233</span>
         </span>
 
         <a href="/search/sna?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

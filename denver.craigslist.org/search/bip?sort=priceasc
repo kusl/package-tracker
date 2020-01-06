@@ -862,7 +862,7 @@ bicycle parts
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1125</span>
+            <span class="totalcount">1131</span>
         </span>
 
         <a href="/search/bip?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -2387,6 +2387,46 @@ bicycle parts
 
 
                 <span class="result-hood"> (Arvada)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049810680">
+
+        <a href="https://denver.craigslist.org/bop/d/littleton-parts-bin-clean-out/7049810680.html" class="result-image gallery" data-ids="1:00f0f_k5W4jjQSxkB,1:00b0b_g701saUhGnp,1:00P0P_3ETTRMvHcXu,1:00B0B_jDNWP2OclV4,1:00l0l_kvxxm3dOeaw,1:00y0y_2gh6QrehEX3,1:00g0g_6EXd0yKLC4l,1:00C0C_i0svkNf7pTC,1:01717_1wog4sax6uw,1:01616_8sVl4jdsdrM,1:00A0A_bynMUEMkGSY,1:00L0L_iBPsiBCiZOJ,1:00x0x_drjKzn069Ai,1:00X0X_id0r3WmXZSX,1:01212_iaBIvNxoo25,1:00000_jC0dmBfGL7s,1:00F0F_7zMFKtni2ox,1:00v0v_dneRw9Pn1kL,1:00f0f_wv63ydb7hO,1:00J0J_7vrtkjFAn5O,1:00X0X_57HdD3cRfto,1:00m0m_dCeBPRr2QL7,1:00r0r_dGJF0QV2Xp3,1:00a0a_5inhE43Qfcw">
+                <span class="result-price">$5</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:43" title="Mon 06 Jan 02:43:16 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bop/d/littleton-parts-bin-clean-out/7049810680.html" data-id="7049810680" class="result-title hdrlnk">Parts Bin Clean Out</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5638,46 +5678,6 @@ bicycle parts
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7038724353" data-repost-of="6614087854">
-
-        <a href="https://denver.craigslist.org/bop/d/bull-horn-bars-new/7038724353.html" class="result-image gallery" data-ids="1:00101_jIuVwgrOBwu">
-                <span class="result-price">$15</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-02 19:56" title="Thu 02 Jan 07:56:52 PM">Jan  2</time>
-
-
-        <a href="https://denver.craigslist.org/bop/d/bull-horn-bars-new/7038724353.html" data-id="7038724353" class="result-title hdrlnk">Bull Horn Bars (New)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$15</span>
-
-
-                <span class="result-hood"> (Denver metro)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5710,7 +5710,7 @@ bicycle parts
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1125</span>
+            <span class="totalcount">1131</span>
         </span>
 
         <a href="/search/bip?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

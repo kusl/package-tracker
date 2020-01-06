@@ -854,7 +854,7 @@ books &amp; magazines
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">933</span>
+            <span class="totalcount">936</span>
         </span>
 
         <a href="/search/bka?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -4283,6 +4283,46 @@ books &amp; magazines
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7051091953">
+
+        <a href="https://denver.craigslist.org/bks/d/denver-quickbooks-complete-2018/7051091953.html" class="result-image gallery" data-ids="1:00c0c_gvf6RTjWiGK,1:00z0z_2Q87lRYTurT,1:00l0l_1CZqeY2okIc">
+                <span class="result-price">$100</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:45" title="Mon 06 Jan 02:45:21 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bks/d/denver-quickbooks-complete-2018/7051091953.html" data-id="7051091953" class="result-title hdrlnk">Quickbooks Complete 2018</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="result-hood"> (Thornton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7039309776" data-repost-of="6590862533">
 
         <a href="https://denver.craigslist.org/bks/d/denver-harry-potter-complete-first/7039309776.html" class="result-image gallery empty"></a>
@@ -5592,46 +5632,6 @@ books &amp; magazines
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7046049056" data-repost-of="6742609201">
-
-        <a href="https://denver.craigslist.org/bks/d/evergreen-leonardo-da-vinci-coffee/7046049056.html" class="result-image gallery" data-ids="1:01616_bSYJ9FxpqjL,1:00Z0Z_30zyCKn3huQ,1:00m0m_6g7AEUcfhx2,1:00909_4maOgt7ECav,1:01212_HckTAiGqpF,1:00h0h_cnyCPNu2KZj">
-                <span class="result-price">$75</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-28 16:55" title="Sat 28 Dec 04:55:54 PM">Dec 28</time>
-
-
-        <a href="https://denver.craigslist.org/bks/d/evergreen-leonardo-da-vinci-coffee/7046049056.html" data-id="7046049056" class="result-title hdrlnk">Leonardo da Vinci Coffee Table Book; New</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$75</span>
-
-
-                <span class="result-hood"> (Evergreen)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5664,7 +5664,7 @@ books &amp; magazines
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">933</span>
+            <span class="totalcount">936</span>
         </span>
 
         <a href="/search/bka?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

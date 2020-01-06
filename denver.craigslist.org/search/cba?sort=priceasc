@@ -898,7 +898,46 @@ collectibles
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7010592366" data-repost-of="6815035469">
+                             <li class="result-row" data-pid="6884419391">
+
+        <a href="https://denver.craigslist.org/clt/d/aurora-dale-earnhardt-senior/6884419391.html" class="result-image gallery" data-ids="1:00j0j_5PB1UObWqbk,1:00K0K_87mGNc7Wz4e,1:01111_6PS5Q3mhs6q">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 11:15" title="Fri 07 Jun 11:15:56 AM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/clt/d/aurora-dale-earnhardt-senior/6884419391.html" data-id="6884419391" class="result-title hdrlnk">Dale Earnhardt Senior</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7010592366" data-repost-of="6815035469">
 
         <a href="https://denver.craigslist.org/clt/d/wheat-ridge-marvel-dc-and-independent/7010592366.html" class="result-image gallery" data-ids="1:00U0U_kyy9YzKKxq5">
                 <span class="result-price">$1</span>
@@ -5575,46 +5614,6 @@ collectibles
 
 
                 <span class="result-hood"> (Littleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7042243326">
-
-        <a href="https://denver.craigslist.org/clt/d/aurora-funny-adult-comic-books-and/7042243326.html" class="result-image gallery" data-ids="1:00b0b_OVTvrW9gBD,1:00t0t_euwSO29CpvD,1:00D0D_lYpZDOkKRYG,1:00V0V_l82qQ3vZpt2">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 17:57" title="Sat 04 Jan 05:57:05 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/clt/d/aurora-funny-adult-comic-books-and/7042243326.html" data-id="7042243326" class="result-title hdrlnk">Funny Adult Comic Books and Magazine</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Old Aurora)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

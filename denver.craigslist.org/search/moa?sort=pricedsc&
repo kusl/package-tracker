@@ -909,7 +909,7 @@ cell phones
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1296</span>
+            <span class="totalcount">1299</span>
         </span>
 
         <a href="/search/moa?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -2441,6 +2441,46 @@ cell phones
                 <span class="result-price">$950</span>
 
 
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885821757">
+
+        <a href="https://denver.craigslist.org/mob/d/aurora-sprint-xs-max-256gb-space-gray/6885821757.html" class="result-image gallery" data-ids="1:00I0I_iWo5J1eBbwC">
+                <span class="result-price">$900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 12:17" title="Fri 07 Jun 12:17:00 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/mob/d/aurora-sprint-xs-max-256gb-space-gray/6885821757.html" data-id="6885821757" class="result-title hdrlnk">Sprint XS Max 256GB Space Gray</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$900</span>
+
+
+                <span class="result-hood"> (Southlands - Aurora)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5638,45 +5678,6 @@ cell phones
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047267187" data-repost-of="6874226384">
-
-        <a href="https://denver.craigslist.org/mob/d/denver-iphone-wanted/7047267187.html" class="result-image gallery" data-ids="1:01111_lhRhdNeUciV">
-                <span class="result-price">$700</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-31 01:21" title="Tue 31 Dec 01:21:54 AM">Dec 31</time>
-
-
-        <a href="https://denver.craigslist.org/mob/d/denver-iphone-wanted/7047267187.html" data-id="7047267187" class="result-title hdrlnk">[[]]Iphone Wanted[[]]</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$700</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5709,7 +5710,7 @@ cell phones
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1296</span>
+            <span class="totalcount">1299</span>
         </span>
 
         <a href="/search/moa?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

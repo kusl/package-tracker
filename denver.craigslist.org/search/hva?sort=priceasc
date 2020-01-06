@@ -862,7 +862,7 @@ heavy equipment
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1619</span>
+            <span class="totalcount">1610</span>
         </span>
 
         <a href="/search/hva?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -2339,6 +2339,46 @@ heavy equipment
                 <span class="result-price">$1</span>
 
 
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039439170" data-repost-of="6762795262">
+
+        <a href="https://denver.craigslist.org/hvo/d/broomfield-forklift-moving-hauling-fork/7039439170.html" class="result-image gallery" data-ids="1:00T0T_kBcBhthfuDt">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:40" title="Mon 06 Jan 02:40:32 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/hvo/d/broomfield-forklift-moving-hauling-fork/7039439170.html" data-id="7039439170" class="result-title hdrlnk">Forklift moving hauling Fork Lift Equipment Bridgeport Mill CNC Haul</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Westminster)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5604,46 +5644,6 @@ heavy equipment
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7025456042">
-
-        <a href="https://denver.craigslist.org/hvo/d/firestone-komatsu-engine-oil-and-coolant/7025456042.html" class="result-image gallery" data-ids="1:00i0i_2MZ23N4FuOs,1:01212_4HaaL1tbKQm,1:01111_4XzDbuzRvWt">
-                <span class="result-price">$25</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-21 09:59" title="Sat 21 Dec 09:59:28 AM">Dec 21</time>
-
-
-        <a href="https://denver.craigslist.org/hvo/d/firestone-komatsu-engine-oil-and-coolant/7025456042.html" data-id="7025456042" class="result-title hdrlnk">Komatsu engine oil and coolant</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$25</span>
-
-
-                <span class="result-hood"> (Frederick)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5676,7 +5676,7 @@ heavy equipment
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1619</span>
+            <span class="totalcount">1610</span>
         </span>
 
         <a href="/search/hva?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

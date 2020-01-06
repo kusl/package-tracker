@@ -862,7 +862,7 @@ photo/video
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1050</span>
+            <span class="totalcount">1059</span>
         </span>
 
         <a href="/search/pha?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -3065,6 +3065,46 @@ photo/video
 
 
                 <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048548994">
+
+        <a href="https://denver.craigslist.org/pho/d/littleton-leica-r8-film-camera-with/7048548994.html" class="result-image gallery" data-ids="1:00A0A_6oKo5YqxXBl,1:00S0S_55KeVusjG6e,1:00P0P_doCZ7MkBfyK">
+                <span class="result-price">$1800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:39" title="Mon 06 Jan 02:39:34 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/pho/d/littleton-leica-r8-film-camera-with/7048548994.html" data-id="7048548994" class="result-title hdrlnk">LEICA R8 FILM CAMERA WITH VARIO ELMAR 35-70 LENS MADE IN GERMANY</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1800</span>
+
+
+                <span class="result-hood"> (LITTLETON)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5620,46 +5660,6 @@ photo/video
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047707123">
-
-        <a href="https://denver.craigslist.org/pho/d/broomfield-canon-mm-zoom-lense/7047707123.html" class="result-image gallery" data-ids="1:00p0p_bxBWWee2i0K,1:00H0H_jCrIiNPCPxt,1:00A0A_63DZb1ssHEM,1:00b0b_kT61dIAx7Tv,1:00Y0Y_566r5YeXU1Z">
-                <span class="result-price">$1000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-31 20:57" title="Tue 31 Dec 08:57:30 PM">Dec 31</time>
-
-
-        <a href="https://denver.craigslist.org/pho/d/broomfield-canon-mm-zoom-lense/7047707123.html" data-id="7047707123" class="result-title hdrlnk">Canon 70-200mm Zoom Lense</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1000</span>
-
-
-                <span class="result-hood"> (Broomfield)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5692,7 +5692,7 @@ photo/video
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1050</span>
+            <span class="totalcount">1059</span>
         </span>
 
         <a href="/search/pha?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
