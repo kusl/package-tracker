@@ -1335,45 +1335,6 @@ computers - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7039305532" data-repost-of="6936054752">
-
-        <a href="https://denver.craigslist.org/sys/d/denver-2019-imac-27in-i9-40gb-ram-vega/7039305532.html" class="result-image gallery" data-ids="1:01515_5ueilzZxD2U,1:00m0m_juUVBtRsLnm,1:00R0R_lDbogkmFSmo">
-                <span class="result-price">$3200</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-16 05:12" title="Mon 16 Dec 05:12:32 AM">Dec 16</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/denver-2019-imac-27in-i9-40gb-ram-vega/7039305532.html" data-id="7039305532" class="result-title hdrlnk">2019 iMac 27in / i9 / 40GB RAM / Vega GPU</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$3200</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7041979125">
 
         <a href="https://denver.craigslist.org/sys/d/broomfield-custom-watercooled-pc/7041979125.html" class="result-image gallery" data-ids="1:00s0s_aZkITZcF8S0,1:00A0A_6wzDXzwJMco,1:01515_l4Ygc9sXWOw">
@@ -2421,6 +2382,46 @@ computers - by owner
                 <span class="result-price">$2250</span>
 
 
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885500559">
+
+        <a href="https://denver.craigslist.org/sys/d/aurora-nvidia-mining-rig/6885500559.html" class="result-image gallery" data-ids="1:00G0G_f66namdaKp7,1:00L0L_jgWro59iKlH">
+                <span class="result-price">$2200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 13:40" title="Fri 07 Jun 01:40:54 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/aurora-nvidia-mining-rig/6885500559.html" data-id="6885500559" class="result-title hdrlnk">NVIDIA Mining Rig</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2200</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

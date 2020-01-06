@@ -899,47 +899,7 @@ musical instruments
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7015275315">
-
-        <a href="https://denver.craigslist.org/msg/d/arvada-gorgeous-white-grand-piano/7015275315.html" class="result-image gallery" data-ids="1:00V0V_4Zp7zBHKaD6,1:00o0o_j7ex0YqdtEJ,1:00k0k_2ICkBxIxBbn,1:00r0r_gvhqnCmjul3,1:00Q0Q_fb7TrMgCdXD,1:01616_95ve4PkYdIj,1:00h0h_20PSF51MZr8,1:00G0G_4M3I35LunFq,1:00m0m_6BQ0VUFs5H,1:00z0z_gkTQ9qZ8Bf1">
-                <span class="result-price">$3995</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-05 05:06" title="Thu 05 Dec 05:06:03 AM">Dec  5</time>
-
-
-        <a href="https://denver.craigslist.org/msg/d/arvada-gorgeous-white-grand-piano/7015275315.html" data-id="7015275315" class="result-title hdrlnk">Gorgeous White Grand Piano</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$3995</span>
-
-
-                <span class="result-hood"> (Arvada)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7026476238">
+                             <li class="result-row" data-pid="7026476238">
 
         <a href="https://denver.craigslist.org/msg/d/denver-baldwin-artist-grand-piano/7026476238.html" class="result-image gallery" data-ids="1:00J0J_8rvhXBSRNn9,1:00w0w_9MYIsX5E1Ke,1:00303_lFpHWP3arPd,1:00p0p_8i0yewBiTSw,1:00202_3mm3A9QOEY9">
                 <span class="result-price">$3900</span>
@@ -5651,6 +5611,46 @@ musical instruments
 
 
                 <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048440954" data-repost-of="5017487110">
+
+        <a href="https://denver.craigslist.org/msg/d/1967-fender-super-reverb-blackface-ex/7048440954.html" class="result-image gallery" data-ids="1:00909_5if2qhpzZoH,1:00q0q_cVbW2I4LrC8,1:00W0W_39pA7Dzv3Ad">
+                <span class="result-price">$2300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 15:58" title="Sun 05 Jan 03:58:58 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/msg/d/1967-fender-super-reverb-blackface-ex/7048440954.html" data-id="7048440954" class="result-title hdrlnk">1967 Fender Super Reverb Blackface - EX</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2300</span>
+
+
+                <span class="result-hood"> (Denver)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

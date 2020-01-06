@@ -862,7 +862,7 @@ computer parts - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">955</span>
+            <span class="totalcount">954</span>
         </span>
 
         <a href="/search/sop?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -898,7 +898,46 @@ computer parts - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051103802">
+                             <li class="result-row" data-pid="7049407023">
+
+        <a href="https://denver.craigslist.org/sop/d/littleton-powerline-gigabit-networking/7049407023.html" class="result-image gallery" data-ids="1:00c0c_ekPWzjId6b0">
+                <span class="result-price">$40</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:36" title="Mon 06 Jan 03:36:54 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/sop/d/littleton-powerline-gigabit-networking/7049407023.html" data-id="7049407023" class="result-title hdrlnk">Powerline Gigabit Networking Adapters (wired via wall outlets)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051103802">
 
         <a href="https://denver.craigslist.org/sop/d/littleton-pny-cs-gb-25-sata-iii/7051103802.html" class="result-image gallery" data-ids="1:00k0k_6y14n98bZTW,1:00202_2jHTuw8mTlp,1:00M0M_cWDB2Q2YYeQ,1:00V0V_4CnDZkLkZCE,1:00D0D_i3P1mXebnVN">
                 <span class="result-price">$40</span>
@@ -5599,46 +5638,6 @@ computer parts - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050356286" data-repost-of="6923175135">
-
-        <a href="https://denver.craigslist.org/sop/d/denver-ipad-apple-pencil/7050356286.html" class="result-image gallery" data-ids="1:00Z0Z_iMa5dwt6D5g">
-                <span class="result-price">$70</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 12:33" title="Sun 05 Jan 12:33:16 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/sop/d/denver-ipad-apple-pencil/7050356286.html" data-id="7050356286" class="result-title hdrlnk">iPad Apple Pencil</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$70</span>
-
-
-                <span class="result-hood"> (Denver - Lowry)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5671,7 +5670,7 @@ computer parts - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">955</span>
+            <span class="totalcount">954</span>
         </span>
 
         <a href="/search/sop?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>

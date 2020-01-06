@@ -1232,7 +1232,7 @@ motorcycles/scooters - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">503</span>
+            <span class="totalcount">505</span>
         </span>
 
         <a href="/search/mcd?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -2408,6 +2408,46 @@ motorcycles/scooters - by dealer
                 <span class="result-price">$19995</span>
 
 
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051132351">
+
+        <a href="https://denver.craigslist.org/mcd/d/littleton-2019-can-am-spyder-f3/7051132351.html" class="result-image gallery" data-ids="1:00D0D_eICFprcpqht,1:00f0f_7BrTEqZYZyb">
+                <span class="result-price">$19962</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:36" title="Mon 06 Jan 03:36:13 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mcd/d/littleton-2019-can-am-spyder-f3/7051132351.html" data-id="7051132351" class="result-title hdrlnk">2019 Can-am Spyder F3</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$19962</span>
+
+
+                <span class="result-hood"> (Littleton co)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -6024,46 +6064,6 @@ motorcycles/scooters - by dealer
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7039388392">
-
-        <a href="https://denver.craigslist.org/mcd/d/fort-collins-2015-harley-davidson-dyna/7039388392.html" class="result-image gallery" data-ids="1:00g0g_19tMnffsxEi,1:00101_8e28ZPROvBE,1:01212_a9A2BaIswi4,1:00303_dBgFhp4GSdw,1:00707_eu3qvCMQ5Xs,1:00r0r_jqqVKgLpq36,1:01414_bzcAe4twTna,1:00808_aCVgYnA8UQE,1:00U0U_7UAyYGOU4XD">
-                <span class="result-price">$12499</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-16 08:16" title="Mon 16 Dec 08:16:46 AM">Dec 16</time>
-
-
-        <a href="https://denver.craigslist.org/mcd/d/fort-collins-2015-harley-davidson-dyna/7039388392.html" data-id="7039388392" class="result-title hdrlnk">2015 Harley-Davidson Dyna FXDWG - Wide Glide</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$12499</span>
-
-
-                <span class="result-hood"> (Loveland, CO)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6096,7 +6096,7 @@ motorcycles/scooters - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">503</span>
+            <span class="totalcount">505</span>
         </span>
 
         <a href="/search/mcd?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

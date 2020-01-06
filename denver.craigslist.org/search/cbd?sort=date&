@@ -858,10 +858,10 @@ collectibles - by dealer
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">9</span>
+                <span class="rangeTo">10</span>
             </span>
             /
-            <span class="totalcount">9</span>
+            <span class="totalcount">10</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -897,7 +897,47 @@ collectibles - by dealer
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7047598115">
+                             <li class="result-row" data-pid="7051127996">
+
+        <a href="https://denver.craigslist.org/cbd/d/victor-semi-annual-cowboy-and-indian/7051127996.html" class="result-image gallery" data-ids="1:01414_jU6jhpfAsE6,1:01212_2TeFWlqHErA,1:00c0c_6eJcIo9C5u5,1:00C0C_aO9PVigTSXA,1:00Z0Z_hyvbTfWc1h,1:00p0p_7eID2rKtl4H,1:00E0E_26HiuzFNhml,1:00a0a_cBspSNmk3Yp,1:00h0h_iu3QBM0teSA,1:01717_lSOqQkCJw9i,1:00v0v_5Vva8oYUQaL,1:00505_i7x9TooAN5q,1:00H0H_lw4DsNROYWt,1:00e0e_dA1wklPDJ0Z,1:00Z0Z_lnJ39i1nzJr,1:00505_kBnO99r9ZjW,1:00a0a_jjoLJdNwkmi,1:00X0X_iFmHUq0npiv,1:00y0y_z6f1sx6380,1:00B0B_bZaL4HzdO9q,1:00707_9k1uxKHuqoy,1:00p0p_hzT3oNpXgVV,1:00t0t_d625TkqVMx2,1:00X0X_6agit8LwvG">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:30" title="Mon 06 Jan 03:30:16 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/cbd/d/victor-semi-annual-cowboy-and-indian/7051127996.html" data-id="7051127996" class="result-title hdrlnk">Semi-Annual Cowboy and Indian Sale</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="result-hood"> (Victor)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047598115">
 
         <a href="https://denver.craigslist.org/cbd/d/castle-rock-castle-rock-downsizing/7047598115.html" class="result-image gallery" data-ids="1:00h0h_3aO7cBKU3yt,1:00606_4DhW9qkGJro,1:00404_6VSEumsRObZ,1:00i0i_9DuXBSuUqE4,1:01616_iEPzYT9uUEx,1:00H0H_7JmdbZPZHas,1:00y0y_fFfA2obYVMm,1:00U0U_4IRiwLVxHjR,1:00I0I_2UdAby9oJlC">
                 <span class="result-price">$0</span>
@@ -1646,10 +1686,10 @@ collectibles - by dealer
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">9</span>
+                <span class="rangeTo">10</span>
             </span>
             /
-            <span class="totalcount">9</span>
+            <span class="totalcount">10</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>

@@ -1335,45 +1335,6 @@ computers - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7039305532" data-repost-of="6936054752">
-
-        <a href="https://denver.craigslist.org/sys/d/denver-2019-imac-27in-i9-40gb-ram-vega/7039305532.html" class="result-image gallery" data-ids="1:01515_5ueilzZxD2U,1:00m0m_juUVBtRsLnm,1:00R0R_lDbogkmFSmo">
-                <span class="result-price">$3200</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-16 05:12" title="Mon 16 Dec 05:12:32 AM">Dec 16</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/denver-2019-imac-27in-i9-40gb-ram-vega/7039305532.html" data-id="7039305532" class="result-title hdrlnk">2019 iMac 27in / i9 / 40GB RAM / Vega GPU</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$3200</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7041979125">
 
         <a href="https://denver.craigslist.org/sys/d/broomfield-custom-watercooled-pc/7041979125.html" class="result-image gallery" data-ids="1:00s0s_aZkITZcF8S0,1:00A0A_6wzDXzwJMco,1:01515_l4Ygc9sXWOw">
@@ -5632,6 +5593,46 @@ computers - by owner
 
 
                 <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7023352910" data-repost-of="6991242286">
+
+        <a href="https://denver.craigslist.org/sys/d/boulder-13-inch-macbook-pro-space-grey/7023352910.html" class="result-image gallery" data-ids="1:00i0i_9p2lXnYleCj,1:00m0m_c69ZE5Ilkk9,1:00d0d_5b8BvJHCG5X">
+                <span class="result-price">$1200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-15 13:30" title="Sun 15 Dec 01:30:13 PM">Dec 15</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/boulder-13-inch-macbook-pro-space-grey/7023352910.html" data-id="7023352910" class="result-title hdrlnk">13-inch MacBook Pro - Space Grey (2017)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1200</span>
+
+
+                <span class="result-hood"> (Boulder)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

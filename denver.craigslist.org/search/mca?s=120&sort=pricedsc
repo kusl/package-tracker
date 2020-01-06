@@ -1233,7 +1233,7 @@ motorcycles/scooters
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1053</span>
+            <span class="totalcount">1057</span>
         </span>
 
         <a href="/search/mca?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -1269,7 +1269,47 @@ motorcycles/scooters
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7041641160" data-repost-of="6965324712">
+                             <li class="result-row" data-pid="7035800388">
+
+        <a href="https://denver.craigslist.org/mcd/d/golden-2017-indian-springfield/7035800388.html" class="result-image gallery" data-ids="1:00f0f_l3E0k52QGoG,1:00707_dyBigrgf0H0,1:01414_4S67f5I84N1,1:00f0f_lvS5tLtS36V,1:00707_jhIVvZOT4kD,1:00b0b_8s5jKjCvH0c,1:00J0J_JReG3MV75f,1:00000_kADM1DF8Ofn,1:01212_ktk9SYdamm8,1:00I0I_3trzOtSjurk,1:00T0T_amuVaA83ODG,1:00101_7PyNLcgp64x,1:00L0L_3jn7EOJCvcK">
+                <span class="result-price">$15499</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-10 09:03" title="Tue 10 Dec 09:03:27 AM">Dec 10</time>
+
+
+        <a href="https://denver.craigslist.org/mcd/d/golden-2017-indian-springfield/7035800388.html" data-id="7035800388" class="result-title hdrlnk">2017 Indian Springfield</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$15499</span>
+
+
+                <span class="result-hood"> (Golden, CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041641160" data-repost-of="6965324712">
 
         <a href="https://denver.craigslist.org/mcd/d/denver-2017-harley-davidson-flhr-road/7041641160.html" class="result-image gallery" data-ids="1:00W0W_c38dYcGFZVK">
                 <span class="result-price">$15495</span>
@@ -4465,6 +4505,43 @@ motorcycles/scooters
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7051130036" data-repost-of="6975789299">
+
+        <a href="https://denver.craigslist.org/mcy/d/littleton-2014-ducati-multistrada-1200/7051130036.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:32" title="Mon 06 Jan 03:32:56 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mcy/d/littleton-2014-ducati-multistrada-1200/7051130036.html" data-id="7051130036" class="result-title hdrlnk">2014 Ducati Multistrada 1200</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$11999</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7044558567">
 
         <a href="https://denver.craigslist.org/mcd/d/meridian-2014-harley-davidson-low-rider/7044558567.html" class="result-image gallery" data-ids="1:00q0q_ffpXMVsMHwx,1:00m0m_l1HVl86KEyh,1:00B0B_1NThmhUxZOr,1:00Q0Q_iR9kY5iEzJK,1:00404_gxmP3YdZv9B,1:00V0V_leiTGLqBOFw,1:00H0H_azhXbquH90a,1:00M0M_8AuHushOHzA,1:00U0U_5FIRw8Gcxu5,1:00N0N_cP6RULQTmiv,1:00404_kUKQI7f3lKn,1:00Y0Y_7qP9Xie3ReZ,1:00E0E_hbR9OQBLoyT,1:00w0w_7dKkjfyqv0r,1:00e0e_DNeN6N7KQq,1:00000_cvO0WWKS5VK">
@@ -5984,86 +6061,6 @@ motorcycles/scooters
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7046357626">
-
-        <a href="https://denver.craigslist.org/mcy/d/littleton-2006-harley-davidson-road/7046357626.html" class="result-image gallery" data-ids="1:00p0p_bduY78CmEH5,1:00B0B_2ogKnZccTf0,1:00r0r_9PXGBNm0A6v,1:00N0N_k10VrzD3CEb,1:00f0f_bw27z03K2kF,1:00b0b_fRVZ1cTeHm6,1:00808_7RLkGN4NSWc,1:00U0U_4TnGZ2dzwm2,1:00s0s_dm9zpqpX6LK,1:00T0T_f2aTTjcqray">
-                <span class="result-price">$10900</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-29 11:45" title="Sun 29 Dec 11:45:20 AM">Dec 29</time>
-
-
-        <a href="https://denver.craigslist.org/mcy/d/littleton-2006-harley-davidson-road/7046357626.html" data-id="7046357626" class="result-title hdrlnk">2006 Harley Davidson Road King Classic</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10900</span>
-
-
-                <span class="result-hood"> (Highlands Ranch)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7045166064">
-
-        <a href="https://denver.craigslist.org/mcd/d/englewood-2011-bmw-1200-gs-dual-purpose/7045166064.html" class="result-image gallery" data-ids="1:00E0E_PzO3oOveal,1:00A0A_ink0kRfwadD,1:00909_25b6WTCmBc8,1:00T0T_ari2CQ7CTUH,1:00c0c_3f1fNO7lbnp,1:00707_dMTGLkMRIF9,1:00z0z_aSBWxv5dExM,1:01010_9IALCqOr3bE,1:01313_dWbMYTlzcY8,1:00R0R_5O3LjfCNnxg,1:00K0K_3447hbnpZFQ">
-                <span class="result-price">$10789</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-27 09:40" title="Fri 27 Dec 09:40:23 AM">Dec 27</time>
-
-
-        <a href="https://denver.craigslist.org/mcd/d/englewood-2011-bmw-1200-gs-dual-purpose/7045166064.html" data-id="7045166064" class="result-title hdrlnk">2011 BMW R 1200 GS Dual Purpose</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10789</span>
-
-
-                <span class="result-hood"> (Centennial, Co)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6096,7 +6093,7 @@ motorcycles/scooters
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1053</span>
+            <span class="totalcount">1057</span>
         </span>
 
         <a href="/search/mca?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

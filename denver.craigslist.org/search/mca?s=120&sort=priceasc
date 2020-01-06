@@ -1233,7 +1233,7 @@ motorcycles/scooters
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1053</span>
+            <span class="totalcount">1057</span>
         </span>
 
         <a href="/search/mca?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -5642,6 +5642,46 @@ motorcycles/scooters
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7051137267">
+
+        <a href="https://denver.craigslist.org/mcy/d/broomfield-2015-yamaha-r3-with-only-1k/7051137267.html" class="result-image gallery" data-ids="1:00q0q_csHSpGEuEuz,1:00p0p_bzxagloeVD8,1:01414_3UnyJtU4FRE,1:00000_2eLamcCRbgn,1:01515_6ZjCQ1ZvAuZ,1:00S0S_dgDx8KwMXNZ,1:00J0J_jP0kqd2v3VP,1:00C0C_3umjyasghkL">
+                <span class="result-price">$2999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:43" title="Mon 06 Jan 03:43:30 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mcy/d/broomfield-2015-yamaha-r3-with-only-1k/7051137267.html" data-id="7051137267" class="result-title hdrlnk">2015 Yamaha R3 with only 1k Miles!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2999</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7033863818">
 
         <a href="https://denver.craigslist.org/mcy/d/conifer-ktm-65sx/7033863818.html" class="result-image gallery" data-ids="1:00O0O_9AZnpPKr3Ho,1:00404_hcZvEtz1mlW,1:01515_cm8G4hbpI1H,1:01111_dW2TxytUzG1,1:00H0H_2Fz1SAEG112">
@@ -5998,45 +6038,6 @@ motorcycles/scooters
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7048085032">
-
-        <a href="https://denver.craigslist.org/mcy/d/watkins-2009-ktm-450-xcw/7048085032.html" class="result-image gallery" data-ids="1:00L0L_jXlmAWaBiE9,1:00404_en5aiEBKAQX,1:00a0a_9E6AWwapIFX,1:00x0x_hNhWAjkv0CF,1:00Z0Z_6EeWqStbRAq">
-                <span class="result-price">$3000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-01 17:54" title="Wed 01 Jan 05:54:56 PM">Jan  1</time>
-
-
-        <a href="https://denver.craigslist.org/mcy/d/watkins-2009-ktm-450-xcw/7048085032.html" data-id="7048085032" class="result-title hdrlnk">2009 KTM 450 XCW</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$3000</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6069,7 +6070,7 @@ motorcycles/scooters
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1053</span>
+            <span class="totalcount">1057</span>
         </span>
 
         <a href="/search/mca?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

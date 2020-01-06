@@ -862,7 +862,7 @@ photo/video - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1055</span>
+            <span class="totalcount">1059</span>
         </span>
 
         <a href="/search/pho?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -2330,46 +2330,6 @@ photo/video - by owner
 
 
                 <span class="result-hood"> (Aurora by Iliff Ave. &amp; Peoria St.)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7049481026">
-
-        <a href="https://denver.craigslist.org/pho/d/arvada-13-time-life-books-1-nature/7049481026.html" class="result-image gallery" data-ids="1:00k0k_jbGUYhWo5sk,1:00I0I_4ZMjSRghLor,1:00r0r_b7IScQM0AkN,1:00y0y_l6txv9XXWQi,1:00t0t_k7sLwjfdioj,1:00u0u_8u55Wb6SqvL,1:01212_bAIDcpC0x0w,1:01616_lA44HAs7ReU,1:00t0t_h5epjfHwkfa,1:00202_YsBMROasPS,1:00X0X_deN06aLjwAH,1:00f0f_bVSXnpg6ECl,1:00q0q_f1MKm45ST7e,1:00O0O_aqdfdibjCbF,1:00D0D_ly51VK8I0Uk,1:00u0u_6CG8Y1ZZP6F,1:00K0K_ls1K8xG89Xe,1:00z0z_da6JBqpDYcy,1:00l0l_jZlrUfk8oOY,1:01313_glg1dJWc6L3,1:00Z0Z_4XzFl4HqGBd,1:00i0i_19mfMVCMOa1,1:00X0X_hbFdTod4N3w">
-                <span class="result-price">$6</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-03 23:48" title="Fri 03 Jan 11:48:00 PM">Jan  3</time>
-
-
-        <a href="https://denver.craigslist.org/pho/d/arvada-13-time-life-books-1-nature/7049481026.html" data-id="7049481026" class="result-title hdrlnk">13 Time Life Books &amp; 1 Nature Photography</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$6</span>
-
-
-                <span class="result-hood"> (Arvada)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5642,6 +5602,46 @@ photo/video - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7039435739" data-repost-of="4812976160">
+
+        <a href="https://denver.craigslist.org/pho/d/lowe-pro-fanny-pack/7039435739.html" class="result-image gallery" data-ids="1:00O0O_6DwDhLvhDeq,1:00w0w_lAbFr8ZRcR1,1:00p0p_hHlkx1RbH9Q">
+                <span class="result-price">$20</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-16 09:25" title="Mon 16 Dec 09:25:22 AM">Dec 16</time>
+
+
+        <a href="https://denver.craigslist.org/pho/d/lowe-pro-fanny-pack/7039435739.html" data-id="7039435739" class="result-title hdrlnk">Lowe Pro Fanny Pack</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (Centennial)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5674,7 +5674,7 @@ photo/video - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1055</span>
+            <span class="totalcount">1059</span>
         </span>
 
         <a href="/search/pho?s=120&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
