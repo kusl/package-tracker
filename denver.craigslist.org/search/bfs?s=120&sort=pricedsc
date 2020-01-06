@@ -855,7 +855,7 @@ business/commercial - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1306</span>
+            <span class="totalcount">1313</span>
         </span>
 
         <a href="/search/bfs?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -891,7 +891,47 @@ business/commercial - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7040753370">
+                             <li class="result-row" data-pid="7050881718">
+
+        <a href="https://denver.craigslist.org/bfs/d/conifer-direct-to-garment-printing/7050881718.html" class="result-image gallery" data-ids="1:00x0x_hDSl1hUHSS5,1:00u0u_gevwPGsOSos,1:00101_6WHXUZRZNz5,1:00r0r_7TTLl3KToqa">
+                <span class="result-price">$25000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 10:43" title="Mon 06 Jan 10:43:22 AM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bfs/d/conifer-direct-to-garment-printing/7050881718.html" data-id="7050881718" class="result-title hdrlnk">Direct To Garment Printing Business</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25000</span>
+
+
+                <span class="result-hood"> (Conifer)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040753370">
 
         <a href="https://denver.craigslist.org/bfs/d/barron-2013-subaru-wrx-sti/7040753370.html" class="result-image gallery" data-ids="1:00a0a_fky5WdhBHkl,1:00I0I_gmtoL8nnFof,1:00D0D_3ifS9lfMxvB,1:00101_6uVq9Hftj9d,1:00F0F_bjxCNZUwoS0,1:00A0A_4YfLgsQCbQ9">
                 <span class="result-price">$23995</span>
@@ -5576,45 +5616,6 @@ business/commercial - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7036754617" data-repost-of="7007061089">
-
-        <a href="https://denver.craigslist.org/bfs/d/aurora-mini-donut-machine-robot/7036754617.html" class="result-image gallery" data-ids="1:00O0O_bHNOvyDiN0i,1:00d0d_ekjtiwdngxp,1:01212_4L4H4qX4lce,1:00a0a_40ZFLWSz5pH,1:00N0N_5ruY2yAXzAi,1:00C0C_8shHMZaalbA">
-                <span class="result-price">$4000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-11 15:46" title="Wed 11 Dec 03:46:23 PM">Dec 11</time>
-
-
-        <a href="https://denver.craigslist.org/bfs/d/aurora-mini-donut-machine-robot/7036754617.html" data-id="7036754617" class="result-title hdrlnk">Mini Donut machine/robot</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$4000</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5647,7 +5648,7 @@ business/commercial - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1306</span>
+            <span class="totalcount">1313</span>
         </span>
 
         <a href="/search/bfs?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

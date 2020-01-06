@@ -855,7 +855,7 @@ business/commercial - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1306</span>
+            <span class="totalcount">1307</span>
         </span>
 
         <a href="/search/bfs?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -5621,28 +5621,31 @@ business/commercial - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7026981226" data-repost-of="6973848893">
+         <li class="result-row" data-pid="7051163994">
 
-        <a href="https://denver.craigslist.org/bfs/d/denver-mailer-padded-envelopes/7026981226.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/bfs/d/castle-rock-tools-for-making-silver/7051163994.html" class="result-image gallery" data-ids="1:01313_d2lA21xWmWz">
+                <span class="result-price">$30</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
             <span class="screen-reader-text">favorite this post</span>
         </span>
 
-            <time class="result-date" datetime="2019-11-25 12:36" title="Mon 25 Nov 12:36:31 PM">Nov 25</time>
+            <time class="result-date" datetime="2020-01-06 16:28" title="Mon 06 Jan 04:28:17 PM">Jan  6</time>
 
 
-        <a href="https://denver.craigslist.org/bfs/d/denver-mailer-padded-envelopes/7026981226.html" data-id="7026981226" class="result-title hdrlnk">Mailer padded envelopes</a>
+        <a href="https://denver.craigslist.org/bfs/d/castle-rock-tools-for-making-silver/7051163994.html" data-id="7051163994" class="result-title hdrlnk">Tools for making silver jewelry</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$35</span>
+                <span class="result-price">$30</span>
 
 
-                <span class="result-hood"> (denver)</span>
+                <span class="result-hood"> (Castle Rock)</span>
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -5690,7 +5693,7 @@ business/commercial - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1306</span>
+            <span class="totalcount">1307</span>
         </span>
 
         <a href="/search/bfs?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

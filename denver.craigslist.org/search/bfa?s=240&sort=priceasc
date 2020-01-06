@@ -855,7 +855,7 @@ business
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1723</span>
+            <span class="totalcount">1725</span>
         </span>
 
         <a href="/search/bfa?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -2820,6 +2820,46 @@ business
 
 
                 <span class="result-hood"> (N.Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051163994">
+
+        <a href="https://denver.craigslist.org/bfs/d/castle-rock-tools-for-making-silver/7051163994.html" class="result-image gallery" data-ids="1:01313_d2lA21xWmWz">
+                <span class="result-price">$30</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:28" title="Mon 06 Jan 04:28:17 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/bfs/d/castle-rock-tools-for-making-silver/7051163994.html" data-id="7051163994" class="result-title hdrlnk">Tools for making silver jewelry</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$30</span>
+
+
+                <span class="result-hood"> (Castle Rock)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5619,46 +5659,6 @@ business
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7035074333" data-repost-of="6950222516">
-
-        <a href="https://denver.craigslist.org/bfs/d/denver-v-carts/7035074333.html" class="result-image gallery" data-ids="1:00303_eJjgZYf1ghl,1:00e0e_87eDTqx6wv0,1:00A0A_dfRP1Yv7tjL">
-                <span class="result-price">$50</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 07:55" title="Mon 06 Jan 07:55:14 AM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/bfs/d/denver-v-carts/7035074333.html" data-id="7035074333" class="result-title hdrlnk">A/V Cart(s)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$50</span>
-
-
-                <span class="result-hood"> (Lakewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5691,7 +5691,7 @@ business
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1723</span>
+            <span class="totalcount">1725</span>
         </span>
 
         <a href="/search/bfa?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

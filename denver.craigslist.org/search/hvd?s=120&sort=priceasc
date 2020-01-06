@@ -863,7 +863,7 @@ heavy equipment - by dealer
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">573</span>
+            <span class="totalcount">574</span>
         </span>
 
         <a href="/search/hvd?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -1518,6 +1518,46 @@ heavy equipment - by dealer
 
 
                 <span class="result-hood"> (Castle Rock)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051171683" data-repost-of="6783920969">
+
+        <a href="https://denver.craigslist.org/hvd/d/santa-fe-springs-mobile-yard-ramp/7051171683.html" class="result-image gallery" data-ids="1:00y0y_78OBERnSaQL,1:00303_lnrGpYcE6OM,1:00l0l_8sKfM4tD78B,1:00t0t_9z5TdJGyV7g,1:00u0u_cNIKYzoPzgQ,1:00O0O_Vlkme45zoa,1:00x0x_kooB8kH6dRG,1:00J0J_iuFaB8SkMWW">
+                <span class="result-price">$9000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:36" title="Mon 06 Jan 04:36:47 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/hvd/d/santa-fe-springs-mobile-yard-ramp/7051171683.html" data-id="7051171683" class="result-title hdrlnk">Mobile Yard Ramp</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$9000</span>
+
+
+                <span class="result-hood"> (Santa Fe Springs)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5639,45 +5679,6 @@ heavy equipment - by dealer
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7037901864" data-repost-of="7025232439">
-
-        <a href="https://denver.craigslist.org/hvd/d/schaumburg-bobcat-tool-cat-speed/7037901864.html" class="result-image gallery" data-ids="1:00Z0Z_5DvjTMEId16,1:00505_4K7MlSCttzf,1:00J0J_5WC43Zb6yy8,1:00u0u_742FzB5frJ4,1:01414_7zePBEbR8eF,1:01717_e7yLWLOHU0N,1:00D0D_cbrgw8ceHgb,1:00A0A_9wr67Aptm62,1:00f0f_2kyDdsc6CsS,1:00a0a_3mn5abtcSZV">
-                <span class="result-price">$24500</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-13 13:16" title="Fri 13 Dec 01:16:46 PM">Dec 13</time>
-
-
-        <a href="https://denver.craigslist.org/hvd/d/schaumburg-bobcat-tool-cat-speed/7037901864.html" data-id="7037901864" class="result-title hdrlnk">bobcat Tool Cat 5600 2 Speed</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$24500</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5710,7 +5711,7 @@ heavy equipment - by dealer
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">573</span>
+            <span class="totalcount">574</span>
         </span>
 
         <a href="/search/hvd?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
