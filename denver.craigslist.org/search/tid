@@ -835,7 +835,7 @@ tickets - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">456</span>
+            <span class="totalcount">457</span>
         </span>
 
         <a href="/search/tid?s=120" class="button next" title="next page">next &gt; </a>
@@ -878,7 +878,48 @@ tickets - by dealer
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051085219">
+                             <li class="result-row" data-pid="7051105607">
+
+        <a href="https://denver.craigslist.org/tid/d/denver-post-malone-tickets-cheap/7051105607.html" class="result-image gallery" data-ids="1:00Y0Y_5ZjqdN5wqMG,1:00404_7BNFeRC3f2l">
+                <span class="result-price">$0</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:59" title="Mon 06 Jan 02:59:40 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tid/d/denver-post-malone-tickets-cheap/7051105607.html" data-id="7051105607" class="result-title hdrlnk">POST MALONE TICKETS ★ CHEAP CONCERT TOUR ON SALE - LAST MIN DEALS!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="result-hood"> (VIP SEATS FLOOR LOWER LEVEL CHEA PRE RAP BUY DISCOUNTED)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                    <span class="pictag">img</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051085219">
 
         <a href="https://denver.craigslist.org/tid/d/denver-billie-eilish-tickets-prime/7051085219.html" class="result-image gallery" data-ids="1:00D0D_j5hh8zv2DZZ,1:00404_7BNFeRC3f2l">
                 <span class="result-price">$0</span>
@@ -5701,47 +5742,6 @@ tickets - by dealer
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7044231552" data-repost-of="6755518866">
-
-        <a href="https://denver.craigslist.org/tid/d/denver-colorado-avalanche-avs-tickets/7044231552.html" class="result-image gallery" data-ids="1:01212_4YutQJrs9O3">
-                <span class="result-price">$0</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-25 09:29" title="Wed 25 Dec 09:29:34 AM">Dec 25</time>
-
-
-        <a href="https://denver.craigslist.org/tid/d/denver-colorado-avalanche-avs-tickets/7044231552.html" data-id="7044231552" class="result-title hdrlnk">COLORADO AVALANCHE AVS TICKETS vs Minnesota Wild Friday 12/27 Cheap</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (Loge + Club + Cheap Seats)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                    <span class="pictag">img</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5774,7 +5774,7 @@ tickets - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">456</span>
+            <span class="totalcount">457</span>
         </span>
 
         <a href="/search/tid?s=120" class="button next" title="next page">next &gt; </a>

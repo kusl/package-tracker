@@ -862,7 +862,7 @@ atvs, utvs, snowmobiles - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">330</span>
+            <span class="totalcount">331</span>
         </span>
 
         <a href="/search/snd?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -2157,6 +2157,46 @@ atvs, utvs, snowmobiles - by dealer
 
 
                 <span class="result-hood"> (Grand Junction)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051105736" data-repost-of="6937771517">
+
+        <a href="https://denver.craigslist.org/snd/d/chanute-2018-honda-pioneer-le-no/7051105736.html" class="result-image gallery" data-ids="1:00t0t_6pHTIV9wopx,1:00d0d_gWxUEv1b77O">
+                <span class="result-price">$18199</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:59" title="Mon 06 Jan 02:59:50 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/snd/d/chanute-2018-honda-pioneer-le-no/7051105736.html" data-id="7051105736" class="result-title hdrlnk">2018 HONDA PIONEER 1000-5 LE NO FREIGHT, SET UP OR PREP FEES</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$18199</span>
+
+
+                <span class="result-hood"> (CHANUTE, KS)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5638,46 +5678,6 @@ atvs, utvs, snowmobiles - by dealer
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7049789951">
-
-        <a href="https://denver.craigslist.org/snd/d/jones-2015-john-deere-gator-xuv-825i/7049789951.html" class="result-image gallery" data-ids="1:00j0j_ayQ9lHngeeX,1:01515_bAvLDTCJsXA,1:01010_iLNUU6jFYlo,1:00x0x_8Jouc4DlrGQ,1:00h0h_4asbD3avpW1">
-                <span class="result-price">$10495</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 12:10" title="Sat 04 Jan 12:10:24 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/snd/d/jones-2015-john-deere-gator-xuv-825i/7049789951.html" data-id="7049789951" class="result-title hdrlnk">2015 John Deere Gator XUV 825i Crossover Utility Vehicles</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10495</span>
-
-
-                <span class="result-hood"> (Jones, Ok)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5710,7 +5710,7 @@ atvs, utvs, snowmobiles - by dealer
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">330</span>
+            <span class="totalcount">331</span>
         </span>
 
         <a href="/search/snd?s=120&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

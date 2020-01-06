@@ -1232,7 +1232,7 @@ motorcycles/scooters
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1083</span>
+            <span class="totalcount">1096</span>
         </span>
 
         <a href="/search/mca?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -1268,7 +1268,47 @@ motorcycles/scooters
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051089654">
+                             <li class="result-row" data-pid="7051107567">
+
+        <a href="https://denver.craigslist.org/mcy/d/denver-1999-yz250/7051107567.html" class="result-image gallery" data-ids="1:00X0X_gMoOPymDxvM,1:01414_4vgb4j3Ra8H,1:00Y0Y_lHsk7e0VrME,1:00H0H_lbNtu2SEWo9">
+                <span class="result-price">$2000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:02" title="Mon 06 Jan 03:02:07 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mcy/d/denver-1999-yz250/7051107567.html" data-id="7051107567" class="result-title hdrlnk">1999 YZ250</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2000</span>
+
+
+                <span class="result-hood"> (Washington Park)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051089654">
 
         <a href="https://denver.craigslist.org/mcd/d/denver-2016-ktm-500-exc/7051089654.html" class="result-image gallery" data-ids="1:01313_kzZeV8HE2el,1:00U0U_lBE8vsoAk0e">
                 <span class="result-price">$6995</span>
@@ -6014,46 +6054,6 @@ motorcycles/scooters
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7049700513">
-
-        <a href="https://denver.craigslist.org/mcd/d/timnath-2014-yamaha-fz/7049700513.html" class="result-image gallery" data-ids="1:00l0l_9pC2nmr7ql4,1:00Y0Y_iwFsghP3Cva,1:00K0K_a91tlZxoObB,1:00I0I_cOF4IFcIYkJ,1:00f0f_7z93z27QobA,1:01717_4baDX5qXB0e,1:00i0i_6NDkqPLxeQp,1:00E0E_cxQeA39mk3G,1:00G0G_1AKWDnT8ysf,1:00j0j_jJVu6h2hasx,1:00S0S_5Mn4dwihvyz,1:00R0R_jd6KjZoqAtq">
-                <span class="result-price">$5499</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 10:26" title="Sat 04 Jan 10:26:25 AM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/mcd/d/timnath-2014-yamaha-fz/7049700513.html" data-id="7049700513" class="result-title hdrlnk">2014 Yamaha FZ-09 (004347)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$5499</span>
-
-
-                <span class="result-hood"> (Fort Collins)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6086,7 +6086,7 @@ motorcycles/scooters
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">1083</span>
+            <span class="totalcount">1096</span>
         </span>
 
         <a href="/search/mca?s=120&amp;sort=date" class="button next" title="next page">next &gt; </a>

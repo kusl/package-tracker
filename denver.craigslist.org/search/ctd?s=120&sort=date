@@ -6281,4 +6281,121 @@ cars &amp; trucks - by dealer
         <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
         <li class="desktop"><a href="https://www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
         <li><a href="//www.craigslist.org/about/terms.of.use.en-us">terms</a><sup class="neu">new</sup></li>
-        <li><a h
+        <li><a href="https://www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+    </ul>
+</footer>
+    </section>
+
+    <template id="gallerycarousel">
+        <div class="slider-info"></div><div class="slider-back arrow">&lt;</div><div class="slider-forward arrow">&gt;</div>
+    </template>
+
+    
+                <script>
+                try {
+                    if (
+                        !/\/\/.+\.craigslist\.org\/about\//.test(window.location.href)
+                        &&
+                        (!window.addEventListener || JSON.parse(JSON.stringify('x')) !== 'x')
+                    ) {
+                        throw "unsupported browser";
+                    }
+                } catch (e) {
+                    function cleanup() {
+                        document.body.innerHTML = '<div id="cl-unsupported-browser" style="margin:1em;font-size:150%;text-align:center;">We have detected you are using a browser that is missing critical features.<br><br>Please visit craigslist from a modern browser.</div>';
+                        document.body.style = "display:block";
+                    }
+
+                    try {
+                        document.body.style = "display:none";
+                    } catch (e) {
+                    }
+                    window.onload = cleanup;
+                    window.clUnsupportedBrowser = true;
+                }
+                </script>
+            <script src="//www.craigslist.org/js/general-concat.min.js?v=e9ae037676b2885c7a77adfdf33f8501" type="text/javascript" ></script>
+
+<script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish">
+                    <span class="icon icon-trash" role="button"></span>
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+                <span class="unbanish">
+                    <span class="icon icon-trash red" role="button"></span>
+                    unhide
+                </span>
+            </span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="icon icon-star" data-pid="{PostingID}" role="button">
+                <span class="screen-reader-text">favorite this post</span>
+            </span>
+            <span class="postingtitle">
+                <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                    <span class="banish">
+                        <span class="icon icon-trash" role="button"></span>
+                        <span class="screen-reader-text">hide this posting</span>
+                    </span>
+                    <span class="unbanish">
+                        <span class="icon icon-trash red" role="button"></span>
+                        <span class="screen-reader-text">unhide</span>
+                        unhide
+                    </span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer gallery">
+            <span class="slider-back arrow">&lt;</span><span class="slider-info"></span><span class="slider-forward arrow">&gt;</span>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <div class="timecontainer"></div>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=34556d4d2e18087b28df012cc48ea196" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/search-concat.min.js?v=30665e23846bcb69ae24b2b76bc99ad1" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/postings-concat.min.js?v=5da8d5d0efb2e814fc9b7cf2a309d6d1" type="text/javascript" ></script>
+
+</body>
+</html>

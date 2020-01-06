@@ -1230,7 +1230,7 @@ motorcycles/scooters - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">550</span>
+            <span class="totalcount">551</span>
         </span>
 
         <a href="/search/mcy?s=120" class="button next" title="next page">next &gt; </a>
@@ -1266,7 +1266,47 @@ motorcycles/scooters - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051075279">
+                             <li class="result-row" data-pid="7051107567">
+
+        <a href="https://denver.craigslist.org/mcy/d/denver-1999-yz250/7051107567.html" class="result-image gallery" data-ids="1:00X0X_gMoOPymDxvM,1:01414_4vgb4j3Ra8H,1:00Y0Y_lHsk7e0VrME,1:00H0H_lbNtu2SEWo9">
+                <span class="result-price">$2000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:02" title="Mon 06 Jan 03:02:07 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mcy/d/denver-1999-yz250/7051107567.html" data-id="7051107567" class="result-title hdrlnk">1999 YZ250</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2000</span>
+
+
+                <span class="result-hood"> (Washington Park)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051075279">
 
         <a href="https://denver.craigslist.org/mcy/d/berthoud-ktm-superduke-990-mint-10k/7051075279.html" class="result-image gallery" data-ids="1:00u0u_ibFZaPDC0Fw,1:01313_ggWuylrSbMB,1:00L0L_c9jADo5ZGoO,1:00y0y_aBXOLdDpT6g,1:00000_4q4TAXliZP4,1:00W0W_lB9RJLxTYuD,1:00O0O_lLmFlyf8gGR,1:01515_3EkbQ4yzlsy,1:00f0f_6OPgWaMhQCc,1:00303_dSeWTlCy2dX,1:01616_kiMrdlWI5PO,1:00h0h_bqtV4iSpCoz,1:01616_4RIE40OU5sc">
                 <span class="result-price">$4995</span>
@@ -5989,46 +6029,6 @@ motorcycles/scooters - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047948736" data-repost-of="7041993776">
-
-        <a href="https://denver.craigslist.org/mcy/d/aurora-2007-crf80-clean/7047948736.html" class="result-image gallery" data-ids="1:00909_l4i9YRVti6H,1:01111_3eIStJhGmzO,1:00v0v_8pufgk1bfkO">
-                <span class="result-price">$800</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-01 13:14" title="Wed 01 Jan 01:14:23 PM">Jan  1</time>
-
-
-        <a href="https://denver.craigslist.org/mcy/d/aurora-2007-crf80-clean/7047948736.html" data-id="7047948736" class="result-title hdrlnk">2007 crf80 clean</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$800</span>
-
-
-                <span class="result-hood"> (Aurora)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6061,7 +6061,7 @@ motorcycles/scooters - by owner
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">550</span>
+            <span class="totalcount">551</span>
         </span>
 
         <a href="/search/mcy?s=120" class="button next" title="next page">next &gt; </a>

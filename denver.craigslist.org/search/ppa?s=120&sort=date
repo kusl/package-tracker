@@ -899,7 +899,47 @@ appliances
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7043186872">
+                             <li class="result-row" data-pid="7050826799">
+
+        <a href="https://denver.craigslist.org/ppd/d/longmont-whirlpool-white-stack-able/7050826799.html" class="result-image gallery" data-ids="1:00B0B_5MUBrWsJJXI">
+                <span class="result-price">$180</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 09:27" title="Mon 06 Jan 09:27:32 AM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ppd/d/longmont-whirlpool-white-stack-able/7050826799.html" data-id="7050826799" class="result-title hdrlnk">Whirlpool white stack-able dryer</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$180</span>
+
+
+                <span class="result-hood"> (free outside delivery and free warranty)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043186872">
 
         <a href="https://denver.craigslist.org/app/d/littleton-delonghi-multi-function/7043186872.html" class="result-image gallery" data-ids="1:00d0d_kKs0WUUjEYX,1:00E0E_s5vJ5GjsO7,1:00g0g_8sDVHSY3ZPH,1:00e0e_ksRRRQTCNTo,1:00000_hr6kGybLUxA">
                 <span class="result-price">$20</span>
@@ -5588,46 +5628,6 @@ appliances
 
 
                 <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050612267" data-repost-of="7039873388">
-
-        <a href="https://denver.craigslist.org/app/d/eastlake-hamilton-beach-white-microwave/7050612267.html" class="result-image gallery" data-ids="1:00606_8As38u9NMuB,1:00L0L_azqHz8pBkSU,1:00B0B_8ehhBKwxYSR,1:00v0v_b8Kz52e3eF,1:01212_gmU2AUjBIBj,1:00p0p_1l7QSLw1pMQ,1:00a0a_nus3BryeYN,1:00g0g_1Y9ej3lNkfh,1:00Z0Z_hjJn9zsQYGf,1:00808_gU7vpJmsOEF,1:00m0m_gk2ZNCUeutk,1:00u0u_aPIpf6VdA4f,1:00n0n_iWUvyPrCnSz">
-                <span class="result-price">$40</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 20:45" title="Sun 05 Jan 08:45:37 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/app/d/eastlake-hamilton-beach-white-microwave/7050612267.html" data-id="7050612267" class="result-title hdrlnk">Hamilton Beach White Microwave</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$40</span>
-
-
-                <span class="result-hood"> (Northglenn)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

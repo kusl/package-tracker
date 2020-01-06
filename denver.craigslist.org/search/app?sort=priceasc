@@ -898,7 +898,44 @@ appliances - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7006842469" data-repost-of="6780741840">
+                             <li class="result-row" data-pid="6951525523">
+
+        <a href="https://denver.craigslist.org/app/d/westminster-parts-for-appliances-32/6951525523.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-09-03 10:30" title="Tue 03 Sep 10:30:53 AM">Sep  3</time>
+
+
+        <a href="https://denver.craigslist.org/app/d/westminster-parts-for-appliances-32/6951525523.html" data-id="6951525523" class="result-title hdrlnk">parts for appliances #32</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (westminster)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7006842469" data-repost-of="6780741840">
 
         <a href="https://denver.craigslist.org/app/d/platteville-hobart-2912-slicer-parts/7006842469.html" class="result-image gallery" data-ids="1:00I0I_bSTDfTjhx6M">
                 <span class="result-price">$1</span>
@@ -5575,9 +5612,9 @@ appliances - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7012149863">
+         <li class="result-row" data-pid="6886365316" data-repost-of="6826879123">
 
-        <a href="https://denver.craigslist.org/app/d/arvada-xray-light/7012149863.html" class="result-image gallery" data-ids="1:00X0X_5JTrlX3A21j,1:00S0S_akL4VjZLqFz,1:00101_lW454IXZExp">
+        <a href="https://denver.craigslist.org/app/d/denver-new-sunbeam-revlon-compact/6886365316.html" class="result-image gallery" data-ids="1:00y0y_l88yfU62aqx,1:00S0S_2gkT6kbM02W,1:00w0w_eHFKJZXv7g7">
                 <span class="result-price">$15</span>
         </a>
 
@@ -5586,57 +5623,17 @@ appliances - by owner
             <span class="screen-reader-text">favorite this post</span>
         </span>
 
-            <time class="result-date" datetime="2019-11-27 11:40" title="Wed 27 Nov 11:40:54 AM">Nov 27</time>
+            <time class="result-date" datetime="2019-06-07 21:04" title="Fri 07 Jun 09:04:02 PM">Jun  7</time>
 
 
-        <a href="https://denver.craigslist.org/app/d/arvada-xray-light/7012149863.html" data-id="7012149863" class="result-title hdrlnk">XRAY Light</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$15</span>
-
-
-                <span class="result-hood"> (Westminster)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7012954271">
-
-        <a href="https://denver.craigslist.org/app/d/evergreen-microwave-glass-turntable/7012954271.html" class="result-image gallery" data-ids="1:00J0J_Yvx2FyKoZU,1:00w0w_4jYxGW8tdT7">
-                <span class="result-price">$15</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-01 17:46" title="Sun 01 Dec 05:46:19 PM">Dec  1</time>
-
-
-        <a href="https://denver.craigslist.org/app/d/evergreen-microwave-glass-turntable/7012954271.html" data-id="7012954271" class="result-title hdrlnk">Microwave Glass Turntable</a>
+        <a href="https://denver.craigslist.org/app/d/denver-new-sunbeam-revlon-compact/6886365316.html" data-id="6886365316" class="result-title hdrlnk">New Sunbeam &amp; Revlon Compact Stylist Hair Dryers</a>
 
 
         <span class="result-meta">
                 <span class="result-price">$15</span>
 
 
-                <span class="result-hood"> (Evergreen)</span>
+                <span class="result-hood"> (Denver)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
