@@ -899,7 +899,47 @@ antiques
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7025961708">
+                             <li class="result-row" data-pid="7018974886" data-repost-of="6504798877">
+
+        <a href="https://denver.craigslist.org/atq/d/denver-feudal-oak-executive-desk/7018974886.html" class="result-image gallery" data-ids="1:00Z0Z_3JQQAmoKLqk,1:00808_giT7WUnWVWn,1:00C0C_7EfQe0bIJ8q">
+                <span class="result-price">$1000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-24 09:03" title="Sun 24 Nov 09:03:14 AM">Nov 24</time>
+
+
+        <a href="https://denver.craigslist.org/atq/d/denver-feudal-oak-executive-desk/7018974886.html" data-id="7018974886" class="result-title hdrlnk">Feudal Oak executive desk</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1000</span>
+
+
+                <span class="result-hood"> (Tech center)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7025961708">
 
         <a href="https://denver.craigslist.org/atq/d/westminster-buying-militaria/7025961708.html" class="result-image gallery" data-ids="1:00909_8LgiYk7IgQ3,1:00c0c_aT8ubS4F7E6,1:00f0f_fI7DTSKAIWl">
                 <span class="result-price">$1000</span>
@@ -5603,46 +5643,6 @@ antiques
 
 
                 <span class="result-hood"> (Boulder)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7034923803">
-
-        <a href="https://denver.craigslist.org/atq/d/denver-beautiful-antique-quarter-sawn/7034923803.html" class="result-image gallery" data-ids="1:00a0a_fc7O9Ga5K9A,1:00B0B_eQBabVcKR2M,1:00N0N_fxWPTV4qFgK,1:00606_cjDH7acBxts,1:00x0x_e9tumly4kJ4,1:00Y0Y_lRqPIqwgmMe">
-                <span class="result-price">$750</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 10:14" title="Sun 05 Jan 10:14:27 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/atq/d/denver-beautiful-antique-quarter-sawn/7034923803.html" data-id="7034923803" class="result-title hdrlnk">Beautiful antique quarter-sawn tiger oak buffet</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$750</span>
-
-
-                <span class="result-hood"> (Applewood / Lakewood)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

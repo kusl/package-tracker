@@ -863,7 +863,7 @@ computer parts
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">919</span>
+            <span class="totalcount">922</span>
         </span>
 
         <a href="/search/syp?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -899,7 +899,47 @@ computer parts
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7048696422" data-repost-of="6628166158">
+                             <li class="result-row" data-pid="7048434246">
+
+        <a href="https://denver.craigslist.org/sop/d/denver-server-case-with-rack-and-furman/7048434246.html" class="result-image gallery" data-ids="1:00n0n_aitzZOepYdQ,1:00L0L_3G2gnYpRkYf,1:00g0g_lBoAvkKHudQ,1:00D0D_gHJ2jClatxC">
+                <span class="result-price">$100</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 11:16" title="Thu 02 Jan 11:16:44 AM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/sop/d/denver-server-case-with-rack-and-furman/7048434246.html" data-id="7048434246" class="result-title hdrlnk">Server case with rack and Furman UPS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="result-hood"> (Regis)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048696422" data-repost-of="6628166158">
 
         <a href="https://denver.craigslist.org/sop/d/denver-swissgear-synergy-laptop/7048696422.html" class="result-image gallery" data-ids="1:00606_6Lj9DF2PP4X,1:00606_cUnWf987b0z">
                 <span class="result-price">$100</span>
@@ -4274,46 +4314,6 @@ computer parts
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047655408" data-repost-of="7017515952">
-
-        <a href="https://denver.craigslist.org/sop/d/denver-wacom-intuos-drawing-tablet-small/7047655408.html" class="result-image gallery" data-ids="1:01212_j6kNLWXEECr,1:00707_eXa6usC0UPG">
-                <span class="result-price">$65</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 08:00" title="Sat 04 Jan 08:00:38 AM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/sop/d/denver-wacom-intuos-drawing-tablet-small/7047655408.html" data-id="7047655408" class="result-title hdrlnk">Wacom Intuos Drawing Tablet Small</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$65</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7049745462" data-repost-of="7002550207">
 
         <a href="https://denver.craigslist.org/sop/d/denver-sapphire-radeon-rx-460-2gb-gddr5/7049745462.html" class="result-image gallery" data-ids="1:00202_l3DzzlINq76,1:00o0o_lolXlLLhj5X,1:00H0H_fuxAPToPfb8,1:00303_f82eMeeSoYF">
@@ -5694,7 +5694,7 @@ computer parts
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">919</span>
+            <span class="totalcount">922</span>
         </span>
 
         <a href="/search/syp?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

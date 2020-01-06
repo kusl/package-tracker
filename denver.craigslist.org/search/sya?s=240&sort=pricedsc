@@ -863,7 +863,7 @@ computers
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1793</span>
+            <span class="totalcount">1794</span>
         </span>
 
         <a href="/search/sya?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -899,47 +899,7 @@ computers
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7037738911">
-
-        <a href="https://denver.craigslist.org/sys/d/denver-2017-macbook-pro-23ghz-dual-core/7037738911.html" class="result-image gallery" data-ids="1:00y0y_b9R3skZZzUD">
-                <span class="result-price">$890</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-27 13:00" title="Fri 27 Dec 01:00:38 PM">Dec 27</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/denver-2017-macbook-pro-23ghz-dual-core/7037738911.html" data-id="7037738911" class="result-title hdrlnk">2017 MacBook Pro 2.3GHz dual-core Intel Core i5</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$890</span>
-
-
-                <span class="result-hood"> (Denver, CO)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7030051186">
+                             <li class="result-row" data-pid="7030051186">
 
         <a href="https://denver.craigslist.org/sys/d/castle-rock-apple-imac-215-4k/7030051186.html" class="result-image gallery empty"></a>
 
@@ -5667,6 +5627,46 @@ computers
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7026179183">
+
+        <a href="https://denver.craigslist.org/sys/d/louisville-2017-macbook-13/7026179183.html" class="result-image gallery" data-ids="1:00X0X_f5R193MFajN,1:01313_ju4enZbLQnj,1:00u0u_4zQHVVdiHpK,1:00d0d_gwOrOrcK0Qf">
+                <span class="result-price">$650</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-11-24 07:02" title="Sun 24 Nov 07:02:23 AM">Nov 24</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/louisville-2017-macbook-13/7026179183.html" data-id="7026179183" class="result-title hdrlnk">2017 MacBook 13”</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$650</span>
+
+
+                <span class="result-hood"> (Superior)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5699,7 +5699,7 @@ computers
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1793</span>
+            <span class="totalcount">1794</span>
         </span>
 
         <a href="/search/sya?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

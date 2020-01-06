@@ -863,7 +863,7 @@ computers
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1794</span>
+            <span class="totalcount">1796</span>
         </span>
 
         <a href="/search/sya?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -899,7 +899,46 @@ computers
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051144357" data-repost-of="7049015130">
+                             <li class="result-row" data-pid="7050553024" data-repost-of="6883994424">
+
+        <a href="https://denver.craigslist.org/sys/d/broomfield-hp-color-laserjet-c4191a/7050553024.html" class="result-image gallery" data-ids="1:00Z0Z_cUmglA4czjr,1:00A0A_azEsqFoNYJd,1:00i0i_ldIoVz9mblO,1:00u0u_2fRRw0uqD0r">
+                <span class="result-price">$40</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 18:11" title="Sun 05 Jan 06:11:50 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/broomfield-hp-color-laserjet-c4191a/7050553024.html" data-id="7050553024" class="result-title hdrlnk">HP Color LaserJet C4191A C4192A C4193A C4194A Toner</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051144357" data-repost-of="7049015130">
 
         <a href="https://denver.craigslist.org/sys/d/castle-rock-used-dell-inspiron-laptop/7051144357.html" class="result-image gallery" data-ids="1:00b0b_do5LJBawssX,1:00101_g9V72e9ci6l,1:00p0p_17pN9zdsiCy,1:00606_eWgRu579HA0,1:00M0M_6Y1V4j8XPqm">
                 <span class="result-price">$40</span>
@@ -5631,46 +5670,6 @@ computers
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7037250438">
-
-        <a href="https://denver.craigslist.org/sys/d/denver-apple-imac-20-fresh-install/7037250438.html" class="result-image gallery" data-ids="1:00b0b_bpAbtz9gH8U,1:00i0i_26N7s9Wopxd,1:00808_5qUBtBh4GKu,1:00j0j_2Pw1u3mPosa,1:00Y0Y_dGH26Ynpb6g">
-                <span class="result-price">$70</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-31 23:13" title="Tue 31 Dec 11:13:00 PM">Dec 31</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/denver-apple-imac-20-fresh-install/7037250438.html" data-id="7037250438" class="result-title hdrlnk">Apple iMac 20&quot; fresh install!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$70</span>
-
-
-                <span class="result-hood"> (Green Mtn.)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5703,7 +5702,7 @@ computers
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1794</span>
+            <span class="totalcount">1796</span>
         </span>
 
         <a href="/search/sya?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

@@ -897,47 +897,7 @@ appliances - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7050536383">
-
-        <a href="https://denver.craigslist.org/app/d/denver-whirlpool-cabrio-platinum-washer/7050536383.html" class="result-image gallery" data-ids="1:00p0p_8V82MCtGTvM,1:00c0c_7oRGKQILqLY,1:00C0C_W4y5TpCmJN,1:00f0f_avvyRSZVgpG">
-                <span class="result-price">$400</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 17:35" title="Sun 05 Jan 05:35:40 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/app/d/denver-whirlpool-cabrio-platinum-washer/7050536383.html" data-id="7050536383" class="result-title hdrlnk">Whirlpool Cabrio Platinum washer</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$400</span>
-
-
-                <span class="result-hood"> (I-70 and Steele st)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7045584385">
+                             <li class="result-row" data-pid="7045584385">
 
         <a href="https://denver.craigslist.org/app/d/berthoud-oreck-vacuum-retails-299/7045584385.html" class="result-image gallery" data-ids="1:00M0M_fQ3kbX8Dbmd,1:00E0E_6J30lQwenU8">
                 <span class="result-price">$0</span>
@@ -5646,6 +5606,43 @@ appliances - by owner
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050302622">
+
+        <a href="https://denver.craigslist.org/app/d/dillon-ge-appliances-refrigerator-oven/7050302622.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 11:14" title="Sun 05 Jan 11:14:07 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/app/d/dillon-ge-appliances-refrigerator-oven/7050302622.html" data-id="7050302622" class="result-title hdrlnk">GE APPLIANCES: REFRIGERATOR/OVEN/COOKTOP</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2000</span>
+
+
+                <span class="result-hood"> (DILLON, CO.)</span>
+
+                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">

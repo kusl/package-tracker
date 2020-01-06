@@ -863,7 +863,7 @@ computers - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1757</span>
+            <span class="totalcount">1760</span>
         </span>
 
         <a href="/search/sys?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -2115,6 +2115,46 @@ computers - by owner
 
 
                 <span class="result-hood"> (Parker)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7036374481">
+
+        <a href="https://denver.craigslist.org/sys/d/denver-15-macbook-pro-spacegray-touchbar/7036374481.html" class="result-image gallery" data-ids="1:01414_lCuAryOEURl,1:00E0E_hJJiE3LZuK1,1:00J0J_jTD0Muz4loL">
+                <span class="result-price">$1100</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:09" title="Mon 06 Jan 04:09:44 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/sys/d/denver-15-macbook-pro-spacegray-touchbar/7036374481.html" data-id="7036374481" class="result-title hdrlnk">15&quot; Macbook Pro (Spacegray) Touchbar</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1100</span>
+
+
+                <span class="result-hood"> (Sheridan)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5622,46 +5662,6 @@ Notebook</a>
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7048762305">
-
-        <a href="https://denver.craigslist.org/sys/d/denver-macbook-pro-13-inch-ghz-i5-8gb/7048762305.html" class="result-image gallery" data-ids="1:00X0X_2TzuCHilVKB,1:00101_55TzyxySLhZ">
-                <span class="result-price">$875</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-02 19:16" title="Thu 02 Jan 07:16:42 PM">Jan  2</time>
-
-
-        <a href="https://denver.craigslist.org/sys/d/denver-macbook-pro-13-inch-ghz-i5-8gb/7048762305.html" data-id="7048762305" class="result-title hdrlnk">MacBook Pro 13-inch, 2017, 3.1GHz i5, 8GB memory, 512 GB storage</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$875</span>
-
-
-                <span class="result-hood"> (Downtown)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5694,7 +5694,7 @@ Notebook</a>
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1757</span>
+            <span class="totalcount">1760</span>
         </span>
 
         <a href="/search/sys?s=240&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
