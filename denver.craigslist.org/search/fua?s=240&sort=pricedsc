@@ -899,46 +899,7 @@ furniture
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7044937696" data-repost-of="5629701845">
-
-        <a href="https://denver.craigslist.org/fuo/d/lafayette-stunning-danish-credenza/7044937696.html" class="result-image gallery" data-ids="1:00o0o_1h9ixzrTTZ6,1:00p0p_hUyBZBImrGq,1:00I0I_6fksXxR7I8n,1:00y0y_c4cvAylMA3c">
-                <span class="result-price">$1900</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-26 19:20" title="Thu 26 Dec 07:20:53 PM">Dec 26</time>
-
-
-        <a href="https://denver.craigslist.org/fuo/d/lafayette-stunning-danish-credenza/7044937696.html" data-id="7044937696" class="result-title hdrlnk">Stunning Danish Credenza Rosewood</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1900</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7048519750">
+                             <li class="result-row" data-pid="7048519750">
 
         <a href="https://denver.craigslist.org/fuo/d/littleton-italian-king-bedroom-furniture/7048519750.html" class="result-image gallery" data-ids="1:01414_iMcbfobPtQL,1:00C0C_fpUUxW1XSz7,1:00000_iCdixmNYRl1,1:00P0P_cEp7LvpDBeA,1:00S0S_1C77cEt5dtF,1:00C0C_19FpB6jdcLT">
                 <span class="result-price">$1900</span>
@@ -5660,6 +5621,45 @@ furniture
 
 
                 <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039639332">
+
+        <a href="https://denver.craigslist.org/fud/d/denver-industrial-steel-buffet-hutch/7039639332.html" class="result-image gallery" data-ids="1:00C0C_agyNs2FguNN,1:00P0P_M5nUyvdyQM,1:00303_9bcOeBnYTfX,1:00808_7vEHz82HXi3,1:00808_bi4ADNRnGNT">
+                <span class="result-price">$1575</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-16 13:29" title="Mon 16 Dec 01:29:23 PM">Dec 16</time>
+
+
+        <a href="https://denver.craigslist.org/fud/d/denver-industrial-steel-buffet-hutch/7039639332.html" data-id="7039639332" class="result-title hdrlnk">Industrial Steel Buffet, Hutch, Sideboard, Media Console, Credenza</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1575</span>
+
+
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

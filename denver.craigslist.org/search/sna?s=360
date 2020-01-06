@@ -861,7 +861,7 @@ atvs, utvs, snowmobiles
                 <span class="rangeTo">480</span>
             </span>
             /
-            <span class="totalcount">1328</span>
+            <span class="totalcount">1326</span>
         </span>
 
         <a href="/search/sna?s=480" class="button next" title="next page">next &gt; </a>
@@ -897,47 +897,7 @@ atvs, utvs, snowmobiles
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7043625255">
-
-        <a href="https://denver.craigslist.org/snw/d/englewood-reward-50000/7043625255.html" class="result-image gallery" data-ids="1:00s0s_8Vw3XFWDwVm">
-                <span class="result-price">$500</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-03 01:01" title="Fri 03 Jan 01:01:10 AM">Jan  3</time>
-
-
-        <a href="https://denver.craigslist.org/snw/d/englewood-reward-50000/7043625255.html" data-id="7043625255" class="result-title hdrlnk">REWARD 500.00</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$500</span>
-
-
-                <span class="result-hood"> (ENGLEWOOD)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7048808255">
+                             <li class="result-row" data-pid="7048808255">
 
         <a href="https://denver.craigslist.org/snw/d/denver-mini-bike/7048808255.html" class="result-image gallery" data-ids="1:00K0K_4dJyVC45Dka,1:00g0g_hkjnerYbbT9">
                 <span class="result-price">$900</span>
@@ -5671,6 +5631,46 @@ atvs, utvs, snowmobiles
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7047722789">
+
+        <a href="https://denver.craigslist.org/snw/d/colorado-springs-09-summit-xp-800r-tek/7047722789.html" class="result-image gallery" data-ids="1:00H0H_52n8RpiEyIB,1:01515_bHmaD5xMzp3,1:00B0B_bFlJPeqdidq,1:00e0e_dyDbnF4NxrQ,1:00l0l_kw427bSU2M8,1:00N0N_dRCHrZkcehv,1:00w0w_hSXA0hFyFCw,1:00909_gN83YGv9RFo,1:01010_jNSJF99BzPq,1:01515_bHmaD5xMzp3,1:00f0f_1ake27kJSH7,1:00n0n_9hvBZNdkQGX,1:00000_kjV1vBoEWPg,1:00Z0Z_24eryUYlies,1:00f0f_4cCR75B4qbJ,1:00S0S_gg1Pe5NwIdE,1:00e0e_dmf1gw4Tq68,1:00r0r_2Cf1OZSYyhx,1:00Y0Y_6YZk9AHtYAC,1:00d0d_58nXFIdH17M,1:00B0B_hZqEutwYJ1Q,1:00505_1bLvVSyyQQg,1:00a0a_5YNowmOJfOs,1:00u0u_5OTnz4MldBx">
+                <span class="result-price">$4200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 22:56" title="Tue 31 Dec 10:56:48 PM">Dec 31</time>
+
+
+        <a href="https://denver.craigslist.org/snw/d/colorado-springs-09-summit-xp-800r-tek/7047722789.html" data-id="7047722789" class="result-title hdrlnk">09 summit XP 800r P-tek</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4200</span>
+
+
+                <span class="result-hood"> (east side)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                     
                     
@@ -5703,7 +5703,7 @@ atvs, utvs, snowmobiles
                 <span class="rangeTo">480</span>
             </span>
             /
-            <span class="totalcount">1328</span>
+            <span class="totalcount">1326</span>
         </span>
 
         <a href="/search/sna?s=480" class="button next" title="next page">next &gt; </a>

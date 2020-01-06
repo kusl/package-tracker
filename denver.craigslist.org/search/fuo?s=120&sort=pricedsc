@@ -899,47 +899,7 @@ furniture - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7050266723">
-
-        <a href="https://denver.craigslist.org/fuo/d/aurora-gallerie-sofas/7050266723.html" class="result-image gallery" data-ids="1:00404_48bHBnmLA9R,1:00M0M_hydcpM4LQiI">
-                <span class="result-price">$2700</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 11:09" title="Sun 05 Jan 11:09:47 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/fuo/d/aurora-gallerie-sofas/7050266723.html" data-id="7050266723" class="result-title hdrlnk">Z Gallerie Sofas</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$2700</span>
-
-
-                <span class="result-hood"> (Aurora)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7038388787">
+                             <li class="result-row" data-pid="7038388787">
 
         <a href="https://denver.craigslist.org/fuo/d/denver-live-edge-walnut-console-table/7038388787.html" class="result-image gallery" data-ids="1:00r0r_11SjIxtpCfz,1:00Y0Y_kYC9bJid504,1:00606_4t1264TCYAn,1:00J0J_44oWCFUUqkS,1:00m0m_20pcYkn3OQ7">
                 <span class="result-price">$2690</span>
@@ -5642,6 +5602,45 @@ furniture - by owner
 
 
                 <span class="result-hood"> (Colorado Springs)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045161065">
+
+        <a href="https://denver.craigslist.org/fuo/d/arvada-dining-set-must-sell/7045161065.html" class="result-image gallery" data-ids="1:00g0g_9t1e6o2jQsA,1:00B0B_3mUDKzkfE52,1:00b0b_fBkWA3yMrKP">
+                <span class="result-price">$1800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 09:38" title="Fri 27 Dec 09:38:07 AM">Dec 27</time>
+
+
+        <a href="https://denver.craigslist.org/fuo/d/arvada-dining-set-must-sell/7045161065.html" data-id="7045161065" class="result-title hdrlnk">Dining Set -must sell</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1800</span>
+
+
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
