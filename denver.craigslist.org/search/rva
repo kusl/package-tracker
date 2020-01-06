@@ -1302,7 +1302,7 @@ recreational vehicles
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2467</span>
+            <span class="totalcount">2468</span>
         </span>
 
         <a href="/search/rva?s=120" class="button next" title="next page">next &gt; </a>
@@ -1338,7 +1338,47 @@ recreational vehicles
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051063884">
+                             <li class="result-row" data-pid="7051079834" data-repost-of="7033051486">
+
+        <a href="https://denver.craigslist.org/rvs/d/littleton-2018-taxa-mantis/7051079834.html" class="result-image gallery" data-ids="1:00I0I_f6YnuPStBxX,1:00W0W_UBS4rkJ2yN,1:00J0J_cH9nS2WyZfT,1:00G0G_iMJEgEOgtUr,1:01313_kVM4tggRiz9,1:00i0i_7lzv1un5TLP,1:01010_35jASsirGy1">
+                <span class="result-price">$29000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 14:25" title="Mon 06 Jan 02:25:16 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/rvs/d/littleton-2018-taxa-mantis/7051079834.html" data-id="7051079834" class="result-title hdrlnk">2018 Taxa Mantis</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$29000</span>
+
+
+                <span class="result-hood"> (Littleton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051063884">
 
         <a href="https://denver.craigslist.org/rvs/d/canon-city-2004-tioga-class/7051063884.html" class="result-image gallery" data-ids="1:01616_faNMLBB13WE,1:00V0V_22kxIJ4uW4k,1:00i0i_eV5WqHRNAgZ,1:00f0f_cVYcdtJPMN1,1:00x0x_2cAtYfx1WyS">
                 <span class="result-price">$29000</span>
@@ -6076,46 +6116,6 @@ recreational vehicles
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7049461633">
-
-        <a href="https://denver.craigslist.org/rvs/d/morrison-vintage-camper-with-bathroom/7049461633.html" class="result-image gallery" data-ids="1:00T0T_4pR8fkgcbRC,1:00c0c_3f45EBoUzkl,1:00q0q_lR0G6w4l06S,1:00101_dqhFz8c3Lbh,1:00k0k_2uXpimJdIra,1:00m0m_b1vW1VpBk5i,1:01010_hfnaUDWgHgM,1:00b0b_8od2bOHZOfi,1:00k0k_lKX1X96MR34,1:00z0z_2va7I6Ssxp5,1:00F0F_mYiMrJ9VAy,1:00w0w_5zzawbaTq4X,1:00606_1J3EeYAEAlf,1:00u0u_amftXRSws22">
-                <span class="result-price">$1900</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-03 20:57" title="Fri 03 Jan 08:57:51 PM">Jan  3</time>
-
-
-        <a href="https://denver.craigslist.org/rvs/d/morrison-vintage-camper-with-bathroom/7049461633.html" data-id="7049461633" class="result-title hdrlnk">Vintage Camper with bathroom-you fix or I fix</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1900</span>
-
-
-                <span class="result-hood"> (Morrison)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6148,7 +6148,7 @@ recreational vehicles
                 <span class="rangeTo">120</span>
             </span>
             /
-            <span class="totalcount">2467</span>
+            <span class="totalcount">2468</span>
         </span>
 
         <a href="/search/rva?s=120" class="button next" title="next page">next &gt; </a>
