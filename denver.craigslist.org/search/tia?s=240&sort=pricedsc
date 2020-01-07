@@ -838,7 +838,7 @@ tickets
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2144</span>
+            <span class="totalcount">2145</span>
         </span>
 
         <a href="/search/tia?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -1282,6 +1282,42 @@ tickets
                 <span class="result-tags">
                     <span class="pictag">pic</span>
                     <span class="pictag">img</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6968685249" data-repost-of="6640831668">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-airline-buddy-passes/6968685249.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-08-31 12:49" title="Sat 31 Aug 12:49:32 PM">Aug 31</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-airline-buddy-passes/6968685249.html" data-id="6968685249" class="result-title hdrlnk">Airline Buddy Passes</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$225</span>
+
+
+
+                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -5416,42 +5452,6 @@ tickets
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7046392552">
-
-        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-pelicans-section-124-row/7046392552.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-29 12:44" title="Sun 29 Dec 12:44:29 PM">Dec 29</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-pelicans-section-124-row/7046392552.html" data-id="7046392552" class="result-title hdrlnk">Nuggets/Pelicans Section 124, Row 16 Pair-95 each</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$190</span>
-
-
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5484,7 +5484,7 @@ tickets
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2144</span>
+            <span class="totalcount">2145</span>
         </span>
 
         <a href="/search/tia?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
