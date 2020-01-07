@@ -836,7 +836,7 @@ tickets
                 <span class="rangeTo">480</span>
             </span>
             /
-            <span class="totalcount">2561</span>
+            <span class="totalcount">2562</span>
         </span>
 
         <a href="/search/tia?s=480" class="button next" title="next page">next &gt; </a>
@@ -872,7 +872,43 @@ tickets
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7047368444">
+                             <li class="result-row" data-pid="7047396656">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-avalanches-vs-jets/7047396656.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-31 09:33" title="Tue 31 Dec 09:33:02 AM">Dec 31</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-avalanches-vs-jets/7047396656.html" data-id="7047396656" class="result-title hdrlnk">Avalanches vs jets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$115</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047368444">
 
         <a href="https://denver.craigslist.org/tix/d/littleton-nye-in-the-city-at-the-four/7047368444.html" class="result-image gallery" data-ids="1:00U0U_goduJL1LsMJ,1:00j0j_dAp1B8Ax8AM">
                 <span class="result-price">$100</span>
@@ -5398,42 +5434,6 @@ tickets
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7046280672">
-
-        <a href="https://denver.craigslist.org/tix/d/hygiene-broncos-raiders-1-ticket/7046280672.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-29 09:36" title="Sun 29 Dec 09:36:01 AM">Dec 29</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/hygiene-broncos-raiders-1-ticket/7046280672.html" data-id="7046280672" class="result-title hdrlnk">Broncos Raiders 1 ticket section 316</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$80</span>
-
-
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5466,7 +5466,7 @@ tickets
                 <span class="rangeTo">480</span>
             </span>
             /
-            <span class="totalcount">2561</span>
+            <span class="totalcount">2562</span>
         </span>
 
         <a href="/search/tia?s=480" class="button next" title="next page">next &gt; </a>

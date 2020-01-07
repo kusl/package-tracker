@@ -836,7 +836,7 @@ tickets - by owner
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2105</span>
+            <span class="totalcount">2104</span>
         </span>
 
         <a href="/search/tix?s=360" class="button next" title="next page">next &gt; </a>
@@ -872,7 +872,47 @@ tickets - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7047901610">
+                             <li class="result-row" data-pid="7047906518">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-ski-coupons-for-vail-resorts/7047906518.html" class="result-image gallery" data-ids="1:00I0I_bjr6Nay0bUK,1:00z0z_csnU4Gu7ysB">
+                <span class="result-price">$200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-01 12:03" title="Wed 01 Jan 12:03:53 PM">Jan  1</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-ski-coupons-for-vail-resorts/7047906518.html" data-id="7047906518" class="result-title hdrlnk">Ski coupons! For Vail resorts</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$200</span>
+
+
+                <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047901610">
 
         <a href="https://denver.craigslist.org/tix/d/evergreen-loveland-4-pak-pass/7047901610.html" class="result-image gallery empty"></a>
 
@@ -5352,42 +5392,6 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7046694616">
-
-        <a href="https://denver.craigslist.org/tix/d/aurora-decadence-music-festival-2-day/7046694616.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-30 05:59" title="Mon 30 Dec 05:59:45 AM">Dec 30</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/aurora-decadence-music-festival-2-day/7046694616.html" data-id="7046694616" class="result-title hdrlnk">Decadence Music Festival 2 Day Pass</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$175</span>
-
-
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5420,7 +5424,7 @@ tickets - by owner
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2105</span>
+            <span class="totalcount">2104</span>
         </span>
 
         <a href="/search/tix?s=360" class="button next" title="next page">next &gt; </a>
