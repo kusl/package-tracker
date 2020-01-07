@@ -5,7 +5,7 @@
     <meta name="description" content="denver tickets - by owner  - craigslist">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <link rel="canonical" href="https://denver.craigslist.org/search/tix">
-    <link rel="alternate" type="application/rss+xml" href="https://denver.craigslist.org/search/tix?format=rss&amp;sale_date=2020-01-06&amp;sort=upcoming" title="RSS feed for craigslist | denver tickets - by owner  - craigslist">
+    <link rel="alternate" type="application/rss+xml" href="https://denver.craigslist.org/search/tix?format=rss&amp;sort=upcoming" title="RSS feed for craigslist | denver tickets - by owner  - craigslist">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=f45c4074e9853c0ceb280398a8131359">
     <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=bc035cbbc3978b0ec9df93944cdf349b">
@@ -103,8 +103,7 @@ var zoomToPosting = null;
 
     <nav class="breadcrumbs-container">
 <form id="breadcrumbform" class="breadcrumbs-form" method="get" action="/search/tix" data-action="/search/###/tix">
-    <input type="hidden" name="sale_date" value="2020-01-06">
-<input type="hidden" name="sort" value="upcoming">
+    <input type="hidden" name="sort" value="upcoming">
 
     <ul class="breadcrumbs ">
         <li class="crumb area">
@@ -214,7 +213,7 @@ var zoomToPosting = null;
         <li class="user discards">
           <form class="unfavform js-only" method="POST" action="/favorites">
             <div class="to-banish-page">
-              <input type="hidden" class="lastLink" name="lastLink" value="//denver.craigslist.org/search/tix?sale_date=2020-01-06&amp;sort=upcoming">
+              <input type="hidden" class="lastLink" name="lastLink" value="//denver.craigslist.org/search/tix?sort=upcoming">
               <input type="hidden" class="lastTitle" name="lastTitle" value="denver tickets - by owner  - craigslist">
               <input type="hidden" class="unfaves" name="fl">
               <input type="hidden" name="uf" value="1">
@@ -262,7 +261,7 @@ tickets - by owner
                     <span class="screen-reader-text">press to search craigslist</span>
                 </button>
                     <div class="savealert">
-                        <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fdenver%252Ecraigslist%252Eorg%252Fsearch%252Ftix%253Fsale%255Fdate%253D2020%252D01%252D06%2526sort%253Dupcoming"  title="save this search" >save search</a>
+                        <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Fdenver%252Ecraigslist%252Eorg%252Fsearch%252Ftix%253Fsort%253Dupcoming"  title="save this search" >save search</a>
                     </div>
             </div>
 
@@ -284,11 +283,11 @@ tickets - by owner
 
                 <ul class="searchgroup buttongroup purveyor">
                     <li class="button ">
-                        <a href="/search/tia?sale_date=2020-01-06&amp;sort=upcoming" data-val="all">all</a>
+                        <a href="/search/tia?sort=upcoming" data-val="all">all</a>
                     </li><li class="button sel">
-                        <a href="/search/tix?sale_date=2020-01-06&amp;sort=upcoming" data-val="owner"> owner</a>
+                        <a href="/search/tix?sort=upcoming" data-val="owner"> owner</a>
                     </li><li class="button ">
-                        <a href="/search/tid?sale_date=2020-01-06&amp;sort=upcoming" data-val="dealer">dealer</a>
+                        <a href="/search/tid?sort=upcoming" data-val="dealer">dealer</a>
                     </li>
                 </ul>
 
@@ -719,7 +718,7 @@ tickets - by owner
                     <div class="searchfieldlabel">on date</div>
                 <select class="autosubmit" id="sale_date" name="sale_date">
                     <option>all dates</option>
-                        <option value="2020-01-06" selected>jan 6 - today</option>
+                        <option value="2020-01-06">jan 6 - today</option>
                         <option value="2020-01-07">jan 7 - tomorrow</option>
                         <option value="2020-01-08">jan 8 - wednesday</option>
                         <option value="2020-01-09">jan 9 - thursday</option>
@@ -802,16 +801,16 @@ tickets - by owner
         <ul class="dropdown-list">
 
             <li class="dropdown-item mode sel" aria-selected="true">
-                <a data-selection="upcoming" title="show upcoming events" href="/search/tix?sort=upcoming&amp;sale_date=2020-01-06">upcoming <span class="toggle-arrow"></span></a>
+                <a data-selection="upcoming" title="show upcoming events" href="/search/tix?sort=upcoming&amp;">upcoming <span class="toggle-arrow"></span></a>
             </li>
             <li class="dropdown-item mode " aria-selected="false">
-                <a data-selection="date" title="show newest matches first" href="/search/tix?sort=date&amp;sale_date=2020-01-06">newest <span class="toggle-arrow"></span></a>
+                <a data-selection="date" title="show newest matches first" href="/search/tix?sort=date&amp;">newest <span class="toggle-arrow"></span></a>
             </li>
             <li class="dropdown-item mode " aria-selected="false">
-                <a data-selection="priceasc" title="sort by price, lowest to highest" href="/search/tix?sort=priceasc&amp;sale_date=2020-01-06">price &uarr; <span class="toggle-arrow"></span></a>
+                <a data-selection="priceasc" title="sort by price, lowest to highest" href="/search/tix?sort=priceasc&amp;">price &uarr; <span class="toggle-arrow"></span></a>
             </li>
             <li class="dropdown-item mode " aria-selected="false">
-                <a data-selection="pricedsc" title="sort by price, highest to lowest" href="/search/tix?sort=pricedsc&amp;sale_date=2020-01-06">price &darr; <span class="toggle-arrow"></span></a>
+                <a data-selection="pricedsc" title="sort by price, highest to lowest" href="/search/tix?sort=pricedsc&amp;">price &darr; <span class="toggle-arrow"></span></a>
             </li>
 
         </ul>
@@ -825,19 +824,19 @@ tickets - by owner
         </span>
     </span>
     <span class="buttons">
-        <a href="/search/tix?sale_date=2020-01-06&amp;sort=upcoming" class="button first" title="first page">&lt;&lt;</a>
+        <a href="/search/tix?sort=upcoming" class="button first" title="first page">&lt;&lt;</a>
         <span class="button first" title="first page">&lt;&lt;</span>
-        <a href="/search/tix?sale_date=2020-01-06&amp;sort=upcoming" class="button prev" title="previous page">&lt; prev</a>
+        <a href="/search/tix?sort=upcoming" class="button prev" title="previous page">&lt; prev</a>
         <span class="button prev" title="previous page">&lt; prev</span>
 
         <span class="button pagenum">
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">20</span>
+                <span class="rangeTo">112</span>
             </span>
             /
-            <span class="totalcount">20</span>
+            <span class="totalcount">112</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -845,16 +844,7 @@ tickets - by owner
     </span>
 </div>
 
-                <div class="day_pag_div ban">
-    <span class="cur_day daybubbles">tickets for mon jan  6</span>
-    <div class="prev_day">
-        <span class="daybubbles"><a href="//denver.craigslist.org/search/tix?sale_date=2020-01-05&amp;sort=upcoming">&lt;&lt; previous day</a></span>
-    </div>
-    <div class="next_day">
-        <span class="daybubbles"><a href="//denver.craigslist.org/search/tix?sale_date=2020-01-07&amp;sort=upcoming">next day &gt;&gt;</a></span>
-    </div>
-</div>
-
+                
             </div>
             <div class="content" id="sortable-results" >
                 <section class="favlistsection">
@@ -867,8 +857,8 @@ tickets - by owner
                     <div class="alert alert-sm alert-info searchHints">
     <span class="prompt">ALSO TRY:</span>
     <ul>
-        <li><a href="/search/eve?hints=static&amp;sale_date=2020-01-06&amp;sort=upcoming"><strong>date: </strong>2020-01-06</a> in events</li>
-        <li><a href="/search/cls?hints=static&amp;sale_date=2020-01-06&amp;sort=upcoming"><strong>date: </strong>2020-01-06</a> in classes</li>
+        <li><a href="/search/eve?hints=static&amp;sort=upcoming">events</a></li>
+        <li><a href="/search/cls?hints=static&amp;sort=upcoming">classes</a></li>
     </ul>
 </div>
 
@@ -889,10 +879,10 @@ tickets - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7038414853">
+                    <h4 class="ban"><span class="bantext">tickets for tue jan  7</span></h4>         <li class="result-row" data-pid="7036026061">
 
-        <a href="https://denver.craigslist.org/tix/d/aurora-black-crowes-sold-out-show-hard/7038414853.html" class="result-image gallery" data-ids="1:00w0w_4In3VTOZskC">
-                <span class="result-price">$1</span>
+        <a href="https://denver.craigslist.org/tix/d/brighton-brian-regan-2-tickets-saturday/7036026061.html" class="result-image gallery" data-ids="1:00P0P_9f2gO8aqpf4">
+                <span class="result-price">$80</span>
         </a>
 
     <p class="result-info">
@@ -902,14 +892,14 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/aurora-black-crowes-sold-out-show-hard/7038414853.html" data-id="7038414853" class="result-title hdrlnk">Black Crowe’s Sold out Show- Hard Copy Tickets!</a>
+        <a href="https://denver.craigslist.org/tix/d/brighton-brian-regan-2-tickets-saturday/7036026061.html" data-id="7036026061" class="result-title hdrlnk">Brian Regan 2 tickets  / Saturday / February 8th</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$1</span>
+                <span class="result-price">$80</span>
 
 
-                <span class="result-hood"> (Aurora/Centennial)</span>
+                <span class="result-hood"> (brighton)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -928,9 +918,11 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7042936393" data-repost-of="7037389169">
+         <li class="result-row" data-pid="7042174395" data-repost-of="6501103418">
 
-        <a href="https://denver.craigslist.org/tix/d/aurora-hard-copy-tickets-for-the-black/7042936393.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/colorado-rapids-2020-stm-ticket/7042174395.html" class="result-image gallery" data-ids="1:00b0b_aG6XFsJZRbz">
+                <span class="result-price">$65</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -939,54 +931,652 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/aurora-hard-copy-tickets-for-the-black/7042936393.html" data-id="7042936393" class="result-title hdrlnk">HARD COPY TICKETS FOR THE BLACK CROWES - SOLD OUT SHOW!</a>
+        <a href="https://denver.craigslist.org/tix/d/colorado-rapids-2020-stm-ticket/7042174395.html" data-id="7042174395" class="result-title hdrlnk">Colorado Rapids 2020 STM ticket partnership</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$65</span>
+
+
+                <span class="result-hood"> (Sec 106 Row 6)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for wed jan  8</span></h4>         <li class="result-row" data-pid="7037679487" data-repost-of="7013827911">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-denver-nuggets-home-gamesfloor/7037679487.html" class="result-image gallery" data-ids="1:00M0M_6vHLEeAX30n">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-denver-nuggets-home-gamesfloor/7037679487.html" data-id="7037679487" class="result-title hdrlnk">Denver Nuggets home games...floor seats</a>
 
 
         <span class="result-meta">
                 <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Pepsi Center)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050133886">
+
+        <a href="https://denver.craigslist.org/tix/d/flight-booking-airline-tickets-selling/7050133886.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/flight-booking-airline-tickets-selling/7050133886.html" data-id="7050133886" class="result-title hdrlnk">Flight Booking - Airline Tickets Selling</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for thu jan  9</span></h4>         <li class="result-row" data-pid="7037118337">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-jim-gaffigan/7037118337.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-jim-gaffigan/7037118337.html" data-id="7037118337" class="result-title hdrlnk">Jim Gaffigan</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$150</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for fri jan 10</span></h4>         <li class="result-row" data-pid="7037898617">
+
+        <a href="https://denver.craigslist.org/tix/d/leadville-edc-las-vegas-ticket/7037898617.html" class="result-image gallery" data-ids="1:00U0U_9mYMZUAxMjQ">
+                <span class="result-price">$700</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/leadville-edc-las-vegas-ticket/7037898617.html" data-id="7037898617" class="result-title hdrlnk">EDC Las Vegas Ticket</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$700</span>
+
+
+                <span class="result-hood"> (Rocky Mountains)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039494054" data-repost-of="6963320900">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-floor-seats/7039494054.html" class="result-image gallery" data-ids="1:00k0k_jNenDR23OgK">
+                <span class="result-price">$5</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-floor-seats/7039494054.html" data-id="7039494054" class="result-title hdrlnk">Nuggets Floor Seats....</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5</span>
+
+
+                <span class="result-hood"> (sec 134)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048439259">
+
+        <a href="https://denver.craigslist.org/tix/d/estes-park-murder-by-death-jan-10th/7048439259.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/estes-park-murder-by-death-jan-10th/7048439259.html" data-id="7048439259" class="result-title hdrlnk">MURDER BY DEATH Jan 10th</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+                <span class="result-hood"> (estes park)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048978867">
+
+        <a href="https://denver.craigslist.org/tix/d/estes-park-murder-by-death-the-stanley/7048978867.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/estes-park-murder-by-death-the-stanley/7048978867.html" data-id="7048978867" class="result-title hdrlnk">Murder By Death @ The Stanley</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+                <span class="result-hood"> (Estes Park)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050058357" data-repost-of="7037913921">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-du-vs-st-cloud-hockey-row-2/7050058357.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-du-vs-st-cloud-hockey-row-2/7050058357.html" data-id="7050058357" class="result-title hdrlnk">DU vs. St. Cloud Hockey - ROW 2</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$30</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050426246">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-pittsburgh-penguins-vs-colorado/7050426246.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-pittsburgh-penguins-vs-colorado/7050426246.html" data-id="7050426246" class="result-title hdrlnk">Pittsburgh Penguins vs Colorado Avalanche</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+                <span class="result-hood"> (Denver, CO)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for sat jan 11</span></h4>         <li class="result-row" data-pid="7008280202">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-courtside-feet-on-the/7008280202.html" class="result-image gallery" data-ids="1:00I0I_3xElX8Rle2L,1:00f0f_f5T0kdxM0Im">
+                <span class="result-price">$875</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-courtside-feet-on-the/7008280202.html" data-id="7008280202" class="result-title hdrlnk">Nuggets Courtside Feet on the WOOD vs. Cavs Cavaliers</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$875</span>
+
+
+                <span class="result-hood"> (Pepsi Center)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7041824672" data-repost-of="4994539316">
+
+        <a href="https://denver.craigslist.org/tix/d/2-nuggets-vs-cavaliers/7041824672.html" class="result-image gallery" data-ids="1:00808_amtI96GrSET">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/2-nuggets-vs-cavaliers/7041824672.html" data-id="7041824672" class="result-title hdrlnk">2 Nuggets vs Cavaliers</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (section 110, row HH)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043203790">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-two-subscriber-tickets-to-the/7043203790.html" class="result-image gallery" data-ids="1:00R0R_aPxhlCzommk">
+                <span class="result-price">$130</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-two-subscriber-tickets-to-the/7043203790.html" data-id="7043203790" class="result-title hdrlnk">Two subscriber tickets to The Band’s Visit</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$130</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044910843">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-cleveland-cavaliers-vs-denver/7044910843.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-cleveland-cavaliers-vs-denver/7044910843.html" data-id="7044910843" class="result-title hdrlnk">Cleveland Cavaliers vs Denver Nuggets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$150</span>
+
+
+                <span class="result-hood"> ($150 each great seats)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046308562">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-aquaponic-greenhouse-course/7046308562.html" class="result-image gallery" data-ids="1:00Z0Z_laM5CH6qPE0,1:00M0M_f9rnxMY3ywA,1:00Y0Y_lt2bV9iHeRd,1:00202_iBRvTyeWB4C,1:00N0N_7c85Sy7BhnJ">
+                <span class="result-price">$295</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-aquaponic-greenhouse-course/7046308562.html" data-id="7046308562" class="result-title hdrlnk">Aquaponic Greenhouse Course</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$295</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046881212">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-denver-nuggets-vs-cleveland/7046881212.html" class="result-image gallery" data-ids="1:00r0r_a35gvwuVcBo,1:00R0R_8aN1sNX6CId,1:00O0O_1mwiSgdmEen,1:00707_6tpzlNkHi9B,1:00F0F_bisdU3Wfplr">
+                <span class="result-price">$75</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-denver-nuggets-vs-cleveland/7046881212.html" data-id="7046881212" class="result-title hdrlnk">Denver Nuggets vs Cleveland Cavaliers (Sec 120 • Row 8 • Seats 1 &amp; 2)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047107843">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-tickets-to-infamous/7047107843.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-tickets-to-infamous/7047107843.html" data-id="7047107843" class="result-title hdrlnk">2 tickets to infamous stringdusters at mission ballroom</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$65</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047463317">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-denver-nuggets-vs-cleveland/7047463317.html" class="result-image gallery" data-ids="1:00c0c_8bDbxPozt8N">
+                <span class="result-price">$60</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-denver-nuggets-vs-cleveland/7047463317.html" data-id="7047463317" class="result-title hdrlnk">Denver Nuggets vs Cleveland Cavaliers Jan 11- 2 in sec 317 row 1 $60/2</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60</span>
 
 
                 <span class="result-hood"> (Aurora)</span>
 
                 <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7043900574" data-repost-of="6963691017">
-
-        <a href="https://denver.craigslist.org/tix/d/denver-4-great-seats-select-colorado/7043900574.html" class="result-image gallery" data-ids="1:00L0L_6Kh4bc8j9Zs">
-                <span class="result-price">$90</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-
-
-        <a href="https://denver.craigslist.org/tix/d/denver-4-great-seats-select-colorado/7043900574.html" data-id="7043900574" class="result-title hdrlnk">4 Great Seats - Select Colorado Avalanche Home Games - 8th Row</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$90</span>
-
-
-                <span class="result-hood"> (Section 128 Row 8)</span>
-
-                <span class="result-tags">
                     <span class="pictag">pic</span>
                 </span>
 
@@ -1003,10 +1593,10 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050384234">
+         <li class="result-row" data-pid="7047476431">
 
-        <a href="https://denver.craigslist.org/tix/d/aurora-monarch-lift-ticket/7050384234.html" class="result-image gallery" data-ids="1:00X0X_cCDpH9YfE6G">
-                <span class="result-price">$25</span>
+        <a href="https://denver.craigslist.org/tix/d/denver-national-western-stock-show/7047476431.html" class="result-image gallery" data-ids="1:01111_dBbWWTxGJPE">
+                <span class="result-price">$1</span>
         </a>
 
     <p class="result-info">
@@ -1016,11 +1606,11 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/aurora-monarch-lift-ticket/7050384234.html" data-id="7050384234" class="result-title hdrlnk">Monarch lift ticket</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-national-western-stock-show/7047476431.html" data-id="7047476431" class="result-title hdrlnk">National Western Stock Show</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$25</span>
+                <span class="result-price">$1</span>
 
 
                 <span class="result-hood"> (Denver)</span>
@@ -1042,9 +1632,11 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050774663">
+         <li class="result-row" data-pid="7047910182">
 
-        <a href="https://denver.craigslist.org/tix/d/denver-spongebob-the-musical/7050774663.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/denver-oprah-tickets-floor-seats/7047910182.html" class="result-image gallery" data-ids="1:00L0L_eegKYDAWuT5">
+                <span class="result-price">$122</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1053,7 +1645,232 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/denver-spongebob-the-musical/7050774663.html" data-id="7050774663" class="result-title hdrlnk">Spongebob the Musical - 3/21</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-oprah-tickets-floor-seats/7047910182.html" data-id="7047910182" class="result-title hdrlnk">Oprah Tickets - FLOOR SEATS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$122</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047949484">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-infamous-stringdusters/7047949484.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-infamous-stringdusters/7047949484.html" data-id="7047949484" class="result-title hdrlnk">Infamous Stringdusters (reserved seats)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048267888" data-repost-of="7033970943">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-or-4-tickets-nuggets-vs/7048267888.html" class="result-image gallery" data-ids="1:00y0y_5Vujjl2UHZj">
+                <span class="result-price">$155</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-or-4-tickets-nuggets-vs/7048267888.html" data-id="7048267888" class="result-title hdrlnk">2 or 4 Tickets - Nuggets vs Cavaliers - Saturday January 11</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$155</span>
+
+
+                <span class="result-hood"> (Section 104 Row 1 &amp; 2 - Aisle both rows)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048379088">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-nw-stock-show-rodeo/7048379088.html" class="result-image gallery" data-ids="1:00t0t_3Ff9iAPtrv4">
+                <span class="result-price">$45</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-nw-stock-show-rodeo/7048379088.html" data-id="7048379088" class="result-title hdrlnk">NW Stock Show Rodeo</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$45</span>
+
+
+                <span class="result-hood"> (Highlands Ranch)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049784527">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-the-adicts-the-oriental-theater/7049784527.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-the-adicts-the-oriental-theater/7049784527.html" data-id="7049784527" class="result-title hdrlnk">The Adicts @ The Oriental Theater 1/11/2020</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050641550">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-cavaliers-nuggets/7050641550.html" class="result-image gallery" data-ids="1:00G0G_1v7WIJotGSS">
+                <span class="result-price">$225</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-cavaliers-nuggets/7050641550.html" data-id="7050641550" class="result-title hdrlnk">Cavaliers @ Nuggets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$225</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050835930" data-repost-of="6785236653">
+
+        <a href="https://denver.craigslist.org/tix/d/brighton-2020-national-western-stock/7050835930.html" class="result-image gallery" data-ids="1:00606_d5TqgQ932mI">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/brighton-2020-national-western-stock/7050835930.html" data-id="7050835930" class="result-title hdrlnk">2020 NATIONAL WESTERN STOCK SHOW</a>
 
 
         <span class="result-meta">
@@ -1062,6 +1879,7 @@ tickets - by owner
 
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -1077,10 +1895,10 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050802915">
+         <li class="result-row" data-pid="7050864697">
 
-        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-cavs-1-11/7050802915.html" class="result-image gallery" data-ids="1:00l0l_5p13MOF8kvQ">
-                <span class="result-price">$35</span>
+        <a href="https://denver.craigslist.org/tix/d/denver-rodeo-colorado-vs-the-world/7050864697.html" class="result-image gallery" data-ids="1:00909_bHjnK5GR2cf">
+                <span class="result-price">$40</span>
         </a>
 
     <p class="result-info">
@@ -1090,11 +1908,11 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-cavs-1-11/7050802915.html" data-id="7050802915" class="result-title hdrlnk">Nuggets v Cavs 1/11</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-rodeo-colorado-vs-the-world/7050864697.html" data-id="7050864697" class="result-title hdrlnk">Rodeo - Colorado Vs The World</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$35</span>
+                <span class="result-price">$40</span>
 
 
                 <span class="result-hood"> (Denver)</span>
@@ -1116,9 +1934,11 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050806439">
+         <li class="result-row" data-pid="7050895383">
 
-        <a href="https://denver.craigslist.org/tix/d/englewood-the-used/7050806439.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/denver-reckless-kelly-2-tickets/7050895383.html" class="result-image gallery" data-ids="1:00b0b_2WCXldCGai1">
+                <span class="result-price">$90</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1127,7 +1947,876 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/englewood-the-used/7050806439.html" data-id="7050806439" class="result-title hdrlnk">The Used</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-reckless-kelly-2-tickets/7050895383.html" data-id="7050895383" class="result-title hdrlnk">Reckless Kelly - 2 tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$90</span>
+
+
+                <span class="result-hood"> (Denver, Co)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050908402">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-goldfinger-gothic-1-11/7050908402.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-goldfinger-gothic-1-11/7050908402.html" data-id="7050908402" class="result-title hdrlnk">Goldfinger @ Gothic 1/11</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for sun jan 12</span></h4>         <li class="result-row" data-pid="7025201110" data-repost-of="6658910471">
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-mens-basketball/7025201110.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-mens-basketball/7025201110.html" data-id="7025201110" class="result-title hdrlnk">CU Men&#39;s Basketball</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$15</span>
+
+
+                <span class="result-hood"> (Section 24 Row 8 Seats 1-3)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7035852464">
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-denver-nuggets-la-clippers-lower/7035852464.html" class="result-image gallery" data-ids="1:00q0q_ij7W2ttl21D,1:00g0g_59lpq9Lglf4,1:01212_hrOC9W23fnP,1:00V0V_9ihQIsXSXIh">
+                <span class="result-price">$255</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-denver-nuggets-la-clippers-lower/7035852464.html" data-id="7035852464" class="result-title hdrlnk">Denver Nuggets v LA Clippers, Lower, Sec 104, Behind LA Bench, Row 6!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$255</span>
+
+
+                <span class="result-hood"> (ARVADA)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040325240">
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-denver-nuggets-vs-la/7040325240.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-denver-nuggets-vs-la/7040325240.html" data-id="7040325240" class="result-title hdrlnk">Denver Nuggets vs LA Clippers Sun 1/12 VISITORS ENTRANCE! $40-$120!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (Sec 118 Row 3 or 108 Row 6 or 362 Row 14 or 364 Row 6)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046865385">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-vs-clippers-game/7046865385.html" class="result-image gallery" data-ids="1:00000_fcO8TMziOKR,1:00b0b_7KY0XkD5BA4">
+                <span class="result-price">$125</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-vs-clippers-game/7046865385.html" data-id="7046865385" class="result-title hdrlnk">Nuggets vs Clippers game</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$125</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049851075" data-repost-of="7040207850">
+
+        <a href="https://denver.craigslist.org/tix/d/colorado-springs-2-tickets-denver/7049851075.html" class="result-image gallery" data-ids="1:00I0I_bQNbgoM5zOc,1:00e0e_ciZJhE8MSTX,1:00q0q_4CdPP2Ob1or">
+                <span class="result-price">$150</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/colorado-springs-2-tickets-denver/7049851075.html" data-id="7049851075" class="result-title hdrlnk">2 tickets Denver Nuggets vs LA Clippers 1/12/19</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$150</span>
+
+
+                <span class="result-hood"> (Section 120)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050229092">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-2-nuggets-vs-clippers-section/7050229092.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-2-nuggets-vs-clippers-section/7050229092.html" data-id="7050229092" class="result-title hdrlnk">2 Nuggets vs. Clippers section  120</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$95</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051062235" data-repost-of="6796825364">
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-buffs-utah-utes-mens/7051062235.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-buffs-utah-utes-mens/7051062235.html" data-id="7051062235" class="result-title hdrlnk">CU Buffs v Utah Utes Men&#39;s Basketball</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$30</span>
+
+
+                <span class="result-hood"> (Sec 11 Row 14)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for tue jan 14</span></h4>         <li class="result-row" data-pid="7037901538" data-repost-of="4618976892">
+
+        <a href="https://denver.craigslist.org/tix/d/2-4-tickets-avalanche-dallas-stars-7th/7037901538.html" class="result-image gallery" data-ids="1:01414_3JbZJOIIAhs">
+                <span class="result-price">$125</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/2-4-tickets-avalanche-dallas-stars-7th/7037901538.html" data-id="7037901538" class="result-title hdrlnk">2-4 tickets Avalanche Dallas Stars 7th row off glass January 14</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$125</span>
+
+
+                <span class="result-hood"> (Section 104)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040348949">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-journey-front-row-lower-level/7040348949.html" class="result-image gallery" data-ids="1:00e0e_8QR0wuzkquX">
+                <span class="result-price">$130</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-journey-front-row-lower-level/7040348949.html" data-id="7040348949" class="result-title hdrlnk">JOURNEY - Front Row Lower Level</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$130</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047928549">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-avs-avalanche-vs-stars-on-the/7047928549.html" class="result-image gallery" data-ids="1:00D0D_a8XG3WvHjac,1:00S0S_5egSg36M0N3,1:00000_g6EMYxRfljs,1:00X0X_cImMkDVpXzI">
+                <span class="result-price">$325</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-avs-avalanche-vs-stars-on-the/7047928549.html" data-id="7047928549" class="result-title hdrlnk">AVS Avalanche vs Stars ON THE GLASS</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$325</span>
+
+
+                <span class="result-hood"> (denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050051781">
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-vs-dallas-stars-1-14/7050051781.html" class="result-image gallery" data-ids="1:00i0i_6D9deHo7hRq">
+                <span class="result-price">$125</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-vs-dallas-stars-1-14/7050051781.html" data-id="7050051781" class="result-title hdrlnk">Avalanche vs Dallas Stars 1/14 club level center</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$125</span>
+
+
+                <span class="result-hood"> (Arvada)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for wed jan 15</span></h4>         <li class="result-row" data-pid="7037135559">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-lucero-block-party-west-with/7037135559.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-lucero-block-party-west-with/7037135559.html" data-id="7037135559" class="result-title hdrlnk">Lucero Block Party West with Orville Peck, Nikki Lane, Brody Danger</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (South Denver Area/Tech Center)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7040697643">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-4-colorado-avalanche-center-ice/7040697643.html" class="result-image gallery" data-ids="1:00T0T_8UwLrfPsQqM,1:00404_kPzGwc6SQJs">
+                <span class="result-price">$40</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-4-colorado-avalanche-center-ice/7040697643.html" data-id="7040697643" class="result-title hdrlnk">4 Colorado Avalanche Center Ice Tickets - All Games</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (Section 302 Row 11)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042406721">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-amazing-seats-denver-nuggets/7042406721.html" class="result-image gallery" data-ids="1:00A0A_fNCMP4z7S3h,1:00303_8CrkbaIJnQw,1:00L0L_2LvfjxVkHua,1:01111_7pOMdYEMNH">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-amazing-seats-denver-nuggets/7042406721.html" data-id="7042406721" class="result-title hdrlnk">2 Amazing Seats - Denver Nuggets Home Games - Front Row!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Section 126 Row 1 - Center Court, Front Row)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042486224">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-or-4-tickets-denver-nuggets/7042486224.html" class="result-image gallery" data-ids="1:00y0y_5Vujjl2UHZj">
+                <span class="result-price">$43</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-or-4-tickets-denver-nuggets/7042486224.html" data-id="7042486224" class="result-title hdrlnk">2 or 4 Tickets - Denver Nuggets Home Games - Lower Level</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$43</span>
+
+
+                <span class="result-hood"> (Section 112 Row 9 - Aisle)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045157950" data-repost-of="4994539316">
+
+        <a href="https://denver.craigslist.org/tix/d/4-denver-nuggets-vs-charlotte-hornets-1/7045157950.html" class="result-image gallery" data-ids="1:00f0f_kHQiHlghZt3">
+                <span class="result-price">$60</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/4-denver-nuggets-vs-charlotte-hornets-1/7045157950.html" data-id="7045157950" class="result-title hdrlnk">4 Denver Nuggets vs. Charlotte Hornets (1/15)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60</span>
+
+
+                <span class="result-hood"> (section 110, row HH, aisle seats)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047102496">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nws-pbr-finals/7047102496.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nws-pbr-finals/7047102496.html" data-id="7047102496" class="result-title hdrlnk">NWS PBR Finals</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047466295">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-denver-nuggets-vs-charlotte-jan/7047466295.html" class="result-image gallery" data-ids="1:00c0c_bs1daGZz0En">
+                <span class="result-price">$80</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-denver-nuggets-vs-charlotte-jan/7047466295.html" data-id="7047466295" class="result-title hdrlnk">Denver Nuggets vs Charlotte - Jan 15 - 2 lower tics sec 116 - $80/pair</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$80</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047467066">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-denver-nuggets-vs-charlotte-jan/7047467066.html" class="result-image gallery" data-ids="1:00o0o_jVkvY4qktUU">
+                <span class="result-price">$40</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-denver-nuggets-vs-charlotte-jan/7047467066.html" data-id="7047467066" class="result-title hdrlnk">Denver Nuggets vs Charlotte - Jan 15 - 2 tics sec 317 row 1 - $40/pair</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050810297">
+
+        <a href="https://denver.craigslist.org/tix/d/brighton-charlotte-hornet-vs-denver/7050810297.html" class="result-image gallery" data-ids="1:01010_dBWJ45MrkxP,1:00k0k_4GoSv0Wom9O">
+                <span class="result-price">$80</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/brighton-charlotte-hornet-vs-denver/7050810297.html" data-id="7050810297" class="result-title hdrlnk">Charlotte Hornet vs Denver Nuggets Tickets - Club Level</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$80</span>
+
+
+                <span class="result-hood"> (Thornton, CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for thu jan 16</span></h4>         <li class="result-row" data-pid="7041874754" data-repost-of="7035163013">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-avalanche-1-16-san-jose-lower/7041874754.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-avalanche-1-16-san-jose-lower/7041874754.html" data-id="7041874754" class="result-title hdrlnk">**Avalanche 1/16 San Jose - Lower Bowl Aisle Seats - Blue Line **</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$125</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045574408">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-avalanche-vs-sharks-1-16/7045574408.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-avalanche-vs-sharks-1-16/7045574408.html" data-id="7045574408" class="result-title hdrlnk">Avalanche vs Sharks 1/16</a>
 
 
         <span class="result-meta">
@@ -1151,10 +2840,152 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050859639">
+<h4 class="ban"><span class="bantext">tickets for fri jan 17</span></h4>         <li class="result-row" data-pid="7042052949">
 
-        <a href="https://denver.craigslist.org/tix/d/englewood-single-rodeo-ticket-pm/7050859639.html" class="result-image gallery" data-ids="1:00h0h_3fEVAIv1tT2">
-                <span class="result-price">$40</span>
+        <a href="https://denver.craigslist.org/tix/d/denver-rainbow-kitten-surprise-red/7042052949.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-rainbow-kitten-surprise-red/7042052949.html" data-id="7042052949" class="result-title hdrlnk">Rainbow Kitten Surprise - Red Rocks - July 14 - GA Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042054565">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-trampled-by-turtles-caamp-red/7042054565.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-trampled-by-turtles-caamp-red/7042054565.html" data-id="7042054565" class="result-title hdrlnk">Trampled by Turtles w/ CAAMP - Red Rocks - July 16 - GA Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042214036">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-4-reserved-row-24-black-crowes/7042214036.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-4-reserved-row-24-black-crowes/7042214036.html" data-id="7042214036" class="result-title hdrlnk">(4) Reserved Row 24 Black Crowes Red Rocks 8/31/20 Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$200</span>
+
+
+                <span class="result-hood"> (Sunnyside)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045919412">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-josh-turner-at-rose-hard-tickets/7045919412.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-josh-turner-at-rose-hard-tickets/7045919412.html" data-id="7045919412" class="result-title hdrlnk">Josh Turner at Rose - Hard tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$125</span>
+
+
+                <span class="result-hood"> (North Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047222198">
+
+        <a href="https://denver.craigslist.org/tix/d/fort-collins-mandolin-orange-with/7047222198.html" class="result-image gallery" data-ids="1:00808_iPPZbWAP4ht">
+                <span class="result-price">$180</span>
         </a>
 
     <p class="result-info">
@@ -1164,195 +2995,310 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/englewood-single-rodeo-ticket-pm/7050859639.html" data-id="7050859639" class="result-title hdrlnk">Single Rodeo ticket 1/12 @ 6:30pm</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$40</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050869054" data-repost-of="6792670568">
-
-        <a href="https://denver.craigslist.org/tix/d/denver-mexican-rodeo-tickets/7050869054.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-
-
-        <a href="https://denver.craigslist.org/tix/d/denver-mexican-rodeo-tickets/7050869054.html" data-id="7050869054" class="result-title hdrlnk">Mexican Rodeo Tickets</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$40</span>
-
-
-                <span class="result-hood"> (National Western Stock Show)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050876840" data-repost-of="6449281953">
-
-        <a href="https://denver.craigslist.org/tix/d/nwss-pro-rodeo-tickets-for-sale/7050876840.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-
-
-        <a href="https://denver.craigslist.org/tix/d/nwss-pro-rodeo-tickets-for-sale/7050876840.html" data-id="7050876840" class="result-title hdrlnk">NWSS Pro Rodeo  Tickets for Sale</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$29</span>
-
-
-                <span class="result-hood"> (Sec 127, Row 6)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050908695" data-repost-of="5693208863">
-
-        <a href="https://denver.craigslist.org/tix/d/6-dashboard-confessional-tickets-buy/7050908695.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-
-
-        <a href="https://denver.craigslist.org/tix/d/6-dashboard-confessional-tickets-buy/7050908695.html" data-id="7050908695" class="result-title hdrlnk">**6 DASHBOARD CONFESSIONAL TICKETS BUY ANY SOLD OUT OGDEN 2/22*</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$99</span>
-
-
-                <span class="result-hood"> (S DENVER..HAMPDEN AND I-25)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050922131">
-
-        <a href="https://denver.craigslist.org/tix/d/albuquerque-motley-crue-def-leppard/7050922131.html" class="result-image gallery" data-ids="1:01010_lyfbJ9MMBjq,1:01717_gib8c1xNnyV,1:00d0d_79Ud3jvW5C7">
-                <span class="result-price">$800</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-
-
-        <a href="https://denver.craigslist.org/tix/d/albuquerque-motley-crue-def-leppard/7050922131.html" data-id="7050922131" class="result-title hdrlnk">Motley Crue, Def Leppard, Poison, Joan Jett</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$800</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051017483">
-
-        <a href="https://denver.craigslist.org/tix/d/denver-great-seats-avalanche-red-wings/7051017483.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-
-
-        <a href="https://denver.craigslist.org/tix/d/denver-great-seats-avalanche-red-wings/7051017483.html" data-id="7051017483" class="result-title hdrlnk">Great Seats- Avalanche/Red Wings Tickets</a>
+        <a href="https://denver.craigslist.org/tix/d/fort-collins-mandolin-orange-with/7047222198.html" data-id="7047222198" class="result-title hdrlnk">Mandolin Orange with Colorado Symphony</a>
 
 
         <span class="result-meta">
                 <span class="result-price">$180</span>
 
 
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050244906">
+
+        <a href="https://denver.craigslist.org/tix/d/estes-park-murder-by-death-trade/7050244906.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/estes-park-murder-by-death-trade/7050244906.html" data-id="7050244906" class="result-title hdrlnk">Murder By Death 01/17- TRADE</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Vail)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050526410">
+
+        <a href="https://denver.craigslist.org/tix/d/golden-stock-show-rodeo-tickets/7050526410.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/golden-stock-show-rodeo-tickets/7050526410.html" data-id="7050526410" class="result-title hdrlnk">Stock Show Rodeo tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+                <span class="result-hood"> (Golden)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for sat jan 18</span></h4>         <li class="result-row" data-pid="7046910776">
+
+        <a href="https://denver.craigslist.org/tix/d/louisville-improvised-shakespeare-730/7046910776.html" class="result-image gallery" data-ids="1:00o0o_5y3AmTaiHWk,1:00O0O_6l8frAGxjX5,1:00V0V_hJTyKWS77ze,1:00j0j_4nk9NzDHiLJ">
+                <span class="result-price">$88</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/louisville-improvised-shakespeare-730/7046910776.html" data-id="7046910776" class="result-title hdrlnk">Improvised Shakespeare, 7:30 PM Saturday January 18, 2020, 2 tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$88</span>
+
+
+                <span class="result-hood"> (Louisville CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047426814">
+
+        <a href="https://denver.craigslist.org/tix/d/westminster-beat-the-heat-marathon-race/7047426814.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/westminster-beat-the-heat-marathon-race/7047426814.html" data-id="7047426814" class="result-title hdrlnk">Beat the Heat Marathon Race 18 April 2020</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$45</span>
+
+
+                <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for sun jan 19</span></h4>         <li class="result-row" data-pid="7043638536">
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-denver-nuggets-vs-indiana/7043638536.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-denver-nuggets-vs-indiana/7043638536.html" data-id="7043638536" class="result-title hdrlnk">Denver Nuggets vs Indiana Pacers Sun 1/19 VISITORS ENTRANCE! $30-$80!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$30</span>
+
+
+                <span class="result-hood"> (Sec 118 Row 3 or 108 Row 6 or 362 Row 14)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043899664">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-national-western-stock-show-two/7043899664.html" class="result-image gallery" data-ids="1:00e0e_bUODLawPUBY">
+                <span class="result-price">$90</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-national-western-stock-show-two/7043899664.html" data-id="7043899664" class="result-title hdrlnk">National Western Stock Show Two Pro Rodeo, Two Wild West Show 01/19/20</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$90</span>
+
+
+                <span class="result-hood"> (Northglenn)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047052081">
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-2x-nuggets-vs-pacers-jan-19/7047052081.html" class="result-image gallery" data-ids="1:00d0d_ebrSLL3tAJn">
+                <span class="result-price">$750</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-2x-nuggets-vs-pacers-jan-19/7047052081.html" data-id="7047052081" class="result-title hdrlnk">2x Nuggets vs Pacers Jan 19 Courtside Club Lexus Section 128</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$750</span>
+
+
+                <span class="result-hood"> (Arvada)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047939441">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-shooter-jennings-mike-and-the/7047939441.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-shooter-jennings-mike-and-the/7047939441.html" data-id="7047939441" class="result-title hdrlnk">Shooter Jennings/Mike and the Moonpies</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$36</span>
+
+
                 <span class="result-hood"> (Denver)</span>
 
                 <span class="result-tags">
@@ -1371,10 +3317,46 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7051027505">
+         <li class="result-row" data-pid="7048424782">
 
-        <a href="https://denver.craigslist.org/tix/d/denver-celine-dion/7051027505.html" class="result-image gallery" data-ids="1:00i0i_6nja2l22RPy">
-                <span class="result-price">$500</span>
+        <a href="https://denver.craigslist.org/tix/d/denver-4-tickets-murder-by-death-at/7048424782.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-4-tickets-murder-by-death-at/7048424782.html" data-id="7048424782" class="result-title hdrlnk">4 tickets-Murder by Death at Stanley Hotel, Sunday January 19, 2020</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$200</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050032057">
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-denver-nuggets-indiana-pacers-2/7050032057.html" class="result-image gallery" data-ids="1:00z0z_9JUpBiF23gr,1:00q0q_2TulwhXRPBz,1:00k0k_1xqBhkT9FP9">
+                <span class="result-price">$750</span>
         </a>
 
     <p class="result-info">
@@ -1384,11 +3366,526 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/denver-celine-dion/7051027505.html" data-id="7051027505" class="result-title hdrlnk">Celine Dion</a>
+        <a href="https://denver.craigslist.org/tix/d/arvada-denver-nuggets-indiana-pacers-2/7050032057.html" data-id="7050032057" class="result-title hdrlnk">DENVER NUGGETS INDIANA PACERS 2 TKTS 1/19/20 6 PM COURTSIDE CLUB LEXUS</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$500</span>
+                <span class="result-price">$750</span>
+
+
+                <span class="result-hood"> (NW Arvada)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for mon jan 20</span></h4>         <li class="result-row" data-pid="7043491999">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-celine-dion-pepsi-center-row/7043491999.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-celine-dion-pepsi-center-row/7043491999.html" data-id="7043491999" class="result-title hdrlnk">Celine Dion Pepsi Center Row 1 $300.00</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$600</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043608424">
+
+        <a href="https://denver.craigslist.org/tix/d/commerce-city-hotel-stay-savannah-ga/7043608424.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/commerce-city-hotel-stay-savannah-ga/7043608424.html" data-id="7043608424" class="result-title hdrlnk">Hotel Stay - Savannah GA</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$400</span>
+
+
+                <span class="result-hood"> (Reunion)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044594546" data-repost-of="6963320900">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-floor-seatsbelow-face/7044594546.html" class="result-image gallery" data-ids="1:00k0k_jNenDR23OgK">
+                <span class="result-price">$5</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-floor-seatsbelow-face/7044594546.html" data-id="7044594546" class="result-title hdrlnk">Nuggets Floor Seats....below face</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5</span>
+
+
+                <span class="result-hood"> (sec 134)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044859989">
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-colorado-avalanche-vs/7044859989.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-colorado-avalanche-vs/7044859989.html" data-id="7044859989" class="result-title hdrlnk">Colorado Avalanche vs Detroit Red Wings Monday 1/20! Sec 372 Row 9!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60</span>
+
+
+                <span class="result-hood"> (Broomfield)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051152561">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-motion-city-soundtrack/7051152561.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-motion-city-soundtrack/7051152561.html" data-id="7051152561" class="result-title hdrlnk">Motion City Soundtrack</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$65</span>
+
+
+                <span class="result-hood"> (Summit)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for wed jan 22</span></h4>         <li class="result-row" data-pid="7042586459" data-repost-of="6802783969">
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-buffs-ucla-bruins-mens/7042586459.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-buffs-ucla-bruins-mens/7042586459.html" data-id="7042586459" class="result-title hdrlnk">CU Buffs v UCLA Bruins Men&#39;s Basketball</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$30</span>
+
+
+                <span class="result-hood"> (Sec 11 Row 11)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044872029" data-repost-of="6796825364">
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-buffs-ucla-mens-basketball/7044872029.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-buffs-ucla-mens-basketball/7044872029.html" data-id="7044872029" class="result-title hdrlnk">CU Buffs v UCLA Men&#39;s Basketball</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (Sec 24 Row 8 Seats 1,2,3)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044873374" data-repost-of="6796825364">
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-buffs-ucla-bruins-mens/7044873374.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/boulder-cu-buffs-ucla-bruins-mens/7044873374.html" data-id="7044873374" class="result-title hdrlnk">CU Buffs v UCLA Bruins Men&#39;s Basketball</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$25</span>
+
+
+                <span class="result-hood"> (Sec NS1 Row 5 Seats 1,2)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047548972">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-real-estate-ramen-game-changing/7047548972.html" class="result-image gallery" data-ids="1:00N0N_eiH8Adg040I">
+                <span class="result-price">$15</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-real-estate-ramen-game-changing/7047548972.html" data-id="7047548972" class="result-title hdrlnk">Real Estate &amp; Ramen | Game-Changing Real Estate Strategies</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$15</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for thu jan 23</span></h4>         <li class="result-row" data-pid="7033877169">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-miranda-lambert/7033877169.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-miranda-lambert/7033877169.html" data-id="7033877169" class="result-title hdrlnk">Miranda Lambert</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$200</span>
+
+
+                <span class="result-hood"> (Denver, CO.)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044768671">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-king-gizzard-and-the-lizard/7044768671.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-king-gizzard-and-the-lizard/7044768671.html" data-id="7044768671" class="result-title hdrlnk">King Gizzard and the Lizard Wizard-Tuesday, May 5th-Red Rocks</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$70</span>
+
+
+                <span class="result-hood"> (Denver Tech Center)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045416735" data-repost-of="6963320900">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-floor-seats/7045416735.html" class="result-image gallery" data-ids="1:00k0k_jNenDR23OgK">
+                <span class="result-price">$5</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-nuggets-floor-seats/7045416735.html" data-id="7045416735" class="result-title hdrlnk">Nuggets Floor Seats</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5</span>
+
+
+                <span class="result-hood"> (sec 134)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for fri jan 24</span></h4>         <li class="result-row" data-pid="7045358409">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-oysterhead-ft-trey-anastasio/7045358409.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-oysterhead-ft-trey-anastasio/7045358409.html" data-id="7045358409" class="result-title hdrlnk">Oysterhead ft. Trey Anastasio-Saturday, February 15th-1st bank Center</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$175</span>
+
+
+                <span class="result-hood"> (South Denver Area/Tech Center)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045614350">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-tickets/7045614350.html" class="result-image gallery" data-ids="1:00202_9XwWJeEauHq,1:00g0g_hrovzEUuzW7">
+                <span class="result-price">$4</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-tickets/7045614350.html" data-id="7045614350" class="result-title hdrlnk">Nuggets Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4</span>
 
 
                 <span class="result-hood"> (Denver)</span>
@@ -1410,10 +3907,10 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7051089701">
+<h4 class="ban"><span class="bantext">tickets for sat jan 25</span></h4>         <li class="result-row" data-pid="7038162339" data-repost-of="6034910682">
 
-        <a href="https://denver.craigslist.org/tix/d/houston-loveland-ski-area-lift-ticket/7051089701.html" class="result-image gallery" data-ids="1:00202_7ebKMUucsfw">
-                <span class="result-price">$65</span>
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-warriors-amazing-tickets/7038162339.html" class="result-image gallery" data-ids="1:00k0k_1bYcDG7wmzl,1:00e0e_lcJee4AI4yC,1:00A0A_3SGQCQV6ons,1:00808_bfxQYLZEmBn,1:00101_4NH8H4NIsk">
+                <span class="result-price">$170</span>
         </a>
 
     <p class="result-info">
@@ -1423,14 +3920,14 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/houston-loveland-ski-area-lift-ticket/7051089701.html" data-id="7051089701" class="result-title hdrlnk">Loveland Ski Area Lift Ticket. 19-20 Season, NO blackout dates</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-warriors-amazing-tickets/7038162339.html" data-id="7038162339" class="result-title hdrlnk">Nuggets Warriors Amazing Tickets 1st Row Floor Way Under Face Value</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$65</span>
+                <span class="result-price">$170</span>
 
 
-                <span class="result-hood"> (Houston)</span>
+                <span class="result-hood"> (134 AA 1-4 Aisle)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -1449,9 +3946,11 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7051101930">
+         <li class="result-row" data-pid="7043198914">
 
-        <a href="https://denver.craigslist.org/tix/d/denver-tip-busta-rhymes-concert-jan-24th/7051101930.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/denver-two-subscriber-tickets-to-the/7043198914.html" class="result-image gallery" data-ids="1:00R0R_aPxhlCzommk">
+                <span class="result-price">$120</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1460,14 +3959,129 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/denver-tip-busta-rhymes-concert-jan-24th/7051101930.html" data-id="7051101930" class="result-title hdrlnk">Q tip busta rhymes concert Jan 24th</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-two-subscriber-tickets-to-the/7043198914.html" data-id="7043198914" class="result-title hdrlnk">Two subscriber tickets to The Sponge Bob Musical</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$50</span>
+                <span class="result-price">$120</span>
 
 
-                <span class="result-hood"> (Capital hill)</span>
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7043202616">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-two-subscriber-tickets-to-my/7043202616.html" class="result-image gallery" data-ids="1:00R0R_aPxhlCzommk">
+                <span class="result-price">$130</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-two-subscriber-tickets-to-my/7043202616.html" data-id="7043202616" class="result-title hdrlnk">Two subscriber tickets to My Fair Lady</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$130</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044066613">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-music-of-queen-with-colorado/7044066613.html" class="result-image gallery" data-ids="1:00b0b_1srMKs59JfP">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-music-of-queen-with-colorado/7044066613.html" data-id="7044066613" class="result-title hdrlnk">Music of Queen with Colorado Symphony</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="result-hood"> (Boettcher Concert Hall)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for sun jan 26</span></h4>         <li class="result-row" data-pid="7046566612">
+
+        <a href="https://denver.craigslist.org/tix/d/erie-sponge-bob-musical/7046566612.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/erie-sponge-bob-musical/7046566612.html" data-id="7046566612" class="result-title hdrlnk">Sponge Bob musical</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$155</span>
+
+
+                <span class="result-hood"> (Erie)</span>
 
                 <span class="result-tags">
                 </span>
@@ -1485,9 +4099,9 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7051117548">
+         <li class="result-row" data-pid="7046650810">
 
-        <a href="https://denver.craigslist.org/tix/d/denver-oysterhead/7051117548.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/broomfield-denver-nuggets-vs-houston/7046650810.html" class="result-image gallery empty"></a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1496,16 +4110,55 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/denver-oysterhead/7051117548.html" data-id="7051117548" class="result-title hdrlnk">OYSTERHEAD</a>
+        <a href="https://denver.craigslist.org/tix/d/broomfield-denver-nuggets-vs-houston/7046650810.html" data-id="7046650810" class="result-title hdrlnk">Denver Nuggets vs Houston Rockets Sun 1/26 VISITORS ENTRANCE $40-$140!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (Sec 118 Row 3 or 108 Row 6 or 142 Row 9 or 362 Row 14)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7047032121">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-vs-rockets/7047032121.html" class="result-image gallery" data-ids="1:00606_1OKHmoPHu47">
+                <span class="result-price">$100</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-nuggets-vs-rockets/7047032121.html" data-id="7047032121" class="result-title hdrlnk">Nuggets vs Rockets</a>
 
 
         <span class="result-meta">
                 <span class="result-price">$100</span>
 
 
-                <span class="result-hood"> (GOLDEN)</span>
+                <span class="result-hood"> (Harvey park)</span>
 
                 <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -1521,9 +4174,9 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7051126727">
+<h4 class="ban"><span class="bantext">tickets for mon jan 27</span></h4>         <li class="result-row" data-pid="7047123973">
 
-        <a href="https://denver.craigslist.org/tix/d/westminster-thom-yorke/7051126727.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/denver-broncos-club-seats-for-2020/7047123973.html" class="result-image gallery empty"></a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1532,14 +4185,13 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/westminster-thom-yorke/7051126727.html" data-id="7051126727" class="result-title hdrlnk">Thom Yorke</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-broncos-club-seats-for-2020/7047123973.html" data-id="7047123973" class="result-title hdrlnk">Broncos Club seats for 2020 season</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$110</span>
+                <span class="result-price">$1</span>
 
 
-                <span class="result-hood"> (Westminister)</span>
 
                 <span class="result-tags">
                 </span>
@@ -1557,10 +4209,10 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7051127216">
+<h4 class="ban"><span class="bantext">tickets for tue jan 28</span></h4>         <li class="result-row" data-pid="7047675224">
 
-        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish-pit-tickets/7051127216.html" class="result-image gallery" data-ids="1:01111_ctR08XfrMfg">
-                <span class="result-price">$450</span>
+        <a href="https://denver.craigslist.org/tix/d/denver-avalanche-tix/7047675224.html" class="result-image gallery" data-ids="1:00g0g_j5gvQiRB7Ur">
+                <span class="result-price">$110</span>
         </a>
 
     <p class="result-info">
@@ -1570,11 +4222,11 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish-pit-tickets/7051127216.html" data-id="7051127216" class="result-title hdrlnk">Billie Eilish PIT tickets</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-avalanche-tix/7047675224.html" data-id="7047675224" class="result-title hdrlnk">AVALANCHE TIX</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$450</span>
+                <span class="result-price">$110</span>
 
 
                 <span class="result-hood"> (Denver)</span>
@@ -1596,9 +4248,9 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7051136279">
+<h4 class="ban"><span class="bantext">tickets for wed jan 29</span></h4>         <li class="result-row" data-pid="7036473305">
 
-        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-club-level-tickets/7051136279.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/littleton-oysterhead-ft-trey-anastasio/7036473305.html" class="result-image gallery empty"></a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1607,11 +4259,456 @@ tickets - by owner
 
 
 
-        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-club-level-tickets/7051136279.html" data-id="7051136279" class="result-title hdrlnk">Avalanche Club Level Tickets</a>
+        <a href="https://denver.craigslist.org/tix/d/littleton-oysterhead-ft-trey-anastasio/7036473305.html" data-id="7036473305" class="result-title hdrlnk">Oysterhead ft. Trey Anastasio-Friday, February 14th-1st bank Center</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$1</span>
+                <span class="result-price">$150</span>
+
+
+                <span class="result-hood"> (South Denver Area/Tech Center)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7038576363">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-arvada-center-tickets-jan-29th/7038576363.html" class="result-image gallery" data-ids="1:00D0D_fPu60jW9fS8">
+                <span class="result-price">$40</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-arvada-center-tickets-jan-29th/7038576363.html" data-id="7038576363" class="result-title hdrlnk">Arvada Center Tickets -Jan 29th/7:30 pm</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (North Stapleton)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7044761157">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-oprahs-2020-vision-your-life/7044761157.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-oprahs-2020-vision-your-life/7044761157.html" data-id="7044761157" class="result-title hdrlnk">Oprah’s 2020 Vision: Your Life in Focus-Saturday, March 7th</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$120</span>
+
+
+                <span class="result-hood"> (South Denver Area/Tech Center)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048140613">
+
+        <a href="https://denver.craigslist.org/tix/d/indian-hills-rainbow-kitten-surprise-at/7048140613.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/indian-hills-rainbow-kitten-surprise-at/7048140613.html" data-id="7048140613" class="result-title hdrlnk">Rainbow Kitten Surprise at Red Rocks</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60</span>
+
+
+                <span class="result-hood"> (Salt Lake City)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051153722">
+
+        <a href="https://denver.craigslist.org/tix/d/brighton-lyle-lovett/7051153722.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/brighton-lyle-lovett/7051153722.html" data-id="7051153722" class="result-title hdrlnk">Lyle lovett</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$250</span>
+
+
+                <span class="result-hood"> (Boulder)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for thu jan 30</span></h4>         <li class="result-row" data-pid="7041197908" data-repost-of="6986126648">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-great-seats-4th-row-select/7041197908.html" class="result-image gallery" data-ids="1:00303_8CrkbaIJnQw">
+                <span class="result-price">$85</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-2-great-seats-4th-row-select/7041197908.html" data-id="7041197908" class="result-title hdrlnk">2 Great Seats - 4th Row - Select Denver Nuggets Home Games</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$85</span>
+
+
+                <span class="result-hood"> (Section 134 Row DD)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048437389">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-denver-nuggets-vs-utah-jazz-sec/7048437389.html" class="result-image gallery" data-ids="1:00v0v_bdhEKD1UjJ4,1:00R0R_8aN1sNX6CId,1:00O0O_1mwiSgdmEen,1:00707_6tpzlNkHi9B,1:00F0F_bisdU3Wfplr">
+                <span class="result-price">$80</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-denver-nuggets-vs-utah-jazz-sec/7048437389.html" data-id="7048437389" class="result-title hdrlnk">Denver Nuggets vs Utah Jazz (Sec 120 • Row 8 • Seats 1 &amp; 2)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$80</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048449675">
+
+        <a href="https://denver.craigslist.org/tix/d/englewood-harry-styles-love-on-tour/7048449675.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/englewood-harry-styles-love-on-tour/7048449675.html" data-id="7048449675" class="result-title hdrlnk">Harry Styles Love on Tour-Saturday, August 15th-Pepsi Center</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$125</span>
+
+
+                <span class="result-hood"> (South Denver Area/Tech Center)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049342431">
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-2-tickets-nuggets-jazz-lower/7049342431.html" class="result-image gallery" data-ids="1:01616_6lH0q0OHAse">
+                <span class="result-price">$75</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-2-tickets-nuggets-jazz-lower/7049342431.html" data-id="7049342431" class="result-title hdrlnk">2 tickets Nuggets Jazz 1-30-20 Lower Level will trade for another game</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+                <span class="result-hood"> (Arvada)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049417473">
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-denver-nuggets-vs-utah-jazz/7049417473.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-denver-nuggets-vs-utah-jazz/7049417473.html" data-id="7049417473" class="result-title hdrlnk">Denver Nuggets vs Utah Jazz Thu 1/30 VISITORS ENTRANCE!! $60-$80!!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$60</span>
+
+
+                <span class="result-hood"> (Sec 118 Row 3 or 108 Row 6 or 142 Row 9)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for fri jan 31</span></h4>         <li class="result-row" data-pid="7036280263">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish/7036280263.html" class="result-image gallery" data-ids="1:00G0G_h05TuWVOOFX,1:00Z0Z_fHLIfm32SaT,1:00E0E_3YKxw4QlEky,1:00z0z_dA8zbaSuKU6">
+                <span class="result-price">$250</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish/7036280263.html" data-id="7036280263" class="result-title hdrlnk">Billie Eilish</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$250</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048930294">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-van-morrison-caesars-palace/7048930294.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-van-morrison-caesars-palace/7048930294.html" data-id="7048930294" class="result-title hdrlnk">Van Morrison, Caesars Palace 1/31/20</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$392</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049264785">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-camilla-cabella-tickets/7049264785.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-camilla-cabella-tickets/7049264785.html" data-id="7049264785" class="result-title hdrlnk">Camilla Cabella Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$50</span>
 
 
 
@@ -1631,12 +4728,11 @@ tickets - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7050636166">
 
-                    <h4 class="ban nearby"><span class="bantext">Few local results found for 2020-01-06. Here are some from nearby areas. Checking &#39;include nearby areas&#39; will expand your search.</span></h4>
-
-                             <li class="result-row" data-pid="7030961954">
-
-        <a href="https://boulder.craigslist.org/tix/d/louisville-oprah-winfrey-less-than-face/7030961954.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/arvada-2-denver-university-hockey-vs/7050636166.html" class="result-image gallery" data-ids="1:00i0i_fb7hbPS5qjH">
+                <span class="result-price">$100</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1645,14 +4741,51 @@ tickets - by owner
 
 
 
-        <a href="https://boulder.craigslist.org/tix/d/louisville-oprah-winfrey-less-than-face/7030961954.html" data-id="7030961954" class="result-title hdrlnk">Oprah Winfrey (less than face value) )</a>
+        <a href="https://denver.craigslist.org/tix/d/arvada-2-denver-university-hockey-vs/7050636166.html" data-id="7050636166" class="result-title hdrlnk">2 Denver University Hockey vs UMD tickets</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$160</span>
+                <span class="result-price">$100</span>
 
 
-                <span class="nearby" title="boulder, CO">(bou &gt; Louisville)</span>
+                <span class="result-hood"> (Arvada)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051162033">
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-icelantics-winter-on-the/7051162033.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/broomfield-icelantics-winter-on-the/7051162033.html" data-id="7051162033" class="result-title hdrlnk">Icelantic&#39;s Winter on the Rocks with ZHU Fri 1/31 GA Flash Seats Tix!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="result-hood"> (Broomfield)</span>
 
                 <span class="result-tags">
                 </span>
@@ -1670,9 +4803,9 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050842811">
+<h4 class="ban"><span class="bantext">tickets for sat feb  1</span></h4>         <li class="result-row" data-pid="7049850681">
 
-        <a href="https://boulder.craigslist.org/tix/d/boulder-billie-eilish-tickets/7050842811.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/denver-michael-kiwanuka-feb-1-gothic/7049850681.html" class="result-image gallery empty"></a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1681,14 +4814,13 @@ tickets - by owner
 
 
 
-        <a href="https://boulder.craigslist.org/tix/d/boulder-billie-eilish-tickets/7050842811.html" data-id="7050842811" class="result-title hdrlnk">Billie Eilish tickets</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-michael-kiwanuka-feb-1-gothic/7049850681.html" data-id="7049850681" class="result-title hdrlnk">Michael Kiwanuka Feb 1 Gothic Theater</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$650</span>
+                <span class="result-price">$150</span>
 
 
-                <span class="nearby" title="boulder, CO">(bou &gt; Boulder)</span>
 
                 <span class="result-tags">
                 </span>
@@ -1706,9 +4838,11 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7051035984">
+         <li class="result-row" data-pid="7049928496">
 
-        <a href="https://boulder.craigslist.org/tix/d/winter-park-winterpark-ski-lift-ticket/7051035984.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/denver-pagliacci-front-row-balc-730-sat/7049928496.html" class="result-image gallery" data-ids="1:01212_3h41KYVIrfj">
+                <span class="result-price">$25</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1717,14 +4851,90 @@ tickets - by owner
 
 
 
-        <a href="https://boulder.craigslist.org/tix/d/winter-park-winterpark-ski-lift-ticket/7051035984.html" data-id="7051035984" class="result-title hdrlnk">WINTERPARK SKI LIFT TICKET</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-pagliacci-front-row-balc-730-sat/7049928496.html" data-id="7049928496" class="result-title hdrlnk">PAGLIACCI FRONT ROW BALC 7:30 SAT. 2/29 BELOW COST!!</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$1</span>
+                <span class="result-price">$25</span>
 
 
-                <span class="nearby" title="boulder, CO">(bou)</span>
+                <span class="result-hood"> (LoDo)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050112587">
+
+        <a href="https://denver.craigslist.org/tix/d/denver-kenny-chesney-florida-georgia/7050112587.html" class="result-image gallery" data-ids="1:00I0I_2w1BIT8XSTJ">
+                <span class="result-price">$75</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/denver-kenny-chesney-florida-georgia/7050112587.html" data-id="7050112587" class="result-title hdrlnk">Kenny Chesney, Florida Georgia Line &amp; Old Dominion(Upper Corner 516)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+                <span class="result-hood"> (Empower Field At Mile High)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for sun feb  2</span></h4>         <li class="result-row" data-pid="7041871772">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-blake-shelton-saturday-march/7041871772.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-blake-shelton-saturday-march/7041871772.html" data-id="7041871772" class="result-title hdrlnk">Blake Shelton-Saturday, March 14th-Pepsi Center-SOLD OUT</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$230</span>
+
+
+                <span class="result-hood"> (South Denver Area/Tech Center)</span>
 
                 <span class="result-tags">
                 </span>
@@ -1742,9 +4952,11 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7051097724">
+         <li class="result-row" data-pid="7050473659">
 
-        <a href="https://boulder.craigslist.org/tix/d/boulder-cu-basketball-vs-utah-1-10/7051097724.html" class="result-image gallery empty"></a>
+        <a href="https://denver.craigslist.org/tix/d/denver-summer-the-donna-summer-musical/7050473659.html" class="result-image gallery" data-ids="1:01616_9Mg5Zhi9LVS,1:00h0h_ltf8vYmb68N">
+                <span class="result-price">$95</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1753,7 +4965,118 @@ tickets - by owner
 
 
 
-        <a href="https://boulder.craigslist.org/tix/d/boulder-cu-basketball-vs-utah-1-10/7051097724.html" data-id="7051097724" class="result-title hdrlnk">CU BASKETBALL VS UTAH: 1-10 GREAT SEATS, DISCOUNT PRICE</a>
+        <a href="https://denver.craigslist.org/tix/d/denver-summer-the-donna-summer-musical/7050473659.html" data-id="7050473659" class="result-title hdrlnk">SUMMER: THE DONNA SUMMER MUSICAL</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$95</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+<h4 class="ban"><span class="bantext">tickets for mon feb  3</span></h4>         <li class="result-row" data-pid="7051072434">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-morgan-wallen-jon-langston-at/7051072434.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-morgan-wallen-jon-langston-at/7051072434.html" data-id="7051072434" class="result-title hdrlnk">Morgan Wallen, Jon Langston at Fillmore Auditorium-Friday, May 1st</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="result-hood"> (South Denver Area/Tech Center)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051084379">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-denver-nuggets-vs-san-antonio/7051084379.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-denver-nuggets-vs-san-antonio/7051084379.html" data-id="7051084379" class="result-title hdrlnk">Denver Nuggets vs San Antonio Spurs-Monday, February 10th-7pm</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$75</span>
+
+
+                <span class="result-hood"> (Tech Center area)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                    <h4 class="ban nearby"><span class="bantext">Few local results found. Here are some from nearby areas. Checking &#39;include nearby areas&#39; will expand your search.</span></h4>
+
+                             <li class="result-row" data-pid="7050906817">
+
+        <a href="https://boulder.craigslist.org/tix/d/boulder-goldfinger-gothic-1-11/7050906817.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://boulder.craigslist.org/tix/d/boulder-goldfinger-gothic-1-11/7050906817.html" data-id="7050906817" class="result-title hdrlnk">Goldfinger @ Gothic 1/11</a>
 
 
         <span class="result-meta">
@@ -1778,10 +5101,10 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050921961">
+         <li class="result-row" data-pid="7050317589">
 
-        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-david-spade-4-tickets/7050921961.html" class="result-image gallery" data-ids="1:00L0L_g3PdaRRk9Jf,1:00O0O_esrZoMJ2gGq,1:00T0T_lLiIKuuKJyx,1:00p0p_1d0JZEd7sIZ">
-                <span class="result-price">$400</span>
+        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-eagle-hockey-tickets-1-10/7050317589.html" class="result-image gallery" data-ids="1:00I0I_bWZMyjC2eRc,1:00P0P_dMsB2lLRYE6">
+                <span class="result-price">$18</span>
         </a>
 
     <p class="result-info">
@@ -1791,11 +5114,11 @@ tickets - by owner
 
 
 
-        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-david-spade-4-tickets/7050921961.html" data-id="7050921961" class="result-title hdrlnk">DAVID SPADE 4 Tickets Boulder Theater 3/20/2020 8pm! GREAT SEATS!</a>
+        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-eagle-hockey-tickets-1-10/7050317589.html" data-id="7050317589" class="result-title hdrlnk">Eagle hockey tickets 1/10 and 1/11/ 2020</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$400</span>
+                <span class="result-price">$18</span>
 
 
                 <span class="nearby" title="fort collins / north CO">(ftc &gt; Fort Collins)</span>
@@ -1817,9 +5140,11 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050991899">
+         <li class="result-row" data-pid="7051118878">
 
-        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-infamous-stringdusters/7050991899.html" class="result-image gallery empty"></a>
+        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-colorado-eagles-hockey/7051118878.html" class="result-image gallery" data-ids="1:01717_5NfSqyIdAdV,1:01313_69RPzJdYkxy">
+                <span class="result-price">$17</span>
+        </a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1828,14 +5153,168 @@ tickets - by owner
 
 
 
-        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-infamous-stringdusters/7050991899.html" data-id="7050991899" class="result-title hdrlnk">Infamous Stringdusters mission ballroom</a>
+        <a href="https://fortcollins.craigslist.org/tix/d/fort-collins-colorado-eagles-hockey/7051118878.html" data-id="7051118878" class="result-title hdrlnk">Colorado Eagles Hockey Tickets-2. Friday, January 10th Fireworks Night</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$38</span>
+                <span class="result-price">$17</span>
 
 
-                <span class="nearby" title="fort collins / north CO">(ftc &gt; Denver)</span>
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Fort Collins)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7021366893" data-repost-of="6699836577">
+
+        <a href="https://fortcollins.craigslist.org/tix/d/berthoud-colorado-eagles-hockey-2-tix/7021366893.html" class="result-image gallery" data-ids="1:00Q0Q_bMhtwcYPED3,1:01010_9FrbCK7nNQT">
+                <span class="result-price">$28</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://fortcollins.craigslist.org/tix/d/berthoud-colorado-eagles-hockey-2-tix/7021366893.html" data-id="7021366893" class="result-title hdrlnk">Colorado Eagles Hockey! 2 Tix SATURDAY 1/25 Sec.G (2 attack end)</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$28</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc &gt; Berthoud (West))</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050832727" data-repost-of="6785240413">
+
+        <a href="https://fortcollins.craigslist.org/tix/d/brighton-2020-national-western-stock/7050832727.html" class="result-image gallery" data-ids="1:00606_d5TqgQ932mI">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://fortcollins.craigslist.org/tix/d/brighton-2020-national-western-stock/7050832727.html" data-id="7050832727" class="result-title hdrlnk">2020 NATIONAL WESTERN STOCK SHOW</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="fort collins / north CO">(ftc)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050837300" data-repost-of="6785246800">
+
+        <a href="https://cosprings.craigslist.org/tix/d/brighton-2020-national-western-stock/7050837300.html" class="result-image gallery" data-ids="1:00606_d5TqgQ932mI">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://cosprings.craigslist.org/tix/d/brighton-2020-national-western-stock/7050837300.html" data-id="7050837300" class="result-title hdrlnk">2020 NATIONAL WESTERN STOCK SHOW</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="colorado springs">(cos)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7039079693">
+
+        <a href="https://cosprings.craigslist.org/tix/d/colorado-springs-bbno/7039079693.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+
+
+        <a href="https://cosprings.craigslist.org/tix/d/colorado-springs-bbno/7039079693.html" data-id="7039079693" class="result-title hdrlnk">BBNO$</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$200</span>
+
+
+                <span class="nearby" title="colorado springs">(cos &gt; Colorado Springs)</span>
 
                 <span class="result-tags">
                 </span>
@@ -1853,45 +5332,9 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7050985160">
+         <li class="result-row" data-pid="7035979617">
 
-        <a href="https://rockies.craigslist.org/tix/d/patton-breckenridge-mountain-lift/7050985160.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-
-
-        <a href="https://rockies.craigslist.org/tix/d/patton-breckenridge-mountain-lift/7050985160.html" data-id="7050985160" class="result-title hdrlnk">Breckenridge Mountain Lift Tickets@@@@</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$70</span>
-
-
-                <span class="nearby" title="high rockies">(rck)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050989671">
-
-        <a href="https://rockies.craigslist.org/tix/d/patton-vail-mountain-lift-tickets/7050989671.html" class="result-image gallery empty"></a>
+        <a href="https://rockies.craigslist.org/tix/d/aspen-epic-day-pass-for-trade/7035979617.html" class="result-image gallery empty"></a>
 
     <p class="result-info">
         <span class="icon icon-star" role="button">
@@ -1900,86 +5343,14 @@ tickets - by owner
 
 
 
-        <a href="https://rockies.craigslist.org/tix/d/patton-vail-mountain-lift-tickets/7050989671.html" data-id="7050989671" class="result-title hdrlnk">Vail Mountain Lift Tickets!!^^^!!!!</a>
+        <a href="https://rockies.craigslist.org/tix/d/aspen-epic-day-pass-for-trade/7035979617.html" data-id="7035979617" class="result-title hdrlnk">EPIC day pass for trade</a>
 
 
         <span class="result-meta">
-                <span class="result-price">$75</span>
+                <span class="result-price">$0</span>
 
 
-                <span class="nearby" title="high rockies">(rck)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050994047">
-
-        <a href="https://rockies.craigslist.org/tix/d/patton-aspen-snowmass-lift-plenty-others/7050994047.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-
-
-        <a href="https://rockies.craigslist.org/tix/d/patton-aspen-snowmass-lift-plenty-others/7050994047.html" data-id="7050994047" class="result-title hdrlnk">Aspen Snowmass Lift &amp; Plenty Others@@@@@@</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$65</span>
-
-
-                <span class="nearby" title="high rockies">(rck)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050997577">
-
-        <a href="https://rockies.craigslist.org/tix/d/patton-steamboat-springs/7050997577.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-
-
-        <a href="https://rockies.craigslist.org/tix/d/patton-steamboat-springs/7050997577.html" data-id="7050997577" class="result-title hdrlnk">Steamboat Springs!!!!#!!!!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$60</span>
-
-
-                <span class="nearby" title="high rockies">(rck)</span>
+                <span class="nearby" title="high rockies">(rck &gt; aspen)</span>
 
                 <span class="result-tags">
                 </span>
@@ -2015,19 +5386,19 @@ tickets - by owner
         </span>
     </span>
     <span class="buttons">
-        <a href="/search/tix?sale_date=2020-01-06&amp;sort=upcoming" class="button first" title="first page">&lt;&lt;</a>
+        <a href="/search/tix?sort=upcoming" class="button first" title="first page">&lt;&lt;</a>
         <span class="button first" title="first page">&lt;&lt;</span>
-        <a href="/search/tix?sale_date=2020-01-06&amp;sort=upcoming" class="button prev" title="previous page">&lt; prev</a>
+        <a href="/search/tix?sort=upcoming" class="button prev" title="previous page">&lt; prev</a>
         <span class="button prev" title="previous page">&lt; prev</span>
 
         <span class="button pagenum">
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">20</span>
+                <span class="rangeTo">112</span>
             </span>
             /
-            <span class="totalcount">20</span>
+            <span class="totalcount">112</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -2077,7 +5448,7 @@ tickets - by owner
 
 <footer>
         <span class="rss">
-            <a class="l" href="https://denver.craigslist.org/search/tix?format=rss&amp;sale_date=2020-01-06&amp;sort=upcoming">RSS</a>
+            <a class="l" href="https://denver.craigslist.org/search/tix?format=rss&amp;sort=upcoming">RSS</a>
             <a href="https://www.craigslist.org/about/rss">(?)</a><br>
         </span>
     <ul class="clfooter">

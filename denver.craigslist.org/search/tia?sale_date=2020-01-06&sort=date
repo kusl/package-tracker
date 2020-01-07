@@ -834,10 +834,10 @@ tickets
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">77</span>
+                <span class="rangeTo">78</span>
             </span>
             /
-            <span class="totalcount">77</span>
+            <span class="totalcount">78</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -889,7 +889,43 @@ tickets
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051127216">
+                             <li class="result-row" data-pid="7051136279">
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-club-level-tickets/7051136279.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:42" title="Mon 06 Jan 04:42:05 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-club-level-tickets/7051136279.html" data-id="7051136279" class="result-title hdrlnk">Avalanche Club Level Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051127216">
 
         <a href="https://denver.craigslist.org/tix/d/denver-billie-eilish-pit-tickets/7051127216.html" class="result-image gallery" data-ids="1:01111_ctR08XfrMfg">
                 <span class="result-price">$450</span>
@@ -4672,10 +4708,10 @@ tickets
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">77</span>
+                <span class="rangeTo">78</span>
             </span>
             /
-            <span class="totalcount">77</span>
+            <span class="totalcount">78</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>

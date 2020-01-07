@@ -834,10 +834,10 @@ tickets - by owner
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">20</span>
+                <span class="rangeTo">21</span>
             </span>
             /
-            <span class="totalcount">20</span>
+            <span class="totalcount">21</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -979,6 +979,42 @@ tickets - by owner
 
 
         <a href="https://denver.craigslist.org/tix/d/denver-spongebob-the-musical/7050774663.html" data-id="7050774663" class="result-title hdrlnk">Spongebob the Musical - 3/21</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051136279">
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-club-level-tickets/7051136279.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:42" title="Mon 06 Jan 04:42:05 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-club-level-tickets/7051136279.html" data-id="7051136279" class="result-title hdrlnk">Avalanche Club Level Tickets</a>
 
 
         <span class="result-meta">
@@ -2054,10 +2090,10 @@ tickets - by owner
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">20</span>
+                <span class="rangeTo">21</span>
             </span>
             /
-            <span class="totalcount">20</span>
+            <span class="totalcount">21</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
