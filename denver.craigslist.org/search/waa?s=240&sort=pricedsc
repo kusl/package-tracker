@@ -891,44 +891,7 @@ wanted
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7030226340" data-repost-of="6281633327">
-
-        <a href="https://denver.craigslist.org/wan/d/broncos-chargers-3-tix-needed/7030226340.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-01 12:55" title="Sun 01 Dec 12:55:46 PM">Dec  1</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/broncos-chargers-3-tix-needed/7030226340.html" data-id="7030226340" class="result-title hdrlnk">Broncos Chargers 3 tix needed</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$100</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7030452220">
+                             <li class="result-row" data-pid="7030452220">
 
         <a href="https://denver.craigslist.org/wan/d/usaf-academy-help-installing-truck/7030452220.html" class="result-image gallery empty"></a>
 
@@ -5432,6 +5395,46 @@ wanted
 
 
                 <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046617362" data-repost-of="7045239798">
+
+        <a href="https://denver.craigslist.org/wan/d/arvada-grey-white-cat-missing/7046617362.html" class="result-image gallery" data-ids="1:00H0H_fVoxxWqcZ6P">
+                <span class="result-price">$20</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 23:56" title="Thu 02 Jan 11:56:50 PM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/arvada-grey-white-cat-missing/7046617362.html" data-id="7046617362" class="result-title hdrlnk">Grey /White Cat /MISSING</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (Arvada)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

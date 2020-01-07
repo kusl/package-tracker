@@ -968,7 +968,7 @@ trailers
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1611</span>
+            <span class="totalcount">1614</span>
         </span>
 
         <a href="/search/tra?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -1004,7 +1004,47 @@ trailers
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7049743737">
+                             <li class="result-row" data-pid="7043112657">
+
+        <a href="https://denver.craigslist.org/tro/d/parker-brand-new-flatbed-deck-for-truck/7043112657.html" class="result-image gallery" data-ids="1:01414_ltLSIHgxhL2,1:00X0X_i37yxHWJvZk,1:00f0f_j8IGyrdeHaU,1:01717_ghmRHnGvFKQ">
+                <span class="result-price">$1300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 10:26" title="Sun 05 Jan 10:26:00 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tro/d/parker-brand-new-flatbed-deck-for-truck/7043112657.html" data-id="7043112657" class="result-title hdrlnk">Brand new 12’ x 8.5’ Flatbed/deck for truck/semi/pickup/medium duty.</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1300</span>
+
+
+                <span class="result-hood"> (Parker)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049743737">
 
         <a href="https://denver.craigslist.org/tro/d/evergreen-2008-utility-trailer-quads/7049743737.html" class="result-image gallery" data-ids="1:00o0o_7z1BY019axM,1:00f0f_frxGhFT26F2,1:00303_8vOXhRt1uuy,1:00505_c1xiFaFT4Ks,1:00k0k_61pBLGPeF1p,1:00W0W_dVLFVf93Dto,1:00r0r_dnPg7dBzVYg,1:00V0V_5IfX7uQVxpV,1:00g0g_aXPcpi0f0QV,1:00x0x_ecms6slmJf5,1:00n0n_7HCeSoL3FXy,1:00P0P_3LA35RprE5J">
                 <span class="result-price">$1300</span>
@@ -5745,46 +5785,6 @@ trailers
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7045075715" data-repost-of="4824359101">
-
-        <a href="https://denver.craigslist.org/trb/d/dupont-2019-diamond-14-ramp-gate/7045075715.html" class="result-image gallery" data-ids="1:00v0v_fz7s4i6Ause,1:00T0T_3hPH2akQjU0,1:00505_eT2WTMesKVO,1:00J0J_gLvg6VsyOa1,1:00d0d_BDFOQkPjjY,1:00r0r_4hDGoztYobW,1:01414_bTg8sKSlHwV,1:01616_7rhJDfJ4oYf,1:00X0X_avIHyscxaM0,1:00Q0Q_igRKd386HLD,1:00d0d_bR0UvqdMBcH,1:01111_9mejbfoKN85">
-                <span class="result-price">$2200</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-27 07:26" title="Fri 27 Dec 07:26:09 AM">Dec 27</time>
-
-
-        <a href="https://denver.craigslist.org/trb/d/dupont-2019-diamond-14-ramp-gate/7045075715.html" data-id="7045075715" class="result-title hdrlnk">2019 Diamond T 14&#39; ramp gate trailer, with ATV ramps</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$2200</span>
-
-
-                <span class="result-hood"> (Commerce City)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5817,7 +5817,7 @@ trailers
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1611</span>
+            <span class="totalcount">1614</span>
         </span>
 
         <a href="/search/tra?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

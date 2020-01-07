@@ -2808,43 +2808,6 @@ wanted - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7030171697">
-
-        <a href="https://denver.craigslist.org/wan/d/castle-rock-snow-tires/7030171697.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-01 11:37" title="Sun 01 Dec 11:37:11 AM">Dec  1</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/castle-rock-snow-tires/7030171697.html" data-id="7030171697" class="result-title hdrlnk">215 55 17 Snow tires</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$250</span>
-
-
-                <span class="result-hood"> (Parker)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7031840874">
 
         <a href="https://denver.craigslist.org/wan/d/aurora-concord-11s-jordan-size-12/7031840874.html" class="result-image gallery empty"></a>
@@ -5445,6 +5408,46 @@ wanted - by owner
                 <span class="result-hood"> (Arvada)</span>
 
                 <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046626096">
+
+        <a href="https://denver.craigslist.org/wan/d/denver-looking-for-damaged-rolex/7046626096.html" class="result-image gallery" data-ids="1:00q0q_6CPWxLxjzYv,1:00Y0Y_aiZlK996iFB">
+                <span class="result-price">$100</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-29 21:35" title="Sun 29 Dec 09:35:13 PM">Dec 29</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/denver-looking-for-damaged-rolex/7046626096.html" data-id="7046626096" class="result-title hdrlnk">looking for damaged rolex, breitling, tag or other luxury watches-CASH</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
                 </span>
 
                 <span class="banish icon icon-trash" role="button">

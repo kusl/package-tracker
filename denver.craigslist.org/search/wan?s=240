@@ -853,7 +853,7 @@ wanted - by owner
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1131</span>
+            <span class="totalcount">1130</span>
         </span>
 
         <a href="/search/wan?s=360" class="button next" title="next page">next &gt; </a>
@@ -889,7 +889,44 @@ wanted - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7048379926">
+                             <li class="result-row" data-pid="7033650645" data-repost-of="7008750389">
+
+        <a href="https://denver.craigslist.org/wan/d/arvada-wanted-datsun-cars-trucks/7033650645.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-02 10:36" title="Thu 02 Jan 10:36:40 AM">Jan  2</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/arvada-wanted-datsun-cars-trucks/7033650645.html" data-id="7033650645" class="result-title hdrlnk">WANTED - Datsun cars &amp; trucks</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+                <span class="result-hood"> (Arvada)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048379926">
 
         <a href="https://denver.craigslist.org/wan/d/denver-wanted-2-michael-kiwanuka-tickets/7048379926.html" class="result-image gallery empty"></a>
 
@@ -4040,43 +4077,6 @@ wanted - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047177082" data-repost-of="6832847097">
-
-        <a href="https://denver.craigslist.org/wan/d/keenesburg-wtb-single-wide-mobile/7047177082.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-30 18:45" title="Mon 30 Dec 06:45:15 PM">Dec 30</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/keenesburg-wtb-single-wide-mobile/7047177082.html" data-id="7047177082" class="result-title hdrlnk">WTB--Single Wide Mobile</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (Keenesburg)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7047167362">
 
         <a href="https://denver.craigslist.org/wan/d/denver-looking-for-buy-2-tickets-to/7047167362.html" class="result-image gallery empty"></a>
@@ -5427,7 +5427,7 @@ wanted - by owner
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1131</span>
+            <span class="totalcount">1130</span>
         </span>
 
         <a href="/search/wan?s=360" class="button next" title="next page">next &gt; </a>

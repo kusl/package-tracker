@@ -863,7 +863,7 @@ video gaming
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">799</span>
+            <span class="totalcount">800</span>
         </span>
 
         <a href="/search/vga?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -2360,6 +2360,45 @@ video gaming
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7046521770">
+
+        <a href="https://denver.craigslist.org/vgm/d/littleton-star-wars-fallen-order/7046521770.html" class="result-image gallery" data-ids="1:00Z0Z_4mPxNEkEnf6,1:00909_gfzWrKwS0H8">
+                <span class="result-price">$35</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 00:50" title="Sun 05 Jan 12:50:42 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/vgm/d/littleton-star-wars-fallen-order/7046521770.html" data-id="7046521770" class="result-title hdrlnk">Star Wars Fallen Order</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$35</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7049253775">
 
         <a href="https://denver.craigslist.org/vgm/d/denver-ps4-way-out-game/7049253775.html" class="result-image gallery" data-ids="1:01515_57AxmsKxe4m">
@@ -3167,45 +3206,6 @@ video gaming
 
 
         <a href="https://denver.craigslist.org/vgm/d/denver-star-wars-fallen-order-ps4/7046091222.html" data-id="7046091222" class="result-title hdrlnk">Star Wars Fallen Order Ps4</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$40</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7046521770">
-
-        <a href="https://denver.craigslist.org/vgm/d/littleton-star-wars-fallen-order/7046521770.html" class="result-image gallery" data-ids="1:00Z0Z_4mPxNEkEnf6,1:00909_gfzWrKwS0H8">
-                <span class="result-price">$40</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 00:50" title="Sun 05 Jan 12:50:42 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/vgm/d/littleton-star-wars-fallen-order/7046521770.html" data-id="7046521770" class="result-title hdrlnk">Star Wars Fallen Order</a>
 
 
         <span class="result-meta">
@@ -5674,7 +5674,7 @@ video gaming
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">799</span>
+            <span class="totalcount">800</span>
         </span>
 
         <a href="/search/vga?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
