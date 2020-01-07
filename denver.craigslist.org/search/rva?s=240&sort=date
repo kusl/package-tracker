@@ -1305,7 +1305,7 @@ recreational vehicles
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2470</span>
+            <span class="totalcount">2471</span>
         </span>
 
         <a href="/search/rva?s=360&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -1341,7 +1341,47 @@ recreational vehicles
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7048877063">
+                             <li class="result-row" data-pid="7048976386" data-repost-of="7016100745">
+
+        <a href="https://denver.craigslist.org/rvd/d/denver-new-2020-innsbruck-g17th-toy/7048976386.html" class="result-image gallery" data-ids="1:00o0o_kWbvF0erPZL,1:00h0h_35MiA4Fvkmp,1:00j0j_6TsHfef8Ka1,1:00J0J_guTh5BXapAI,1:00J0J_9ZvFwK8ztLv,1:00000_8CwbIjvf33X,1:00303_7zDscT0nkQI,1:01010_b4ME8mjpXVn,1:00I0I_coshGSbfVRa,1:00707_hXcnMiSvifh,1:00707_7c7g8t1NhVJ">
+                <span class="result-price">$17500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-03 08:53" title="Fri 03 Jan 08:53:10 AM">Jan  3</time>
+
+
+        <a href="https://denver.craigslist.org/rvd/d/denver-new-2020-innsbruck-g17th-toy/7048976386.html" data-id="7048976386" class="result-title hdrlnk">New 2020 Innsbruck G17TH Toy Hauler</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$17500</span>
+
+
+                <span class="result-hood"> (EAST DENVER)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048877063">
 
         <a href="https://denver.craigslist.org/rvd/d/eugene-2002-alfa-see-ya-36-class/7048877063.html" class="result-image gallery empty"></a>
 
@@ -6092,46 +6132,6 @@ recreational vehicles
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7048167237" data-repost-of="7033578859">
-
-        <a href="https://denver.craigslist.org/rvs/d/littleton-2013-flagstaff-mac-228/7048167237.html" class="result-image gallery" data-ids="1:00j0j_dS7q701Jvvm,1:00M0M_dRLzpOOc32L,1:01616_flWpQFyYM9G,1:00d0d_dHtoZWEQC11,1:00808_j2szPB0ysMR,1:00404_6mK2vn4A2ZF">
-                <span class="result-price">$4000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-01 22:05" title="Wed 01 Jan 10:05:46 PM">Jan  1</time>
-
-
-        <a href="https://denver.craigslist.org/rvs/d/littleton-2013-flagstaff-mac-228/7048167237.html" data-id="7048167237" class="result-title hdrlnk">2013 Flagstaff Mac 228</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$4000</span>
-
-
-                <span class="result-hood"> (Littleton)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -6164,7 +6164,7 @@ recreational vehicles
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">2470</span>
+            <span class="totalcount">2471</span>
         </span>
 
         <a href="/search/rva?s=360&amp;sort=date" class="button next" title="next page">next &gt; </a>

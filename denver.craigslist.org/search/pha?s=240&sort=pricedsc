@@ -863,7 +863,7 @@ photo/video
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1056</span>
+            <span class="totalcount">1060</span>
         </span>
 
         <a href="/search/pha?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>
@@ -899,7 +899,47 @@ photo/video
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7049747090">
+                             <li class="result-row" data-pid="7045496741" data-repost-of="7014046221">
+
+        <a href="https://denver.craigslist.org/pho/d/denver-mint-sigma-35mm-14-dg-hsm-art/7045496741.html" class="result-image gallery" data-ids="1:00M0M_guWkMkfQ1cZ">
+                <span class="result-price">$550</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-27 17:31" title="Fri 27 Dec 05:31:26 PM">Dec 27</time>
+
+
+        <a href="https://denver.craigslist.org/pho/d/denver-mint-sigma-35mm-14-dg-hsm-art/7045496741.html" data-id="7045496741" class="result-title hdrlnk">MINT Sigma 35mm f/1.4 DG HSM Art Lens Nikon w/ Filter, lens cap leash</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$550</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7049747090">
 
         <a href="https://denver.craigslist.org/pho/d/denver-canon-80d/7049747090.html" class="result-image gallery" data-ids="1:01717_iFf7Xpx2wiA,1:00V0V_5jFOZRSR6Hr">
                 <span class="result-price">$550</span>
@@ -3430,6 +3470,46 @@ photo/video
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7048372639" data-repost-of="6883956307">
+
+        <a href="https://denver.craigslist.org/pho/d/denver-tamron-10-24mm-di-ii-vc-hld-lens/7048372639.html" class="result-image gallery" data-ids="1:00s0s_NdNFdi7vCv,1:00606_gEbXKjVdfg6,1:00a0a_cctfgk3yYc1,1:00909_igVrOUX4MvR">
+                <span class="result-price">$380</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:40" title="Mon 06 Jan 04:40:38 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/pho/d/denver-tamron-10-24mm-di-ii-vc-hld-lens/7048372639.html" data-id="7048372639" class="result-title hdrlnk">Tamron 10-24mm f/3.5-4.5 Di II VC HLD Lens for Nikon F</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$380</span>
+
+
+                <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7022752303" data-repost-of="6975726015">
 
         <a href="https://denver.craigslist.org/pho/d/arvada-portable-green-screen-hd-camera/7022752303.html" class="result-image gallery" data-ids="1:00w0w_4J8EuId6dWU,1:01212_5kXfuS4l7fY,1:00q0q_1ipiYA2mZmI,1:01414_iurWfbx1lQz,1:00P0P_ly3mmQ9vKdE,1:00Y0Y_hO1lXXA9rCi,1:00H0H_8b8iZf7DYlE,1:00O0O_hcC96wzdN3N,1:00X0X_bUEFEdqa43W">
@@ -5572,86 +5652,6 @@ photo/video
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7042277659">
-
-        <a href="https://denver.craigslist.org/pho/d/fort-collins-nikon-sb-910-flash/7042277659.html" class="result-image gallery" data-ids="1:00U0U_7asMSSvRK7k">
-                <span class="result-price">$300</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-20 21:53" title="Fri 20 Dec 09:53:25 PM">Dec 20</time>
-
-
-        <a href="https://denver.craigslist.org/pho/d/fort-collins-nikon-sb-910-flash/7042277659.html" data-id="7042277659" class="result-title hdrlnk">Nikon SB-910 Flash/speedlight</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$300</span>
-
-
-                <span class="result-hood"> (Fort Collins)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7042607224">
-
-        <a href="https://denver.craigslist.org/pho/d/littleton-fabric-roll-rack/7042607224.html" class="result-image gallery" data-ids="1:00b0b_5e3rhdgyuC9,1:00000_3vpvMSP6jaQ,1:00U0U_cDw4pAy3KVy,1:00E0E_5KLikBEMzrX">
-                <span class="result-price">$300</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-21 13:24" title="Sat 21 Dec 01:24:55 PM">Dec 21</time>
-
-
-        <a href="https://denver.craigslist.org/pho/d/littleton-fabric-roll-rack/7042607224.html" data-id="7042607224" class="result-title hdrlnk">Fabric Roll Rack</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$300</span>
-
-
-                <span class="result-hood"> (Centennial)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5684,7 +5684,7 @@ photo/video
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1056</span>
+            <span class="totalcount">1060</span>
         </span>
 
         <a href="/search/pha?s=360&amp;sort=pricedsc" class="button next" title="next page">next &gt; </a>

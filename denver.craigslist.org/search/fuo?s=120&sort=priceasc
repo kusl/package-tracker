@@ -899,47 +899,7 @@ furniture - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7047878144">
-
-        <a href="https://denver.craigslist.org/fuo/d/denver-sofa-table-bed-frame-queen/7047878144.html" class="result-image gallery" data-ids="1:00y0y_9vcBX0mBK3v">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 11:03" title="Sun 05 Jan 11:03:24 AM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/fuo/d/denver-sofa-table-bed-frame-queen/7047878144.html" data-id="7047878144" class="result-title hdrlnk">Sofa Table Bed Frame Queen Leather Couch - Move Anything With Dolly</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7047947224">
+                             <li class="result-row" data-pid="7047947224">
 
         <a href="https://denver.craigslist.org/fuo/d/aurora-table-breakfast-table-chairs/7047947224.html" class="result-image gallery" data-ids="1:00W0W_gZsm6HpoQxi">
                 <span class="result-price">$1</span>
@@ -2634,6 +2594,46 @@ furniture - by owner
 
 
                 <span class="result-hood"> (Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6931254473">
+
+        <a href="https://denver.craigslist.org/fuo/d/englewood-filing-cabinets-lateral-and/6931254473.html" class="result-image gallery" data-ids="1:00u0u_g0RoJiUp9Xe,1:00w0w_QMqevSAnE6,1:00K0K_ehiZVXLYCss,1:00i0i_fqpd3mpW9ny">
+                <span class="result-price">$5</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-07-24 14:08" title="Wed 24 Jul 02:08:18 PM">Jul 24</time>
+
+
+        <a href="https://denver.craigslist.org/fuo/d/englewood-filing-cabinets-lateral-and/6931254473.html" data-id="6931254473" class="result-title hdrlnk">Filing Cabinets. Lateral and letter</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5</span>
+
+
+                <span class="result-hood"> (Englewood)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

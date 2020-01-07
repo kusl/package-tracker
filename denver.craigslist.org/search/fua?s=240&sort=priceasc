@@ -899,47 +899,7 @@ furniture
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7050448079">
-
-        <a href="https://denver.craigslist.org/fuo/d/englewood-moving-sale-many-furniture/7050448079.html" class="result-image gallery" data-ids="1:01616_7IIhXQtM2FL,1:00I0I_epJke3ptif1,1:01717_793oyRKm8NB,1:00X0X_lrbxouW5oEf,1:00y0y_kS0av2zQNZm,1:00C0C_bRN52lpCw73,1:00c0c_j7kNuz9rh7g,1:00X0X_kkfWzj6nNiO,1:00h0h_kTEYrg30nda,1:00c0c_5wC7gpw9cC1">
-                <span class="result-price">$1</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-05 14:55" title="Sun 05 Jan 02:55:43 PM">Jan  5</time>
-
-
-        <a href="https://denver.craigslist.org/fuo/d/englewood-moving-sale-many-furniture/7050448079.html" data-id="7050448079" class="result-title hdrlnk">Moving sale- many furniture items!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1</span>
-
-
-                <span class="result-hood"> (Englewood)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7050576082">
+                             <li class="result-row" data-pid="7050576082">
 
         <a href="https://denver.craigslist.org/fuo/d/denver-5-original-frames-art-works/7050576082.html" class="result-image gallery" data-ids="1:00505_lXds5NJytdT,1:00w0w_8mk7I6aX0Wa,1:00n0n_8nrukCIF1Qa,1:00Q0Q_gQG1cYKEQQi,1:00u0u_3aMVxQdAuVD,1:00s0s_6aqgNWR5NCH">
                 <span class="result-price">$1</span>
@@ -5648,6 +5608,45 @@ furniture
 
 
                 <span class="result-hood"> (Westminster)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7015987685" data-repost-of="6034152398">
+
+        <a href="https://denver.craigslist.org/fuo/d/denver-desks-and-tables-for-home-and/7015987685.html" class="result-image gallery" data-ids="1:00p0p_beZjZw1WOGp,1:00z0z_2tVqIiBSGfg,1:00b0b_d7csCwie9Nz,1:00F0F_gM1qbs9IUo4">
+                <span class="result-price">$10</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-05 08:23" title="Thu 05 Dec 08:23:04 AM">Dec  5</time>
+
+
+        <a href="https://denver.craigslist.org/fuo/d/denver-desks-and-tables-for-home-and/7015987685.html" data-id="7015987685" class="result-title hdrlnk">Desks and Tables for Home and Business</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$10</span>
+
+
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

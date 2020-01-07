@@ -838,7 +838,7 @@ tickets - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2072</span>
+            <span class="totalcount">2074</span>
         </span>
 
         <a href="/search/tix?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -2596,6 +2596,42 @@ tickets - by owner
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051136279">
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-club-level-tickets/7051136279.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:42" title="Mon 06 Jan 04:42:05 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/arvada-avalanche-club-level-tickets/7051136279.html" data-id="7051136279" class="result-title hdrlnk">Avalanche Club Level Tickets</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+
+                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">
@@ -5408,42 +5444,6 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7034075076">
-
-        <a href="https://denver.craigslist.org/tix/d/denver-2-grinch-tickets-pm/7034075076.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-07 11:01" title="Sat 07 Dec 11:01:29 AM">Dec  7</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/denver-2-grinch-tickets-pm/7034075076.html" data-id="7034075076" class="result-title hdrlnk">2 Grinch tickets 12/7 3pm</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$20</span>
-
-
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5476,7 +5476,7 @@ tickets - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2072</span>
+            <span class="totalcount">2074</span>
         </span>
 
         <a href="/search/tix?s=240&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

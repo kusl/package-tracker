@@ -861,7 +861,7 @@ photo/video
                 <span class="rangeTo">480</span>
             </span>
             /
-            <span class="totalcount">1083</span>
+            <span class="totalcount">1084</span>
         </span>
 
         <a href="/search/pha?s=480" class="button next" title="next page">next &gt; </a>
@@ -897,7 +897,43 @@ photo/video
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7048166945">
+                             <li class="result-row" data-pid="7038020224">
+
+        <a href="https://denver.craigslist.org/pho/d/castle-rock-wtb-damaged-destroyed-canon/7038020224.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-01 22:41" title="Wed 01 Jan 10:41:26 PM">Jan  1</time>
+
+
+        <a href="https://denver.craigslist.org/pho/d/castle-rock-wtb-damaged-destroyed-canon/7038020224.html" data-id="7038020224" class="result-title hdrlnk">WTB Damaged/Destroyed Canon T3i</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$10</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048166945">
 
         <a href="https://denver.craigslist.org/pho/d/broomfield-fujifilm-xt3/7048166945.html" class="result-image gallery empty"></a>
 
@@ -5615,45 +5651,6 @@ photo/video
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7033787555" data-repost-of="7015727991">
-
-        <a href="https://denver.craigslist.org/pho/d/arvada-sigma-20mm-f14-art-dg-hsm-lens/7033787555.html" class="result-image gallery" data-ids="1:00P0P_fmkgkILBz9f,1:01515_61VcTVzLLfe,1:00T0T_hw8D6u3wLlV">
-                <span class="result-price">$650</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-28 18:45" title="Sat 28 Dec 06:45:35 PM">Dec 28</time>
-
-
-        <a href="https://denver.craigslist.org/pho/d/arvada-sigma-20mm-f14-art-dg-hsm-lens/7033787555.html" data-id="7033787555" class="result-title hdrlnk">Sigma 20mm F1.4 Art DG HSM Lens for Nikon</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$650</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5686,7 +5683,7 @@ photo/video
                 <span class="rangeTo">480</span>
             </span>
             /
-            <span class="totalcount">1083</span>
+            <span class="totalcount">1084</span>
         </span>
 
         <a href="/search/pha?s=480" class="button next" title="next page">next &gt; </a>

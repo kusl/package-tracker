@@ -863,7 +863,7 @@ photo/video
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1056</span>
+            <span class="totalcount">1060</span>
         </span>
 
         <a href="/search/pha?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>
@@ -899,7 +899,47 @@ photo/video
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7045885370" data-repost-of="7009565688">
+                             <li class="result-row" data-pid="7042175909" data-repost-of="7018832394">
+
+        <a href="https://denver.craigslist.org/pho/d/denver-logitech-hp-video-webcam-1080p/7042175909.html" class="result-image gallery" data-ids="1:00D0D_5lyZeX6ei2b">
+                <span class="result-price">$40</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 12:53" title="Sun 05 Jan 12:53:37 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/pho/d/denver-logitech-hp-video-webcam-1080p/7042175909.html" data-id="7042175909" class="result-title hdrlnk">LOGITECH HP VIDEO WEBCAM 1080p</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$40</span>
+
+
+                <span class="result-hood"> (LAKEWOOD)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7045885370" data-repost-of="7009565688">
 
         <a href="https://denver.craigslist.org/pho/d/louisville-mountainsmith-camera-bag/7045885370.html" class="result-image gallery" data-ids="1:00P0P_2f6m177CvPX,1:00m0m_56ZwK7ElI5P">
                 <span class="result-price">$40</span>
@@ -5642,46 +5682,6 @@ photo/video
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7028650218" data-repost-of="6576388726">
-
-        <a href="https://denver.craigslist.org/pho/d/broomfield-kodak-easyshare-touch-screen/7028650218.html" class="result-image gallery" data-ids="1:00l0l_3aQK7NSrrX7,1:00t0t_pEdfnv6m3s,1:00R0R_cdTLjfoq9ea,1:00202_bVoAWTDi82x,1:01515_dOS1KztA3AD,1:00t0t_eo7KNZRhMJi,1:00a0a_gYnCr3URkec,1:00303_dbsuxsUkRwd">
-                <span class="result-price">$75</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-11-28 12:25" title="Thu 28 Nov 12:25:25 PM">Nov 28</time>
-
-
-        <a href="https://denver.craigslist.org/pho/d/broomfield-kodak-easyshare-touch-screen/7028650218.html" data-id="7028650218" class="result-title hdrlnk">KODAK EASYSHARE TOUCH SCREEN CAMERA</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$75</span>
-
-
-                <span class="result-hood"> (broomfield)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5714,7 +5714,7 @@ photo/video
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1056</span>
+            <span class="totalcount">1060</span>
         </span>
 
         <a href="/search/pha?s=360&amp;sort=priceasc" class="button next" title="next page">next &gt; </a>

@@ -838,7 +838,7 @@ tickets - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2102</span>
+            <span class="totalcount">2105</span>
         </span>
 
         <a href="/search/tix?s=240&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -874,7 +874,44 @@ tickets - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7048304340" data-repost-of="6981503551">
+                             <li class="result-row" data-pid="7047298104">
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-black-violin-paramount/7047298104.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 09:05" title="Sun 05 Jan 09:05:06 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/littleton-black-violin-paramount/7047298104.html" data-id="7047298104" class="result-title hdrlnk">Black Violin - Paramount 1/14/20</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$120</span>
+
+
+                <span class="result-hood"> (Highlands Ranch, Co)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7048304340" data-repost-of="6981503551">
 
         <a href="https://denver.craigslist.org/tix/d/denver-rockies-2020-season-section-rows/7048304340.html" class="result-image gallery empty"></a>
 
@@ -5420,43 +5457,6 @@ tickets - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7047901610">
-
-        <a href="https://denver.craigslist.org/tix/d/evergreen-loveland-4-pak-pass/7047901610.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-01 11:55" title="Wed 01 Jan 11:55:21 AM">Jan  1</time>
-
-
-        <a href="https://denver.craigslist.org/tix/d/evergreen-loveland-4-pak-pass/7047901610.html" data-id="7047901610" class="result-title hdrlnk">LoveLand 4-Pak Pass</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$55</span>
-
-
-                <span class="result-hood"> (Denver Colorado)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5489,7 +5489,7 @@ tickets - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">2102</span>
+            <span class="totalcount">2105</span>
         </span>
 
         <a href="/search/tix?s=240&amp;sort=date" class="button next" title="next page">next &gt; </a>

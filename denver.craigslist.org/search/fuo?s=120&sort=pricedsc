@@ -2797,6 +2797,45 @@ furniture - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="6894012852">
+
+        <a href="https://denver.craigslist.org/fuo/d/westminster-need-to-sell/6894012852.html" class="result-image gallery" data-ids="1:00p0p_28739asYMTn">
+                <span class="result-price">$2150</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-07 13:59" title="Fri 07 Jun 01:59:33 PM">Jun  7</time>
+
+
+        <a href="https://denver.craigslist.org/fuo/d/westminster-need-to-sell/6894012852.html" data-id="6894012852" class="result-title hdrlnk">Need to sell</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2150</span>
+
+
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7047632557">
 
         <a href="https://denver.craigslist.org/fuo/d/denver-whistler-bedroom-set/7047632557.html" class="result-image gallery" data-ids="1:00k0k_kcxhuJNefsF,1:00P0P_lyDETAGGiW4,1:00000_f0r89iO13Ui,1:00d0d_b1A3JX83rNb,1:00202_bLhJhyZ5C8r,1:00q0q_6500RTWXXl1,1:00303_ivkhLfcqQ13">
@@ -5602,45 +5641,6 @@ furniture - by owner
 
 
                 <span class="result-hood"> (Colorado Springs)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7045161065">
-
-        <a href="https://denver.craigslist.org/fuo/d/arvada-dining-set-must-sell/7045161065.html" class="result-image gallery" data-ids="1:00g0g_9t1e6o2jQsA,1:00B0B_3mUDKzkfE52,1:00b0b_fBkWA3yMrKP">
-                <span class="result-price">$1800</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-27 09:38" title="Fri 27 Dec 09:38:07 AM">Dec 27</time>
-
-
-        <a href="https://denver.craigslist.org/fuo/d/arvada-dining-set-must-sell/7045161065.html" data-id="7045161065" class="result-title hdrlnk">Dining Set -must sell</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1800</span>
-
-
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
