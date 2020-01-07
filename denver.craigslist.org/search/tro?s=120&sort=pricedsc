@@ -1004,47 +1004,7 @@ trailers - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7043637510">
-
-        <a href="https://denver.craigslist.org/tro/d/kiowa-1993-featherlite-aluminum-3-horse/7043637510.html" class="result-image gallery" data-ids="1:00l0l_40vY4pTCznN,1:01313_kTdooMdhgBP,1:00p0p_6Ogs7T9Dsq2,1:00P0P_83aJnlxTzTH,1:00A0A_6VLeFL8eD0H,1:00n0n_alqXGswIyKN">
-                <span class="result-price">$8000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-23 15:15" title="Mon 23 Dec 03:15:46 PM">Dec 23</time>
-
-
-        <a href="https://denver.craigslist.org/tro/d/kiowa-1993-featherlite-aluminum-3-horse/7043637510.html" data-id="7043637510" class="result-title hdrlnk">1993 Featherlite Aluminum 3 Horse Slant Trailer</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$8000</span>
-
-
-                <span class="result-hood"> (Kiowa)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7048076635" data-repost-of="7003831173">
+                             <li class="result-row" data-pid="7048076635" data-repost-of="7003831173">
 
         <a href="https://denver.craigslist.org/tro/d/brighton-18-ft-cargo-trailer/7048076635.html" class="result-image gallery" data-ids="1:00Y0Y_dBZ7But7K42,1:00808_cL6gki7gKFk,1:00a0a_1QcLjqMhcoE,1:01616_843QMMRku0Z,1:00c0c_5YxKeyRc7FP,1:00F0F_e9hDlJgn5Gr">
                 <span class="result-price">$8000</span>
@@ -5741,6 +5701,45 @@ trailers - by owner
 
 
                 <span class="result-hood"> (Penrose, CO)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050503476">
+
+        <a href="https://denver.craigslist.org/tro/d/littleton-jv45-wildwood-2015-travel/7050503476.html" class="result-image gallery" data-ids="1:00t0t_2Y2sB2kS0y0">
+                <span class="result-price">$4074</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 16:31" title="Sun 05 Jan 04:31:38 PM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/tro/d/littleton-jv45-wildwood-2015-travel/7050503476.html" data-id="7050503476" class="result-title hdrlnk">JV45 Wildwood 2015 Travel Trailer</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4074</span>
+
+
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

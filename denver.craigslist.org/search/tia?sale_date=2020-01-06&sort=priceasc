@@ -834,10 +834,10 @@ tickets
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">23</span>
+                <span class="rangeTo">24</span>
             </span>
             /
-            <span class="totalcount">23</span>
+            <span class="totalcount">24</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
@@ -1332,6 +1332,43 @@ tickets
 
 
                 <span class="result-hood"> (National Western Stock Show)</span>
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051186240">
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-cold-war-kids/7051186240.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 17:05" title="Mon 06 Jan 05:05:27 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/tix/d/aurora-cold-war-kids/7051186240.html" data-id="7051186240" class="result-title hdrlnk">Cold War Kids</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$45</span>
+
+
+                <span class="result-hood"> (Aurora)</span>
 
                 <span class="result-tags">
                 </span>
@@ -2145,6 +2182,46 @@ tickets
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="7051180154">
+
+        <a href="https://rockies.craigslist.org/tix/d/vail-half-off-lift-tickets-vail-ski/7051180154.html" class="result-image gallery" data-ids="1:01616_fGv5FPjpx6M">
+                <span class="result-price">$100</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 16:54" title="Mon 06 Jan 04:54:53 PM">Jan  6</time>
+
+
+        <a href="https://rockies.craigslist.org/tix/d/vail-half-off-lift-tickets-vail-ski/7051180154.html" data-id="7051180154" class="result-title hdrlnk">HALF OFF LIFT TICKETS VAIL SKI</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$100</span>
+
+
+                <span class="nearby" title="high rockies">(rck)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
 
                 </ul>
             </div>
@@ -2172,10 +2249,10 @@ tickets
             <span class="range">
                 <span class="rangeFrom">1</span>
                 -
-                <span class="rangeTo">23</span>
+                <span class="rangeTo">24</span>
             </span>
             /
-            <span class="totalcount">23</span>
+            <span class="totalcount">24</span>
         </span>
 
         <a href="" class="button next" title="next page">next &gt; </a>
