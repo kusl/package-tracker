@@ -891,7 +891,47 @@ materials
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7042657578">
+                             <li class="result-row" data-pid="7050322590">
+
+        <a href="https://denver.craigslist.org/mat/d/simla-wild-cherry-laminate-flooring/7050322590.html" class="result-image gallery" data-ids="1:00o0o_73Uz9HMXUBb,1:00X0X_c3njxfsORVV,1:00r0r_i9DVcjJbh48">
+                <span class="result-price">$175</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 11:43" title="Sun 05 Jan 11:43:51 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/mat/d/simla-wild-cherry-laminate-flooring/7050322590.html" data-id="7050322590" class="result-title hdrlnk">Wild Cherry Laminate Flooring</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$175</span>
+
+
+                <span class="result-hood"> (Ramah)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7042657578">
 
         <a href="https://denver.craigslist.org/mat/d/commerce-city-wheel-stoppers/7042657578.html" class="result-image gallery" data-ids="1:01616_94bntLQFETK,1:00A0A_jNb6XgDRJUO">
                 <span class="result-price">$0</span>
@@ -5591,46 +5631,6 @@ materials
 
 
                 <span class="result-hood"> (south west denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7042252655" data-repost-of="6825437424">
-
-        <a href="https://denver.craigslist.org/mat/d/denver-evergreen-6010-ecm-furnace/7042252655.html" class="result-image gallery" data-ids="1:00F0F_20lt70PhcdA">
-                <span class="result-price">$100</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 14:32" title="Sat 04 Jan 02:32:00 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/mat/d/denver-evergreen-6010-ecm-furnace/7042252655.html" data-id="7042252655" class="result-title hdrlnk">Evergreen 6010 e.c.m. Furnace Blower Motor (New In The Box)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$100</span>
-
-
-                <span class="result-hood"> (Southwest Denver)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

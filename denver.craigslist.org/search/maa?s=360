@@ -889,7 +889,47 @@ materials
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7046500479" data-repost-of="6828854905">
+                             <li class="result-row" data-pid="7046490420" data-repost-of="6828876032">
+
+        <a href="https://denver.craigslist.org/mat/d/denver-pvc-plumbing-parts-white-pvc/7046490420.html" class="result-image gallery" data-ids="1:00l0l_6kmNR1e5fKu">
+                <span class="result-price">$20</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 14:30" title="Sat 04 Jan 02:30:42 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/mat/d/denver-pvc-plumbing-parts-white-pvc/7046490420.html" data-id="7046490420" class="result-title hdrlnk">PVC Plumbing Parts - White PVC - Faucet - Drain</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (North Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7046500479" data-repost-of="6828854905">
 
         <a href="https://denver.craigslist.org/mat/d/denver-kichler-3-light-bathroom-light/7046500479.html" class="result-image gallery" data-ids="1:01616_iufpgTRLszS">
                 <span class="result-price">$20</span>
@@ -5318,43 +5358,6 @@ materials
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7039603444" data-repost-of="7004822115">
-
-        <a href="https://denver.craigslist.org/mat/d/brighton-large-15-drawer-cabinet/7039603444.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-03 15:09" title="Fri 03 Jan 03:09:22 PM">Jan  3</time>
-
-
-        <a href="https://denver.craigslist.org/mat/d/brighton-large-15-drawer-cabinet/7039603444.html" data-id="7039603444" class="result-title hdrlnk">Large 15 drawer Cabinet</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$125</span>
-
-
-                <span class="result-hood"> (Brighton Colo)</span>
-
-                <span class="result-tags">
                 </span>
 
                 <span class="banish icon icon-trash" role="button">

@@ -853,7 +853,7 @@ materials - by owner
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1683</span>
+            <span class="totalcount">1676</span>
         </span>
 
         <a href="/search/mat?s=360" class="button next" title="next page">next &gt; </a>
@@ -889,7 +889,47 @@ materials - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7050295236">
+                             <li class="result-row" data-pid="7044479207">
+
+        <a href="https://denver.craigslist.org/mat/d/denver-hanging-lamp/7044479207.html" class="result-image gallery" data-ids="1:00C0C_8UsJOmad93Z,1:00h0h_6DcvjrqeZTO,1:00u0u_hX52hcF7I7,1:00L0L_TpGV0OLVs8">
+                <span class="result-price">$20</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-05 11:07" title="Sun 05 Jan 11:07:37 AM">Jan  5</time>
+
+
+        <a href="https://denver.craigslist.org/mat/d/denver-hanging-lamp/7044479207.html" data-id="7044479207" class="result-title hdrlnk">HANGING LAMP</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$20</span>
+
+
+                <span class="result-hood"> (DENVER)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050295236">
 
         <a href="https://denver.craigslist.org/mat/d/aurora-p2346-wing-shaped-fitting/7050295236.html" class="result-image gallery" data-ids="1:00P0P_83cZpe748OC,1:00e0e_eTSa9wHL9NZ,1:00P0P_7D29dG6Ot7S,1:00C0C_h2aECFcJzaV">
                 <span class="result-price">$5</span>
@@ -5608,45 +5648,6 @@ materials - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7049788052">
-
-        <a href="https://denver.craigslist.org/mat/d/littleton-lortone-qt6-rock-tumbler/7049788052.html" class="result-image gallery" data-ids="1:00v0v_2GIdjsfD2E3">
-                <span class="result-price">$175</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-04 12:12" title="Sat 04 Jan 12:12:17 PM">Jan  4</time>
-
-
-        <a href="https://denver.craigslist.org/mat/d/littleton-lortone-qt6-rock-tumbler/7049788052.html" data-id="7049788052" class="result-title hdrlnk">Lortone QT6 Rock Tumbler</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$175</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
 
                     
                     
@@ -5679,7 +5680,7 @@ materials - by owner
                 <span class="rangeTo">360</span>
             </span>
             /
-            <span class="totalcount">1683</span>
+            <span class="totalcount">1676</span>
         </span>
 
         <a href="/search/mat?s=360" class="button next" title="next page">next &gt; </a>
