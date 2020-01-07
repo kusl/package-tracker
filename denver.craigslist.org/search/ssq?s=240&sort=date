@@ -286,7 +286,7 @@ for sale by dealer
                value="146" class="catcheck multi_checkbox"
                data-abb="ctd" id="cat_ctd"
                checked="checked">
-        <a href="/search/ctd?sort=date" class="category">cars &amp; trucks</a> <span class="count">27817</span>
+        <a href="/search/ctd?sort=date" class="category">cars &amp; trucks</a> <span class="count">27824</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -300,21 +300,21 @@ for sale by dealer
                value="142" class="catcheck multi_checkbox"
                data-abb="fud" id="cat_fud"
                checked="checked">
-        <a href="/search/fud?sort=date" class="category">furniture</a> <span class="count">1779</span>
+        <a href="/search/fud?sort=date" class="category">furniture</a> <span class="count">1780</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="162" class="catcheck multi_checkbox"
                data-abb="ppd" id="cat_ppd"
                checked="checked">
-        <a href="/search/ppd?sort=date" class="category">appliances</a> <span class="count">1618</span>
+        <a href="/search/ppd?sort=date" class="category">appliances</a> <span class="count">1619</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="206" class="catcheck multi_checkbox"
                data-abb="trb" id="cat_trb"
                checked="checked">
-        <a href="/search/trb?sort=date" class="category">trailers</a> <span class="count">985</span>
+        <a href="/search/trb?sort=date" class="category">trailers</a> <span class="count">982</span>
     </li>
 
         <li class="morecats js-only closed">
@@ -332,7 +332,7 @@ for sale by dealer
                value="194" class="catcheck multi_checkbox"
                data-abb="hvd" id="cat_hvd"
                checked="checked">
-        <a href="/search/hvd?sort=date" class="category">heavy equipment</a> <span class="count">657</span>
+        <a href="/search/hvd?sort=date" class="category">heavy equipment</a> <span class="count">656</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -402,21 +402,21 @@ for sale by dealer
                value="184" class="catcheck multi_checkbox"
                data-abb="msd" id="cat_msd"
                checked="checked">
-        <a href="/search/msd?sort=date" class="category">musical instruments</a> <span class="count">245</span>
+        <a href="/search/msd?sort=date" class="category">musical instruments</a> <span class="count">246</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="172" class="catcheck multi_checkbox"
                data-abb="bid" id="cat_bid"
                checked="checked">
-        <a href="/search/bid?sort=date" class="category">bicycles</a> <span class="count">214</span>
+        <a href="/search/bid?sort=date" class="category">bicycles</a> <span class="count">213</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
                value="186" class="catcheck multi_checkbox"
                data-abb="sgd" id="cat_sgd"
                checked="checked">
-        <a href="/search/sgd?sort=date" class="category">sporting goods</a> <span class="count">134</span>
+        <a href="/search/sgd?sort=date" class="category">sporting goods</a> <span class="count">135</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -1809,7 +1809,847 @@ for sale by dealer
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7051128937" data-repost-of="7027195361">
+                             <li class="result-row" data-pid="7051135835">
+
+        <a href="https://denver.craigslist.org/ctd/d/longmont-2003-dodge-ram-2500-slt-59l/7051135835.html" class="result-image gallery" data-ids="1:00c0c_2GDV4ogYgbD,1:00303_hJkjUqtDt95,1:00v0v_3JcRIWZVapv,1:00Z0Z_1YVrDmiXJRn,1:00k0k_ifaglc7m4Cs,1:00j0j_hOUREZBL9ZI,1:00000_1agaOQ0MOWn,1:00h0h_93t7hlONcGH,1:00303_r84AH60Pqi,1:00Q0Q_3kYDLZTwdv4,1:00Y0Y_32PvK3ZEZPI,1:00Q0Q_cI2k4fwaveb,1:00C0C_lRXDzbd71Mj,1:01414_2BFIvGbB2B4,1:00r0r_bUhs7z1jrDd,1:00J0J_55vDVF5jVkp,1:00v0v_2sinH7bd4tk,1:00S0S_ls3VfhQvjr3,1:00Y0Y_k4Wkl9TrWbw,1:00m0m_gDpsRcnk2BO,1:00L0L_4Rmv935l0sD,1:01414_7wnfTcU4RZ6,1:00o0o_ew90rJYTqvY,1:00x0x_6au3Z5Dm8dF">
+                <span class="result-price">$17999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:41" title="Mon 06 Jan 03:41:17 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/longmont-2003-dodge-ram-2500-slt-59l/7051135835.html" data-id="7051135835" class="result-title hdrlnk">2003 Dodge Ram 2500 SLT 5.9L Cummins Diesel - Fabtech Lift Kit- Rebuilt Engine 5</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$17999</span>
+
+
+                <span class="result-hood"> (+ Victory Motors of Colorado II)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051134125">
+
+        <a href="https://denver.craigslist.org/rvd/d/mesa-ft-thor-axis-241-motorhome/7051134125.html" class="result-image gallery" data-ids="1:00e0e_gRRyVskjJP5,1:00V0V_2S8Lby9Ss9g,1:01212_1YFB6r9fNDo,1:00q0q_1T9Hl1UlxrS,1:00L0L_gzYVSCZ4OGm,1:00404_iLLcd1rRi1y,1:00Z0Z_7zIqZLDtCpd,1:01717_i24GrWEjCur,1:00a0a_bxE2vCFBDBj,1:00c0c_l1zOxJKbwqq,1:00k0k_4g2rPEeeDpx,1:00u0u_iyFdFYgpmCN,1:00G0G_ahCHcpjM7TT,1:00t0t_7AORXk0MAlb,1:00W0W_jphiCdn4tlo,1:00202_g2pk8wrnRb0,1:00N0N_7rzzYMPDyG8,1:00U0U_eJXxSzjYEFH,1:00d0d_aWbZDPl9JmH,1:00G0G_jtI3vOIIXdX,1:00s0s_9i1MGGX89h7,1:00I0I_lq5NxmY1IbF,1:00202_55CFV8w8VRw,1:00x0x_j4Csmgsg8en">
+                <span class="result-price">$62995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:38" title="Mon 06 Jan 03:38:51 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/rvd/d/mesa-ft-thor-axis-241-motorhome/7051134125.html" data-id="7051134125" class="result-title hdrlnk">2017 25ft Thor Axis 24.1 Motorhome</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$62995</span>
+
+
+                <span class="result-hood"> (Mesa)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051133714" data-repost-of="7049883148">
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2003-chevrolet-tahoe-lt-4x4/7051133714.html" class="result-image gallery" data-ids="1:00K0K_5pb4C6eyvFY,1:00f0f_h6IA2jxUXI9,1:00s0s_q8Ht7yd90p,1:00k0k_elsdpS0FQZM,1:00o0o_5oetWZeVtrN,1:00e0e_jKx07tXkx6,1:01414_7AQEuuecWFL,1:01515_4YXS7G6Tmzr,1:00000_ga1MHU7kUdP,1:00N0N_doIIJNK3UEv,1:01717_dtSHJ0jg5dU,1:00A0A_gMWNpmb9x5D,1:00t0t_fIdD9H82opr">
+                <span class="result-price">$3988</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:38" title="Mon 06 Jan 03:38:16 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2003-chevrolet-tahoe-lt-4x4/7051133714.html" data-id="7051133714" class="result-title hdrlnk">2003 CHEVROLET TAHOE LT 4X4</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3988</span>
+
+
+                <span class="result-hood"> (5280 IMPORTS)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051132502">
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2016-nissan-altima-w-backup-cam/7051132502.html" class="result-image gallery" data-ids="1:00E0E_k5kzIucHEGB,1:00Z0Z_7Obb1W7rsdn,1:00D0D_4w2k31jaOoE,1:00h0h_iwMFlCV3JH6,1:01212_4oPWmBxMXk4,1:01313_juYjTjPGUnQ,1:00707_hdBeZEf0ev1,1:00404_3sU9hQW0MzS,1:00000_iTT1EU41uuc,1:00Y0Y_gktG8h1pJCa,1:00u0u_3CD5DAcuRYr,1:00x0x_3o3sSpzmW0T,1:00Q0Q_du1i4nA0oGU,1:01212_g9R4k4UdfTP,1:00r0r_6KT4T2v4Awy,1:01010_ltR4Dykpgae,1:00s0s_hymrSMAUf7T,1:00Q0Q_997E1xAhj5E,1:00I0I_5ROswPoiPG5,1:00R0R_jng2YRgYS0O,1:00505_izu8WZ3uu9i,1:00Z0Z_5IOYusxT5Pq,1:00a0a_5pSzz4TAwTc,1:00l0l_eLgBa9MiRpb">
+                <span class="result-price">$11337</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:36" title="Mon 06 Jan 03:36:18 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2016-nissan-altima-w-backup-cam/7051132502.html" data-id="7051132502" class="result-title hdrlnk">2016 Nissan Altima  S w/BACKUP CAM S44548</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$11337</span>
+
+
+                <span class="result-hood"> (The Sharpest Rides)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051132351">
+
+        <a href="https://denver.craigslist.org/mcd/d/littleton-2019-can-am-spyder-f3/7051132351.html" class="result-image gallery" data-ids="1:00D0D_eICFprcpqht,1:00f0f_7BrTEqZYZyb">
+                <span class="result-price">$19962</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:36" title="Mon 06 Jan 03:36:13 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mcd/d/littleton-2019-can-am-spyder-f3/7051132351.html" data-id="7051132351" class="result-title hdrlnk">2019 Can-am Spyder F3</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$19962</span>
+
+
+                <span class="result-hood"> (Littleton co)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051131749">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2005-dodge-ram-pickup-1500/7051131749.html" class="result-image gallery" data-ids="1:00c0c_83CAUfAYNNE,1:00G0G_14jbsY9PKpY,1:00q0q_hjGyi4V1Ph8,1:00V0V_3PSBX5GraYl,1:00F0F_8FM8UocS662,1:01515_3E6sNcURTjo,1:00x0x_8F2GWANdvU4,1:01313_ljOIWetUNIT,1:00n0n_hAToAK6OC0R,1:00000_fH6mC6Gs77E,1:00808_1Pe9AosGBFi,1:00f0f_deqxzmPjM3K,1:01717_dEWpvKBekBa,1:01111_dVYxZFzkSrf,1:01616_gQSTwvHhzzy,1:00r0r_kvW4TWVX5CN,1:00J0J_3zMQR2aFpw,1:00j0j_8wDzLRVMrMl,1:00x0x_4gFo6sOyAXQ,1:00a0a_1ItxWviOwiT,1:00b0b_d8hDJj23LXJ,1:01616_6xF2tRNP3bs,1:01414_gISnHsXBrA1,1:00303_3k5FVvrNQyl">
+                <span class="result-price">$6900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:35" title="Mon 06 Jan 03:35:18 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2005-dodge-ram-pickup-1500/7051131749.html" data-id="7051131749" class="result-title hdrlnk">2005 Dodge Ram Pickup 1500</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6900</span>
+
+
+                <span class="result-hood"> (*2005* *Dodge* *Ram* *Pickup* *1500* **)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051131493">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2001-dodge-ram-pickup-1500/7051131493.html" class="result-image gallery" data-ids="1:00B0B_cjjLBo0jSZG,1:00o0o_9h1b4xN6GRG,1:00U0U_b74i8PkhdFg,1:00808_eGklyCyBYXN,1:00R0R_cM1GTkVKynU,1:00u0u_4idVEh65uQg,1:00j0j_cxxMeVE9kWo,1:00P0P_6iwrLVGGVf,1:00Z0Z_4XWM4uv6C4p,1:00r0r_cKeuafpwFPB,1:00Q0Q_erAxFhAXmtQ,1:00h0h_32w4z6xxx1I,1:00o0o_3q7Ql7Ghx0b,1:01111_3RxkJ1i3XfL,1:00T0T_6yxk7Ej9rDA,1:00C0C_a2Vu83p5vpG,1:00t0t_dp5vDWIT85R,1:00D0D_6fXmLmcbb8P,1:01111_6VuAzqJnJx8,1:00b0b_5K5NztkNpOf">
+                <span class="result-price">$6495</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:34" title="Mon 06 Jan 03:34:57 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2001-dodge-ram-pickup-1500/7051131493.html" data-id="7051131493" class="result-title hdrlnk">2001 Dodge Ram Pickup 1500</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6495</span>
+
+
+                <span class="result-hood"> (*2001* *Dodge* *Ram* *Pickup* *1500* **)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051131307">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2012-ford-250-super-duty-lariat/7051131307.html" class="result-image gallery" data-ids="1:00s0s_5e9hwJyGHvL,1:00C0C_dTWiCT3Jfcb,1:00L0L_dVJO5AKw5rQ,1:00r0r_fQggJoBXkyJ,1:00N0N_fbb3Fe8e5xK,1:00808_8WWJoiu9QYZ,1:00z0z_h6aN161PVBR,1:00606_cCV5wgV5l2L,1:00l0l_8jlYals2cft,1:01010_3VxMaUGcccm,1:00202_4iB9X9Wf1DO,1:00E0E_5UuWBSAVRjZ,1:00C0C_fEr2JxxvjM,1:00808_kSOjnX7xRRr,1:00R0R_ko4BrwhY2fk,1:00f0f_8ZMuPLuEeT7,1:00m0m_47Z2EIPWkf0,1:00l0l_5msOf3VmHyc,1:00808_bHKfsF3MkHL,1:00E0E_ai7OhXDbPM1,1:00303_FRoHTf79Fn,1:00Y0Y_2bDTFZMq1Uy,1:00m0m_3NsU2MGdam7,1:00e0e_7IFU8m2bevv">
+                <span class="result-price">$29900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:34" title="Mon 06 Jan 03:34:40 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2012-ford-250-super-duty-lariat/7051131307.html" data-id="7051131307" class="result-title hdrlnk">2012 Ford F-250 Super Duty Lariat</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$29900</span>
+
+
+                <span class="result-hood"> (*2012* *Ford* *F-250* *Super* *Duty* *Lariat*)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051131089">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2018-chevrolet-silverado/7051131089.html" class="result-image gallery" data-ids="1:00V0V_4E3Ukqo7NM,1:00s0s_kZC14amKrHd,1:01616_aia6085W1X2,1:00S0S_j9iEjOQsX52,1:00Y0Y_fDuFIcvNWhd,1:00j0j_cpScBOYodU9,1:00h0h_axEXfdkIIXf,1:00U0U_f8iuu2k4Vn6,1:00Z0Z_52sPYXrnl3g,1:00x0x_7DR5E3JnKsH,1:01717_ecPe8H6Gnuz,1:00q0q_4CnMfeFf7jN,1:00n0n_jbHRLEAY8ZD,1:00S0S_feSToysFAFO,1:00c0c_gq4IdeYpTx9,1:00S0S_ejeqIHAXyO1,1:00A0A_c4neKnv5w3z,1:00L0L_l3RdCJAkNm5,1:00U0U_1AMpnHRAlvL,1:00H0H_4gx0FQBvy2S,1:00S0S_igJmgoUznJS,1:00l0l_8VSFBwg4WsT,1:00606_bhnWeJtz6SS,1:00o0o_9ZZUbf0po4n">
+                <span class="result-price">$30900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:34" title="Mon 06 Jan 03:34:23 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2018-chevrolet-silverado/7051131089.html" data-id="7051131089" class="result-title hdrlnk">2018 Chevrolet Silverado 2500HD Crew Cab</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$30900</span>
+
+
+                <span class="result-hood"> (*2018* *Chevrolet* *Silverado* *2500HD* *Crew* *Cab*)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051130890">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2015-chevrolet-silverado/7051130890.html" class="result-image gallery" data-ids="1:00P0P_k4aLVW2FX1l,1:00Q0Q_8jeXm8Oxe3m,1:00b0b_81uwZpaVuN3,1:00e0e_adF4Ykq62Na,1:00p0p_a8FsAhKc3yr,1:01414_btXbTulBAQK,1:00S0S_k0WGXpuYi5G,1:00b0b_3Pn4TZx9Qaf,1:01111_5smla5q6TZK,1:01717_3lRPpHLNAMd,1:00W0W_6wkHdd5PvUf,1:00C0C_iquqvXGma0H,1:00S0S_iOSZ53NsVVj,1:00J0J_9pXI54krDi,1:00Z0Z_bOi4KJ5Qtic,1:00q0q_5Nr5BYXcrPh,1:00n0n_cdbLR46vdgu,1:00z0z_iYiIcGNCYu0,1:00T0T_3qq0PJaOnFM,1:00707_f0fq0zZTAUA,1:00r0r_5Qt0ILpmw8F,1:00H0H_1RWnTe23X7a,1:00000_edBgLn6JAgp,1:00d0d_cy0QdtwxJQr">
+                <span class="result-price">$15995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:34" title="Mon 06 Jan 03:34:03 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2015-chevrolet-silverado/7051130890.html" data-id="7051130890" class="result-title hdrlnk">2015 Chevrolet Silverado 2500HD Work Truck</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$15995</span>
+
+
+                <span class="result-hood"> (*2015* *Chevrolet* *Silverado* *2500HD* *Work* *Truck*)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051130811">
+
+        <a href="https://denver.craigslist.org/mcd/d/denver-2006-harley-davidson-vrod/7051130811.html" class="result-image gallery" data-ids="1:00202_f6ZetKNVNkX,1:00U0U_lBE8vsoAk0e">
+                <span class="result-price">$5995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:34" title="Mon 06 Jan 03:34:02 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/mcd/d/denver-2006-harley-davidson-vrod/7051130811.html" data-id="7051130811" class="result-title hdrlnk">2006 HARLEY DAVIDSON Vrod Nightrod</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5995</span>
+
+
+                <span class="result-hood"> (Lakewood)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051130620">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2008-toyota-tundra-sr5/7051130620.html" class="result-image gallery" data-ids="1:00S0S_75lC4EeeElf,1:00f0f_gkvytrRu42G,1:00d0d_fAh0v3goPZM,1:00S0S_gDVQSlXIybo,1:00P0P_dajqtMiFzbu,1:00101_8mVRRNOWsCo,1:00C0C_7KMWWbtnYsV,1:00N0N_6HI3yAPdB3L,1:00X0X_aTeINx0AMPy,1:00s0s_eVsTgqwKQcC,1:00y0y_gjthw7poFRe,1:01515_bVwKVbWmwHu,1:00B0B_iJtk1DwU28w,1:00q0q_lRE9QQxnZb0,1:01212_6rhqAhsN9NO,1:00404_fBLPMvnXHo3,1:00h0h_fmKQc7F0yr6,1:00p0p_f5zw5nMkszJ,1:00V0V_gaWcT7nGDPG,1:00R0R_aJ6hFxRdRvA,1:00X0X_a3bOe4IfQbo,1:00w0w_bLQHcaK9noo,1:00O0O_7oW3MmIg4qP,1:00Z0Z_iF63zBKrAsD">
+                <span class="result-price">$13800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:33" title="Mon 06 Jan 03:33:43 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2008-toyota-tundra-sr5/7051130620.html" data-id="7051130620" class="result-title hdrlnk">2008 Toyota Tundra SR5</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$13800</span>
+
+
+                <span class="result-hood"> (*2008* *Toyota* *Tundra* *SR5*)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051130256">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2014-ram-ram-pickup-1500/7051130256.html" class="result-image gallery" data-ids="1:00w0w_jw12bjQqCUJ,1:00S0S_eLRNYhB3Qwk,1:00L0L_lgoKH3EIROA,1:01414_dHBMgjG06NM,1:00n0n_kgp37ZRXU4c,1:00I0I_4VCXYx78cnc,1:00N0N_gj0DrtkLK3v,1:00l0l_1perlU0k8tB,1:00e0e_by7p5k7IBpk,1:00J0J_5icYyeRhOE3,1:00M0M_g3rAi84VlvP,1:00S0S_36v4q6yQzVG,1:00N0N_734fOicGSS4,1:00404_hrVYgWaAmgE,1:00A0A_2HGFNCaOute,1:00o0o_1ZmAnrWLT1l,1:00303_4vGbavJUCs4,1:00202_clM5757mf8A,1:00f0f_3lOp2v1vMSZ,1:00303_56krwACbqox,1:00e0e_8IXM19RM76O,1:00909_4tkN7qXlb8A,1:00a0a_MzN8ZXer9Q,1:00X0X_4UKZUQUs9i1">
+                <span class="result-price">$16995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:33" title="Mon 06 Jan 03:33:11 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2014-ram-ram-pickup-1500/7051130256.html" data-id="7051130256" class="result-title hdrlnk">2014 Ram Ram Pickup 1500 Tradesman</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$16995</span>
+
+
+                <span class="result-hood"> (*2014* *Ram* *Ram* *Pickup* *1500* *Tradesman*)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051130086">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-1999-ford-250-super-duty/7051130086.html" class="result-image gallery" data-ids="1:01010_d9Yvz3u0rd8,1:00W0W_kC6btCpuj4q,1:00I0I_gHOrTk1N8JT,1:00g0g_h1HCkzuno6P,1:00H0H_gqOZCcOTSNG,1:00101_giQjCOcGkhA,1:00p0p_NKKTW1hvyn,1:01111_bjJ8MyUuAu4,1:01111_3aC5L0j3PoB,1:00G0G_f9bKKdJR6or,1:00000_hkhWeBFoGa5,1:00y0y_dlLdd5VlHzJ,1:00U0U_gy6p4LRbJ9h,1:00R0R_2aFnUEJBB1C,1:00B0B_7pqvdjjv3x8,1:00e0e_jhYyI8gVvul,1:00A0A_1MVoIUpHBh,1:01515_l2pIwmDdBEE,1:00T0T_iMxktuJXOWe,1:00l0l_b3oEbrOL4Kr,1:00c0c_KU68R3AIGm,1:00k0k_bqcBLkLgZr2,1:00c0c_47TDMjp1pgr,1:00s0s_6P5KW9MG431">
+                <span class="result-price">$6995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:32" title="Mon 06 Jan 03:32:57 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-1999-ford-250-super-duty/7051130086.html" data-id="7051130086" class="result-title hdrlnk">1999 Ford F-250 Super Duty</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6995</span>
+
+
+                <span class="result-hood"> (*1999* *Ford* *F-250* *Super* *Duty* **)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051129883">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2004-ford-250-super-duty/7051129883.html" class="result-image gallery" data-ids="1:00808_DMlSzQyycB,1:01616_9AXWCFagksp,1:00E0E_V1seDjiopl,1:00t0t_7XetbivAVcF,1:00a0a_N2Wme9q0j1,1:00D0D_bBtHn3oNcsz,1:00000_c8kqebbgADq,1:00M0M_gBh0PwBirkc,1:00h0h_dMONRCXQcha,1:00e0e_875iuccFWGK,1:00k0k_f2dXneXgrKP,1:00404_apjJE9hne9g,1:01212_eWTvXdVQMYN,1:00O0O_eZV7cpkt63x,1:01616_bi1VUBMw39D,1:00w0w_9spierlcAsg,1:00X0X_ilsYFoMXh8s,1:00z0z_jrh0uNv0Ai8,1:00l0l_k28miuRWCPf,1:01111_7qA2HdYBApu,1:00Q0Q_9bnJngj5Qb6,1:00o0o_k7kDNCEiHME,1:00S0S_csfa02OTF4S">
+                <span class="result-price">$11995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:32" title="Mon 06 Jan 03:32:41 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2004-ford-250-super-duty/7051129883.html" data-id="7051129883" class="result-title hdrlnk">2004 Ford F-250 Super Duty</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$11995</span>
+
+
+                <span class="result-hood"> (*2004* *Ford* *F-250* *Super* *Duty* **)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051129706">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-1998-jeep-wrangler-sport/7051129706.html" class="result-image gallery" data-ids="1:00D0D_cxwjzI3uj34,1:00F0F_crbkCUPiVf6,1:00505_hk7ZSjKv1bJ,1:00202_iwTS51kenEK,1:00000_5UIFDYuFcDA,1:00m0m_1A5Hf4yxSbb,1:00J0J_5MaomFD8vbD,1:00J0J_dx0QvcH0fdx,1:00P0P_h2K7CtPIldu,1:00d0d_7wXXeQaxbTo,1:00m0m_bKdLgsjLw12,1:00505_2DWCtxubrlS,1:00V0V_abrk6xkNeBk,1:00y0y_2LwlKWHqUYN,1:00m0m_5ghuewugs4i,1:00000_aLBjMAbSVg4,1:00D0D_6zTTikmc3Uc,1:01111_l7puo0BY73D,1:00L0L_bPfxuZeFJ5c,1:00w0w_8oxYvJI0IZv,1:00q0q_6vTBp9zG6WH,1:00404_khPtaLHWPNy">
+                <span class="result-price">$9900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:32" title="Mon 06 Jan 03:32:24 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-1998-jeep-wrangler-sport/7051129706.html" data-id="7051129706" class="result-title hdrlnk">1998 Jeep Wrangler Sport</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$9900</span>
+
+
+                <span class="result-hood"> (*1998* *Jeep* *Wrangler* *Sport*)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051129448">
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2019-ram-wd-dodge-rebel-4x4-hemi/7051129448.html" class="result-image gallery" data-ids="1:00d0d_9rvfm23Fucb,1:00808_he9YF3wGFvc,1:00l0l_hYxaM7pNqjB,1:00606_heksFVYISHJ,1:01616_luBp17fpznS,1:00n0n_2Nz990O4yPZ,1:00909_2d7JaaT1LOD,1:00F0F_b2kXN7YPVPU,1:01212_ejton6QpCs5,1:00C0C_g6VekeLMUZZ,1:00Q0Q_bP3N7SLexMy,1:00A0A_byBYRhBBfoH,1:00q0q_iy5QJHYYNz5,1:00A0A_sDDkjPTtOP,1:00F0F_4SS7fJIu7e8,1:00f0f_eKMhLhxhlNy,1:00s0s_eSgsrPIyHc6,1:00f0f_9zKfZ59eBI,1:00g0g_bG6HZzBcZZX,1:00N0N_fVCyBSwnjm7,1:00n0n_aAc6ODAYvIl,1:00V0V_adlul25ekq6,1:01313_ksVMfsqI6TT,1:00l0l_eLgBa9MiRpb">
+                <span class="result-price">$39337</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:32" title="Mon 06 Jan 03:32:07 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2019-ram-wd-dodge-rebel-4x4-hemi/7051129448.html" data-id="7051129448" class="result-title hdrlnk">2019 Ram 1500 4WD Dodge Rebel 4X4 HEMI NAVI* BACKUP CAM* S43485</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$39337</span>
+
+
+                <span class="result-hood"> (The Sharpest Rides)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051129425">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2008-chevrolet-trailblazer/7051129425.html" class="result-image gallery" data-ids="1:01313_1GItWwHeie7,1:01313_hzTEScexqTE,1:00808_jVb8NtejVC3,1:00l0l_bdVIcQSlxbG,1:00a0a_6tTsoXDNPNb,1:00W0W_7QidRgtAQMt,1:00g0g_1c6Ejpgs0CL,1:01010_8bNx3BJEZDO,1:00X0X_8DGJGlUgNDB,1:00d0d_57Ae1UrQNSU,1:00101_fTXp7xKheZz,1:00g0g_Ilws4omMgD,1:00d0d_4uP2MD38jra,1:00z0z_aXdEkixpwPf,1:00b0b_22eXtffWWG6,1:00D0D_bJbMwRAVPED,1:00H0H_akfqxgeSCBH,1:00T0T_aRENYlhdAvq,1:00202_9azz3HDkA4Q,1:01717_129c2fL5q7H,1:00k0k_1z0V3ETm9SV,1:00f0f_bnW6Vw1tfWa,1:00A0A_7IA7rtkbMc6,1:01515_cgpxmVF8XOw">
+                <span class="result-price">$4995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:32" title="Mon 06 Jan 03:32:04 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2008-chevrolet-trailblazer/7051129425.html" data-id="7051129425" class="result-title hdrlnk">2008 Chevrolet TrailBlazer</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4995</span>
+
+
+                <span class="result-hood"> (*2008* *Chevrolet* *TrailBlazer* **)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051129339" data-repost-of="7048709541">
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2010-infiniti-g37-awd-leather/7051129339.html" class="result-image gallery" data-ids="1:00o0o_799ENis9dj2,1:00H0H_5B35ciEFtnM,1:00H0H_eq7l2tzQfE3,1:00606_bQF2s1nyqc6,1:00x0x_jEagvm0ryR7,1:00x0x_aK9jg9KHns8,1:00Y0Y_1nCeZfMYbI4,1:00404_hTR55tXMC19,1:00U0U_aaMnROSGNIs,1:00G0G_hxzQHqp64bB,1:00W0W_lJdTFTu0uGN,1:00S0S_2hDlsx7GlP6,1:00C0C_dsvokYfHbJw,1:01515_5fMAoWoqnda,1:00K0K_bOVz2PMXDnv,1:00O0O_f8rsGnKqvG2,1:00q0q_3affTm2YmjA,1:00Q0Q_6RV9wd6etDo,1:01616_5F9CgtoEN7N,1:00z0z_gRTQMQvZfpg,1:00n0n_d0Y2ji26B68">
+                <span class="result-price">$10999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:32" title="Mon 06 Jan 03:32:00 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/denver-2010-infiniti-g37-awd-leather/7051129339.html" data-id="7051129339" class="result-title hdrlnk">2010 Infiniti G37 X AWD Leather Navigation Backup Camera Xenon Lights</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$10999</span>
+
+
+                <span class="result-hood"> (Momentum Of Denver)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051129252">
+
+        <a href="https://denver.craigslist.org/ctd/d/longmont-2003-lexus-gx-470-3rd-row/7051129252.html" class="result-image gallery" data-ids="1:00M0M_4YwbS3zEDwq,1:00U0U_1HPGXASI8eg,1:00202_fN79pT3hQ2y,1:00e0e_5yitnRBH6uG,1:01616_kpB6PBXK6Nm,1:00404_jIgpbms6wyq,1:00k0k_PfN5EWOFvS,1:00x0x_lpbuITEWgos,1:00o0o_bzHMjjlHPku,1:00G0G_7BxTreSMqPY,1:00J0J_a3yEyrByyvK,1:00T0T_cIISLIy41yR,1:01616_4BbiwFhTfVd,1:00I0I_1AdJ0NqUjAk,1:00l0l_8zSfNG7ybHg,1:01212_ac7rFantvkP,1:00e0e_ieswsOZc5EN,1:00w0w_7WMQoP6tKal,1:01717_eAQe4dF5EuI,1:00q0q_6jeHtkTMUYQ,1:01010_5E7DWi3mAtp">
+                <span class="result-price">$13999</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:31" title="Mon 06 Jan 03:31:50 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/longmont-2003-lexus-gx-470-3rd-row/7051129252.html" data-id="7051129252" class="result-title hdrlnk">2003 Lexus GX 470 3rd Row Seating 3rd Row Seating - Over 500 Vehicles to Choose</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$13999</span>
+
+
+                <span class="result-hood"> (+ Victory Motors of Colorado)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051129170">
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2006-dodge-durango-slt/7051129170.html" class="result-image gallery" data-ids="1:00P0P_gFQN7lbhJ3i,1:00505_lUpt4WT6T8W,1:00W0W_khuIUp053cN,1:01414_dwcqaVM0kgs,1:00g0g_jp8urFwyF6L,1:00F0F_3xgTq3Y0AVj,1:00404_4ZoSUED9bve,1:00h0h_9bXQQdgTPKK,1:00c0c_2tsrEBMUh7Q,1:00g0g_5iVJhrlokhu,1:00D0D_hQbT2z121Zh,1:00n0n_5CTh9lSXJiB,1:00303_ldQ1Cgl3iqu,1:00n0n_6C1Lm1yHCCx,1:00r0r_hFZVqjVtB2G,1:00G0G_2yHTRdEYkxD,1:00P0P_97ubAxfjhNM,1:00S0S_2Ijjal7l8fD,1:00a0a_7vaO2IkGsA5,1:00c0c_keNHamwS1aC,1:01717_dVH7ZjxgJiN,1:00u0u_9PXrvGIEkyb,1:00y0y_c1B6HICfDy1,1:00U0U_6Kizh4QGJAl">
+                <span class="result-price">$1995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-06 15:31" title="Mon 06 Jan 03:31:42 PM">Jan  6</time>
+
+
+        <a href="https://denver.craigslist.org/ctd/d/brighton-2006-dodge-durango-slt/7051129170.html" data-id="7051129170" class="result-title hdrlnk">2006 Dodge Durango SLT ! Managers Special !</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1995</span>
+
+
+                <span class="result-hood"> (*2006* *Dodge* *Durango* *SLT* *!* *Managers* *Special*)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7051128937" data-repost-of="7027195361">
 
         <a href="https://denver.craigslist.org/ctd/d/denver-2011-chevrolet-colorado-ext-cab/7051128937.html" class="result-image gallery" data-ids="1:00t0t_eu8lLkky61Z,1:00z0z_9wwZ9YsoETM,1:00K0K_7uxHlDrdA9H,1:01414_6ZmiJzJzY6L,1:00y0y_kZsc63zRZ2j,1:00x0x_1LdaJwoWfi4,1:00303_kPcfcQjkjbP,1:00g0g_gmlWcCGtW16,1:00505_b6Uu6RhK2Pj,1:00e0e_3dQR6Q9dw4t,1:01616_ik5QLEiqQVu,1:00C0C_fvcp1yhj3tB,1:00O0O_b1CjXgaplsx,1:00R0R_l4eKh9FP7Vg,1:00H0H_8swWDqoXqhr,1:00a0a_j9eFAfXP4s0,1:00Q0Q_cWrBI6G3l2,1:00Q0Q_3vhK7YjHJzB,1:00M0M_cmhVfHrsmPy,1:00M0M_9k9LI9TaOel,1:00J0J_8IKagDLmDHK,1:00i0i_fhEhf4Gbhia">
                 <span class="result-price">$12999</span>
@@ -5748,845 +6588,6 @@ for sale by dealer
 
 
                 <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082742" data-repost-of="7033573882">
-
-        <a href="https://denver.craigslist.org/hsd/d/englewood-8-8-solid-wood-soft-close/7051082742.html" class="result-image gallery" data-ids="1:00H0H_lsE2LlgfAO,1:00y0y_413NyGkLLD9,1:00p0p_9V5TcdRdKN5,1:01616_d3vbmaDBXo4">
-                <span class="result-price">$1099</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:29" title="Mon 06 Jan 02:29:06 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/hsd/d/englewood-8-8-solid-wood-soft-close/7051082742.html" data-id="7051082742" class="result-title hdrlnk">★ 8 x 8 Solid Wood, Soft Close Kitchen Cabinets Package - Brand New!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1099</span>
-
-
-                <span class="result-hood"> (2645 S. Santa Fe Drive)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082240">
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2016-subaru-legacy-25i-sedan/7051082240.html" class="result-image gallery" data-ids="1:00B0B_i8ZcPW3b4Gk,1:00W0W_5fXfR85ox08,1:00r0r_jIiWkeNWv6D,1:00m0m_2Asai2bkNy1,1:00B0B_1YU26Z11tjQ,1:00m0m_a31F1DvjiHs,1:00f0f_lY424XHGLqX,1:00808_l3bnpLVrtPq,1:00v0v_6ftlheTyWsw,1:00R0R_jbtrU0yJrFO,1:00N0N_hiknVAKqLTP,1:00P0P_hBrMKPx555C,1:00a0a_6LwRAooQ8by,1:00707_fuk0IXaK6WB,1:00b0b_fuP94UHEvps,1:00N0N_xOkQpgKkYL,1:00o0o_7q6wWDnnKn7,1:00c0c_3CX7M4hJVFx,1:01212_dPeRXKw0RuX,1:00404_iC6DxqK3NR9,1:00202_lWMPbkUEhDG,1:00h0h_8M6NYfuU4Vs,1:00m0m_jN6bJBXUALe,1:00B0B_cfqQsRSvX3d">
-                <span class="result-price">$17697</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:56 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2016-subaru-legacy-25i-sedan/7051082240.html" data-id="7051082240" class="result-title hdrlnk">2016 Subaru Legacy 2.5i sedan Venetian Red Pearl</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$17697</span>
-
-
-                <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082210">
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2015-honda-civic-ex-sedan/7051082210.html" class="result-image gallery" data-ids="1:00D0D_4D9IjQAMbl7,1:00e0e_iAhp0khVwhD,1:01515_d8vxY9tFCLD,1:00K0K_iqY0JnEoyZd,1:00E0E_i66DCPqWvis,1:00W0W_8U1plVO68xU,1:00Z0Z_iNQaD2Yqj8W,1:00707_7OFP2QyXkcs,1:01414_8GnFtsCwTVv,1:00k0k_i0q6PcJyTDJ,1:00j0j_z9j5UmVM0g,1:00j0j_eQ9IsbpegmT,1:00S0S_UgmcfhmkqD,1:01515_fDwTDsHQ1LA,1:00606_8iAlKANYNqZ,1:00X0X_3TN4p3r5ft2,1:01414_lIkx5fbSmVB,1:00S0S_31HxEcgFeMr,1:00R0R_4K251aMldd3,1:00h0h_9JAzGS62YpE,1:01313_8cugl04xrxD,1:00d0d_ir8P0j7lwGq,1:01616_k7mtAlNFXxw,1:00E0E_bBv0D2OQQ0h">
-                <span class="result-price">$14197</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:54 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2015-honda-civic-ex-sedan/7051082210.html" data-id="7051082210" class="result-title hdrlnk">2015 Honda Civic EX-L sedan White Orchid</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$14197</span>
-
-
-                <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082211">
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2014-subaru-outback-25i-suv/7051082211.html" class="result-image gallery" data-ids="1:00O0O_3lL0VcdU9xq,1:00S0S_iVol8NGVwtu,1:00z0z_ipuOnQXjhj8,1:00z0z_9Z2FoDmswxV,1:00O0O_cxtD58Oa2ax,1:01212_7lD8TUE8gkA,1:00Z0Z_bqtJpdqjcMz,1:00s0s_2dPNwh2AdVN,1:00i0i_7kB0UUtGRPl,1:00Y0Y_1ORD0feY1U8,1:00n0n_brkvpIGBJEA,1:00L0L_eZXZu2LXQST,1:00n0n_1Qnso8pN4dr,1:00T0T_2XbNVK8vgG,1:00909_hT7CjbcTRDY,1:00k0k_awcdeznNZ18,1:00F0F_3IVAix7aKLW,1:00606_igpGDzIndR2,1:00g0g_3dyWqmYfP8z,1:00V0V_7J0vfyNCiaz,1:00f0f_8f7PnUakdx5,1:00A0A_2r1vXN2SseY,1:00h0h_7AVY8pYrY6n,1:01717_bZ57rznWcHb">
-                <span class="result-price">$18097</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:54 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2014-subaru-outback-25i-suv/7051082211.html" data-id="7051082211" class="result-title hdrlnk">2014 Subaru Outback 2.5i suv carbide gray metallic</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$18097</span>
-
-
-                <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082212">
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2017-subaru-impreza-20i-sedan/7051082212.html" class="result-image gallery" data-ids="1:00A0A_gQ75hbNFtrX,1:01111_bUpk0PQEJnt,1:00707_bPESbHUuat4,1:00W0W_1MHB7DNF1X6,1:00F0F_g01Rj5Os8Mw,1:00101_5yWP2iVTsWt,1:00E0E_c4ne78D6DLj,1:00P0P_38tk06rRZtj,1:00202_l7RrqA7hdVC,1:01717_hfX6P76yJ5X,1:00O0O_fOmlMLZfjCv,1:00909_irX4vAkj0dB,1:00F0F_4TFx98iwgK4,1:01515_2ICokd30dj6,1:00p0p_eb1VVRYmT1a,1:00R0R_eATAWh7J3Re,1:00V0V_gNeygDi2BK3,1:00k0k_3RKGtECbV8x,1:00o0o_sHyO4avmaT,1:00T0T_htLPbQ79rEd,1:00W0W_2wHt8VSYoRG">
-                <span class="result-price">$14597</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:54 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2017-subaru-impreza-20i-sedan/7051082212.html" data-id="7051082212" class="result-title hdrlnk">2017 Subaru Impreza 2.0i sedan carbide gray metallic</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$14597</span>
-
-
-                <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082197">
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2015-subaru-outback-25i-suv/7051082197.html" class="result-image gallery" data-ids="1:00000_4nSOIfbSffu,1:00O0O_dEhksU22Rzv,1:00Y0Y_3l16fapUK2P,1:00M0M_1XzddRIGxPR,1:01717_C00VNXMx5u,1:00v0v_gfxCLv134wn,1:00y0y_4EkpBjUbk07,1:00Z0Z_139RSuTimeJ,1:00909_eZ0jTejWYwZ,1:00d0d_fqOVY2WPBxf,1:00o0o_kHmy4eWkTLp,1:00909_fNKPD1vJAvj,1:00C0C_1jCeMVthzf9,1:00U0U_1PEnL94zDBR,1:00R0R_9dD5JIO67VH,1:01717_5EXxQc3heVF,1:00B0B_gscSylMJq5k,1:00k0k_aZzEh6D0c2T,1:00d0d_4NUsNeO2EsF,1:00505_gDf4H4uvrNo,1:00O0O_1mV6JrwnU78,1:00c0c_75N2LGe7wZ7,1:01414_lWycFx063X7,1:00o0o_7ow4kB9AcKU">
-                <span class="result-price">$18397</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:53 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2015-subaru-outback-25i-suv/7051082197.html" data-id="7051082197" class="result-title hdrlnk">2015 Subaru Outback 2.5i suv Tungsten Metallic</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$18397</span>
-
-
-                <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082200">
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2014-subaru-outback-25i-suv/7051082200.html" class="result-image gallery" data-ids="1:00101_ctWBHQOmD04,1:01515_8TTGRFbwzlk,1:00000_2R5ax6O9pxw,1:01515_5VYJDNhZCnq,1:00404_fkTv8F3iAsf,1:00404_24PKD4pdpz2,1:00O0O_2lt7j7Od8Af,1:00E0E_1o161XLPiNe,1:01212_2xSDdfJIt4v,1:00t0t_fXnKIQyw0bf,1:00101_k2YsOWzBBLv,1:00A0A_1iQh3SV1TFp,1:00U0U_8FaGKxXlqQx,1:00p0p_2fP7kjk1dj,1:00u0u_bakbyBRUg4V,1:00303_5rQYfIley7r,1:00f0f_avYcJgkvfeS,1:00S0S_5wnx0umSbTF,1:00S0S_c0j9diBsS3X,1:00o0o_fPyHglyIN2u,1:00O0O_4H9Z5WrLu62,1:00T0T_3BwgjThC3Vd,1:00D0D_8UZkXIvaTR9,1:01212_2dYcKaGyBkx">
-                <span class="result-price">$17397</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:53 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2014-subaru-outback-25i-suv/7051082200.html" data-id="7051082200" class="result-title hdrlnk">2014 Subaru Outback 2.5i suv Venetian Red Pearl</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$17397</span>
-
-
-                <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082201">
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2016-toyota-4runner-sr5-suv/7051082201.html" class="result-image gallery" data-ids="1:00J0J_8NIwZV1BskY,1:00v0v_3kOfmjHjKhA,1:00n0n_lxM1FSYdNYL,1:00V0V_i5jOsjJ8Kbb,1:00W0W_iyP57no9laU,1:00303_2ISj30JfwwN,1:00h0h_1Vp95melT98,1:00l0l_9q6Gvt7XSet,1:00F0F_btyTTI8uPS8,1:00Q0Q_1xZiWdDt9UD,1:01212_bY3xw1eEgmU,1:00v0v_8M6qjbi1cEp,1:00i0i_4lVK3Z3kdI3,1:00o0o_erxmMOmZel3,1:01616_3ZW6YLsrLLx,1:00C0C_c7sH70EHXii,1:00c0c_6pTd0IJIeZI,1:00b0b_81iBoGTdsKe,1:00k0k_aA7oUeASSYc,1:00a0a_ca8bUs8Q76w,1:00p0p_9EULKKd8SQ0,1:00808_gjOYqaa20Rq,1:00D0D_5M3NJzCM3Sc">
-                <span class="result-price">$28097</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:53 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2016-toyota-4runner-sr5-suv/7051082201.html" data-id="7051082201" class="result-title hdrlnk">2016 Toyota 4Runner SR5 suv Classic Silver Metallic</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$28097</span>
-
-
-                <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082175">
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2018-nissan-frontier-pro/7051082175.html" class="result-image gallery" data-ids="1:00101_d57T1mIvQwm,1:00M0M_lihcTeospYv,1:00n0n_g8vNPKZYw9M,1:00O0O_8beqm19RfCz,1:00j0j_hOLpDeyvzYA,1:00m0m_6DS0nLxMxsa,1:00w0w_7QUIe05cGiU,1:00909_dyM4kc4ZcPB,1:01010_4YBedYXov5U,1:00Q0Q_g7QO73jS1Ad,1:00y0y_ef7aqHdrsYB,1:00f0f_gntZ6AUoUau,1:00R0R_cVh6SwZHRWr,1:00p0p_6HNSwpIdEZ6,1:00h0h_6I6AKiaLmRP,1:00r0r_12aPxjwruvB,1:00B0B_4nBLPGHIXsu,1:00f0f_lOT4Uzv43QT,1:00g0g_lnxyO7q19yC,1:00O0O_bsza95siFLL,1:00j0j_dVky7kfDaKg,1:00m0m_2eegY4t0sXT,1:00Q0Q_gCEszioEFXB,1:00D0D_aZRjlkwZwdr">
-                <span class="result-price">$25797</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:52 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2018-nissan-frontier-pro/7051082175.html" data-id="7051082175" class="result-title hdrlnk">2018 Nissan Frontier PRO pickup Glacier White</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$25797</span>
-
-
-                <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051082134">
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2018-subaru-crosstrek-20i/7051082134.html" class="result-image gallery" data-ids="1:00U0U_8AQywMRjSm3,1:00N0N_51Zas4IqBBM,1:00202_aDRSwcR6SMY,1:00X0X_5AqRIi2inCp,1:00303_hLTaGsh3ZhU,1:00G0G_e6iWCLog8jH,1:01313_8i44VlFMFfc,1:00T0T_jlk0QBDpEZr,1:00H0H_iTR3coggN9x,1:00k0k_j0oxSXfIZyg,1:01010_6av4foxyNac,1:00w0w_j9jfDEla7jq,1:00808_huRpcqgPm5D,1:00z0z_8VtBO33z9vd,1:00909_ZdO24pe3ZH,1:00j0j_7lAERolba1z,1:01313_5BdvihhBe8X,1:00y0y_aZM6PNwUKav,1:00M0M_bwn0fGcE6yD,1:01212_kgLyWgVJms7,1:01111_2Rrcfohl3x0,1:01515_8czUjYSIKDR">
-                <span class="result-price">$23697</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:28" title="Mon 06 Jan 02:28:20 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/longmont-2018-subaru-crosstrek-20i/7051082134.html" data-id="7051082134" class="result-title hdrlnk">2018 Subaru Crosstrek 2.0i Premium suv Dark Gray Metallic</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$23697</span>
-
-
-                <span class="result-hood"> (CALL 720-586-4445 FOR E-PRICE)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051081833" data-repost-of="7050762248">
-
-        <a href="https://denver.craigslist.org/sgd/d/castle-rock-just-brand-new-pool-table/7051081833.html" class="result-image gallery" data-ids="1:00Z0Z_a7APPds6HGc,1:00e0e_dX7Xz2gamDa,1:00Q0Q_3ZQU8IJwrpd,1:00E0E_2Rh6qOW4KHM,1:00j0j_lo9brDtqH3i,1:00r0r_3M7EhHKxDeN,1:01717_9YStmuVSXiu,1:00B0B_3GjgMSfF6c2,1:00q0q_co2VmiI2Ygf,1:00t0t_7tTTHSQi7fe">
-                <span class="result-price">$1399</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:27" title="Mon 06 Jan 02:27:59 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/sgd/d/castle-rock-just-brand-new-pool-table/7051081833.html" data-id="7051081833" class="result-title hdrlnk">JUST $1399 = BRAND NEW POOL TABLE @ WHOLESALE</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$1399</span>
-
-
-                <span class="result-hood"> (Parker and Denver Locations)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051080716">
-
-        <a href="https://denver.craigslist.org/tid/d/denver-celine-dion-tickets-prime/7051080716.html" class="result-image gallery" data-ids="1:01414_31zJ9PcDYOT,1:00404_7BNFeRC3f2l">
-                <span class="result-price">$0</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:26" title="Mon 06 Jan 02:26:29 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/tid/d/denver-celine-dion-tickets-prime/7051080716.html" data-id="7051080716" class="result-title hdrlnk">CELINE DION TICKETS ★ PRIME CONCERT TOUR ON SALE NOW AT MARK&#39;S TICKETS</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (VIP SEATS FLOOR LOWER LEVEL TOUR PRE SALE DISCOUNTED CHEAP)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                    <span class="pictag">img</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051080453" data-repost-of="7031490007">
-
-        <a href="https://denver.craigslist.org/grq/d/colorado-springs-10x-solid-oak-cabin/7051080453.html" class="result-image gallery" data-ids="1:00808_cJsXhUt3HrE,1:00h0h_liRMcsTR8n1,1:00S0S_7Mu89CAGUmo,1:00p0p_ijpgFtOYVYb,1:00707_9pl9i5LMkY9,1:00h0h_aVpzmUaP1iB,1:00N0N_6HNmKwiXwx8,1:00V0V_7uigX2BZKGD,1:00101_7c1QVfTc6ed,1:00q0q_kzNbZ1uwdXs,1:00t0t_lLdDq7ae7mi,1:00R0R_7hj4jKoF0HV,1:00H0H_gB4JaTMrxKP,1:00a0a_faX6MiKWHkQ,1:00202_8fxNvdQLV2n,1:01717_14mpbqyI8Gc,1:00F0F_6ZvOs0xLJk3,1:00g0g_cYhsLoFmEop,1:00606_3LwoNy4yRzV,1:00b0b_8lKK3SY3eRa,1:00H0H_cdvIw0S9ahG,1:00Z0Z_5XPX00nevnC,1:00909_7CTsr8XAVFH,1:00V0V_2XCHzRbCtSc">
-                <span class="result-price">$0</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:26" title="Mon 06 Jan 02:26:10 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/grq/d/colorado-springs-10x-solid-oak-cabin/7051080453.html" data-id="7051080453" class="result-title hdrlnk">10x20 100% Solid Oak Cabin - $17000 (Colorado Springs)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (Colorado Springs)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051079165">
-
-        <a href="https://denver.craigslist.org/ctd/d/denver-2006-mercedes-benz-slk-class/7051079165.html" class="result-image gallery" data-ids="1:00T0T_fRO8nynX0wt,1:01111_fm1Au6nnhDc,1:00O0O_2s7PgWjoojC,1:00F0F_5RIQXeXoMwy,1:01313_ieU5WhQCiMl,1:00y0y_7P8LDcBneno,1:00p0p_2V5P3K7atlT,1:00101_pGKQviENRt,1:00202_gIllDCnPzb2,1:00M0M_dccHBhc3Gdr,1:00H0H_kyFd3mnJyea,1:00404_1YhbCopjJ4w,1:00303_gnciRWWqw8K,1:00e0e_gxOfSk0mk9L,1:00k0k_j5WyFCoqCRY,1:00C0C_i1GGP7TG4fh,1:00w0w_iQNx25o7iLn,1:00O0O_24PWSyBN8cn,1:00J0J_3MbUoPK952t,1:00J0J_4p4IRa5WDLN,1:00G0G_kKWTv5zZR6R,1:00o0o_7Z5LDA2jrnh,1:00101_fTon3ij85pG,1:00l0l_eLgBa9MiRpb">
-                <span class="result-price">$11337</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:24" title="Mon 06 Jan 02:24:17 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/denver-2006-mercedes-benz-slk-class/7051079165.html" data-id="7051079165" class="result-title hdrlnk">2006 Mercedes-Benz SLK-Class  SLK280 HARD TOP S44008</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$11337</span>
-
-
-                <span class="result-hood"> (The Sharpest Rides)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051078571">
-
-        <a href="https://denver.craigslist.org/ctd/d/castle-rock-2002-dodge-grand-caravan/7051078571.html" class="result-image gallery" data-ids="1:01616_f5nW72V46xz,1:00z0z_kLURbL2F4b7,1:00R0R_emW8uehhllX,1:00m0m_jsDXmJfvwoN,1:00J0J_gtOKXGkn5V6,1:00808_hBbERSJT0T4,1:00202_75CuGNVW3dE,1:00u0u_gIqpGXX2qey,1:00808_6Z2zusQtehP,1:00404_4DeljgI10aD,1:00G0G_cvHCS3P5sq4,1:00505_3c44Fk65GO2,1:00404_54L1hM7744J,1:00909_3avscjzWu6v,1:00i0i_iMdENMzGtto,1:00o0o_72M2NTVQfP7,1:00v0v_9BAh76zoegq,1:00J0J_btPJrj6dhgo">
-                <span class="result-price">$3000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:23" title="Mon 06 Jan 02:23:29 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/castle-rock-2002-dodge-grand-caravan/7051078571.html" data-id="7051078571" class="result-title hdrlnk">2002 Dodge Grand Caravan Sport(Cherry Motors)</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$3000</span>
-
-
-                <span class="result-hood"> (Castle Rock)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051077242">
-
-        <a href="https://denver.craigslist.org/ctd/d/denver-2012-jeep-wrangler-we-finance/7051077242.html" class="result-image gallery" data-ids="1:00t0t_deg7yVvnx8R,1:01313_cLtnNL9csFV,1:00101_9N1QCvtnl4C,1:00808_cbsKIycCMuB,1:00w0w_aluRxc9AWBC,1:00l0l_3XbnBWnX7UB,1:00N0N_dSVtHkJrmtd,1:00L0L_lJblzARrC7S,1:00000_iUDtOQ7ormj,1:00606_btTnFbm2zmZ,1:00i0i_bBl3gDIjyD1,1:00M0M_iMJhPQXOO5w,1:00909_kndXfpSvQpi,1:00d0d_bK6iEgOkcYa,1:00404_6B1ldJQBaoj,1:00l0l_kKxuM6bjY28,1:00L0L_24LPtvoSMYe,1:00K0K_5VrTgnsijsd,1:00r0r_VRckE6a8w2,1:00i0i_eMCGHpXbmro,1:00q0q_bPtP4jO5AtL,1:00H0H_5HyMvUJvvkW">
-                <span class="result-price">$20997</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:21" title="Mon 06 Jan 02:21:28 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/denver-2012-jeep-wrangler-we-finance/7051077242.html" data-id="7051077242" class="result-title hdrlnk">2012 Jeep Wrangler - We Finance!</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$20997</span>
-
-
-                <span class="result-hood"> (+ Mazal Motors Inc)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051076790" data-repost-of="7009696469">
-
-        <a href="https://denver.craigslist.org/ctd/d/wheat-ridge-2016-ford-f350-super-lariat/7051076790.html" class="result-image gallery" data-ids="1:00l0l_gsrHgwr1H9F,1:00m0m_lSwxMbq8KIZ,1:01212_7kzRS8AHihv,1:00G0G_1GFu2izPk7A,1:00404_gIvlIuoRVuY,1:00j0j_d9xychdAdMX,1:00I0I_iN9lHyLp9Za,1:00T0T_3MBmemczy8b,1:01212_16uOtNAqUsZ,1:00u0u_egVrQaw7FYb,1:00b0b_3tvoxr0N6h3,1:00F0F_17eGHZtAxpa,1:00N0N_gPLxMnh1RHX,1:01010_eJNCcwQVBuV,1:00202_aKN8IhBiAcx,1:00f0f_eCdYymc4GKf,1:00R0R_css7K2HwjDj,1:00W0W_eorRHrir1k7">
-                <span class="result-price">$33599</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:21" title="Mon 06 Jan 02:21:17 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/wheat-ridge-2016-ford-f350-super-lariat/7051076790.html" data-id="7051076790" class="result-title hdrlnk">2016 Ford F350 SUPER Lariat diesel crew cab short box FX4</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$33599</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051075301">
-
-        <a href="https://denver.craigslist.org/ctd/d/denver-2017-mercedes-benz-class-all/7051075301.html" class="result-image gallery" data-ids="1:00r0r_e5WMe6rOfMP,1:01111_iiENKmzimd9,1:00j0j_jpiihVI9gzf,1:00r0r_fu9at8LVVaV,1:00o0o_9HfPMAts3dn,1:00N0N_hRIJfbd1VX4,1:00k0k_etf5AlWwwjf,1:00V0V_fITNLjOkoSU,1:00N0N_dF1byFj7SUQ,1:00y0y_f3rQLfVroCq,1:00P0P_ge9FqX7Atrb,1:00h0h_1zpSP4d635H,1:00606_bEMUQFCZHeL,1:00I0I_edcbe9GSdhu,1:00j0j_jdgfx68I7Ot,1:00P0P_kaUOWgZyFWN,1:00X0X_ihdcfpzNfhP,1:00V0V_bGDmv8tEeni,1:00N0N_hNUVQlkLZ5T,1:00s0s_9oXWBPzJI54,1:00j0j_h2fIw0DxNtJ,1:00R0R_fItPxGOB3r5,1:00f0f_injovv3UF68,1:00l0l_eLgBa9MiRpb">
-                <span class="result-price">$37337</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:18" title="Mon 06 Jan 02:18:45 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/denver-2017-mercedes-benz-class-all/7051075301.html" data-id="7051075301" class="result-title hdrlnk">2017 Mercedes-Benz C-Class All Wheel Drive C 300 C300 4MATIC AWD NAVI*</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$37337</span>
-
-
-                <span class="result-hood"> (The Sharpest Rides)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051073354">
-
-        <a href="https://denver.craigslist.org/grq/d/denver-100-units-wholesale-must-be/7051073354.html" class="result-image gallery" data-ids="1:01414_eSue35fUBIT,1:00J0J_jVQOEibfPm,1:00101_dkKVsumAnxO,1:00E0E_fmrPlUTypv1">
-                <span class="result-price">$130000</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:16" title="Mon 06 Jan 02:16:14 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/grq/d/denver-100-units-wholesale-must-be/7051073354.html" data-id="7051073354" class="result-title hdrlnk">100 Units Wholesale must be licensed and insured</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$130000</span>
-
-
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051071479" data-repost-of="6726856712">
-
-        <a href="https://denver.craigslist.org/msd/d/denver-vintage-conn-alto-saxophone/7051071479.html" class="result-image gallery" data-ids="1:00f0f_isfOk2BDm7f,1:00U0U_l4e8GyqKGIk,1:00G0G_kU6rw75MLnN,1:00C0C_5F8GNYKnq5w,1:00f0f_4Sb8Y7e9WeR,1:00U0U_aIXChEvdin8,1:00d0d_kMjc6hpFo7M,1:00f0f_lgYnLsA2aIH,1:00p0p_kSysiyDntbs,1:00606_4AyhKV4nUXB,1:00K0K_dRwJWhl6rxO,1:00606_7JrDZwrJ4KT,1:00s0s_bFyXAjd37tl,1:00D0D_5JtsaMR6rJW,1:00t0t_4ApvfyPOVZD,1:00303_9VAYOZYbJhM,1:00606_e5Ym6bWMUN2,1:00707_fTVCbvNdTv4,1:00K0K_15wBTJLBSZC,1:00606_buLfOdbu4WC,1:00W0W_3lzzggeyrGn,1:00F0F_78ijO5ylPsX,1:00W0W_agOlDCjnXz1,1:00q0q_arSVXosCGx8">
-                <span class="result-price">$225</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:13" title="Mon 06 Jan 02:13:49 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/msd/d/denver-vintage-conn-alto-saxophone/7051071479.html" data-id="7051071479" class="result-title hdrlnk">Vintage Conn Alto Saxophone **Gravity Music Gear**</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$225</span>
-
-
-                <span class="result-hood"> (Gravity Music Gear)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7051071505">
-
-        <a href="https://denver.craigslist.org/ctd/d/denver-2019-mitsubishi-outlander-all/7051071505.html" class="result-image gallery" data-ids="1:00z0z_fTSc6kcThSW,1:00j0j_aZcXmsizrvp,1:00v0v_dbZZ7VBMY8d,1:00X0X_6KCURhHimfa,1:00x0x_9XUzbEk6cpt,1:00l0l_etuvjfNcJXK,1:01717_fzpGC6dGz1b,1:00Y0Y_giTrmpnffnG,1:00707_7siamwIqli9,1:00y0y_3s8laR1owCL,1:00u0u_j9hvxyqnK4A,1:00d0d_gumBbCoV6RH,1:00q0q_85RG4s9xi5o,1:00S0S_axEsWDtlXIB,1:00K0K_f1yyGu9hQiW,1:00K0K_gazM0EyiV1l,1:00T0T_41tFqZfdpHV,1:00E0E_1b2Y9Mc1E7o,1:00H0H_b4tDe6ZzlgO,1:00W0W_eqJKINvESqm,1:01111_g3WBWqpMSxF,1:00404_imnHeyXp3TY,1:00B0B_YTYxDVG4zd,1:00l0l_eLgBa9MiRpb">
-                <span class="result-price">$20337</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 14:13" title="Mon 06 Jan 02:13:48 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/ctd/d/denver-2019-mitsubishi-outlander-all/7051071505.html" data-id="7051071505" class="result-title hdrlnk">2019 Mitsubishi Outlander All Wheel Drive SEL AWD LEATHER 3RD ROW AND</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$20337</span>
-
-
-                <span class="result-hood"> (The Sharpest Rides)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>

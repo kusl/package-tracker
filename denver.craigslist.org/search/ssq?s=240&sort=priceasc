@@ -286,7 +286,7 @@ for sale by dealer
                value="146" class="catcheck multi_checkbox"
                data-abb="ctd" id="cat_ctd"
                checked="checked">
-        <a href="/search/ctd?sort=priceasc" class="category">cars &amp; trucks</a> <span class="count">26271</span>
+        <a href="/search/ctd?sort=priceasc" class="category">cars &amp; trucks</a> <span class="count">26278</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -322,7 +322,7 @@ for sale by dealer
             <span class="linklike closed"><span class="plusminus">+</span>show 37 more</span>
             <span class="linklike open"><span class="plusminus">&ndash;</span>hide 37 more</span>
 
-            <span class="count">4388</span>
+            <span class="count">4389</span>
     </li>
 </ul>
 
@@ -332,7 +332,7 @@ for sale by dealer
                value="194" class="catcheck multi_checkbox"
                data-abb="hvd" id="cat_hvd"
                checked="checked">
-        <a href="/search/hvd?sort=priceasc" class="category">heavy equipment</a> <span class="count">577</span>
+        <a href="/search/hvd?sort=priceasc" class="category">heavy equipment</a> <span class="count">576</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -353,7 +353,7 @@ for sale by dealer
                value="174" class="catcheck multi_checkbox"
                data-abb="bfd" id="cat_bfd"
                checked="checked">
-        <a href="/search/bfd?sort=priceasc" class="category">business</a> <span class="count">419</span>
+        <a href="/search/bfd?sort=priceasc" class="category">business</a> <span class="count">420</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"
@@ -381,7 +381,7 @@ for sale by dealer
                value="184" class="catcheck multi_checkbox"
                data-abb="msd" id="cat_msd"
                checked="checked">
-        <a href="/search/msd?sort=priceasc" class="category">musical instruments</a> <span class="count">236</span>
+        <a href="/search/msd?sort=priceasc" class="category">musical instruments</a> <span class="count">237</span>
     </li>
     <li>
            <input type="checkbox" name="cat_id"

@@ -855,7 +855,7 @@ wanted - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1133</span>
+            <span class="totalcount">1130</span>
         </span>
 
         <a href="/search/wan?s=240&amp;sort=date" class="button next" title="next page">next &gt; </a>
@@ -891,7 +891,43 @@ wanted - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7050031998">
+                             <li class="result-row" data-pid="7050069573">
+
+        <a href="https://denver.craigslist.org/wan/d/denver-left-over-shingles/7050069573.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2020-01-04 20:19" title="Sat 04 Jan 08:19:27 PM">Jan  4</time>
+
+
+        <a href="https://denver.craigslist.org/wan/d/denver-left-over-shingles/7050069573.html" data-id="7050069573" class="result-title hdrlnk">Left over shingles</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$0</span>
+
+
+
+                <span class="result-tags">
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7050031998">
 
         <a href="https://denver.craigslist.org/wan/d/arvada-seeking-civil-attorney/7050031998.html" class="result-image gallery empty"></a>
 
@@ -4418,43 +4454,6 @@ wanted - by owner
         </span>
     </p>
 </li>
-         <li class="result-row" data-pid="7048712740">
-
-        <a href="https://denver.craigslist.org/wan/d/denver-duck-or-goose-eggs/7048712740.html" class="result-image gallery empty"></a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-02 17:35" title="Thu 02 Jan 05:35:10 PM">Jan  2</time>
-
-
-        <a href="https://denver.craigslist.org/wan/d/denver-duck-or-goose-eggs/7048712740.html" data-id="7048712740" class="result-title hdrlnk">DUCK OR GOOSE EGGS</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$0</span>
-
-
-                <span class="result-hood"> (DENVER)</span>
-
-                <span class="result-tags">
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
          <li class="result-row" data-pid="7034380358" data-repost-of="6806723586">
 
         <a href="https://denver.craigslist.org/wan/d/littleton-wanted-trackball-with-scroll/7034380358.html" class="result-image gallery empty"></a>
@@ -5471,7 +5470,7 @@ wanted - by owner
                 <span class="rangeTo">240</span>
             </span>
             /
-            <span class="totalcount">1133</span>
+            <span class="totalcount">1130</span>
         </span>
 
         <a href="/search/wan?s=240&amp;sort=date" class="button next" title="next page">next &gt; </a>
