@@ -899,7 +899,47 @@ tools - by owner
 </div>
 
                 <ul class="rows">
-                             <li class="result-row" data-pid="7033393097">
+                             <li class="result-row" data-pid="7031845536" data-repost-of="6684533226">
+
+        <a href="https://denver.craigslist.org/tls/d/aurora-bald-eagle-gloves/7031845536.html" class="result-image gallery" data-ids="1:00G0G_8lqbTkIiuPE,1:00N0N_71N1ahgrif">
+                <span class="result-price">$5</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-12-03 21:13" title="Tue 03 Dec 09:13:18 PM">Dec  3</time>
+
+
+        <a href="https://denver.craigslist.org/tls/d/aurora-bald-eagle-gloves/7031845536.html" data-id="7031845536" class="result-title hdrlnk">Bald Eagle Gloves</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5</span>
+
+
+                <span class="result-hood"> (I-70 &amp; Chambers)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="7033393097">
 
         <a href="https://denver.craigslist.org/tls/d/denver-pick-and-hook-set/7033393097.html" class="result-image gallery" data-ids="1:00808_4UcAg7A0jJh">
                 <span class="result-price">$5</span>
@@ -3010,6 +3050,46 @@ tools - by owner
         </span>
     </p>
 </li>
+         <li class="result-row" data-pid="6895683243">
+
+        <a href="https://denver.craigslist.org/tls/d/castle-rock-branch-limb-saw-and-hack-saw/6895683243.html" class="result-image gallery" data-ids="1:00v0v_8UEq9xwfScV">
+                <span class="result-price">$7</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-21 17:09" title="Fri 21 Jun 05:09:59 PM">Jun 21</time>
+
+
+        <a href="https://denver.craigslist.org/tls/d/castle-rock-branch-limb-saw-and-hack-saw/6895683243.html" data-id="6895683243" class="result-title hdrlnk">BRANCH/LIMB SAW and A HACK SAW</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$7</span>
+
+
+                <span class="result-hood"> (CASTLE ROCK)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
          <li class="result-row" data-pid="7006395064">
 
         <a href="https://denver.craigslist.org/tls/d/denver-gates-hydraulic-coupling-and/7006395064.html" class="result-image gallery empty"></a>
@@ -3906,6 +3986,45 @@ tools - by owner
 
 
                 <span class="result-hood"> (I-70 and Tower Rd.)</span>
+
+                <span class="result-tags">
+                    <span class="pictag">pic</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+         <li class="result-row" data-pid="6885373282" data-repost-of="6835775005">
+
+        <a href="https://denver.craigslist.org/tls/d/denver-glow-rods/6885373282.html" class="result-image gallery" data-ids="1:00l0l_cs116KFKi3Z">
+                <span class="result-price">$10</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2019-06-08 00:09" title="Sat 08 Jun 12:09:02 AM">Jun  8</time>
+
+
+        <a href="https://denver.craigslist.org/tls/d/denver-glow-rods/6885373282.html" data-id="6885373282" class="result-title hdrlnk">Glow Rods</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$10</span>
+
+
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
@@ -5540,126 +5659,6 @@ tools - by owner
 
 
                 <span class="result-hood"> (E Mississippi and S Monaco)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7034589292" data-repost-of="6970505920">
-
-        <a href="https://denver.craigslist.org/tls/d/castle-rock-imperial-tube-cutter-to-5-8/7034589292.html" class="result-image gallery" data-ids="1:00A0A_dEji05QNIFJ,1:00d0d_7auwWNWnUiO">
-                <span class="result-price">$10</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2020-01-06 16:30" title="Mon 06 Jan 04:30:35 PM">Jan  6</time>
-
-
-        <a href="https://denver.craigslist.org/tls/d/castle-rock-imperial-tube-cutter-to-5-8/7034589292.html" data-id="7034589292" class="result-title hdrlnk">Imperial Tube Cutter - 1/8&quot; to 5/8&quot;</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10</span>
-
-
-                <span class="result-hood"> (Castle Rock)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7034601670" data-repost-of="6986078217">
-
-        <a href="https://denver.craigslist.org/tls/d/denver-tool-boxes/7034601670.html" class="result-image gallery" data-ids="1:00V0V_e5xw5xPlZRN,1:00k0k_kvambHSzvKD,1:00U0U_dFM0OssWdhE,1:00y0y_32GgMIHywaG,1:00h0h_l3kVL2D971Z">
-                <span class="result-price">$10</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-08 10:24" title="Sun 08 Dec 10:24:59 AM">Dec  8</time>
-
-
-        <a href="https://denver.craigslist.org/tls/d/denver-tool-boxes/7034601670.html" data-id="7034601670" class="result-title hdrlnk">Tool Boxes</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10</span>
-
-
-                <span class="result-hood"> (Denver)</span>
-
-                <span class="result-tags">
-                    <span class="pictag">pic</span>
-                </span>
-
-                <span class="banish icon icon-trash" role="button">
-                    <span class="screen-reader-text">hide this posting</span>
-                </span>
-
-            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
-            <a href="#" class="restore-link">
-                <span class="restore-narrow-text">restore</span>
-                <span class="restore-wide-text">restore this posting</span>
-            </a>
-
-        </span>
-    </p>
-</li>
-         <li class="result-row" data-pid="7034676333">
-
-        <a href="https://denver.craigslist.org/tls/d/englewood-knipex-875-ear-clamp-pliers/7034676333.html" class="result-image gallery" data-ids="1:00v0v_g3kMu7V0Hnh">
-                <span class="result-price">$10</span>
-        </a>
-
-    <p class="result-info">
-        <span class="icon icon-star" role="button">
-            <span class="screen-reader-text">favorite this post</span>
-        </span>
-
-            <time class="result-date" datetime="2019-12-08 12:21" title="Sun 08 Dec 12:21:33 PM">Dec  8</time>
-
-
-        <a href="https://denver.craigslist.org/tls/d/englewood-knipex-875-ear-clamp-pliers/7034676333.html" data-id="7034676333" class="result-title hdrlnk">Knipex 8.75&quot; ear clamp pliers</a>
-
-
-        <span class="result-meta">
-                <span class="result-price">$10</span>
-
-
-                <span class="result-hood"> (Stonegate)</span>
 
                 <span class="result-tags">
                     <span class="pictag">pic</span>
